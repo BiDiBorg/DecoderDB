@@ -1,0 +1,53 @@
+{
+    "decoder": {
+        "specifications": {
+            "dimensions": {
+                "length": 23.5,
+                "width": 15.5,
+                "height": 5.5
+            },
+            "electrical": {
+                "maxTotalCurrent": 1.4,
+                "maxMotorCurrent": 1.1,
+                "maxVoltage": 40.0
+            },
+            "connectors": {
+                "list": "NEM651+Cable;NEM652+Cable;MTC21RCN-121"
+            }
+        },
+        "images": [
+            {
+                "name": "LokPilotV30_52610.jpg",
+                "source": "https://www.decoderdb.de/fileadmin/media/Hersteller/151/images/LokPilotV30_52610.jpg",
+                "lastModified": "2025-02-15T21:21:43",
+                "copyright": "ESU"
+            },
+            {
+                "name": "LokPilotV30_52612.jpg",
+                "source": "https://www.decoderdb.de/fileadmin/media/Hersteller/151/images/LokPilotV30_52612.jpg",
+                "lastModified": "2025-02-15T21:21:43",
+                "copyright": "ESU"
+            },
+            {
+                "name": "LokPilotV30_52614.jpg",
+                "source": "https://www.decoderdb.de/fileadmin/media/Hersteller/151/images/LokPilotV30_52614.jpg",
+                "lastModified": "2025-02-15T21:21:43",
+                "copyright": "ESU"
+            }
+        ],
+        "name": "LokPilot V3.0",
+        "type": 0,
+        "manufacturerId": 151,
+        "manufacturerExtendedId": 0,
+        "typeIds": "33554460;33554470;33554473",
+        "articleNumbers": "52610;52612;52614",
+        "decoderDBLink": "https://www.decoderdb.de/?decoderPage=182"
+    },
+    "version": {
+        "createdBy": "DecoderDB",
+        "creatorLink": "https://www.decoderdb.de",
+        "author": "Stephan Bauer",
+        "lastUpdate": "2020-08-21T17:06:57",
+        "created": "2020-04-13T00:00:00.000"
+    }
+}
