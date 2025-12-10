@@ -1,0 +1,133 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name: Generate Repository
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main", "pipeline"]
+    paths:
+      - "repo/**"
+  pull_request:
+    branches: ["main"]
+
+concurrency:
+  group: ${{ github.head_ref ||  github.ref }}
+
+jobs:
+  build_with_image:
+    runs-on: ubuntu-latest
+    container: mcr.microsoft.com/dotnet/sdk:8.0
+    steps:
+      - uses: actions/checkout@v4
+      - name: save output to cache
+        id: cache-output
+        uses: actions/cache@v4
+        with:
+          path: Output
+          key: ${{ runner.os }}-output-${{ hashFiles('./src/**/*.cs') }}
+      - if: steps.cache-output.outputs.cache-hit != 'true'
+        name: build
+        run: dotnet build ./src/ --configuration Release
+
+  generate_repository_json:
+    needs: build_with_image
+    runs-on: ubuntu-latest
+    container: mcr.microsoft.com/dotnet/sdk:8.0
+    steps:
+      - uses: actions/checkout@v4
+      - name: "show file sizes"
+        run: |
+          #stat -c%s ./repo/repository.json
+          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/decoder/decoderDetails.json
+          stat -c%s ./repo/firmware/firmwareDetails.json
+      - name: restore output from cache
+        id: restore-output
+        uses: actions/cache@v4
+        with:
+          path: Output
+          key: ${{ runner.os }}-output-${{ hashFiles('./src/**/*.cs') }}
+          fail-on-cache-miss: true
+
+      - name: generate
+        if: steps.restore-output.outputs.cache-hit == 'true'
+        run: dotnet ./Output/Release/RepoGenerator/net8.0/org.bidib.DecoderDB.RepoGenerator.dll --repoPath ./repo/  --outputPath ./repo/ --baseUri ${{ vars.FICHTELBAHN_REPOURL }}
+      - name: "show file sizes"
+        run: |
+          #stat -c%s ./repo/repository.json
+          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/decoder/decoderDetails.json
+          stat -c%s ./repo/firmware/firmwareDetails.json
+          # stat -c%s repo/repository.xml
+          # stat -c%s repo/index.html
+      - name: save json to cache
+        id: cache-json
+        uses: actions/cache@v4
+        with:
+          path: |
+            #./repo/repository.json
+            ./repo/repository2.json
+            ./repo/decoder/decoderDetails.json
+            ./repo/firmware/firmwareDetails.json
+            # repo/repository.xml
+            # repo/index.html
+          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.decdb','./repo/**/*.json', '!./repo/repository.json', '!./repo/repository2.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
+      - name: "show file sizes"
+        run: |
+          #stat -c%s ./repo/repository.json
+          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/decoder/decoderDetails.json
+          stat -c%s ./repo/firmware/firmwareDetails.json
+          # stat -c%s repo/repository.xml
+          # stat -c%s repo/index.html
+      - name: "Upload Artifact"
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-file
+          path: |
+            #./repo/repository.json
+            ./repo/repository2.json
+            ./repo/decoder/decoderDetails.json
+            ./repo/firmware/firmwareDetails.json
+            # repo/repository.xml
+            # repo/index.html
+
+  deploy_json_to_ftp:
+    needs: generate_repository_json
+    runs-on: ubuntu-latest
+    container: mcr.microsoft.com/dotnet/sdk:8.0
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    steps:
+      - uses: actions/checkout@v4
+      - name: restore output from cache
+        id: restore-output
+        uses: actions/cache@v4
+        with:
+          path: |
+            #./repo/repository.json
+            ./repo/repository2.json
+            ./repo/decoder/decoderDetails.json
+            ./repo/firmware/firmwareDetails.json
+            # repo/repository.xml
+            # repo/index.html
+          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.decdb','./repo/**/*.json', '!./repo/repository.json', '!./repo/repository2.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
+          fail-on-cache-miss: true
+      - name: "show file sizes"
+        run: |
+          #stat -c%s ./repo/repository.json
+          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/decoder/decoderDetails.json
+          stat -c%s ./repo/firmware/firmwareDetails.json
+          # stat -c%s repo/repository.xml
+          # stat -c%s repo/index.html
+      - name: "upload to FTP"
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.FICHTELBAHN_HOST }}
+          username: ${{ secrets.FICHTELBAHN_USER }}
+          password: ${{ secrets.FICHTELBAHN_PW }}
+          local-dir: "./repo/"
+          server-dir: "./decoderDB/"
+          #options: "--depth-first --only-newer --parallel=10"
