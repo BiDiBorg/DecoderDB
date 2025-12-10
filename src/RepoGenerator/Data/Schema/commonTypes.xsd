@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.decoderdb.de/schema/commonTypes/1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.decoderdb.de/schema/commonTypes/1.2">
+	<!-- unsignedShort not null -->
+	<xs:simpleType name="unsignedShortNotNull">
+		<xs:restriction base="xs:unsignedShort">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="65535"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- Token not empty -->
+	<xs:simpleType name="tokenNotEmpty">
+		<xs:restriction base="xs:token">
+			<xs:minLength value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- possibleValuesList -->
+	<xs:simpleType name="rangeValues">
+		<xs:restriction base="xs:token">
+			<xs:pattern value="[0-9;-]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- CVType -->
+	<xs:simpleType name="CVTypeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="byte"/>
+			<xs:enumeration value="select"/>
+			<xs:enumeration value="signedByte"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- CVGroupType -->
+	<xs:simpleType name="CVGroupTypeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="list"/>
+			<xs:enumeration value="dccLongAddr"/>
+			<xs:enumeration value="dccSpeedCurve"/>
+			<xs:enumeration value="dccAccAddr"/>
+			<xs:enumeration value="int"/>
+			<xs:enumeration value="long"/>
+			<xs:enumeration value="matrix"/>
+			<xs:enumeration value="string"/>
+			<xs:enumeration value="dccAddrRG"/>
+			<xs:enumeration value="dccLongConsist"/>
+			<xs:enumeration value="rgbColor"/>
+			<xs:enumeration value="centesimalInt"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- CVMode -->
+	<xs:simpleType name="CVModeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="rw"/>
+			<xs:enumeration value="ro"/>
+			<xs:enumeration value="wo"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- CVUnit -->
+	<xs:simpleType name="UnitType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="sec"/>
+			<xs:enumeration value="min"/>
+			<xs:enumeration value="ms"/>
+			<xs:enumeration value="us"/>
+			<xs:enumeration value="%"/>
+			<xs:enumeration value="V"/>
+			<xs:enumeration value="m"/>
+			<xs:enumeration value="cm"/>
+			<xs:enumeration value="mm"/>
+			<xs:enumeration value="km/h"/>
+			<xs:enumeration value="°C"/>
+			<xs:enumeration value="kw"/>
+			<xs:enumeration value="t"/>
+			<xs:enumeration value="mm/s"/>
+			<xs:enumeration value="rad/s"/>
+			<xs:enumeration value="mA"/>
+			<xs:enumeration value="Ohm"/>
+			<xs:enumeration value="mOhm"/>
+			<xs:enumeration value="Hz"/>
+			<xs:enumeration value="kHz"/>
+			<xs:enumeration value="rpm"/>
+			<xs:enumeration value="rpm/V"/>
+			<xs:enumeration value="h"/>
+			<xs:enumeration value="-"/>
+			<xs:enumeration value="dBm"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- DecoderType -->
+	<xs:simpleType name="DecoderTypeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="loco"/>
+			<xs:enumeration value="loco-sound"/>
+			<xs:enumeration value="function"/>
+			<xs:enumeration value="car"/>
+			<xs:enumeration value="car-sound"/>
+			<xs:enumeration value="susi"/>
+			<xs:enumeration value="susi-sound"/>
+			<xs:enumeration value="standardAccessory"/>
+			<xs:enumeration value="extendedAccessory"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- ProtocolName -->
+	<xs:simpleType name="ProtocolTypeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="dcc"/>
+			<xs:enumeration value="mm"/>
+			<xs:enumeration value="mfx"/>
+			<xs:enumeration value="sx"/>
+			<xs:enumeration value="sx2"/>
+			<xs:enumeration value="susi"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- Detection -->
+	<xs:complexType name="DetectionType">
+		<xs:choice minOccurs="1" maxOccurs="unbounded">
+			<xs:element ref="conditions"/>
+			<xs:element ref="cv"/>
+			<xs:element ref="cvGroup"/>
+		</xs:choice>
+		<xs:attribute name="type" type="DetectionTypeType" use="required"/>
+		<xs:attribute name="indexHigh" type="xs:unsignedShort" use="optional"/>
+		<xs:attribute name="indexLow" type="xs:unsignedShort" use="optional"/>
+		<xs:attribute name="displayFormat" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="value" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="valueName" type="tokenNotEmpty" use="optional"/>
+	</xs:complexType>
+
+
+	<!-- DetectionType -->
+	<xs:simpleType name="DetectionTypeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="manufacturerId"/>
+			<xs:enumeration value="manufacturerExtendedId"/>
+			<xs:enumeration value="decoderId"/>
+			<xs:enumeration value="firmwareVersion"/>
+			<xs:enumeration value="serialNumber"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+    <!-- CVGroupTypeOptions -->
+    <xs:simpleType name="CVGroupTypeOptions">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="bitList"/>
+            <xs:enumeration value="bitListSort"/>
+            <xs:enumeration value="greater"/>
+            <xs:enumeration value="greaterEqual"/>
+            <xs:enumeration value="less"/>
+            <xs:enumeration value="lessEqual"/>
+            <xs:enumeration value="switchRowCol"/>
+            <xs:enumeration value="reverseRow"/>
+            <xs:enumeration value="reverseCol"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- itemType -->
+    <xs:simpleType name="ValueCalculationItemType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="constant"/>
+            <xs:enumeration value="operator"/>
+            <xs:enumeration value="bracket"/>
+            <xs:enumeration value="self"/>
+            <xs:enumeration value="cv"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- operatorType -->
+    <xs:simpleType name="operatorType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="+"/>
+            <xs:enumeration value="-"/>
+            <xs:enumeration value="*"/>
+            <xs:enumeration value="/"/>
+            <xs:enumeration value="\"/>
+            <xs:enumeration value="%"/>
+            <xs:enumeration value="and"/>
+            <xs:enumeration value="or"/>
+            <xs:enumeration value="not"/>
+            <xs:enumeration value="^"/>
+            <xs:enumeration value="shl"/>
+            <xs:enumeration value="shr"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- itemValueTypes -->
+    <xs:simpleType name="itemValueTypes">
+        <xs:union memberTypes="xs:decimal operatorType"/>
+    </xs:simpleType>
+
+    <!-- SemicolonNumberList -->
+	<xs:simpleType name="SemicolonNumberList">
+		<xs:restriction base="xs:token">
+			<xs:pattern value="[0-9;.]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- Description -->
+	<xs:complexType name="DescriptionType" mixed="true">
+		<xs:attribute name="language" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="text" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="help" type="xs:token" use="optional"/>
+	</xs:complexType>
+	<xs:element name="description" type="DescriptionType"/>
+	<!-- Version -->
+	<xs:complexType name="VersionType">
+		<xs:attribute name="createdBy" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="creatorLink" type="xs:anyURI" use="optional"/>
+		<xs:attribute name="author" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="lastUpdate" type="dateAndTime" use="required"/>
+		<xs:attribute name="created" type="xs:date" use="optional"/>
+	</xs:complexType>
+
+	<xs:simpleType name="dateAndTime">
+		<xs:union memberTypes="xs:dateTime xs:date"/>
+	</xs:simpleType>
+	<!-- CV -->
+	<xs:complexType name="CVType">
+		<xs:sequence>
+			<xs:element ref="valueCalculation" minOccurs="0" maxOccurs="1"/>
+			<xs:element ref="description" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="image" minOccurs="0" maxOccurs="1"/>
+			<xs:element ref="conditions" minOccurs="0" maxOccurs="1"/>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="bit"/>
+				<xs:element ref="bitSelection"/>
+				<xs:element ref="partial"/>
+				<xs:element ref="group"/>
+			</xs:choice>
+		</xs:sequence>
+		<xs:attribute name="id" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="number" type="xs:unsignedShort" use="required"/>
+		<xs:attribute name="type" type="CVTypeType" use="optional"/>
+		<xs:attribute name="indexHigh" type="xs:unsignedByte" use="optional"/>
+		<xs:attribute name="indexLow" type="xs:unsignedByte" use="optional"/>
+		<xs:attribute name="mode" type="CVModeType" use="required"/>
+		<xs:attribute name="defaultValue" type="xs:unsignedByte" use="optional"/>
+		<xs:attribute name="pomWriteExclude" type="xs:boolean" use="optional"/>
+		<xs:attribute name="initialRead" type="xs:boolean" use="optional"/>
+		<xs:attribute name="possibleValues" type="rangeValues" use="optional"/>
+		<xs:attribute name="isCustom" type="xs:boolean" use="optional"/>
+	</xs:complexType>
+	<xs:element name="cv" type="CVType"/>
+	<!-- valueCalculation -->
+	<xs:complexType name="ValueCalculationType">
+		<xs:sequence>
+			<xs:element ref="item" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element ref="specialValue" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="unit" type="UnitType" use="optional"/>
+		<xs:attribute name="digits" use="optional">
+			<xs:simpleType>
+				<xs:restriction base="xs:unsignedByte">
+					<xs:minInclusive value="1"/>
+					<xs:maxInclusive value="3"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:complexType>
+	<xs:element name="valueCalculation" type="ValueCalculationType"/>
+
+	<!-- item -->
+	<xs:complexType name="ItemType" mixed="true">
+		<xs:sequence>
+			<xs:element ref="item" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="type" type="ValueCalculationItemType" use="required"/>
+		<xs:attribute name="value" type="itemValueTypes" use="optional"/>
+		<xs:attribute name="number" type="xs:unsignedShort" use="optional"/>
+		<xs:attribute name="indexHigh" type="xs:unsignedByte" use="optional"/>
+		<xs:attribute name="indexLow" type="xs:unsignedByte" use="optional"/>
+	</xs:complexType>
+	<xs:element name="item" type="ItemType"/>
+
+	<!-- specialValue -->
+	<xs:complexType name="SpecialValueType" mixed="true">
+		<xs:sequence>
+			<xs:element ref="description" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="value" type="xs:long" use="required"/>
+	</xs:complexType>
+	<xs:element name="specialValue" type="SpecialValueType"/>
+	<!-- conditions -->
+	<xs:complexType name="ConditionsType">
+		<xs:sequence>
+			<xs:element ref="trigger" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="conditions" type="ConditionsType"/>
+	<!-- trigger -->
+	<xs:complexType name="TriggerType">
+		<xs:sequence>
+			<xs:element ref="condition" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="value" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="target" type="tokenNotEmpty" use="optional"/>
+	</xs:complexType>
+	<xs:element name="trigger" type="TriggerType"/>
+	<!-- condition -->
+	<xs:complexType name="ConditionType">
+		<xs:sequence>
+			<xs:element ref="condition" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="type" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="operation" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="cv" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="indexHigh" type="xs:unsignedByte" use="optional"/>
+		<xs:attribute name="indexLow" type="xs:unsignedByte" use="optional"/>
+		<xs:attribute name="selection" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="value" type="tokenNotEmpty" use="optional"/>
+	</xs:complexType>
+	<xs:element name="condition" type="ConditionType"/>
+
+	<!-- Bit -->
+	<xs:complexType name="BitType">
+		<xs:sequence>
+			<xs:element ref="description" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="number" type="xs:unsignedByte" use="required"/>
+		<xs:attribute name="value" type="xs:unsignedByte" use="optional"/>
+	</xs:complexType>
+	<xs:element name="bit" type="BitType"/>
+	<!-- BitSelection -->
+	<xs:complexType name="BitSelectionType">
+		<xs:sequence>
+			<xs:element ref="option" minOccurs="2" maxOccurs="2"/>
+		</xs:sequence>
+		<xs:attribute name="number" type="xs:unsignedByte" use="required"/>
+		<xs:attribute name="value" type="xs:unsignedByte" use="optional"/>
+	</xs:complexType>
+	<xs:element name="bitSelection" type="BitSelectionType"/>
+	<!-- Partial -->
+	<xs:complexType name="PartialType">
+		<xs:sequence>
+			<xs:element ref="valueCalculation" minOccurs="0" maxOccurs="1"/>
+			<xs:element ref="description" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="number" type="xs:unsignedShort" use="required"/>
+		<xs:attribute name="possibleValues" type="rangeValues" use="required"/>
+		<xs:attribute name="reset" type="xs:boolean" use="optional"/>
+		<xs:attribute name="disableOther" type="xs:boolean" use="optional"/>
+		<xs:attribute name="multiply" type="xs:unsignedByte" use="optional"/>
+	</xs:complexType>
+	<xs:element name="partial" type="PartialType"/>
+
+	<!-- Group -->
+	<xs:complexType name="GroupType">
+		<xs:sequence minOccurs="0">
+			<xs:element ref="description" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:choice minOccurs="1" maxOccurs="unbounded">
+				<xs:element ref="option"/>
+			</xs:choice>
+		</xs:sequence>
+		<xs:attribute name="number" type="xs:unsignedByte" use="required"/>
+	</xs:complexType>
+	<xs:element name="group" type="GroupType"/>
+
+	<!-- Option -->
+	<xs:complexType name="OptionType">
+		<xs:sequence>
+			<xs:element ref="description" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="value" type="xs:unsignedByte" use="required"/>
+		<xs:attribute name="reset" type="xs:boolean" use="optional"/>
+		<xs:attribute name="disableOther" type="xs:boolean" use="optional"/>
+	</xs:complexType>
+	<xs:element name="option" type="OptionType"/>
+	<!-- CVGroup -->
+	<xs:complexType name="CVGroupType">
+		<xs:choice minOccurs="1" maxOccurs="unbounded">
+			<xs:element ref="cv" minOccurs="1"/>
+			<xs:element ref="valueCalculation" minOccurs="0" maxOccurs="1"/>
+			<xs:element ref="description" minOccurs="0"/>
+			<xs:element ref="image" minOccurs="0" maxOccurs="1"/>
+			<xs:element ref="conditions" minOccurs="0" maxOccurs="1"/>
+		</xs:choice>
+		<xs:attribute name="id" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="type" type="CVGroupTypeType" use="required"/>
+		<xs:attribute name="defaultValue" type="xs:unsignedInt" use="optional"/>
+		<xs:attribute name="mode" type="CVModeType" use="optional"/>
+		<xs:attribute name="pomWriteExclude" type="xs:boolean" use="optional"/>
+		<xs:attribute name="possibleValues" type="rangeValues" use="optional"/>
+		<xs:attribute name="stringEncoding" type="tokenNotEmpty" use="optional"/>
+		<xs:attribute name="options" type="CVGroupTypeOptions" use="optional"/>
+		<xs:attribute name="isCustom" type="xs:boolean" use="optional"/>
+	</xs:complexType>
+	<xs:element name="cvGroup" type="CVGroupType"/>
+
+	<!-- Protocol -->
+	<xs:complexType name="ProtocolType">
+		<xs:attribute name="type" type="ProtocolTypeType" use="required"/>
+	</xs:complexType>
+
+	<!-- Images -->
+	<xs:complexType name="ImagesType">
+		<xs:sequence>
+			<xs:element ref="image" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="images" type="ImagesType"/>
+	<!-- Image -->
+	<xs:complexType name="ImageType">
+		<xs:attribute name="name" type="tokenNotEmpty" use="required"/>
+		<xs:attribute name="src" type="xs:anyURI" use="optional"/>
+		<xs:attribute name="lastModified" type="xs:dateTime" use="optional"/>
+		<xs:attribute name="fileSize" type="xs:unsignedInt" use="optional"/>
+		<xs:attribute name="sha1" type="xs:string" use="optional"/>
+		<xs:attribute name="copyright" type="xs:string" use="optional"/>
+	</xs:complexType>
+	<xs:element name="image" type="ImageType"/>
+
+
+</xs:schema>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns="http://www.bidib.org/schema/firmware" 
+	xmlns:firmware="http://www.bidib.org/schema/firmware" 
+	targetNamespace="http://www.bidib.org/schema/firmware" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.1">
+	
+    <xsd:simpleType name="VersionNumberType">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="\d{1,2}\.\d{1,2}\.\d{1,2}"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="ProtocolVersionType">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="\d{1}\.\d{1}"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="FirmwareStatusType">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="beta"/>
+            <xsd:enumeration value="stable"/>
+            <xsd:enumeration value="mandatory"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+	<xsd:complexType name="VersionInfoType">
+		<xsd:sequence>
+			<xsd:any minOccurs="0"/>
+		</xsd:sequence>
+		<xsd:attribute name="Version" type="xsd:string" use="required"/>
+		<xsd:attribute name="Lastupdate" type="xsd:string" use="required"/>
+		<xsd:attribute name="Author" type="xsd:string" use="required"/>
+		<xsd:attribute name="Pid" type="xsd:string" use="required"/>
+		<xsd:attribute name="Vendor" type="xsd:string" use="required"/>
+		<xsd:attribute name="Description" type="xsd:string" use="required"/>
+	</xsd:complexType>
+	<xsd:complexType name="DescriptionType">
+		<xsd:attribute name="Lang" type="xsd:string"/>
+		<xsd:attribute name="Text" type="xsd:string"/>
+	</xsd:complexType>
+    
+	<xsd:complexType name="FirmwareDefinitionType">
+		<xsd:sequence>
+			<xsd:element name="Node" type="firmware:NodeType" minOccurs="0" maxOccurs="unbounded"/>
+			<!-- deprecated, moved to DeviceNode -->
+            <xsd:element name="CvFilename" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="DefaultLabels" type="firmware:DefaultLabelsType" minOccurs="0" />
+		</xsd:sequence>
+        <xsd:attribute name="Version" type="firmware:VersionNumberType" use="optional"/>
+        <xsd:attribute name="Status" type="firmware:FirmwareStatusType" use="optional"/>
+        <xsd:attribute name="ProtocolVersion" type="firmware:ProtocolVersionType" />
+        <xsd:attribute name="RequiredMinVersion" type="firmware:VersionNumberType" use="optional"/>
+	</xsd:complexType>
+	<xsd:element name="Firmware">
+		<xsd:annotation>
+			<xsd:documentation>Firmware definition</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Version" type="firmware:VersionInfoType"/>
+				<xsd:element name="FirmwareDefinition" type="firmware:FirmwareDefinitionType" minOccurs="0" maxOccurs="1"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:complexType name="NodeType" abstract="true">
+		<xsd:sequence>
+			<xsd:element name="Nodetext" type="firmware:NodeTextType" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="Node" type="firmware:NodeType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+		<xsd:attribute name="Comment" type="xsd:string" use="optional"/>
+	</xsd:complexType>
+	<xsd:complexType name="SimpleNode">
+		<xsd:complexContent>
+			<xsd:extension base="NodeType">
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="DeviceNode">
+		<xsd:complexContent>
+			<xsd:extension base="NodeType">
+				<xsd:sequence>
+                    <xsd:element name="CvFilename" type="firmware:CvFileNameType" minOccurs="0" maxOccurs="1"/>
+		            <xsd:element name="DefaultLabels" type="firmware:DefaultLabelsType" minOccurs="0" />
+		            <xsd:element name="NodeImages" type="firmware:NodeImagesType" minOccurs="0" maxOccurs="1"/>
+				</xsd:sequence>
+				<xsd:attribute name="VID" type="xsd:string" />
+				<xsd:attribute name="EVID" type="xsd:string" />
+				<xsd:attribute name="PID" type="xsd:string" />
+				<xsd:attribute name="IsUpdate" type="xsd:boolean" use="optional" default="false"/>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="FirmwareNode">
+		<xsd:complexContent>
+			<xsd:extension base="NodeType">
+				<xsd:sequence>
+					<xsd:element name="Filename" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+				</xsd:sequence>
+				<xsd:attribute name="DestinationNumber" type="xsd:int" use="required" />
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="DefaultLabelsType">
+		<xsd:sequence>
+            <xsd:element name="DefaultLabelsFile" type="firmware:FilenameType" minOccurs="1" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="NodeTextType">
+		<xsd:attribute name="Lang" type="xsd:string"/>
+		<xsd:attribute name="Text" type="xsd:string"/>
+	</xsd:complexType>
+	<xsd:complexType name="FilenameType">
+		<xsd:attribute name="Lang" type="xsd:string"/>
+		<xsd:attribute name="Filename" type="xsd:string"/>
+	</xsd:complexType>
+	
+	<xsd:complexType name="CvFileNamesType">
+		<xsd:annotation>
+			<xsd:documentation>CvFileNames definition</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="CvFilename" type="firmware:CvFilenameType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="CvFilenameType">
+		<xsd:simpleContent>
+			<xsd:extension base="xsd:string">
+			</xsd:extension>
+		</xsd:simpleContent>
+	</xsd:complexType>
+	<xsd:complexType name="NodeImagesType">
+		<xsd:annotation>
+			<xsd:documentation>NodeImages definition</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="Image" type="ImageType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="ImageType">
+		<xsd:simpleContent>
+			<xsd:extension base="xsd:string">
+				<xsd:attribute name="format" type="xsd:string" use="optional"/>
+				<xsd:attribute name="qualifier" type="xsd:string" use="optional"/>
+			</xsd:extension>
+		</xsd:simpleContent>
+	</xsd:complexType>
+	
+</xsd:schema>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BiDiB SchemaVersion="1.3" xmlns="http://www.bidib.org/schema/bidib">
+	<Products>
+		<Product ManufacturerId="62" ProductTypeId="1" Name="Boot-Loader" >
+			<Documentation Language="en-US" Text="Boot-Loader" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Boot-Loader" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="160" Name="mc2" >
+			<Documentation Language="en-US" Text="Command Station, Interface, Booster" Description="Central station with BiDiB-Interface" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Zentrale, Interface" Description="Zentrale mit BiDiB-Interface" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="161" Name="virtual hub" >
+			<Documentation Language="en-US" Text="Virtual Hub" Description="Virtual hub for virtual nodes of the mc2" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Virtueller Hub" Description="Virtueller Hub für virtuelle Knoten der mc2" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="417" Name="s88 feedback" >
+			<Documentation Language="en-US" Text="S88 Bridge" Description="Interface for legacy s88 modules" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="S88 Brücke" Description="Anschluss für s88 Module" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="673" Name="mCan feedback" >
+			<Documentation Language="en-US" Text="mCan Bridge" Description="Interface for mCan modules" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="mCan Brücke" Description="Anschluss für mCan Module" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="929" Name="LocoNet feedback" >
+			<Documentation Language="en-US" Text="LocoNet Bridge" Description="Interface for LocoNet modules" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="LocoNet Brücke" Description="Anschluss für LocoNet Module" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="144" Name="Interface" >
+			<Documentation Language="en-US" Text="BiDiB-Interface with integrated s88 bridge" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="BiDiB-Interface mit integrierter s88-Brücke" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="145" Name="s88 Module" >
+			<Documentation Language="en-US" Text="16 channel s88 module" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="16fach s88 Modul" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="146" Name="Booster" >
+			<Documentation Language="en-US" Text="Booster with BiDiB" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Booster mit BiDiB Anbindung" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="147" Name="Hermes">
+			<Documentation Language="en-US" Text="Occupancy Detector, 8 channels, current sensing, railcom" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Rückmelder, 8 Kanäle, Belegtmelder mit railcom" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="148" Name="Artemis">
+			<Documentation Language="en-US" Text="BiDiB Hub" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="BiDiB Hub" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="149" Name="WD-34.BiDiB">
+			<Documentation Language="en-US" Text="Decoder for 4 turnouts with double-coil" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Decoder für 4 Weichen mit Doppelspulen-Antrieb" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="150" Name="SD-34.BiDiB">
+			<Documentation Language="en-US" Text="Decoder with 4 toggle for arbitrary load" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Decoder mit 4 Umschaltern für beliebige Verbraucher" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="403" Name="Hermes Bootloader">
+			<Documentation Language="en-US" Text="Bootloader only" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="151" Name="Multi-Decoder">
+			<Documentation Language="en-US" Text="Servo and turnout decoder" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Weichen und Servo-Decoder" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="152" Name="Multi-Decoder Version 2">
+			<Documentation Language="en-US" Text="Servo and turnout decoder" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Weichen und Servo-Decoder" Url="http://www.tams-online.de"/>
+		</Product>
+		<Product ManufacturerId="62" ProductTypeId="153" Name="WD-34.M.BiDiB">
+			<Documentation Language="en-US" Text="Decoder for 4 turnouts with motor control" Url="http://www.tams-online.de"/>
+			<Documentation Language="de-DE" Text="Decoder für 4 Weichen für motorische Antriebe" Url="http://www.tams-online.de"/>
+		</Product>
+	</Products>
+</BiDiB>

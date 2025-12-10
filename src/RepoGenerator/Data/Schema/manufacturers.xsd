@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.decoderdb.de/schema/manufacturers/1.1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ct="http://www.decoderdb.de/schema/commonTypes/1.2" targetNamespace="http://www.decoderdb.de/schema/manufacturers/1.1" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0">
+	<xs:import namespace="http://www.decoderdb.de/schema/commonTypes/1.2" schemaLocation="commonTypes.xsd"/>
+	<xs:annotation>
+		<xs:documentation>List of NMRA Manufacturers</xs:documentation>
+	</xs:annotation>
+	<!-- NMRAManufacturers -->
+	<xs:element name="manufacturersList">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="version" type="ManufacturersListVersionType"/>
+				<xs:element name="manufacturers" type="ManufacturersType"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!-- Version -->
+	<xs:complexType name="ManufacturersListVersionType">
+		<xs:complexContent>
+			<xs:extension base="ct:VersionType">
+				<xs:attribute name="nmraListDate" type="xs:date" use="required"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<!-- Manufacturers -->
+	<xs:complexType name="ManufacturersType">
+		<xs:sequence>
+			<xs:element name="manufacturer" type="ManufacturerType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="decoderDBLink" type="xs:anyURI" use="optional"/>
+	</xs:complexType>
+	<!-- Manufacturer -->
+	<xs:complexType name="ManufacturerType">
+		<xs:attribute name="id" type="xs:unsignedByte" use="required"/>
+		<xs:attribute name="extendedId" type="xs:unsignedShort" use="optional"/>
+		<xs:attribute name="name" type="ct:tokenNotEmpty" use="required"/>
+		<xs:attribute name="shortName" type="ct:tokenNotEmpty" use="required"/>
+		<xs:attribute name="country" type="ct:tokenNotEmpty" use="optional"/>
+		<xs:attribute name="url" type="xs:anyURI" use="optional"/>
+		<xs:attribute name="decoderDBLink" type="xs:anyURI" use="optional"/>
+	</xs:complexType>
+</xs:schema>

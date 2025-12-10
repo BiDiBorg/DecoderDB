@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RepoGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "--repoPath ..\\..\\..\\..\\repo\\ .  --outputPath ..\\..\\..\\ --saveJson false"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BiDiB SchemaVersion="1.3" xmlns="http://www.bidib.org/schema/bidib">
+  <Products>
+    <Product ManufacturerId="251" ProductTypeId="100" Name="ReadyRS Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="101" Name="ReadyRS Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="102" Name="ReadyRS Applikation" >
+      <Documentation Language="en-US" Text="RS-Bus Interface for 8 nodes each with 128 Occupancies" Url="http://www.fichtelbahn.de/readyrs_index.html"/>
+      <Documentation Language="de-DE" Text="RS-Bus Interface für 8 Knoten mit je 128 Belegtmelder" Url="http://www.fichtelbahn.de/readyrs_index.html"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="105" Name="ReadyHUB Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="106" Name="ReadyHUB Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="107" Name="ReadyHUB Applikation" >
+      <Documentation Language="en-US" Text="BiDiBus extension for further levels/devices" Url="http://www.fichtelbahn.de/readyhub_index.html"/>
+      <Documentation Language="de-DE" Text="BiDiBus Erweiterung für weitere Ebenen / Teilnehmer" Url="http://www.fichtelbahn.de/readyhub_index.html"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="110" Name="ReadyDMX Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="111" Name="ReadyDMX Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="112" Name="ReadyDMX Applikation" >
+      <Documentation Language="en-US" Text="DMX interface with 64 DMX channels" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="DMX-Interface mit 64 DMX-Kanälen" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="114" Name="ReadyDMX Applikation Liste" >
+      <Documentation Language="en-US" Text="DMX interface with 64 DMX channels with list" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="DMX-Interface mit 64 DMX-Kanälen über Liste" Url="http://www.fichtelbahn.de"/>
+    </Product>
+
+    <Product ManufacturerId="251" ProductTypeId="115" Name="ReadyBoost Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="116" Name="ReadyBoost Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="117" Name="ReadyBoost Applikation" >
+      <Documentation Language="en-US" Text="BiDiBus booster with 4A and global railcom detector" Url="http://www.fichtelbahn.de/readyboost_index.html"/>
+      <Documentation Language="de-DE" Text="BiDiBus Booster mit 4A und globalem RailCom-Detector" Url="http://www.fichtelbahn.de/readyboost_index.html"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="118" Name="ReadyBoost Prog Applikation" >
+      <Documentation Language="en-US" Text="BiDiBus booster with 4A and global railcom detector, local dcc generator" Url="http://www.fichtelbahn.de/readyboost_index.html"/>
+      <Documentation Language="de-DE" Text="BiDiBus Booster mit 4A und globalem RailCom-Detector, lokaler DCC-Generator" Url="http://www.fichtelbahn.de/readyboost_index.html"/>
+    </Product>	
+    <Product ManufacturerId="251" ProductTypeId="119" Name="ReadyBoost Gen Applikation" >
+      <Documentation Language="en-US" Text="BiDiBus booster with independent DCC generator (control center)" Url="http://www.fichtelbahn.de/readyboost_index.html"/>
+      <Documentation Language="de-DE" Text="BiDiBus Booster mit eigenständigen DCC-Generator (Zentrale)" Url="http://www.fichtelbahn.de/readyboost_index.html"/>
+    </Product>
+
+    <Product ManufacturerId="251" ProductTypeId="200" Name="ReadyLine StepControl Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="201" Name="ReadyLine StepControl Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="202" Name="ReadyLine StepControl Applikation" >
+      <Documentation Language="en-US" Text="BiDiBus Motor Drive Control for Stepper" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="BiDiBus Motorsteuerung für Schrittmotoren" Url="http://www.fichtelbahn.de"/>
+    </Product>	
+
+    <Product ManufacturerId="251" ProductTypeId="220" Name="ReadyServoTurn Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+	<Product ManufacturerId="251" ProductTypeId="221" Name="ReadyServoTurn Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="222" Name="ReadyServoTurn Applikation" >
+      <Documentation Language="en-US" Text="Servo decoder w/o frog polarization (4 servo, 4 relais, 4 input)" Url="http://www.fichtelbahn.de/readyservoturn_index.html"/>
+      <Documentation Language="de-DE" Text="Servo-Decoder mit/ohne Herzstückpolarisation (4 Servo, 4 Relais, 4x Eingänge)" Url="http://www.fichtelbahn.de/readyservoturn_index.html"/>
+    </Product>
+
+    <Product ManufacturerId="251" ProductTypeId="225" Name="ReadyMagnet Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+	<Product ManufacturerId="251" ProductTypeId="226" Name="ReadyMagnet Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="227" Name="ReadyMagnet Applikation" >
+      <Documentation Language="en-US" Text="Turnout and magnetdrive decoder (8 outputs)" Url="http://www.fichtelbahn.de/readymagnet_index.html"/>
+      <Documentation Language="de-DE" Text="Weichen- und Magnetartikel-Decoder (8 Ausgänge)" Url="http://www.fichtelbahn.de/readymagnet_index.html"/>
+    </Product>
+
+    <Product ManufacturerId="251" ProductTypeId="230" Name="ReadyServo8 Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="231" Name="ReadyServo8 Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="232" Name="ReadyServo8 Applikation" >
+      <Documentation Language="en-US" Text="Accessory node for 8 servo drives and 8 GPIO ports" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="Zubehörknoten für 8 Servoantriebe und 8 GPIO-Ports" Url="http://www.fichtelbahn.de"/>
+    </Product>
+	<!-- new PID with new processor -->
+    <Product ManufacturerId="251" ProductTypeId="233" Name="ReadyServo8 Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+	<!-- new PID with new processor -->
+    <Product ManufacturerId="251" ProductTypeId="234" Name="ReadyServo8 Applikation" >
+      <Documentation Language="en-US" Text="Accessory node for 8 servo drives and 8 GPIO ports" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="Zubehörknoten für 8 Servoantriebe und 8 GPIO-Ports" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    
+    <Product ManufacturerId="251" ProductTypeId="250" Name="ReadyTLE Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="251" Name="ReadyTLE-16 Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="252" Name="ReadyTLE-16 Applikation" >
+      <Documentation Language="en-US" Text="Accessory node for TLE sensors (16 inputs)" Url="http://www.fichtelbahn.de/readytle16_index.html"/>
+      <Documentation Language="de-DE" Text="Zubehörknoten für TLE-Sensoren (16 Eingänge)" Url="http://www.fichtelbahn.de/readytle16_index.html"/>
+    </Product>
+
+    <Product ManufacturerId="251" ProductTypeId="300" Name="OpenCar-System Basis V2.0 Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="301" Name="OpenCar-System Basis V2.0 Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="302" Name="OpenCar-System Basis V2.0 Applikation" >
+      <Documentation Language="en-US" Text="OpenCar-System RFM Base with BiDiB, Xpressnet and DCC" Url="http://www.fichtelbahn.de/rf-basis2_index.html"/>
+      <Documentation Language="de-DE" Text="OpenCar-System Funkbasis mit BiDiB, Xpressnet und DCC" Url="http://www.fichtelbahn.de/rf-basis2_index.html"/>
+    </Product>
+
+    <Product ManufacturerId="251" ProductTypeId="303" Name="ReadyRFXP Bootloader" >
+      <Documentation Language="en-US" Text="only Bootloader" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Bootloader" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="304" Name="ReadyXP Testfirmware" >
+      <Documentation Language="en-US" Text="only test firmware" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="nur Testfirmware" Url="http://www.fichtelbahn.de"/>
+    </Product>
+    <Product ManufacturerId="251" ProductTypeId="305" Name="ReadyXP Applikation" >
+      <Documentation Language="en-US" Text="BiDiBus Interface for XpressNet Hand controller" Url="http://www.fichtelbahn.de"/>
+      <Documentation Language="de-DE" Text="BiDiBus Interface für XpressNet-Handregler" Url="http://www.fichtelbahn.de"/>
+    </Product>
+  </Products>
+</BiDiB>

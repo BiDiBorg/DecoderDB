@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BiDiB SchemaVersion="1.3" xmlns="http://www.bidib.org/schema/bidib">
+  <Products>
+    <Product ManufacturerId="13" ProductTypeId="101" Name="BiDiB-IF Evaluierungsinterface">
+      <Documentation Language="en-US" Text="Interface" Description="Evaluationinterface (stand-alone)" />
+      <Documentation Language="de-DE" Text="Interface" Description="Evaluierungsinterface (Stand-Alone)" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="102" Name="GBM16TC">
+      <Documentation Language="en-US" Text="Occupancy Detector, Interface" Description="16-64 channel railcom® occupancy detector with interface" Url="http://www.opendcc.de/elektronik/gbmboost/gbmboost.html" />
+      <Documentation Language="de-DE" Text="Belegtmelder, Interface" Description="16-64facher Railcom-Melder mit Interface" Url="http://www.opendcc.de/elektronik/gbmboost/gbmboost.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="103" Name="GBMBoost Node">
+      <Documentation Language="en-US" Text="Booster, Occupancy Detector" Description="16-64 channel Railcom-detector, integrated booster" Url="http://www.opendcc.de/elektronik/gbmboost/gbmboost.html"/>
+      <Documentation Language="de-DE" Text="Booster, Belegtmelder" Description="16-64facher Railcom-Melder, integrierter Booster" Url="http://www.opendcc.de/elektronik/gbmboost/gbmboost.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="104" Name="GBMBoost Master">
+      <Documentation Language="en-US" Text="Command Station, Interface, Booster, Occupancy Detector" Description="16-64 channel Railcom-detector, integrated booster, interface, DCC Generator" Url="http://www.opendcc.de/elektronik/gbmboost/gbmboost.html" />
+      <Documentation Language="de-DE" Text="Zentrale, Interface, Booster, Belegtmelder" Description="16-64facher Railcom-Melder, integrierter Booster, Interface, DCC Zentrale"  Url="http://www.opendcc.de/elektronik/gbmboost/gbmboost.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="105" Name="BiDiB-S88-Bridge">
+      <Documentation Language="en-US" Text="S88 Bridge" Description="Interface for legacy s88 modules" Url="http://www.opendcc.de/s88/s88_bidib/s88_bidib.html" />
+      <Documentation Language="de-DE" Text="S88 Verbinder" Description="Evaluierungsmodul für BiDiBus, Anschluss von S88-Modulen" Url="http://www.opendcc.de/s88/s88_bidib/s88_bidib.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="106" Name="BiDiB-IO16">
+      <Documentation Language="en-US" Text="Inputs, Outputs" Description="Accessory-Node (4 servos, 8 outputs or 8 inputs)" />
+      <Documentation Language="de-DE" Text="Eingänge, Ausgänge" Description="Zubehörknoten (4 Servos, 8 Ausgänge oder 8 Eingänge)" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="107" Name="LightControl 1">
+      <Documentation Language="en-US" Text="Light Controller, Servos Inputs, Outputs" Description="Light controller for 32 LEDs, 16 multi purpose outputs, 4 servos, 8 inputs" Url="http://www.fichtelbahn.de/lightcontrol.html" />
+      <Documentation Language="de-DE" Text="Lichtsteuerung, Servos, Eingänge, Ausgänge" Description="Lichtsteuerung mit 32 LEDs, 16 Universalausgängen, 4 Servos, 8 Eingänge" Url="http://www.fichtelbahn.de/lightcontrol.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="108" Name="MobaList">
+      <Documentation Language="en-US" Text="Light Controller, Inputs" Description="Light controller for 24 LEDs, 2 inputs" Url="https://www.fichtelbahn.de/mobalist_index.html" />
+      <Documentation Language="de-DE" Text="Lichtsteuerung, Eingänge" Description="Lichtsteuerung mit 24 LEDs, 2 Eingänge" Url="https://www.fichtelbahn.de/mobalist_index.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="110" Name="LightControl 1 Bootloader">
+      <Documentation Language="en-US" Text="Bootloader" Description="only Bootloader" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="Bootloader" Description="Nur Bootloader" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="111" Name="GBMBoost 1 Bootloader" >
+      <Documentation Language="en-US" Text="Bootloader" Description="only Bootloader" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="Bootloader" Description="Nur Bootloader" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="112" Name="BiDiBOne Bootloader">
+      <Documentation Language="en-US" Text="Bootloader" Description="only Bootloader" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="Bootloader" Description="Nur Bootloader" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="113" Name="OneTester">
+      <Documentation Language="en-US" Text="24 LED-Testboard" Description="BiDiBOne module to test a BiDiBOne, 24 LED"  Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="24 LED-Testboard" Description="BiDiBOne Modul zum Testen eines BiDiBOne, 24 LED" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="114" Name="OneHub">
+      <Documentation Language="en-US" Text="BiDiBus Hub" Description="BiDiBOne OneHub, 8x input" Url="http://wiki.fichtelbahn.de/doku.php?id=onehub"/>
+      <Documentation Language="de-DE" Text="BiDiBus Hub" Description="BiDiBOne OneHub, 8 Eingänge" Url="http://wiki.fichtelbahn.de/doku.php?id=onehub"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="115" Name="OneDMX">
+      <Documentation Language="en-US" Text="DMX Controller" Description="BiDiBOne OneDMX, DMX Controller and 8x input" Url="http://wiki.fichtelbahn.de/doku.php?id=onedmx"/>
+      <Documentation Language="de-DE" Text="DMX Controller" Description="BiDiBOne OneDMX, DMX Controller und 8 Eingänge" Url="http://wiki.fichtelbahn.de/doku.php?id=onedmx"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="117" Name="OneControl 8/32">
+      <Documentation Language="en-US" Text="Switch, Servos" Description="16 power outputs, 8 servos, 16 GPIO ports as input or output lower 10mA, 32 macros, 20 accessories" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+      <Documentation Language="de-DE" Text="Schalten, Servos" Description="16 Powerausgänge, 8 Servos, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 32 Makros, 20 Accessorys" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="118" Name="BiDiBOne - OneIO">
+      <Documentation Language="de-DE" Text="Universelles I/O-Modul" Description="Universal Input-Output-Controller, 24 frei konfigurierbare Ports" Url="http://www.bidib.org/support/product_id.html"/>
+      <Documentation Language="en-US" Text="Universal I/O Module" Description="Universal input/output controller, 24 freely configurable ports" Url="http://www.bidib.org/support/product_id_e.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="119" Name="StepControl 1 Bootloader">
+      <Documentation Language="en-US" Text="Bootloader" Description="only Bootloader" Url="http://www.opendcc.de/elektronik/drehscheibe/drehscheibe.html"/>
+      <Documentation Language="de-DE" Text="Bootloader" Description="Nur Bootloader" Url="http://www.opendcc.de/elektronik/drehscheibe/drehscheibe.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="120" Name="StepControl 1">
+      <Documentation Language="en-US" Text="Stepper Controller" Description="Controller for turntables / traverser" Url="http://www.opendcc.de/elektronik/drehscheibe/drehscheibe.html"/>
+      <Documentation Language="de-DE" Text="Schrittmotor Controller" Description="Schrittmotorsteuerung für Drehscheiben / Schiebebühnen / Segmentbühnen" Url="http://www.opendcc.de/elektronik/drehscheibe/drehscheibe.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="121" Name="OneST">
+      <Documentation Language="en-US" Text="Servo, frog polarisation" Description="Controller for servo and frog polarisation" Url="http://wiki.fichtelbahn.de/doku.php?id=oneservoturn"/>
+      <Documentation Language="de-DE" Text="Servo, Herzstück-Polarisierung" Description="Kontroller für Servo und Herzstück-Polarisierung" Url="http://wiki.fichtelbahn.de/doku.php?id=oneservoturn"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="122" Name="OneDriveTurn 8/32">
+      <Documentation Language="en-US" Text="Motor, Servos" Description="8 motor controlls, 8 servos, 16 GPIO ports as input or output lower 10mA, 32 macros, 20 accessories" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+      <Documentation Language="de-DE" Text="Motor, Servos" Description="8 Motorausgänge, 8 Servos, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 32 Makros, 20 Accessorys" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />      
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="123" Name="STµ">
+      <Documentation Language="en-US" Text="Servo, frog polarisation" Description="Controller for servo and frog polarisation (4 servo, 8 relais) (v. Michael Volk)" />
+      <Documentation Language="de-DE" Text="Servo, Herzstück-Polarisierung" Description="Kontroller für Servo und Herzstück-Polarisierung (4 Servos, 8 Relais) (v. Michael Volk)" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="124" Name="S88-Bridge + TLE">
+      <Documentation Language="en-US" Text="S88 Bridge with TLE-Interface" Description="Interface for legacy s88 modules and TLE hall switches" Url="https://www.fichtelbahn.de/tle_s88_bidib_interface_index.html" />
+      <Documentation Language="de-DE" Text="S88 Bridge mit TLE-Interface" Description="Anschluss von S88-Modulen and TLE Hall-Sensoren" Url="https://www.fichtelbahn.de/tle_s88_bidib_interface_index.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="125" Name="Boot644P Bootloader">
+      <Documentation Language="de-DE" Text="Bootloader für Atmel 644P-Prozessoren" Description="Nur Bootloader" />
+      <Documentation Language="en-US" Text="Bootloader for Atmel 644P processors" Description="only Bootloader" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="126" Name="MobaList644">
+      <Documentation Language="de-DE" Text="24 Schaltausgänge/Lichtausgänge, 2 Eingänge" Description="wie Mobalist, aber auf 644p-Basis" Url="https://www.fichtelbahn.de/mobalist_index.html" />
+      <Documentation Language="en-US" Text="24 switchports/lightports, 2 input ports" Description="like Mobalist, but based on 644p" Url="https://www.fichtelbahn.de/mobalist_index.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="127" Name="LED-IO-24">
+      <Documentation Language="de-DE" Text="24 LEDs, direkt angesteuert" Description="24 LEDs, direkt angesteuert" Url="https://www.fichtelbahn.de/ledio_index.html" />
+      <Documentation Language="en-US" Text="24 LEDs, direct controlled" Description="24 LEDs, direct controlled" Url="https://www.fichtelbahn.de/ledio_index.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="128" Name="MobaIO24">
+      <Documentation Language="de-DE" Text="24 frei konfigurierbare Ports" Description="Port-Konfiguration kann frei angepasst werden" />
+      <Documentation Language="en-US" Text="24 free configurable ports" Description="Port config can be changed free" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="129" Name="NeoControl EWS">
+      <Documentation Language="de-DE" Text="NeoControl EWS" Description="Erweiterte WSxxxx-Steuerung" Url="https://forum.opendcc.de/wiki/doku.php?id=onews:onewsi" />
+      <Documentation Language="en-US" Text="NeoControl EWS" Description="Extended WSxxxx control" Url="https://forum.opendcc.de/wiki/doku.php?id=onews:onewsi" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="130" Name="ST4">
+      <Documentation Language="de-DE" Text="4 Servo, 4 Relais zur Herzstückpolarisation" Description="Kontroller für Servo und Herzstück-Polarisierung (4 Servos, 4 Relais)" Url="https://www.fichtelbahn.de/st4_index.html" />
+      <Documentation Language="en-US" Text="4 Servo, 4 relais for frog polarisation" Description="Controller for servo and frog polarisation (4 servo, 4 relais)" Url="https://www.fichtelbahn.de/st4_index.html" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="131" Name="Bootloader IF2">
+      <Documentation Language="de-DE" Text="IF2 Bootloader" Description="Bootloader für IF2" />
+      <Documentation Language="en-US" Text="IF2 Bootloader" Description="Bootloader for IF2 " />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="132" Name="BiDiB-IF2">
+      <Documentation Language="de-DE" Text="BiDiB-IF2" Description="BiDiB Standalone Interface" />
+      <Documentation Language="en-US" Text="BiDiB-IF2" Description="BiDiB Standalone Interface" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="133" Name="OpPanel">
+      <Documentation Language="de-DE" Text="OpPanel" Description="Evaluierungsmodul für lokale Eingabe" />
+      <Documentation Language="en-US" Text="OpPanel" Description="Evaluationmodule for local Input" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="134" Name="GBM16TS">
+      <Documentation Language="de-DE" Text="16 Belegtmelder" Description="16 Belegtmeldereingänge, Stromsensoren, volle Railcomfähigkeit" Url="https://forum.opendcc.de/wiki/doku.php?id=gbm16ts" />
+      <Documentation Language="en-US" Text="Occupancy Detector" Description="16 full featured railcom channels" Url="https://forum.opendcc.de/wiki/doku.php?id=gbm16ts" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="135" Name="Octagon-1">
+      <Documentation Language="de-DE" Text="48 LED + apa102 Interface" Description="mini light/servo controller for roundabouts" />
+      <Documentation Language="en-US" Text="48 LEDs &amp; apa102 interface" Description="miniatur light/servo controller für Kirmes" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="136" Name="BiDiB-PI1">
+      <Documentation Language="de-DE" Text="Raspberry Pi3 Zusatz" Description="Interface, Generator, Booster, Programmer" />
+      <Documentation Language="en-US" Text="Raspberry Pi3 shield" Description="interface, generator, booster, programmer" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="137" Name="BiDiB-PI1-BL">
+      <Documentation Language="de-DE" Text="Raspberry Pi3 Zusatz" Description="Bootloader" />
+      <Documentation Language="en-US" Text="Raspberry Pi3 shield" Description="Bootloader" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="138" Name="ModelClock">
+      <Documentation Language="de-DE" Text="Uhr für Modellzeit" Description="LED-Uhr für BiDiB und DCC" />
+      <Documentation Language="en-US" Text="Layout Clock" Description="LED clock for BiDiB and DCC" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="139" Name="ModelClock-BL">
+      <Documentation Language="de-DE" Text="Uhr für Modellzeit" Description="Bootloader" />
+      <Documentation Language="en-US" Text="Layout Clock" Description="Bootloader" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="140" Name="OneControl 8/48">
+      <Documentation Language="en-US" Text="Switch, Servos" Description="16 power outputs, 8 servos, 16 GPIO ports as input or output lower 10mA, 48 macros, 24 accessories" Url="https://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+      <Documentation Language="de-DE" Text="Schalten, Servos" Description="16 Powerausgänge, 8 Servos, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 48 Makros, 24 Accessorys" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="141" Name="OneControl 4/32">
+      <Documentation Language="en-US" Text="Switch, Servos, Occupancy Detector" Description="16 power outputs, 4 servos, 16 occupancy detectors, 16 GPIO ports as input or output lower 10mA, 32 macros, 20 accessories" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+      <Documentation Language="de-DE" Text="Schalten, Servos, Belegtmelder" Description="16 Powerausgänge, 4 Servos, 16 Belegtmelder, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 32 Makros, 20 Accessorys" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="142" Name="OneControl 4/48">
+      <Documentation Language="en-US" Text="Switch, Servos, Occupancy Detector" Description="16 power outputs, 4 servos, 16 occupancy detectors, 16 GPIO ports as input or output lower 10mA, 48 macros, 24 accessories" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+      <Documentation Language="de-DE" Text="Schalten, Servos, Belegtmelder" Description="16 Powerausgänge, 4 Servos, 16 Belegtmelder, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 48 Makros, 24 Accessorys" Url="http://wiki.fichtelbahn.de/doku.php?id=onecontrol"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="143" Name="OneDriveTurn 8/48">
+      <Documentation Language="en-US" Text="Motor, Servos" Description="8 motor controlls, 8 servos, 16 GPIO ports as input or output lower 10mA, 48 macros, 24 accessories" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+      <Documentation Language="de-DE" Text="Motor, Servos" Description="8 Motorausgänge, 8 Servos, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 48 Makros, 24 Accessorys" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="144" Name="OneDriveTurn 4/32">
+      <Documentation Language="en-US" Text="Motor, Servos, Occupancy Detector" Description="8 motor controlls, 4 servos, 16 Belegtmelder, 16 GPIO ports as input or output lower 10mA, 32 macros, 20 accessories" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+      <Documentation Language="de-DE" Text="Motor, Servos, Belegtmelder" Description="8 Motorausgänge, 4 Servos, 16 Belegtmelder, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 32 Makros, 20 Accessorys" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="145" Name="OneDriveTurn 4/48">
+      <Documentation Language="en-US" Text="Motor, Servos, Occupancy Detector" Description="8 motor controlls, 4 servos, 16 Belegtmelder, 16 GPIO ports as input or output lower 10mA, 48 macros, 24 accessories" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+      <Documentation Language="de-DE" Text="Motor, Servos, Belegtmelder" Description="8 Motorausgänge, 4 Servos, 16 Belegtmelder, 16 GPIO-Ports als Eingänge oder Kleinverbraucherausgänge, 48 Makros, 24 Accessorys" Url="https://forum.opendcc.de/wiki/doku.php?id=onedriveturn" />
+    </Product>
+
+    <Product ManufacturerId="13" ProductTypeId="146" Name="OpenSwitch">
+      <Documentation Language="en-US" Text="Switch" Description="Turnout and Magnetdrive Decoder (8 Outputs)" Url="http://wiki.fichtelbahn.de/doku.php?id=openswitch"/>
+      <Documentation Language="de-DE" Text="Schalten" Description="Weichen- und Magnetartikeldekoder (8 Ausgänge)" Url="http://wiki.fichtelbahn.de/doku.php?id=openswitch"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="147" Name="OpenSwitch Bootloader">
+      <Documentation Language="en-US" Text="Bootloader" Description="Bootloader for OpenSwitch" />
+      <Documentation Language="de-DE" Text="Bootloader" Description="Bootloader für OpenSwitch" />
+    </Product>
+
+    <Product ManufacturerId="13" ProductTypeId="204" Name="OneOC">
+      <Documentation Language="en-US" Text="20 Optocoupler input" Description="BiDiBOne AddOn - 20 groundrelated input" Url="http://wiki.fichtelbahn.de/doku.php?id=oneoc"/>
+      <Documentation Language="de-DE" Text="20 Optokopplereingänge" Description="BiDiBOne AddOn - 20fach massebezogene Rückmelder" Url="http://wiki.fichtelbahn.de/doku.php?id=oneoc"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="205" Name="NeoControl Light">
+      <Documentation Language="en-US" Text="NeoControl Light" Description="light control with WS2811 / neopixel, individual control of LEDs, 8 inputs, 8 outputs" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+      <Documentation Language="de-DE" Text="NeoControl Light" Description="Lichtsteuerung, mit WS2811 / Neopixel, Einzelansteuerung LEDs, 8 Eingänge, 8 Ausgänge" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="206" Name="NeoControl Signal">
+      <Documentation Language="en-US" Text="NeoControl_Signal" Description="signal control with WS2811 / neopixel, individual control of LEDs, 8 inputs, 8 outputs" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+      <Documentation Language="de-DE" Text="NeoControl_Signal" Description="Signalsteuerung, mit WS2811 / Neopixel, Einzelansteuerung LEDs, 8 Eingänge, 8 Ausgänge" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="207" Name="BiDiB-RS-GW">
+      <Documentation Language="en-US" Text="BiDIB-RS-Gateway" Description="RS-Bus-Gateway, 8 nodes with 128 Occupancies each"/>
+      <Documentation Language="de-DE" Text="BiDIB-RS-Gateway" Description="RS-Bus-Gateway, 8 Knoten mit je 128 Belegtmelder"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="209" Name="NeoControl Clock">
+      <Documentation Language="en-US" Text="NeoControl Clock" Description="Clock with 68 WS2812, 60 for time, 7 for weekday, one for am/pm"/>
+      <Documentation Language="de-DE" Text="NeoControl Clock" Description="Uhr aus 68 WS2812, 60 für die Uhrzeit, 7 = Wochentag, eine für am/pm"/>
+    </Product>    
+    <Product ManufacturerId="13" ProductTypeId="210" Name="NeoControl Signal16">
+      <Documentation Language="en-US" Text="NeoControl Signal16" Description="signal control with WS2811 / 16 Accessories with 16 Aspects, individual control of LEDs, 8 inputs, 8 outputs" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+      <Documentation Language="de-DE" Text="NeoControl Signal16" Description="Signalsteuerung mit WS2811 / 16 Accessories mit je 16 Aspecten, Einzelansteuerung LEDs, 8 Eingänge, 8 Ausgänge" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="211" Name="NeoControl_Signal_HL">
+      <Documentation Language="en-US" Text="NeoControl_Signal_HL" Description="signal control with WS2811 / 4 accessories with 23 Aspects, individual control of LEDs as well as signals" Url="https://forum.opendcc.de/wiki/doku.php?id=onews"/>
+      <Documentation Language="de-DE" Text="NeoControl_Signal_HL" Description="Signalsteuerung mit WS2811 / 4 Accessories mit je 23 Aspekten, Einzelansteuerung Signale" Url="https://forum.opendcc.de/wiki/doku.php?id=onews" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="218" Name="BiDiBSamD21 Bootloader">
+      <Documentation Language="en-US" Text="BiDiBSamD21 Bootloader" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="BiDiBSamD21 Bootloader" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="219" Name="BiDiBSamD21 Development Module">
+      <Documentation Language="en-US" Text="BiDiBSamD21 Development Module" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="BiDiBSamD21 Development Module" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="220" Name="Switch-64">
+      <Documentation Language="en-US" Text="Module by Jan Boen" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="Modul von Jan Boen" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="221" Name="LED-Optics">
+      <Documentation Language="en-US" Text="Module by Jan Boen" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="Modul von Jan Boen" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="230" Name="GScaleOD">
+      <Documentation Language="en-US" Text="GScaleOD" Description="16 channel Occupancy Detector for scale G"/>
+      <Documentation Language="de-DE" Text="GScaleOD" Description="16-fach Belegtmelder für Spur G"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="231" Name="GScaleBoostAdapt">
+      <Documentation Language="en-US" Text="GScaleBoostAdapt" Description="CDE Booster Adapter for scale G"/>
+      <Documentation Language="de-DE" Text="GScaleBoostAdapt" Description="CDE Booster Adapter für Spur G"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="232" Name="ArduinoDecoder">
+      <Documentation Language="en-US" Text="ArduinoDecoder" Description=""/>
+      <Documentation Language="de-DE" Text="ArduinoDecoder" Description=""/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="233" Name="SimpleWeiche">
+      <Documentation Language="en-US" Text="ArduinoDecoder" Description="6 turnouts (controlled) / 12 ports / 12 inputs"/>
+      <Documentation Language="de-DE" Text="ArduinoDecoder" Description="6 Weichen, mit Rückmeldung / 12 Schaltausgänge / 12 Inputs"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="234" Name="BiDiB-Broker">
+      <Documentation Language="en-US" Text="BiDiB-Broker" Description="Software middleware to connect BiDiBser and netBiDiB"/>
+      <Documentation Language="de-DE" Text="BiDiB-Broker" Description="Software-Middleware für die Anbindung zwischen BiDiBser- und netBiDiB-Knoten"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="235" Name="BiDiB-Z21LAN-Adapter">
+      <Documentation Language="en-US" Text="BiDiB-Z21LAN-Adapter" Description="Software adapter between Roco Z21-LAN- and netBiDiB-Protocol"/>
+      <Documentation Language="de-DE" Text="BiDiB-Z21LAN-Adapter" Description="Software-Adapter zwischen Roco Z21-LAN- und netBiDiB-Protokoll"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="250" Name="BiDiB-Wizard">
+      <Documentation Language="de-US" Text="BiDiB-Wizard" Description="Software to configure BiDiB nodes"/>
+      <Documentation Language="en-DE" Text="BiDiB-Wizard" Description="Software zur Konfiguration von BiDiB-Knoten"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="251" Name="BiDiB-Monitor">
+      <Documentation Language="de-US" Text="BiDiB-Monitor" Description="Software to use BiDiB nodes and to service locomotive decoders"/>
+      <Documentation Language="en-DE" Text="BiDiB-Monitor" Description="Software zum Programmieren von Lokdekodern und zur Benutzung von BiDiB-Knoten"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="252" Name="TC">
+      <Documentation Language="en-US" Text="" Description=""/>
+      <Documentation Language="de-DE" Text="" Description=""/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="253" Name="ESTWGJ">
+      <Documentation Language="en-US" Text="ESTWGJ" Description="Software für Spurplanstellwerke" Url="http://www.estwgj.com/deutsch/index.htm" />
+      <Documentation Language="de-DE" Text="ESTWGJ" Description="Software for mosaic interlocking panels" Url="http://www.estwgj.com/" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="256" Name="espressif8266 Example / Base">
+      <Documentation Language="de-US" Text="espressif8266 Example / Base" Description="Node based on espressif8266" Url="https://gitlab.com/jeanmichelfischer/netbidib_node_base/-/blob/main/README.md" />
+      <Documentation Language="en-DE" Text="espressif8266 Example / Base" Description="Knoten auf Basis espressif8266" Url="https://gitlab.com/jeanmichelfischer/netbidib_node_base/-/blob/main/README.md" />
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="32769" Name="BiDiB RF-Basis Bootloader">
+      <Documentation Language="en-US" Text="BiDiB RF-Basis Node" Description="BiDiB RF-Basis Bootloader for OpenCar System" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="BiDiB RF-Basis Node" Description="BiDiB RF-Basis Bootloader für OpenCar System" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="32770" Name="BiDiB RF-Basis Node">
+      <Documentation Language="en-US" Text="BiDiB RF-Basis Node" Description="BiDiB RF-Basis Node for OpenCarSystem" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="BiDiB RF-Basis Node" Description="BiDiB RF-Basis Node für OpenCarSystem" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+    <Product ManufacturerId="13" ProductTypeId="33024" Name="BiDiBrc">
+      <Documentation Language="en-US" Text="BiDiBrc" Description="Throttle / Android App" Url="http://www.bidib.org/support/product_id_e.html"/>
+      <Documentation Language="de-DE" Text="BiDiBrc" Description="Throttle / Android App" Url="http://www.bidib.org/support/product_id.html"/>
+    </Product>
+  </Products>
+</BiDiB>

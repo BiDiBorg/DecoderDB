@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.decoderdb.de/schema/decoderFirmware/1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ct="http://www.decoderdb.de/schema/commonTypes/1.2" targetNamespace="http://www.decoderdb.de/schema/decoderFirmware/1.2" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:import namespace="http://www.decoderdb.de/schema/commonTypes/1.2" schemaLocation="commonTypes.xsd"/>
+	<!-- FirmwareDefinition -->
+	<xs:element name="decoderFirmwareDefinition">
+		<xs:annotation>
+			<xs:documentation>Firmware Definition</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="version" type="ct:VersionType"/>
+				<xs:element name="firmware" type="FirmwareType"/>
+				<xs:element name="SourceFile" type="xs:token" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!-- Firmware -->
+	<xs:complexType name="FirmwareType">
+		<xs:sequence>
+			<xs:element name="decoders" type="DecodersType"/>
+			<xs:element name="manuals" type="ManualsType" minOccurs="0"/>
+			<xs:element ref="ct:images" minOccurs="0"/>
+			<xs:element name="protocols" type="ProtocolsType"/>
+		</xs:sequence>
+		<xs:attribute name="version" type="ct:tokenNotEmpty" use="required"/>
+		<xs:attribute name="versionExtension" type="ct:tokenNotEmpty" use="optional"/>
+		<xs:attribute name="releaseDate" type="xs:date" use="optional"/>
+		<xs:attribute name="manufacturerId" type="xs:unsignedByte" use="required"/>
+		<xs:attribute name="manufacturerExtendedId" type="xs:unsignedShort" use="optional"/>
+		<xs:attribute name="manufacturerName" type="ct:tokenNotEmpty" use="optional"/>
+		<xs:attribute name="manufacturerShortName" type="ct:tokenNotEmpty" use="optional"/>
+		<xs:attribute name="manufacturerUrl" type="xs:anyURI" use="optional"/>
+		<xs:attribute name="decoderDBLink" type="xs:anyURI" use="optional"/>
+		<xs:attribute name="options" type="xs:token" use="optional"/>
+	</xs:complexType>
+	<!-- Products -->
+	<xs:complexType name="DecodersType">
+		<xs:sequence>
+			<xs:element name="decoder" type="DecoderType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Product -->
+	<xs:complexType name="DecoderType">
+		<xs:attribute name="name" type="ct:tokenNotEmpty" use="required"/>
+		<xs:attribute name="typeIds" type="ct:tokenNotEmpty" use="optional"/>
+		<xs:attribute name="type" type="ct:DecoderTypeType" use="required"/>
+	</xs:complexType>
+	<!-- Manuals -->
+	<xs:complexType name="ManualsType">
+		<xs:sequence>
+			<xs:element name="manual" type="ManualType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Manual -->
+	<xs:complexType name="ManualType">
+		<xs:attribute name="name" type="ct:tokenNotEmpty" use="required"/>
+		<xs:attribute name="src" type="xs:anyURI" use="optional"/>
+		<xs:attribute name="lastModified" type="xs:dateTime" use="optional"/>
+		<xs:attribute name="fileSize" type="xs:unsignedInt" use="optional"/>
+		<xs:attribute name="sha1" type="xs:string" use="optional"/>
+		<xs:attribute name="copyright" type="xs:string" use="optional"/>
+	</xs:complexType>
+	<!-- Protocols -->
+	<xs:complexType name="ProtocolsType">
+		<xs:sequence>
+			<xs:element name="protocol" type="FirmwareProtocolType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Protocol -->
+	<xs:complexType name="FirmwareProtocolType">
+		<xs:complexContent>
+			<xs:extension base="ct:ProtocolType">
+				<xs:sequence>
+					<xs:element name="cvChangelog" type="CvChangelogType" minOccurs="0"/>
+					<xs:element name="decoderDetection" type="DecoderDetectionType" minOccurs="0"/>
+					<xs:element name="resets" type="ResetsType" minOccurs="0"/>
+					<xs:element name="presets" type="PresetsType" minOccurs="0"/>
+					<xs:element name="cvs" type="CVsType" minOccurs="0"/>
+					<xs:element name="cvStructure" type="CVStructureType" minOccurs="0"/>
+				</xs:sequence>
+				<xs:attribute name="indexHigh" type="xs:unsignedShort" use="optional"/>
+				<xs:attribute name="indexLow" type="xs:unsignedShort" use="optional"/>
+				<xs:attribute name="speedSteps" type="ct:tokenNotEmpty" use="optional"/>
+				<xs:attribute name="functions" type="xs:unsignedByte" use="optional"/>
+				<xs:attribute name="progModes" type="ct:tokenNotEmpty" use="optional"/>
+				<xs:attribute name="options" type="ct:tokenNotEmpty" use="optional"/>
+				<xs:attribute name="railcom" type="ct:tokenNotEmpty" use="optional"/>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<!-- CvChangelog -->
+	<xs:complexType name="CvChangelogType">
+		<xs:attribute name="new" type="ct:SemicolonNumberList" use="optional"/>
+		<xs:attribute name="changed" type="ct:SemicolonNumberList" use="optional"/>
+	</xs:complexType>
+	<!-- DecoderDetection -->
+	<xs:complexType name="DecoderDetectionType">
+		<xs:sequence>
+			<xs:element name="detection" type="ct:DetectionType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Resets -->
+	<xs:complexType name="ResetsType">
+		<xs:sequence>
+			<xs:element name="reset" type="ResetType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Reset -->
+	<xs:complexType name="ResetType">
+		<xs:sequence>
+			<xs:element ref="ct:description" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="cv" type="xs:unsignedShort" use="required"/>
+		<xs:attribute name="value" type="xs:unsignedByte" use="required"/>
+	</xs:complexType>
+	<!-- Presets -->
+	<xs:complexType name="PresetsType">
+		<xs:sequence>
+			<xs:element name="presetGroup" type="PresetGroupType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- PresetGroup -->
+	<xs:complexType name="PresetGroupType">
+		<xs:sequence>
+			<xs:element name="preset" type="PresetType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:unsignedShort" use="required"/>
+	</xs:complexType>
+	<!-- Preset -->
+	<xs:complexType name="PresetType">
+		<xs:sequence>
+			<xs:element ref="ct:description" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element ref="cv" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- Preset CV -->
+	<xs:complexType name="PresetCVType">
+		<xs:attribute name="number" type="xs:unsignedShort" use="required"/>
+        <xs:attribute name="indexHigh" type="xs:unsignedShort" use="optional"/>
+        <xs:attribute name="indexLow" type="xs:unsignedShort" use="optional"/>
+		<xs:attribute name="value" type="xs:unsignedByte" use="required"/>
+	</xs:complexType>
+	<xs:element name="cv" type="PresetCVType"/>
+
+	<!-- CVs -->
+	<xs:complexType name="CVsType">
+		<xs:choice minOccurs="1" maxOccurs="unbounded">
+			<xs:element ref="ct:cv"/>
+			<xs:element ref="ct:cvGroup"/>
+		</xs:choice>
+	</xs:complexType>
+	<!-- CVStructure -->
+	<xs:complexType name="CVStructureType">
+		<xs:sequence>
+			<xs:element ref="category" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Category -->
+	<xs:complexType name="CategoryType">
+		<xs:sequence>
+			<xs:element ref="ct:description" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="presetGroupIdReference"/>
+				<xs:element ref="idReference"/>
+				<xs:element ref="category"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="category" type="CategoryType"/>
+	<!-- presetGroupIdReference -->
+	<xs:complexType name="presetGroupIdReferenceType">
+		<xs:attribute name="id" type="ct:tokenNotEmpty" use="required"/>
+	</xs:complexType>
+	<xs:element name="presetGroupIdReference" type="presetGroupIdReferenceType"/>
+	<!-- IdRef -->
+	<xs:complexType name="IdReferenceType">
+		<xs:attribute name="id" type="ct:tokenNotEmpty" use="required"/>
+		<xs:attribute name="activeItems" type="ct:tokenNotEmpty" use="optional"/>
+		<xs:attribute name="comment" type="ct:tokenNotEmpty" use="optional"/>
+	</xs:complexType>
+	<xs:element name="idReference" type="IdReferenceType"/>
+</xs:schema>
