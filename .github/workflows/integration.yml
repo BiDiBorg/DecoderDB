@@ -39,8 +39,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: "show file sizes"
         run: |
-          #stat -c%s ./repo/repository.json
-          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/repository.json
+          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: restore output from cache
@@ -56,8 +56,8 @@ jobs:
         run: dotnet ./Output/Release/RepoGenerator/net8.0/org.bidib.DecoderDB.RepoGenerator.dll --repoPath ./repo/  --outputPath ./repo/ --baseUri ${{ vars.FICHTELBAHN_REPOURL }}
       - name: "show file sizes"
         run: |
-          #stat -c%s ./repo/repository.json
-          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/repository.json
+          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
           # stat -c%s repo/repository.xml
@@ -67,8 +67,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
-            #./repo/repository.json
-            ./repo/repository2.json
+            ./repo/repository.json
+            #./repo/repository2.json
             ./repo/decoder/decoderDetails.json
             ./repo/firmware/firmwareDetails.json
             # repo/repository.xml
@@ -76,8 +76,8 @@ jobs:
           key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.decdb','./repo/**/*.json', '!./repo/repository.json', '!./repo/repository2.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
       - name: "show file sizes"
         run: |
-          #stat -c%s ./repo/repository.json
-          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/repository.json
+          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
           # stat -c%s repo/repository.xml
@@ -87,8 +87,8 @@ jobs:
         with:
           name: repo-file
           path: |
-            #./repo/repository.json
-            ./repo/repository2.json
+            ./repo/repository.json
+            #./repo/repository2.json
             ./repo/decoder/decoderDetails.json
             ./repo/firmware/firmwareDetails.json
             # repo/repository.xml
@@ -106,8 +106,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
-            #./repo/repository.json
-            ./repo/repository2.json
+            ./repo/repository.json
+            #./repo/repository2.json
             ./repo/decoder/decoderDetails.json
             ./repo/firmware/firmwareDetails.json
             # repo/repository.xml
@@ -116,8 +116,8 @@ jobs:
           fail-on-cache-miss: true
       - name: "show file sizes"
         run: |
-          #stat -c%s ./repo/repository.json
-          stat -c%s ./repo/repository2.json
+          stat -c%s ./repo/repository.json
+          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
           # stat -c%s repo/repository.xml
