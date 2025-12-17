@@ -285,7 +285,7 @@ public class RepositoryGenerator(
 
     private void SaveJsonData(string outputPath, DecoderDbInfo response)
     {
-        var json2OutputFilePath = ioService.GetPath(outputPath, "repository2.json");
+        var json2OutputFilePath = ioService.GetPath(outputPath, "repository.json");
 
         if (jsonService.SaveToFile(response, json2OutputFilePath))
         {
@@ -294,7 +294,7 @@ public class RepositoryGenerator(
         }
         else
         {
-            logger.LogWarning("repository2.json was not generated!");
+            logger.LogWarning("repository.json was not generated!");
         }
     }
 }
