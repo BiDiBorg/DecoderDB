@@ -129,7 +129,7 @@ jobs:
           username: ${{ secrets.FICHTELBAHN_USER }}
           password: ${{ secrets.FICHTELBAHN_PW }}
           local-dir: "./repo/"
-          server-dir: "./decoderDB/"
+          server-dir: "."
           exclude: |
             **/assets/**
           state-name: .repo-sync-state.json
