@@ -234,7 +234,13 @@ public class RepositoryGenerator(
             Created = firmware.Version.Created.ToString(ShortDateFormat, CultureInfo.CurrentCulture),
             Version = firmware.Firmware.Version,
             VersionExtension = firmware.Firmware.VersionExtension,
-            FileSize = size
+            FileSize = size,
+            Decoder = [.. firmware.Firmware.Decoders.Select(d => new DecoderReference
+            {                
+                Name = d.Name,
+                //Type = d.Type,
+                //TypeIds = d.TypeIds
+            })]
         };
         return firmwareInfo;
     }
