@@ -84,11 +84,6 @@ jobs:
             repo/decoder/decoderDetails.json
             repo/firmware/firmwareDetails.json
         # Commit all changed files back to the repository
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update repository.json [skip ci]
-          commit_options: "--no-verify"
-          file_pattern: "*/**"
             
   deploy_json_to_ftp:
     needs: generate_repository_json
@@ -102,9 +97,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
-            ./repo/repository.json
-            ./repo/decoder/decoderDetails.json
-            ./repo/firmware/firmwareDetails.json
+            repo/repository.json
+            repo/decoder/decoderDetails.json
+            repo/firmware/firmwareDetails.json
           key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
           fail-on-cache-miss: true
       - name: "show file sizes"
@@ -124,3 +119,28 @@ jobs:
             **/assets/**
           state-name: .repo-sync-state.json
           #options: "--depth-first --only-newer --parallel=10"
+
+  publish_generated:
+    needs: generate_repository_json
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: restore output from cache
+        id: restore-output
+        uses: actions/cache@v4
+        with:
+          path: |
+            repo/repository.json
+            repo/decoder/decoderDetails.json
+            repo/firmware/firmwareDetails.json
+          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
+          fail-on-cache-miss: true
+      - name: commit generated 
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update repository.json [skip ci]
+          commit_options: "--no-verify"
+          file_pattern: "*/**"
