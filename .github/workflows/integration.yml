@@ -137,8 +137,8 @@ jobs:
             repo/decoder/decoderDetails.json
             repo/firmware/firmwareDetails.json
           key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
-          fail-on-cache-miss: true
       - name: commit generated 
+        if: steps.restore-output.outputs.cache-hit == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update repository.json [skip ci]
