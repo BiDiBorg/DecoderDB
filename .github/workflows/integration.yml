@@ -35,6 +35,8 @@ jobs:
     needs: build_with_image
     runs-on: ubuntu-latest
     container: mcr.microsoft.com/dotnet/sdk:8.0
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: "show file sizes"
