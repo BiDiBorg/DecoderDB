@@ -81,6 +81,12 @@ jobs:
             repo/repository.json
             repo/decoder/decoderDetails.json
             repo/firmware/firmwareDetails.json
+        # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update repository.json [skip ci]
+          commit_options: "--no-verify"
+          file_pattern: "*/**"
             
   deploy_json_to_ftp:
     needs: generate_repository_json
@@ -95,11 +101,8 @@ jobs:
         with:
           path: |
             ./repo/repository.json
-            #./repo/repository2.json
             ./repo/decoder/decoderDetails.json
             ./repo/firmware/firmwareDetails.json
-            # repo/repository.xml
-            # repo/index.html
           key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
           fail-on-cache-miss: true
       - name: "show file sizes"
