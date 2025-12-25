@@ -57,43 +57,31 @@ jobs:
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
-          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
-          # stat -c%s repo/repository.xml
-          # stat -c%s repo/index.html
       - name: save json to cache
         id: cache-json
         uses: actions/cache@v4
         with:
           path: |
-            ./repo/repository.json
-            #./repo/repository2.json
-            ./repo/decoder/decoderDetails.json
-            ./repo/firmware/firmwareDetails.json
-            # repo/repository.xml
-            # repo/index.html
-          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.decdb','./repo/**/*.json', '!./repo/repository.json', '!./repo/repository2.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
+            repo/repository.json
+            repo/decoder/decoderDetails.json
+            repo/firmware/firmwareDetails.json            
+          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
-          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
-          # stat -c%s repo/repository.xml
-          # stat -c%s repo/index.html
       - name: "Upload Artifact"
         uses: actions/upload-artifact@v4
         with:
           name: repo-file
           path: |
-            ./repo/repository.json
-            #./repo/repository2.json
-            ./repo/decoder/decoderDetails.json
-            ./repo/firmware/firmwareDetails.json
-            # repo/repository.xml
-            # repo/index.html
-
+            repo/repository.json
+            repo/decoder/decoderDetails.json
+            repo/firmware/firmwareDetails.json
+            
   deploy_json_to_ftp:
     needs: generate_repository_json
     runs-on: ubuntu-latest
@@ -112,16 +100,13 @@ jobs:
             ./repo/firmware/firmwareDetails.json
             # repo/repository.xml
             # repo/index.html
-          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.decdb','./repo/**/*.json', '!./repo/repository.json', '!./repo/repository2.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
+          key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
           fail-on-cache-miss: true
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
-          #stat -c%s ./repo/repository2.json
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
-          # stat -c%s repo/repository.xml
-          # stat -c%s repo/index.html
       - name: "upload to FTP"
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
