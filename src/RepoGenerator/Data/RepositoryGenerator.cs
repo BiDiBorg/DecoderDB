@@ -28,7 +28,7 @@ public class RepositoryGenerator(
     public void Generate(string outputPath, string baseUri, string repositoryPath)
     {
         var response = new DecoderDbInfo { Version = 7 };
-        
+
         if (string.IsNullOrEmpty(baseUri))
         {
             var di = new DirectoryInfo(outputPath);
@@ -37,7 +37,7 @@ public class RepositoryGenerator(
 
         response.DecoderDetections = GetDecoderDetection(repositoryPath, baseUri);
         response.Manufacturers = GetManufacturers(repositoryPath, baseUri);
-        
+
         var (decoderInfos, decoderDetails, imageInfos) = GetDecoderInfos(baseUri);
         var decFirmwareInfo = GetFirmwareInfo(baseUri);
         response.Decoders = decoderInfos;
@@ -84,7 +84,7 @@ public class RepositoryGenerator(
         var fileName = "DecoderDetection.json";
         var info = new BaseInfo
         {
-            FileName = fileName            
+            FileName = fileName
         };
 
         var filePath = ioService.GetPath(repoPath, fileName);
@@ -163,7 +163,7 @@ public class RepositoryGenerator(
                     Name = image.Name,
                     ManufacturerId = definition.Decoder.ManufacturerId,
                     ManufacturerExtendedId = definition.Decoder.ManufacturerExtendedId,
-                    FileName = definition.SourceFile,
+                    FileName = image.Name,
                     Link = new Uri($"{baseUri}/decoder/{manufacturerPath}/images/{image.Name}",
                         UriKind.RelativeOrAbsolute),
                     Sha1 = imgSha1,
@@ -176,9 +176,9 @@ public class RepositoryGenerator(
         }
 
 
-            return (decoderInfos.OrderBy(x => x.FileName).ToArray(),
-            decoderDetails.OrderBy(x=>x.FileName).ToArray(),
-            imageInfos.OrderBy(x=>x.Name).ToArray());
+        return (decoderInfos.OrderBy(x => x.FileName).ToArray(),
+        decoderDetails.OrderBy(x => x.FileName).ToArray(),
+        imageInfos.OrderBy(x => x.Name).ToArray()); 
     }
 
     private DecoderInfo MapDecoderInfo(string baseUri, DecoderDefinition definition, string manufacturerPath)
@@ -236,7 +236,7 @@ public class RepositoryGenerator(
             VersionExtension = firmware.Firmware.VersionExtension,
             FileSize = size,
             Decoder = [.. firmware.Firmware.Decoders.Select(d => new DecoderReference
-            {                
+            {
                 Name = d.Name,
                 //Type = d.Type,
                 //TypeIds = d.TypeIds

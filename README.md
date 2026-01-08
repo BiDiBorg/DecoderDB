@@ -21,7 +21,7 @@ To contribute any changes to the decoder or firmware definitions just clone this
 As this repository is meant to be a community project, quality contributions are highly appreciated!
 
 To overcome the cumbersome manual editing of the json files there is an editor available.
-The editor can be accessed either via the [published online version](https://www.fichtelbahn.de/files/decoderDB) or started from within the repository.
+The editor can be accessed either via the [published online version](https://decoderdb.bidib.org) or started from within the repository.
 
 With the editor the local repo files can be edited in a comfortable way.
 Once work is done and changes are saved they have to be committed and pushed manually.
@@ -40,12 +40,8 @@ If access is not granted it can be set via the button there.
 
 Changes can be done manually direcly in this repository at any time.
 
-Every commit / push within the `repo/` folder on main branch triggers the workflow to updates the repository[2].json reference and publish the changes.
-The update source is currently available via [repository.json](https://www.fichtelbahn.de/files/decoderDB/repository.json) / [repository2.json](https://www.fichtelbahn.de/files/decoderDB/repository2.json)
-
-The `repository.json` contains the reference links to the orginal _.decdb_ files, while `repository2.json` references the new _.json_ files.
-
-Changes to the editor sources within `src/Editor` will trigger the editor workflow accordingly, which is currently published to https://www.fichtelbahn.de/files/decoderDB .
+Every commit / push within the `repo/` folder on main branch triggers the workflow to updates the repository.json reference and publish the changes.
+The update source is currently available via [repository.json](https://decoderdb.bidib.org/repository.json)
 
 Changes to the generator code does not trigger any workflow at the moment.
 
