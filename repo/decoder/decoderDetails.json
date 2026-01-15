@@ -4072,5 +4072,22 @@
     "lastUpdate": "2023-01-30T19:34:35.000",
     "sha1": "36ae1a1c962709563072425c6f85f54d2e68bdf6",
     "fileSize": 586
-  }
+  },
+  {
+    "name": "Weichenheizung",
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "filename": "Decoder_160_Weichenheizung.json",
+    "lastUpdate": "2026-01-15T19:16:16.189Z",
+    "created": "2025-12-29T21:56:02.933Z",
+    "type": "standardAccessory",
+    "typeIds": "4405",
+    "length": 220,
+    "width": 70,
+    "height": 1.6,
+    "maxTotalCurrent": 1,
+    "maxVoltage": 27,
+    "functionOutputs": 0,
+    "fileSize": 535
+   }
 ]

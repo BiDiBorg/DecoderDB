@@ -4451,5 +4451,15 @@
     "lastUpdate": "2020-10-28T12:45:06.000",
     "sha1": "48523b6adf1785fca2f4cd298bbeb81ad2ce5ac4",
     "fileSize": 65605
-  }
+  },
+  {
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "version": "1.0",
+    "versionExtension": "",
+    "filename": "Firmware_160_1.0.json",
+    "lastUpdate": "2026-01-15T20:44:47.880Z",
+    "created": "2025-12-30T00:00:34.00",
+    "fileSize": 8303
+    }
 ]
