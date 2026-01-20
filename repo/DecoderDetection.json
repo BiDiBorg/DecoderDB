@@ -1,1 +1,1698 @@
-{"version":{"createdBy":"DecoderDB","creatorLink":"www.decoderdb.de","lastUpdate":"2024-05-13T14:39:39","created":"0001-01-01T00:00:00.000"},"protocols":[{"default":[{"items":[{"number":8,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"manufacturerId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"8","indexHigh":0,"indexLow":0,"value":"13"}],"value":"valid"}]},{"cvs":[{"number":108,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":107,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"int","options":"bitList","id":"108","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"manufacturerExtendedId"},{"items":[{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"manufacturer":[{"detection":[{"items":[{"number":111,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":109,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":110,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"},{"items":[{"cvs":[{"number":103,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":104,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"int","options":"bitList","id":"284","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"serialNumber"}],"id":13,"extendedId":257,"name":"OpenCarSystem","shortName":"OpenCar"},{"detection":[{"items":[{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":255,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":253,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":20,"extendedId":0,"name":"T4T - Technology for Trains GmbH","shortName":"T4T"},{"detection":[{"items":[{"number":255,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"}],"id":57,"extendedId":0,"name":"Rampino Elektronik","shortName":"Rampino"},{"detection":[{"items":[{"number":61,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":62,"extendedId":0,"name":"Tams Elektronik GmbH","shortName":"Tams"},{"detection":[{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"unEqual","cv":"230","indexHigh":0,"indexLow":0,"value":"0"}],"value":"valid"}]},{"number":230,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"}],"id":64,"extendedId":0,"name":"Digital Bahn","shortName":"Digital Bahn"},{"detection":[{"items":[{"cvs":[{"number":8,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":508,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":509,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":510,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"2929","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":253,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":254,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"cvs":[{"number":256,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":255,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"int","options":"bitList","id":"1733","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":78,"extendedId":0,"name":"Tehnologistic (train-O-matic)","shortName":"train-O-matic"},{"detection":[{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"valid","cv":"31","indexHigh":0,"indexLow":0},{"type":"relational","operation":"valid","cv":"32","indexHigh":0,"indexLow":0}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"cvs":[{"number":261,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":262,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":263,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":264,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"275","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"valid","cv":"31","indexHigh":0,"indexLow":0},{"type":"relational","operation":"valid","cv":"32","indexHigh":0,"indexLow":0}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"cvs":[{"number":265,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":266,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":267,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":268,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"274","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"serialNumber"}],"id":85,"extendedId":0,"name":"Uhlenbrock GmbH","shortName":"Uhlenbrock"},{"detection":[{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"greater","cv":"7","indexHigh":0,"indexLow":0,"value":"10"},{"type":"relational","operation":"valid","cv":"261","indexHigh":0,"indexLow":0}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":261,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"greater","cv":"7","indexHigh":0,"indexLow":0,"value":"10"},{"type":"relational","operation":"valid","cv":"262","indexHigh":0,"indexLow":0}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":262,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":264,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":265,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":97,"extendedId":0,"name":"Doehler & Haass","shortName":"D&H"},{"detection":[{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"1"}],"value":"valid"}]},{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"unEqual","cv":"128","indexHigh":0,"indexLow":0,"value":"0"}],"value":"valid"}]},{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"unEqual","cv":"128","indexHigh":0,"indexLow":0,"value":"0"}],"value":"valid"}]},{"number":128,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":99,"extendedId":0,"name":"Lenz Elektronik GmbH","shortName":"Lenz"},{"detection":[{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"valid","cv":"255","indexHigh":0,"indexLow":0},{"type":"relational","operation":"greater","cv":"252","indexHigh":0,"indexLow":0,"value":"0"}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":255,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":252,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"valid","cv":"255","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":255,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"}],"id":109,"extendedId":0,"name":"Viessmann Modellspielwaren GmbH","shortName":"Viessmann"},{"detection":[{"items":[{"number":128,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"}],"id":115,"extendedId":0,"name":"Dietz Modellbahntechnik","shortName":"Dietz"},{"detection":[{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"valid","cv":"31","indexHigh":0,"indexLow":0},{"type":"relational","operation":"valid","cv":"32","indexHigh":0,"indexLow":0},{"type":"relational","operation":"equal","cv":"260","indexHigh":255,"indexLow":255,"value":"131"}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"cvs":[{"number":264,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":263,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":262,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":261,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"2709","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"valid","cv":"31","indexHigh":0,"indexLow":0},{"type":"relational","operation":"valid","cv":"32","indexHigh":0,"indexLow":0},{"type":"relational","operation":"equal","cv":"260","indexHigh":255,"indexLow":255,"value":"131"}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":271,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":272,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":273,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":274,"type":"byte","indexHigh":255,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"3"},{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"27"}],"value":"valid"}]}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"3"}],"value":"valid"}]}],"type":"firmwareVersion"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"27"}],"value":"valid"}]}],"type":"firmwareVersion"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"47"}],"value":"valid"}]}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"47"}],"value":"valid"}]}],"type":"firmwareVersion"}],"id":131,"extendedId":0,"name":"Trix Modelleisenbahn","shortName":"Trix"},{"detection":[{"items":[{"number":250,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":65,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"},{"items":[{"cvs":[{"number":250,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":251,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":252,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":253,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"288","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"serialNumber"}],"id":145,"extendedId":0,"name":"Zimo Elektronik","shortName":"Zimo"},{"detection":[{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"16-22;40-43;48;56;88-89"}],"value":"valid"}]},{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"104"}],"value":"valid"}]}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"105"}],"value":"valid"}]}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"59"}],"value":"valid"}]}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"255"}],"value":"valid"}]},{"cvs":[{"number":261,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":262,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":263,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":264,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"275","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"255"}],"value":"valid"}]},{"number":288,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":287,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"cvs":[{"number":285,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":286,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"int","options":"bitList","id":"273","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"7","indexHigh":0,"indexLow":0,"value":"255"}],"value":"valid"}]},{"cvs":[{"number":265,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":266,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":267,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":268,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"274","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"serialNumber"}],"id":151,"extendedId":0,"name":"Electronic Solutions Ulm GmbH","shortName":"ESU"},{"detection":[{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"valid","cv":"127","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":127,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":157,"extendedId":0,"name":"Kühn Ing.","shortName":"Kühn"},{"detection":[{"items":[{"number":105,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":106,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":7,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":160,"extendedId":0,"name":"micron-dynamics","shortName":"mXion"},{"detection":[{"items":[{"triggers":[{"conditions":[{"conditions":[{"type":"relational","operation":"valid","cv":"31","indexHigh":0,"indexLow":0},{"type":"relational","operation":"valid","cv":"32","indexHigh":0,"indexLow":0}],"type":"logical","operation":"and","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"cvs":[{"number":261,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":262,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":263,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":264,"type":"byte","indexHigh":0,"indexLow":255,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"long","options":"bitList","id":"275","defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"}],"id":162,"extendedId":0,"name":"PIKO Spielwaren GmbH","shortName":"PIKO"}],"type":"dcc"},{"default":[{"items":[{"number":101,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"manufacturerId"},{"items":[{"number":102,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":103,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":105,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":106,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"type":"sX2"},{"default":[{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"valid","cv":"1021","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":900,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"manufacturerId"},{"items":[{"number":900,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"manufacturerId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"valid","cv":"1021","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":900,"type":"byte","indexHigh":1,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"valid","cv":"1021","indexHigh":0,"indexLow":0}],"value":"valid"}]},{"number":901,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":901,"type":"byte","indexHigh":1,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"},{"items":[{"number":901,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"manufacturer":[{"detection":[{"items":[{"number":900,"type":"byte","indexHigh":1,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"}],"id":85,"extendedId":0,"name":"Uhlenbrock GmbH","shortName":"Uhlenbrock"},{"detection":[{"items":[{"triggers":[{"conditions":[{"type":"relational","operation":"equal","cv":"901","indexHigh":0,"indexLow":0,"value":"51"}],"value":"valid"}]}],"type":"decoderId"},{"items":[{"number":901,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"decoderId"},{"items":[{"number":902,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":904,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false},{"number":905,"type":"byte","indexHigh":0,"indexLow":0,"initialRead":false,"isCustom":false,"defaultValue":0,"mode":"ro","pomWriteExclude":false}],"type":"firmwareVersion"}],"id":97,"extendedId":0,"name":"Doehler & Haass","shortName":"D&H"}],"type":"susi"}]}
+{
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "www.decoderdb.de",
+    "lastUpdate": "2024-05-13T14:39:39",
+    "created": "0001-01-01T00:00:00.000"
+  },
+  "protocols": [
+    {
+      "default": [
+        {
+          "items": [
+            {
+              "number": 8,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "manufacturerId"
+        },
+        {
+          "items": [
+            {
+              "triggers": [
+                {
+                  "conditions": [
+                    {
+                      "type": "relational",
+                      "operation": "equal",
+                      "cv": "8",
+                      "value": "13"
+                    }
+                  ],
+                  "value": "valid"
+                }
+              ]
+            },
+            {
+              "cvs": [
+                {
+                  "number": 108,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 107,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "int",
+              "id": "108",
+              "mode": "ro"
+            }
+          ],
+          "type": "manufacturerExtendedId"
+        },
+        {
+          "items": [
+            {
+              "number": 7,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "firmwareVersion"
+        }
+      ],
+      "manufacturer": [
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 111,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 109,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 110,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1}.{2}"
+            },
+            {
+              "items": [
+                {
+                  "cvs": [
+                    {
+                      "number": 103,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 104,
+                      "type": "byte",
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "int",
+                  "id": "284",
+                  "mode": "ro"
+                }
+              ],
+              "type": "serialNumber"
+            }
+          ],
+          "id": 13,
+          "extendedId": 257,
+          "name": "OpenCarSystem",
+          "shortName": "OpenCar"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 255,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 253,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0:M0x07}.{0:M0x78}R{1}"
+            }
+          ],
+          "id": 20,
+          "extendedId": 0,
+          "name": "T4T - Technology for Trains GmbH",
+          "shortName": "T4T"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 255,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            }
+          ],
+          "id": 57,
+          "extendedId": 0,
+          "name": "Rampino Elektronik",
+          "shortName": "Rampino"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 61,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0:M0d110}.{0:M0d1}"
+            }
+          ],
+          "id": 62,
+          "extendedId": 0,
+          "name": "Tams Elektronik GmbH",
+          "shortName": "Tams"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "unEqual",
+                          "cv": "230",
+                          "value": "0"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 230,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            }
+          ],
+          "id": 64,
+          "extendedId": 0,
+          "name": "Digital Bahn",
+          "shortName": "Digital Bahn"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "cvs": [
+                    {
+                      "number": 8,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 508,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 509,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 510,
+                      "type": "byte",
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "2929",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 253,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 254,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 256,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 255,
+                      "type": "byte",
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "int",
+                  "id": "1733",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1}.{2}"
+            }
+          ],
+          "id": 78,
+          "extendedId": 0,
+          "name": "Tehnologistic (train-O-matic)",
+          "shortName": "train-O-matic"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "31"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "32"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 261,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 262,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 263,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 264,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "275",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "displayFormat": "{0:M0xFF000000}{0:M0xFF0000:F0#}{0:M0xFF00:F0#}",
+              "indexHigh": 31,
+              "indexLow": 32
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "31"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "32"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 265,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 266,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 267,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 268,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "274",
+                  "mode": "ro"
+                }
+              ],
+              "type": "serialNumber",
+              "displayFormat": "{0:X:F0000000#}",
+              "indexHigh": 31,
+              "indexLow": 32
+            }
+          ],
+          "id": 85,
+          "extendedId": 0,
+          "name": "Uhlenbrock GmbH",
+          "shortName": "Uhlenbrock"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "greater",
+                              "cv": "7",
+                              "value": "10"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "261"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 261,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "greater",
+                              "cv": "7",
+                              "value": "10"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "262"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 262,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 264,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 265,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1:F0#}.{2}"
+            }
+          ],
+          "id": 97,
+          "extendedId": 0,
+          "name": "Doehler & Haass",
+          "shortName": "D&H"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "1"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "unEqual",
+                          "cv": "128",
+                          "value": "0"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "unEqual",
+                          "cv": "128",
+                          "value": "0"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 128,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion"
+            }
+          ],
+          "id": 99,
+          "extendedId": 0,
+          "name": "Lenz Elektronik GmbH",
+          "shortName": "Lenz"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "255"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "greater",
+                              "cv": "252",
+                              "value": "0"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 255,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 252,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "displayFormat": "{0}.{1}"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "valid",
+                          "cv": "255"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 255,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            }
+          ],
+          "id": 109,
+          "extendedId": 0,
+          "name": "Viessmann Modellspielwaren GmbH",
+          "shortName": "Viessmann"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 128,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            }
+          ],
+          "id": 115,
+          "extendedId": 0,
+          "name": "Dietz Modellbahntechnik",
+          "shortName": "Dietz"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "31"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "32"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "equal",
+                              "cv": "260",
+                              "indexHigh": 255,
+                              "indexLow": 255,
+                              "value": "131"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 264,
+                      "type": "byte",
+                      "indexHigh": 255,
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 263,
+                      "type": "byte",
+                      "indexHigh": 255,
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 262,
+                      "type": "byte",
+                      "indexHigh": 255,
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 261,
+                      "type": "byte",
+                      "indexHigh": 255,
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "2709",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "indexHigh": 31,
+              "indexLow": 32
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "31"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "32"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "equal",
+                              "cv": "260",
+                              "indexHigh": 255,
+                              "indexLow": 255,
+                              "value": "131"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 271,
+                  "type": "byte",
+                  "indexHigh": 255,
+                  "indexLow": 255,
+                  "mode": "ro"
+                },
+                {
+                  "number": 272,
+                  "type": "byte",
+                  "indexHigh": 255,
+                  "indexLow": 255,
+                  "mode": "ro"
+                },
+                {
+                  "number": 273,
+                  "type": "byte",
+                  "indexHigh": 255,
+                  "indexLow": 255,
+                  "mode": "ro"
+                },
+                {
+                  "number": 274,
+                  "type": "byte",
+                  "indexHigh": 255,
+                  "indexLow": 255,
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1}.{2}.{3}",
+              "indexHigh": 31,
+              "indexLow": 32
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "3"
+                        },
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "27"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "decoderId",
+              "value": "141",
+              "valueName": "66840B"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "3"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "firmwareVersion",
+              "value": "3.01.102"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "27"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "firmwareVersion",
+              "value": "3.08.27"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "47"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "decoderId",
+              "value": "141",
+              "valueName": "66857"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "47"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "firmwareVersion",
+              "value": "3.09.47"
+            }
+          ],
+          "id": 131,
+          "extendedId": 0,
+          "name": "Trix Modelleisenbahn",
+          "shortName": "Trix"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 250,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 65,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1}"
+            },
+            {
+              "items": [
+                {
+                  "cvs": [
+                    {
+                      "number": 250,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 251,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 252,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 253,
+                      "type": "byte",
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "288",
+                  "mode": "ro"
+                }
+              ],
+              "type": "serialNumber"
+            }
+          ],
+          "id": 145,
+          "extendedId": 0,
+          "name": "Zimo Elektronik",
+          "shortName": "Zimo"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "16-22;40-43;48;56;88-89"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "104"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "decoderId",
+              "value": "33554460",
+              "valueName": "LokPilot V3.0"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "105"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "decoderId",
+              "value": "33554461",
+              "valueName": "LokPilot V3.0 DCC"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "59"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "decoderId",
+              "value": "16777229",
+              "valueName": "LokSound V3.5"
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "255"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 261,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 262,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 263,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 264,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "275",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "displayFormat": "{0:X:F0000000#}",
+              "indexHigh": 31,
+              "indexLow": 32
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "255"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 288,
+                  "type": "byte",
+                  "indexLow": 255,
+                  "mode": "ro"
+                },
+                {
+                  "number": 287,
+                  "type": "byte",
+                  "indexLow": 255,
+                  "mode": "ro"
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 285,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 286,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "int",
+                  "id": "273",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1}.{2}",
+              "indexHigh": 31,
+              "indexLow": 32
+            },
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "7",
+                          "value": "255"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 265,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 266,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 267,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 268,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "274",
+                  "mode": "ro"
+                }
+              ],
+              "type": "serialNumber",
+              "displayFormat": "{0:X:F0000000#}",
+              "indexHigh": 31,
+              "indexLow": 32
+            }
+          ],
+          "id": 151,
+          "extendedId": 0,
+          "name": "Electronic Solutions Ulm GmbH",
+          "shortName": "ESU"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "valid",
+                          "cv": "127"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 127,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1}"
+            }
+          ],
+          "id": 157,
+          "extendedId": 0,
+          "name": "Kühn Ing.",
+          "shortName": "Kühn"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 105,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 106,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "displayFormat": "{0}.{1}"
+            },
+            {
+              "items": [
+                {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0:M0d110}.{0:M0d1}"
+            }
+          ],
+          "id": 160,
+          "extendedId": 0,
+          "name": "micron-dynamics",
+          "shortName": "mXion"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "conditions": [
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "31"
+                            },
+                            {
+                              "type": "relational",
+                              "operation": "valid",
+                              "cv": "32"
+                            }
+                          ],
+                          "type": "logical",
+                          "operation": "and"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                },
+                {
+                  "cvs": [
+                    {
+                      "number": 261,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 262,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 263,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 264,
+                      "type": "byte",
+                      "indexLow": 255,
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "long",
+                  "id": "275",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "displayFormat": "{0:M0xFF:F0#}{0:M0xFF00:F0#}{0:M0xFF0000:M0d10}",
+              "indexHigh": 31,
+              "indexLow": 32
+            }
+          ],
+          "id": 162,
+          "extendedId": 0,
+          "name": "PIKO Spielwaren GmbH",
+          "shortName": "PIKO"
+        }
+      ],
+      "type": "dcc"
+    },
+    {
+      "default": [
+        {
+          "items": [
+            {
+              "number": 101,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "manufacturerId"
+        },
+        {
+          "items": [
+            {
+              "number": 102,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "decoderId"
+        },
+        {
+          "items": [
+            {
+              "number": 103,
+              "type": "byte",
+              "mode": "ro"
+            },
+            {
+              "number": 105,
+              "type": "byte",
+              "mode": "ro"
+            },
+            {
+              "number": 106,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "firmwareVersion",
+          "displayFormat": "{0}.{1:F0#}.{2}"
+        }
+      ],
+      "type": "sX2"
+    },
+    {
+      "default": [
+        {
+          "items": [
+            {
+              "triggers": [
+                {
+                  "conditions": [
+                    {
+                      "type": "relational",
+                      "operation": "valid",
+                      "cv": "1021"
+                    }
+                  ],
+                  "value": "valid"
+                }
+              ]
+            },
+            {
+              "number": 900,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "manufacturerId",
+          "indexHigh": 1021
+        },
+        {
+          "items": [
+            {
+              "number": 900,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "manufacturerId"
+        },
+        {
+          "items": [
+            {
+              "triggers": [
+                {
+                  "conditions": [
+                    {
+                      "type": "relational",
+                      "operation": "valid",
+                      "cv": "1021"
+                    }
+                  ],
+                  "value": "valid"
+                }
+              ]
+            },
+            {
+              "number": 900,
+              "type": "byte",
+              "indexHigh": 1,
+              "mode": "ro"
+            }
+          ],
+          "type": "decoderId",
+          "indexHigh": 1021
+        },
+        {
+          "items": [
+            {
+              "triggers": [
+                {
+                  "conditions": [
+                    {
+                      "type": "relational",
+                      "operation": "valid",
+                      "cv": "1021"
+                    }
+                  ],
+                  "value": "valid"
+                }
+              ]
+            },
+            {
+              "number": 901,
+              "type": "byte",
+              "mode": "ro"
+            },
+            {
+              "number": 901,
+              "type": "byte",
+              "indexHigh": 1,
+              "mode": "ro"
+            }
+          ],
+          "type": "firmwareVersion",
+          "displayFormat": "{0}.{1}",
+          "indexHigh": 1021
+        },
+        {
+          "items": [
+            {
+              "number": 901,
+              "type": "byte",
+              "mode": "ro"
+            }
+          ],
+          "type": "firmwareVersion"
+        }
+      ],
+      "manufacturer": [
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "number": 900,
+                  "type": "byte",
+                  "indexHigh": 1,
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId",
+              "indexHigh": 1021
+            }
+          ],
+          "id": 85,
+          "extendedId": 0,
+          "name": "Uhlenbrock GmbH",
+          "shortName": "Uhlenbrock"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "triggers": [
+                    {
+                      "conditions": [
+                        {
+                          "type": "relational",
+                          "operation": "equal",
+                          "cv": "901",
+                          "value": "51"
+                        }
+                      ],
+                      "value": "valid"
+                    }
+                  ]
+                }
+              ],
+              "type": "decoderId",
+              "value": "51",
+              "valueName": "DHZ400"
+            },
+            {
+              "items": [
+                {
+                  "number": 901,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 902,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 904,
+                  "type": "byte",
+                  "mode": "ro"
+                },
+                {
+                  "number": 905,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion",
+              "displayFormat": "{0}.{1:F0#}.{2}"
+            }
+          ],
+          "id": 97,
+          "extendedId": 0,
+          "name": "Doehler & Haass",
+          "shortName": "D&H"
+        }
+      ],
+      "type": "susi"
+    }
+  ]
+}
