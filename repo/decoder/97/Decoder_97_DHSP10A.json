@@ -1,1 +1,44 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li data-list-item-id=\"ecde85d5ad0358fa01b7f5abcd25225ae\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder DCC-Format</li><li data-list-item-id=\"e0ea2bafd3459cdd3bd237e60cfc59461\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"e8db139fd429fbb3658069ef45a61009c\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"e0ac6d7d2f1bfc5619c5869cb6a3c90de\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"eb1ead981df798daf392b27289c96768b\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"e15e44bdc6182029d75be6c21eac41a9a\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"ecb05d80c8efb9d8cd33d321cef380dda\">Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li data-list-item-id=\"ebcf0b4c2bddcc6988bda67289e2983f4\">Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li data-list-item-id=\"e892dda116507a66ab7596978acb3c272\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e0c98549840337df7f3f216e279df0426\">Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li data-list-item-id=\"ee15547d5985a20c62f4d31190b631074\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"e79ece1953e75b0919775c37e8ddf7653\">Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li data-list-item-id=\"eed82e0eb8c911ea2efa305801002d46d\">Rangiergang</li><li data-list-item-id=\"e613692632eed3050936e33e89b9b6b29\">Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"e6422800bb9aba0795defa0b205b3915d\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"e811725324037f21e03d462e55ffd411a\">Temperaturschutz</li><li data-list-item-id=\"ef0a0a37c51cebf1447f1003a8544d14d\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e8276c43ca985b314065dd8bc48b27226\"><p>Updatefähigkeit des Decoders<br>&nbsp;</p><p>Der Fahrzeugdecoder <strong>DHSP10A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).<br>&nbsp;</p><p>Für die SX1-Programmierung ist ein an die Versorgungsspannung (VS) angeschlossenes SUSI-Modul bzw. eine angeschlossene Pufferung zu entfernen. Es reicht aus, die Versorgungsspannung (roter Draht bei SUSI) für die Zeit der SX1-Programmierung zu unterbrechen. Die SX2- bzw. DCC-Programmierung ist hiervon nicht betroffen.</p><p>Generell gilt: Für die SX1-Programmierung kann keine Gewähr übernommen werden. <a href=\"https://doehler-haass.de/cms/pages/haeufige-fragen.php#a2bc\">Den SX1-Betrieb richten Sie bitte mit der SX2-Parameterprogrammierung ein.</a></p></li></ul>"}],"specifications":{"dimensions":{"length":12.7,"width":8.9,"height":3.6},"electrical":{"maxTotalCurrent":1.5,"maxMotorCurrent":0.7,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Pad;Cable;NEM651;NEM651+Cable"}},"images":[{"name":"DHSP10A.png","source":"https://decoderdb.bidib.org/decoder/97/images/DHSP10A.png","lastModified":"2025-11-16T11:55:26","copyright":"Doehler & Haass"}],"name":"DHSP10A","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"110","articleNumbers":"DHSP10A-0;DHSP-10A-1;DHSP10A-2;DHSP10A-3;DHSP10A-4","producedFrom":"2025","decoderDBLink":"https://www.decoderdb.de/?decoderPage=243"},"sourceFile":"Decoder_97_DHSP10A.decdb","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Oliver Kwijas","lastUpdate":"2025-11-16T11:55:26","created":"2022-01-22T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li data-list-item-id=\"ecde85d5ad0358fa01b7f5abcd25225ae\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder DCC-Format</li><li data-list-item-id=\"e0ea2bafd3459cdd3bd237e60cfc59461\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"e8db139fd429fbb3658069ef45a61009c\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"e0ac6d7d2f1bfc5619c5869cb6a3c90de\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"eb1ead981df798daf392b27289c96768b\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"e15e44bdc6182029d75be6c21eac41a9a\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"ecb05d80c8efb9d8cd33d321cef380dda\">Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li data-list-item-id=\"ebcf0b4c2bddcc6988bda67289e2983f4\">Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li data-list-item-id=\"e892dda116507a66ab7596978acb3c272\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e0c98549840337df7f3f216e279df0426\">Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li data-list-item-id=\"ee15547d5985a20c62f4d31190b631074\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"e79ece1953e75b0919775c37e8ddf7653\">Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li data-list-item-id=\"eed82e0eb8c911ea2efa305801002d46d\">Rangiergang</li><li data-list-item-id=\"e613692632eed3050936e33e89b9b6b29\">Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"e6422800bb9aba0795defa0b205b3915d\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"e811725324037f21e03d462e55ffd411a\">Temperaturschutz</li><li data-list-item-id=\"ef0a0a37c51cebf1447f1003a8544d14d\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e8276c43ca985b314065dd8bc48b27226\"><p>Updatefähigkeit des Decoders<br>&nbsp;</p><p>Der Fahrzeugdecoder <strong>DHSP10A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).<br>&nbsp;</p><p>Für die SX1-Programmierung ist ein an die Versorgungsspannung (VS) angeschlossenes SUSI-Modul bzw. eine angeschlossene Pufferung zu entfernen. Es reicht aus, die Versorgungsspannung (roter Draht bei SUSI) für die Zeit der SX1-Programmierung zu unterbrechen. Die SX2- bzw. DCC-Programmierung ist hiervon nicht betroffen.</p><p>Generell gilt: Für die SX1-Programmierung kann keine Gewähr übernommen werden. <a href=\"https://doehler-haass.de/cms/pages/haeufige-fragen.php#a2bc\">Den SX1-Betrieb richten Sie bitte mit der SX2-Parameterprogrammierung ein.</a></p></li></ul>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 12.7, "width": 8.9, "height": 3.6 },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 0.7,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Pad;Cable;NEM651;NEM651+Cable" }
+    },
+    "images": [
+      {
+        "name": "DHSP10A.png",
+        "source": "https://decoderdb.bidib.org/decoder/97/images//DHSP10A.png",
+        "lastModified": "2025-11-16T11:55:26",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "DHSP10A",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "110",
+    "articleNumbers": "DHSP10A-0;DHSP-10A-1;DHSP10A-2;DHSP10A-3;DHSP10A-4",
+    "producedFrom": "2025",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/DHSP10A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Oliver Kwijas",
+    "lastUpdate": "2025-11-16T11:55:26",
+    "created": "2022-01-22T00:00:00.000"
+  }
+}

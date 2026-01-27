@@ -1,1 +1,44 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li>Intern 127 Fahrstufen</li><li>Einstellbare Motorfrequenz (16 kHz, 32 kHz)</li><li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li>Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li>Rangiergang</li><li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li>Alle Funktionsausgänge frei programmierbar</li><li>Temperaturschutz</li><li>Resetfunktion für DCC und SX2</li><li>Updatefähigkeit des Decoders</li><li>Keine Unterstützung der Betriebsart MM</li><li>Keine Unterstützung der SX1-Programmierung (der SX1-Betrieb ist aber durch die SX2-Parameterprogrammierung möglich)</li><li>Keine SUSI-Schnittstelle</li><li>Keine niederfrequente Motoransteuerung (16 kHz oder 32 kHz sind aber wählbar)</li><li>Keine erweiterten Funktionszuordnungen (das heißt: keine Bedingungen, kein Initialmapping usw.)</li><li>Kein automatischer Kupplungsablauf</li><li>Kein Bremsen mit asymmetrischer Digitalspannung und keine Langsamfahrt</li><li>Keine Bremsrampe</li></ul>\r\n<p>Der Fahrzeugdecoder <strong>PD06A</strong> unterstützt die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>\r\n<p>Der Fahrzeugdecoder <strong>PD06A</strong> unterstützt keine SX1-Programmierung. Den SX1-Betrieb richten Sie bitte mit der SX2-Parameterprogrammierung ein.</p>"}],"specifications":{"dimensions":{"length":6.8,"width":11.4,"height":2.8},"electrical":{"maxTotalCurrent":0.5,"maxMotorCurrent":0.2,"peakCurrent":0.0,"maxVoltage":18.0,"functionOutputs":0.0},"connectors":{"list":"Pad;Cable"}},"images":[{"name":"PD06A-0.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/PD06A-0.jpg","lastModified":"2025-09-27T12:56:21","copyright":"Doehler & Haass"}],"name":"PD06A","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"132","articleNumbers":"PD06A-0;PD06-3","producedFrom":"2019","decoderDBLink":"https://www.decoderdb.de/?decoderPage=124"},"sourceFile":"Decoder_97_PD06A.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Oliver Kwijas","lastUpdate":"2025-09-27T12:56:21","created":"2019-01-05T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li>Intern 127 Fahrstufen</li><li>Einstellbare Motorfrequenz (16 kHz, 32 kHz)</li><li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li>Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li>Rangiergang</li><li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li>Alle Funktionsausgänge frei programmierbar</li><li>Temperaturschutz</li><li>Resetfunktion für DCC und SX2</li><li>Updatefähigkeit des Decoders</li><li>Keine Unterstützung der Betriebsart MM</li><li>Keine Unterstützung der SX1-Programmierung (der SX1-Betrieb ist aber durch die SX2-Parameterprogrammierung möglich)</li><li>Keine SUSI-Schnittstelle</li><li>Keine niederfrequente Motoransteuerung (16 kHz oder 32 kHz sind aber wählbar)</li><li>Keine erweiterten Funktionszuordnungen (das heißt: keine Bedingungen, kein Initialmapping usw.)</li><li>Kein automatischer Kupplungsablauf</li><li>Kein Bremsen mit asymmetrischer Digitalspannung und keine Langsamfahrt</li><li>Keine Bremsrampe</li></ul>\n<p>Der Fahrzeugdecoder <strong>PD06A</strong> unterstützt die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>\n<p>Der Fahrzeugdecoder <strong>PD06A</strong> unterstützt keine SX1-Programmierung. Den SX1-Betrieb richten Sie bitte mit der SX2-Parameterprogrammierung ein.</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 6.8, "width": 11.4, "height": 2.8 },
+      "electrical": {
+        "maxTotalCurrent": 0.5,
+        "maxMotorCurrent": 0.2,
+        "peakCurrent": 0.0,
+        "maxVoltage": 18.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Pad;Cable" }
+    },
+    "images": [
+      {
+        "name": "PD06A-0.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/PD06A-0.jpg",
+        "lastModified": "2025-09-27T12:56:21",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "PD06A",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "132",
+    "articleNumbers": "PD06A-0;PD06-3",
+    "producedFrom": "2019",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/PD06A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Oliver Kwijas",
+    "lastUpdate": "2025-09-27T12:56:21",
+    "created": "2019-01-05T00:00:00.000"
+  }
+}

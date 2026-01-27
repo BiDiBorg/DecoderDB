@@ -1,1 +1,50 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li data-list-item-id=\"e841874eca73561045303c9bd9aca4ead\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li data-list-item-id=\"e11c624f3f7ac9176e19748d1c5c08b01\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"edec78b6edf2bc18c41d4e33cd9a4bda1\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"ea222c36a3353f5f5c831b47b6614d28e\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"ee3fddff89cd7ee523df40402a97a33bf\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"ee5cca1d8897c3cb02ecb83049347b3c5\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"e16bd13d55c6608507e004b00c6fe32be\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e21ca9c46d1c4e3f80ee88394f76852a6\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"eb9c9768446bca60c588509cac5931f88\">Licht- und Funktionsausgänge (teilweise) dimmbar und analog aktivierbar</li><li data-list-item-id=\"e1bc349b7f287e9bdd37fb69c386ecfe8\">Rangiergang</li><li data-list-item-id=\"ee387a8af94f9fbc915dae8bb776ba26b\">Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"ecb38b4252800cd61ff5fd278e35a15f9\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"ee040482e76ea31ef7fc01a8f97738bd8\">Temperaturschutz</li><li data-list-item-id=\"e644c6ae5d1572278711fe21db4f35bcc\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e08fb258e9820a293a584de330cb2e5df\">Updatefähigkeit des Decoders</li></ul>\r\n<p>Der Fahrzeugfunktionsdecoder <strong>FH18A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"}],"specifications":{"dimensions":{"length":9.7,"width":8.9,"height":2.8},"electrical":{"maxTotalCurrent":1.5,"maxMotorCurrent":0.0,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Next18"}},"images":[{"name":"FH18A-oben.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/FH18A-oben.jpg","lastModified":"2025-10-24T20:18:29","copyright":"Doehler & Haass"},{"name":"FH18A-unten2.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/FH18A-unten2.jpg","lastModified":"2025-10-24T20:18:29","copyright":"Doehler & Haass"}],"name":"FH18A","type":"function","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"170","articleNumbers":"FH18A","producedFrom":"2018","decoderDBLink":"https://www.decoderdb.de/?decoderPage=118"},"sourceFile":"Decoder_97_FH18A.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Oliver Kwijas","lastUpdate":"2025-10-24T20:18:29","created":"2018-12-17T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li data-list-item-id=\"e841874eca73561045303c9bd9aca4ead\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li data-list-item-id=\"e11c624f3f7ac9176e19748d1c5c08b01\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"edec78b6edf2bc18c41d4e33cd9a4bda1\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"ea222c36a3353f5f5c831b47b6614d28e\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"ee3fddff89cd7ee523df40402a97a33bf\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"ee5cca1d8897c3cb02ecb83049347b3c5\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"e16bd13d55c6608507e004b00c6fe32be\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e21ca9c46d1c4e3f80ee88394f76852a6\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"eb9c9768446bca60c588509cac5931f88\">Licht- und Funktionsausgänge (teilweise) dimmbar und analog aktivierbar</li><li data-list-item-id=\"e1bc349b7f287e9bdd37fb69c386ecfe8\">Rangiergang</li><li data-list-item-id=\"ee387a8af94f9fbc915dae8bb776ba26b\">Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"ecb38b4252800cd61ff5fd278e35a15f9\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"ee040482e76ea31ef7fc01a8f97738bd8\">Temperaturschutz</li><li data-list-item-id=\"e644c6ae5d1572278711fe21db4f35bcc\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e08fb258e9820a293a584de330cb2e5df\">Updatefähigkeit des Decoders</li></ul>\n<p>Der Fahrzeugfunktionsdecoder <strong>FH18A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 9.7, "width": 8.9, "height": 2.8 },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Next18" }
+    },
+    "images": [
+      {
+        "name": "FH18A-oben.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/FH18A-oben.jpg",
+        "lastModified": "2025-10-24T20:18:29",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "FH18A-unten2.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/FH18A/FH18A-unten2.jpg",
+        "lastModified": "2025-10-24T20:18:29",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "FH18A",
+    "type": "function",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "170",
+    "articleNumbers": "FH18A",
+    "producedFrom": "2018",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/FH18A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Oliver Kwijas",
+    "lastUpdate": "2025-10-24T20:18:29",
+    "created": "2018-12-17T00:00:00.000"
+  }
+}

@@ -1,1 +1,50 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li>Intern 127 Fahrstufen</li><li>Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li>Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li>Rangiergang</li><li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li>Alle Funktionsausgänge frei programmierbar</li><li>Temperaturschutz</li><li>Resetfunktion für DCC und SX2</li><li>Updatefähigkeit des Decoders</li></ul>\r\n<p>Der Fahrzeugdecoder <strong>DH10C</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"}],"specifications":{"dimensions":{"length":12.7,"width":8.9,"height":1.4},"electrical":{"maxTotalCurrent":1.5,"maxMotorCurrent":1.5,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Pad;Cable;NEM651;NEM651+Cable"}},"images":[{"name":"DH10C-0.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/DH10C-0.jpg","lastModified":"2025-09-27T12:42:45","copyright":"Doehler & Haass"},{"name":"DH10C_unten.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/DH10C_unten.jpg","lastModified":"2025-09-27T12:42:45","copyright":"Doehler & Haass"}],"name":"DH10C","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"102","articleNumbers":"DH10C-0;DH10C-1;DH10-2;DH10C-3;DH10C-4","producedFrom":"2012","decoderDBLink":"https://www.decoderdb.de/?decoderPage=2"},"sourceFile":"Decoder_97_DH10C.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2025-09-27T12:42:45","created":"2016-05-09T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li>Intern 127 Fahrstufen</li><li>Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li>Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li>Rangiergang</li><li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li>Alle Funktionsausgänge frei programmierbar</li><li>Temperaturschutz</li><li>Resetfunktion für DCC und SX2</li><li>Updatefähigkeit des Decoders</li></ul>\n<p>Der Fahrzeugdecoder <strong>DH10C</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 12.7, "width": 8.9, "height": 1.4 },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 1.5,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Pad;Cable;NEM651;NEM651+Cable" }
+    },
+    "images": [
+      {
+        "name": "DH10C-0.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH10C-0.jpg",
+        "lastModified": "2025-09-27T12:42:45",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH10C_unten.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH10C_unten.jpg",
+        "lastModified": "2025-09-27T12:42:45",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "DH10C",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "102",
+    "articleNumbers": "DH10C-0;DH10C-1;DH10-2;DH10C-3;DH10C-4",
+    "producedFrom": "2012",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/DH10C"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-09-27T12:42:45",
+    "created": "2016-05-09T00:00:00.000"
+  }
+}

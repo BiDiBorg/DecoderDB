@@ -1,1 +1,56 @@
-{"decoder":{"description":[{"language":"de","innerText":"<ul> \t<li>Betrieb an allen Lok-/Fahrzeugdecodern mit normgemäßer SUSI-Schnittstelle</li> \t<li>Einstellbarer Beginn des Ladevorganges entweder nach Zeit oder bei Anfahrt</li> \t<li>Einstellbare maximale Pufferzeit damit stromlose Halteabschnitte nicht überfahren werden</li> \t<li>Puffert bis zu 4 Sekunden lang Motor, Licht, Funktionen und Sound</li> \t<li>Geringe Wärmeentwicklung durch Einsatz modernster Technologien</li> \t<li>Resetfunktion</li> \t<li>Updatefähigkeit der Firmware über SUSI-Schnittstelle mittels Programmer</li> </ul>"}],"specifications":{"dimensions":{"length":26.5,"width":8.5,"height":10.5},"electrical":{"maxTotalCurrent":0.0,"maxMotorCurrent":0.0,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Pad;Cable;SUSI-Cable"}},"images":[{"name":"SP05A-0_1.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/SP05A-0_1.jpg","lastModified":"2020-02-01T10:08:16","copyright":"Doehler & Haass"},{"name":"SP05A-0_2.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/SP05A-0_2.jpg","lastModified":"2020-02-01T10:08:16","copyright":"Doehler & Haass"},{"name":"SP05A-3.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/SP05A-3.jpg","lastModified":"2020-02-01T10:08:16","copyright":"Doehler & Haass"}],"name":"SP05A","type":"susi","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"30","articleNumbers":"SP05A-0;SP05A-2;SP05A-3","producedFrom":"2016","decoderDBLink":"https://www.decoderdb.de/?decoderPage=112"},"sourceFile":"Decoder_97_SP05A.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2020-02-01T10:08:16","created":"2018-03-03T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "de",
+        "innerText": "<ul> \t<li>Betrieb an allen Lok-/Fahrzeugdecodern mit normgemäßer SUSI-Schnittstelle</li> \t<li>Einstellbarer Beginn des Ladevorganges entweder nach Zeit oder bei Anfahrt</li> \t<li>Einstellbare maximale Pufferzeit damit stromlose Halteabschnitte nicht überfahren werden</li> \t<li>Puffert bis zu 4 Sekunden lang Motor, Licht, Funktionen und Sound</li> \t<li>Geringe Wärmeentwicklung durch Einsatz modernster Technologien</li> \t<li>Resetfunktion</li> \t<li>Updatefähigkeit der Firmware über SUSI-Schnittstelle mittels Programmer</li> </ul>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 26.5, "width": 8.5, "height": 10.5 },
+      "electrical": {
+        "maxTotalCurrent": 0.0,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Pad;Cable;SUSI-Cable" }
+    },
+    "images": [
+      {
+        "name": "SP05A-0_1.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/SP05A-0_1.jpg",
+        "lastModified": "2020-02-01T10:08:16",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SP05A-0_2.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/SP05A-0_2.jpg",
+        "lastModified": "2020-02-01T10:08:16",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SP05A-3.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/SP05A-3.jpg",
+        "lastModified": "2020-02-01T10:08:16",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "SP05A",
+    "type": "susi",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "30",
+    "articleNumbers": "SP05A-0;SP05A-2;SP05A-3",
+    "producedFrom": "2016",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/SP05A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2020-02-01T10:08:16",
+    "created": "2018-03-03T00:00:00.000"
+  }
+}

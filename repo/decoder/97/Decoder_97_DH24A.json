@@ -1,1 +1,44 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li data-list-item-id=\"eb6f0183387916e1edde8a433ffb4246a\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder DCC-Format</li><li data-list-item-id=\"ef6540200514db087c1267563a4d3d856\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"eb7f3a8f4cd4c76a022f883c35fa5b8f3\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"ea8f881593b9e846fc4aa5ce563a29ff6\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"e12e37abf3de2dd7add0ec95a1ac84a15\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"ecacb41916130926e65ad7207ea6d8471\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"e2381045297eb568c8ca6b0d8eff10d76\">Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li data-list-item-id=\"ec764f0ab7709ca5ece1431376abeeb03\">Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li data-list-item-id=\"ed450a1c57fda95fe586ae90ccbde760b\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e9d615be10eb6e05d9e31730c975a78b9\">Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li data-list-item-id=\"e862ce7747af09b5c3c83a9f33007dee6\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"edf5f65799e46def8454690cb207a146c\">Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li data-list-item-id=\"e8e6d7267fd38a59ac641f13da0ccf9bb\">Rangiergang</li><li data-list-item-id=\"e9e47d6f1556292288cf6fd23bd5e19c4\">Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"ec80094e4c0153a59e40be1faa1468349\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"ebf8d86a564fb89db74f0a10ea858a954\">Temperaturschutz</li><li data-list-item-id=\"e82ee9538df41b3bd75dc640ae97ed6bc\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e0b2e74a33744b8448c778a8197d0fd7f\">Updatefähigkeit des Decoders</li></ul>\r\n<p>Der Fahrzeugdecoder <strong>DH24A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>\r\n<p>Für die SX1-Programmierung ist ein an die Versorgungsspannung (VS) angeschlossenes SUSI-Modul bzw. eine angeschlossene Pufferung zu entfernen. Es reicht aus, die Versorgungsspannung (roter Draht bei SUSI) für die Zeit der SX1-Programmierung zu unterbrechen. Die SX2- bzw. DCC-Programmierung ist hiervon nicht betroffen.</p>"}],"specifications":{"dimensions":{"length":14.0,"width":8.4,"height":2.8},"electrical":{"maxTotalCurrent":1.5,"maxMotorCurrent":0.7,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"E24(RCD-124)"}},"images":[{"name":"DH24A.png","source":"https://decoderdb.bidib.org/decoder/97/images/DH24A.png","lastModified":"2025-11-16T11:58:54","copyright":"Doehler & Haass"}],"name":"DH24A","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"204","articleNumbers":"DH24A","producedFrom":"2025","decoderDBLink":"https://www.decoderdb.de/?decoderPage=298"},"sourceFile":"Decoder_97_DH24A.decdb","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Oliver Kwijas","lastUpdate":"2025-11-16T11:58:54","created":"2024-01-26T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li data-list-item-id=\"eb6f0183387916e1edde8a433ffb4246a\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder DCC-Format</li><li data-list-item-id=\"ef6540200514db087c1267563a4d3d856\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"eb7f3a8f4cd4c76a022f883c35fa5b8f3\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"ea8f881593b9e846fc4aa5ce563a29ff6\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"e12e37abf3de2dd7add0ec95a1ac84a15\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"ecacb41916130926e65ad7207ea6d8471\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"e2381045297eb568c8ca6b0d8eff10d76\">Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li data-list-item-id=\"ec764f0ab7709ca5ece1431376abeeb03\">Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li data-list-item-id=\"ed450a1c57fda95fe586ae90ccbde760b\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e9d615be10eb6e05d9e31730c975a78b9\">Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li data-list-item-id=\"e862ce7747af09b5c3c83a9f33007dee6\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"edf5f65799e46def8454690cb207a146c\">Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li data-list-item-id=\"e8e6d7267fd38a59ac641f13da0ccf9bb\">Rangiergang</li><li data-list-item-id=\"e9e47d6f1556292288cf6fd23bd5e19c4\">Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"ec80094e4c0153a59e40be1faa1468349\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"ebf8d86a564fb89db74f0a10ea858a954\">Temperaturschutz</li><li data-list-item-id=\"e82ee9538df41b3bd75dc640ae97ed6bc\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e0b2e74a33744b8448c778a8197d0fd7f\">Updatefähigkeit des Decoders</li></ul>\n<p>Der Fahrzeugdecoder <strong>DH24A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>\n<p>Für die SX1-Programmierung ist ein an die Versorgungsspannung (VS) angeschlossenes SUSI-Modul bzw. eine angeschlossene Pufferung zu entfernen. Es reicht aus, die Versorgungsspannung (roter Draht bei SUSI) für die Zeit der SX1-Programmierung zu unterbrechen. Die SX2- bzw. DCC-Programmierung ist hiervon nicht betroffen.</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 14.0, "width": 8.4, "height": 2.8 },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 0.7,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "E24(RCD-124)" }
+    },
+    "images": [
+      {
+        "name": "DH24A.png",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH24A.png",
+        "lastModified": "2025-11-16T11:58:54",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "DH24A",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "204",
+    "articleNumbers": "DH24A",
+    "producedFrom": "2025",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/DH24A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Oliver Kwijas",
+    "lastUpdate": "2025-11-16T11:58:54",
+    "created": "2024-01-26T00:00:00.000"
+  }
+}

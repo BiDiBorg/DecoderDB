@@ -1,1 +1,51 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li data-list-item-id=\"e0f2e13d1afd39dee94fa657107f698b3\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li data-list-item-id=\"e94d27f52d6eaaa001e106d3495c8dbcd\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"e2f7bdd82332ec781ac54fa7422d908c0\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"ea30bafb31a58467ece299ce1f621f9fc\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"e10238cc255c69a30ef0bf196dac04903\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"e9d22fef5d2c9cc9da269956a35caf4e1\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"e1fad06bc516c81cffeadd04fc750bb49\">Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li data-list-item-id=\"eb5c9d7004c83f0db9ceb08a254ea318b\">Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li data-list-item-id=\"ed928ab451c49425561a0f6278c863c08\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e933993f7df7deb96fc77f4f268771336\">Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li data-list-item-id=\"ecfd0c390c1edf12e8c1d435d36d09f2b\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"e7323b372a35f6bbb8c5995ee19ba8516\">Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li data-list-item-id=\"e3dc3fca22d4d7733f4582ae29848e657\">Rangiergang</li><li data-list-item-id=\"e8811cda343f75eab6fcdd5c8bc7fe5c1\">Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"ec387377a668903778aae6d446fa4840b\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"ed025f0eb046f6a9a672bfd69a153886f\">Temperaturschutz</li><li data-list-item-id=\"ef38d27c02697567f7c6555e0ccb63e20\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e01ea6117a93af18422e1db09c7f9cd46\">Updatefähigkeit des Decoders</li></ul>\r\n<p>Der Fahrzeugdecoder <strong>DH21A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"}],"specifications":{"dimensions":{"length":20.7,"width":15.8,"height":5.2},"electrical":{"maxTotalCurrent":2.0,"maxMotorCurrent":2.0,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Pad;Cable;NEM652+Cable;MTC21RCN-121"}},"images":[{"name":"DH21A-5_1.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/DH21A-5_1.jpg","lastModified":"2025-10-24T20:32:04","copyright":"Doehler & Haass"},{"name":"DH21A-5_2.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/DH21A-5_2.jpg","lastModified":"2025-10-24T20:32:04","copyright":"Doehler & Haass"}],"name":"DH21A","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"200","articleNumbers":"DH21A","producedFrom":"2014","producedTill":"2022","decoderDBLink":"https://www.decoderdb.de/?decoderPage=31"},"sourceFile":"Decoder_97_DH21A.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2025-10-24T20:32:04","created":"2017-01-02T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li data-list-item-id=\"e0f2e13d1afd39dee94fa657107f698b3\">Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li data-list-item-id=\"e94d27f52d6eaaa001e106d3495c8dbcd\">Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li data-list-item-id=\"e2f7bdd82332ec781ac54fa7422d908c0\">Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li data-list-item-id=\"ea30bafb31a58467ece299ce1f621f9fc\">SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li data-list-item-id=\"e10238cc255c69a30ef0bf196dac04903\">SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li data-list-item-id=\"e9d22fef5d2c9cc9da269956a35caf4e1\">DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li data-list-item-id=\"e1fad06bc516c81cffeadd04fc750bb49\">Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li><li data-list-item-id=\"eb5c9d7004c83f0db9ceb08a254ea318b\">Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li><li data-list-item-id=\"ed928ab451c49425561a0f6278c863c08\">Intern 127 Fahrstufen</li><li data-list-item-id=\"e933993f7df7deb96fc77f4f268771336\">Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li><li data-list-item-id=\"ecfd0c390c1edf12e8c1d435d36d09f2b\">Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li data-list-item-id=\"e7323b372a35f6bbb8c5995ee19ba8516\">Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li><li data-list-item-id=\"e3dc3fca22d4d7733f4582ae29848e657\">Rangiergang</li><li data-list-item-id=\"e8811cda343f75eab6fcdd5c8bc7fe5c1\">Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li><li data-list-item-id=\"ec387377a668903778aae6d446fa4840b\">Alle Funktionsausgänge frei programmierbar</li><li data-list-item-id=\"ed025f0eb046f6a9a672bfd69a153886f\">Temperaturschutz</li><li data-list-item-id=\"ef38d27c02697567f7c6555e0ccb63e20\">Resetfunktion für DCC und SX2</li><li data-list-item-id=\"e01ea6117a93af18422e1db09c7f9cd46\">Updatefähigkeit des Decoders</li></ul>\n<p>Der Fahrzeugdecoder <strong>DH21A</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 20.7, "width": 15.8, "height": 5.2 },
+      "electrical": {
+        "maxTotalCurrent": 2.0,
+        "maxMotorCurrent": 2.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Pad;Cable;NEM652+Cable;MTC21RCN-121" }
+    },
+    "images": [
+      {
+        "name": "DH21A-5_1.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH21A-5_1.jpg",
+        "lastModified": "2025-10-24T20:32:04",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH21A-5_2.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH21A-5_2.jpg",
+        "lastModified": "2025-10-24T20:32:04",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "DH21A",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "200",
+    "articleNumbers": "DH21A",
+    "producedFrom": "2014",
+    "producedTill": "2022",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/DH21A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-10-24T20:32:04",
+    "created": "2017-01-02T00:00:00.000"
+  }
+}

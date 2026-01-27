@@ -1,1 +1,50 @@
-{"decoder":{"description":[{"language":"all","innerText":"<ul><li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li>Intern 127 Fahrstufen</li><li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li>Licht- und Funktionsausgänge (teilweise) dimmbar und analog aktivierbar</li><li>Rangiergang</li><li>Licht- und Gleisanschlüsse elektronisch tauschbar</li><li>Alle Funktionsausgänge frei programmierbar</li><li>Temperaturschutz</li><li>Resetfunktion für DCC und SX2</li><li>Updatefähigkeit des Decoders</li></ul>\r\n<p>Der Fahrzeugfunktionsdecoder <strong>FH05B</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"}],"specifications":{"dimensions":{"length":13.4,"width":7.8,"height":1.7},"electrical":{"maxTotalCurrent":0.5,"maxMotorCurrent":0.0,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Pad;Cable;NEM651+Cable"}},"images":[{"name":"FH05B-0_01.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/FH05B-0_01.jpg","lastModified":"2025-09-27T12:53:15","copyright":"Doehler & Haass"},{"name":"FH05B_unten.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/FH05B_unten.jpg","lastModified":"2025-09-27T12:53:15","copyright":"Doehler & Haass"}],"name":"FH05B","type":"function","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"41","articleNumbers":"FH05B-0;FH05B-1;FH05B-3","producedFrom":"2016","decoderDBLink":"https://www.decoderdb.de/?decoderPage=117"},"sourceFile":"Decoder_97_FH05B.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Oliver Kwijas","lastUpdate":"2025-09-27T12:53:15","created":"2018-12-17T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<ul><li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li><li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li><li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li><li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li><li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li><li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li><li>Intern 127 Fahrstufen</li><li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li><li>Licht- und Funktionsausgänge (teilweise) dimmbar und analog aktivierbar</li><li>Rangiergang</li><li>Licht- und Gleisanschlüsse elektronisch tauschbar</li><li>Alle Funktionsausgänge frei programmierbar</li><li>Temperaturschutz</li><li>Resetfunktion für DCC und SX2</li><li>Updatefähigkeit des Decoders</li></ul>\n<p>Der Fahrzeugfunktionsdecoder <strong>FH05B</strong> unterstützt das Bremsen mit asymmetrischer Digitalspannung (vier Dioden in Serie und eine Diode antiparallel, Lenz ABC), die Langsamfahrt (mit geeigneten Bremsmodulen) und die bidirektionale Kommunikation (Lokadressrückmeldung im DCC-Betrieb, RailCom®).</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 13.4, "width": 7.8, "height": 1.7 },
+      "electrical": {
+        "maxTotalCurrent": 0.5,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Pad;Cable;NEM651+Cable" }
+    },
+    "images": [
+      {
+        "name": "FH05B-0_01.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/FH05B/FH05B-0_01.jpg",
+        "lastModified": "2025-09-27T12:53:15",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "FH05B_unten.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/FH05B_unten.jpg",
+        "lastModified": "2025-09-27T12:53:15",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "FH05B",
+    "type": "function",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "41",
+    "articleNumbers": "FH05B-0;FH05B-1;FH05B-3",
+    "producedFrom": "2016",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/FH05B"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Oliver Kwijas",
+    "lastUpdate": "2025-09-27T12:53:15",
+    "created": "2018-12-17T00:00:00.000"
+  }
+}

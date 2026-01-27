@@ -1,1 +1,51 @@
-{"decoder":{"description":[{"language":"de","innerText":"<ul> \t<li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li> \t<li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li> \t<li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li> \t<li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li> \t<li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li> \t<li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li> \t<li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li> \t<li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li> \t<li>Intern 127 Fahrstufen</li> \t<li>Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li> \t<li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li> \t<li>Licht- und Funktionsausgänge (teilweise) dimmbar und analog aktivierbar</li> \t<li>Rangiergang</li> \t<li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li> \t<li>Alle Funktionsausgänge frei programmierbar</li> \t<li>Temperaturschutz</li> \t<li>Resetfunktion für DCC und SX2</li> \t<li>Updatefähigkeit des Decoders</li> </ul>"}],"specifications":{"dimensions":{"length":14.5,"width":8.0,"height":3.0},"electrical":{"maxTotalCurrent":1.5,"maxMotorCurrent":1.5,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"connectors":{"list":"Plux12"}},"images":[{"name":"DH12A_V.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/DH12A_V.jpg","lastModified":"2021-05-22T11:35:43","copyright":"Doehler & Haass"},{"name":"DH12A_R.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/DH12A_R.jpg","lastModified":"2021-05-22T11:35:43","copyright":"Doehler & Haass"}],"name":"DH12A","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"120","articleNumbers":"DH12A","producedFrom":"2013","producedTill":"2021","decoderDBLink":"https://www.decoderdb.de/?decoderPage=12"},"sourceFile":"Decoder_97_DH12A.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2021-05-22T11:35:43","created":"2016-05-18T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "de",
+        "innerText": "<ul> \t<li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät, Digitalsystemen nach SelecTRIX 1 und 2 oder nach NMRA-Norm (DCC)</li> \t<li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li> \t<li>Im Digitalbetrieb wird das zuletzt programmierte System verwendet (es wird nicht automatisch umgeschaltet!)</li> \t<li>SelecTRIX 1 31 Fahrstufen, 100 Adressen</li> \t<li>SelecTRIX 2 127 Fahrstufen, 10.000 Adressen, 16 Zusatzfunktionen</li> \t<li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li> \t<li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li> \t<li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li> \t<li>Intern 127 Fahrstufen</li> \t<li>Einstellbare Motorfrequenz (niederfrequent, 16 kHz, 32 kHz)</li> \t<li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li> \t<li>Licht- und Funktionsausgänge (teilweise) dimmbar und analog aktivierbar</li> \t<li>Rangiergang</li> \t<li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li> \t<li>Alle Funktionsausgänge frei programmierbar</li> \t<li>Temperaturschutz</li> \t<li>Resetfunktion für DCC und SX2</li> \t<li>Updatefähigkeit des Decoders</li> </ul>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 14.5, "width": 8.0, "height": 3.0 },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 1.5,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": { "list": "Plux12" }
+    },
+    "images": [
+      {
+        "name": "DH12A_V.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH12A_V.jpg",
+        "lastModified": "2021-05-22T11:35:43",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH12A_R.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/DH12A_R.jpg",
+        "lastModified": "2021-05-22T11:35:43",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "DH12A",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "120",
+    "articleNumbers": "DH12A",
+    "producedFrom": "2013",
+    "producedTill": "2021",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/DH12A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2021-05-22T11:35:43",
+    "created": "2016-05-18T00:00:00.000"
+  }
+}

@@ -1,1 +1,45 @@
-{"decoder":{"description":[{"language":"de","innerText":"<ul> \t<li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät oder nach NMRA-Norm (DCC)</li> \t<li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li> \t<li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li> \t<li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li> \t<li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li> \t<li>Intern 127 Fahrstufen</li> \t<li>Einstellbare Motorfrequenz (16 kHz, 32 kHz)</li> \t<li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li> \t<li>Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li> \t<li>Rangiergang</li> \t<li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li> \t<li>Alle Funktionsausgänge frei programmierbar</li> \t<li>Temperaturschutz</li> \t<li>Resetfunktion für DCC</li> \t<li>Updatefähigkeit des Decoders</li> </ul>\r\n<p>Der <strong>Fahrzeugdecoder PD12A</strong> ist unser neuer, besonders preisgünstiger, Fahrzeugdecoder für den reinen DCC-Betrieb (und DC-analog). Es gibt lediglich einige kleinere Einschränkungen im Vergleich zu unserer DH-Decoderserie:</p>\r\n<ul> \t<li>Keine Unterstützung der Betriebsarten SX1, SX2 und MM</li> \t<li>Keine SUSI-Schnittstelle und keine unverstärkten Funktionsausgänge</li> \t<li>Keine niederfrequente Motoransteuerung (16 kHz oder 32 kHz sind aber wählbar)</li> \t<li>Keine erweiterten Funktionszuordnungen (das heißt: keine Bedingungen, kein Initialmapping usw.)</li> \t<li>Kein automatischer Kupplungsablauf (Timer für Ausschalten AUX1 und AUX2 sind aber vorhanden)</li> </ul>"}],"specifications":{"dimensions":{"length":24.2,"width":11.0,"height":2.4},"electrical":{"maxTotalCurrent":1.0,"maxMotorCurrent":1.0,"peakCurrent":0.0,"maxVoltage":30.0,"functionOutputs":0.0},"functionConnectors":{"list":"F0f;F0r;Aux1;Aux2"},"connectors":{"list":"Pad;Cable;NEM652+Cable;Plux12"}},"images":[{"name":"PD12A_oben.jpg","source":"https://decoderdb.bidib.org/decoder/97/images/PD12A_oben.jpg","lastModified":"2020-02-03T06:33:11","copyright":"Doehler & Haass"}],"name":"PD12A","type":"loco","manufacturerId":97,"manufacturerExtendedId":0,"typeIds":"130","articleNumbers":"PD12A-0;PD12A-2;PD12A-3;PD12A-4","producedFrom":"2016","decoderDBLink":"https://www.decoderdb.de/?decoderPage=16"},"sourceFile":"Decoder_97_PD12A.json","version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2020-02-03T06:33:11","created":"2016-08-22T00:00:00.000"}}
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "de",
+        "innerText": "<ul> \t<li>Zum wahlweisen Betrieb mit konventionellem Gleichstrom-Fahrgerät oder nach NMRA-Norm (DCC)</li> \t<li>Die Umschaltung zwischen Analog- und Digitalbetrieb erfolgt automatisch</li> \t<li>DCC Kurze Adressen (1-127), lange Adressen (0001-9999), mit 14, 28, 126 Fahrstufen</li> \t<li>Lastregelung der neuesten Generation, dadurch besonders weiches Regelverhalten</li> \t<li>Verschiedene Regelvarianten zur optimalen Anpassung an den Motor</li> \t<li>Intern 127 Fahrstufen</li> \t<li>Einstellbare Motorfrequenz (16 kHz, 32 kHz)</li> \t<li>Blockstreckenbetrieb mit einfachen Dioden im Digitalbetrieb</li> \t<li>Licht- und Funktionsausgänge dimmbar und analog aktivierbar</li> \t<li>Rangiergang</li> \t<li>Motor-, Licht- und Gleisanschlüsse elektronisch tauschbar</li> \t<li>Alle Funktionsausgänge frei programmierbar</li> \t<li>Temperaturschutz</li> \t<li>Resetfunktion für DCC</li> \t<li>Updatefähigkeit des Decoders</li> </ul>\n<p>Der <strong>Fahrzeugdecoder PD12A</strong> ist unser neuer, besonders preisgünstiger, Fahrzeugdecoder für den reinen DCC-Betrieb (und DC-analog). Es gibt lediglich einige kleinere Einschränkungen im Vergleich zu unserer DH-Decoderserie:</p>\n<ul> \t<li>Keine Unterstützung der Betriebsarten SX1, SX2 und MM</li> \t<li>Keine SUSI-Schnittstelle und keine unverstärkten Funktionsausgänge</li> \t<li>Keine niederfrequente Motoransteuerung (16 kHz oder 32 kHz sind aber wählbar)</li> \t<li>Keine erweiterten Funktionszuordnungen (das heißt: keine Bedingungen, kein Initialmapping usw.)</li> \t<li>Kein automatischer Kupplungsablauf (Timer für Ausschalten AUX1 und AUX2 sind aber vorhanden)</li> </ul>"
+      }
+    ],
+    "specifications": {
+      "dimensions": { "length": 24.2, "width": 11.0, "height": 2.4 },
+      "electrical": {
+        "maxTotalCurrent": 1.0,
+        "maxMotorCurrent": 1.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "functionConnectors": { "list": "F0f;F0r;Aux1;Aux2" },
+      "connectors": { "list": "Pad;Cable;NEM652+Cable;Plux12" }
+    },
+    "images": [
+      {
+        "name": "PD12A_oben.jpg",
+        "source": "https://decoderdb.bidib.org/decoder/97/images/PD12A_oben.jpg",
+        "lastModified": "2020-02-03T06:33:11",
+        "copyright": "Doehler & Haass"
+      }
+    ],
+    "name": "PD12A",
+    "type": "loco",
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "typeIds": "130",
+    "articleNumbers": "PD12A-0;PD12A-2;PD12A-3;PD12A-4",
+    "producedFrom": "2016",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/97/PD12A"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2020-02-03T06:33:11",
+    "created": "2016-08-22T00:00:00.000"
+  }
+}
