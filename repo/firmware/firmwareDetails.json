@@ -4528,5 +4528,15 @@
     "lastUpdate": "2020-10-28T12:45:06.000",
     "sha1": "9a6c1e3f7755d2cba1de1640d02b56a16233eddf",
     "fileSize": 60517
+  },
+  {
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "version": "5.21",
+    "versionExtension": "",
+    "filename": "Firmware_145_5.21.json",
+    "lastUpdate": "2026-01-24T01:30:31.368Z",
+    "created": "2026-01-23T21:00:00.000",
+    "fileSize": 778148
   }
 ]
