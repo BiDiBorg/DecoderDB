@@ -1,0 +1,1004 @@
+{
+    "firmware": {
+        "decoders": [
+            {
+                "name": "Rundkesselverdampfer",
+                "type": "function"
+            }
+        ],
+        "protocol": {
+            "cvs": [
+                {
+                    "id": "cv_1",
+                    "number": 1,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adresse kurz"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Short Address"
+                        }
+                    ],
+                    "defaultValue": 3,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_7",
+                    "number": 7,
+                    "mode": "ro",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": " Softwareversion"
+                        },
+                        {
+                            "language": "de",
+                            "text": " Softwareversion"
+                        }
+                    ],
+                    "defaultValue": 10,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_8",
+                    "number": 8,
+                    "mode": "ro",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": " Herstellerkennung"
+                        },
+                        {
+                            "language": "en",
+                            "text": " Manufacturer identification"
+                        }
+                    ],
+                    "defaultValue": 123,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_15",
+                    "number": 15,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Programmiersperre (Schlüssel)",
+                            "help": "Zum Sperren nur diese CV ändern"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Programming lock (Key)",
+                            "help": "To lock, change only this CV"
+                        }
+                    ],
+                    "defaultValue": 162,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_16",
+                    "number": 16,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Programmiersperre (Schloss)",
+                            "help": "Änderung hier ändern auch CV15"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Programming lock (Lock)",
+                            "help": "Changes here also apply to CV15"
+                        }
+                    ],
+                    "defaultValue": 162,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_49",
+                    "number": 49,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Massoth Konfiguration"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Massoth Configuration"
+                        }
+                    ],
+                    "defaultValue": 2,
+                    "type": "select",
+                    "possibleValues": "2;32;34;64;66;96;98",
+                    "items": [
+                        {
+                            "type": "bitSelection",
+                            "number": "1",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "ohne Lastabhängigkeit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without load-control "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "mit Lastabhängigkeit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with load-control"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Taktausgang invertiert"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Clock output inverted"
+                                }
+                            ],
+                            "number": "5"
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Takteingang invertiert"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Clock input inverted"
+                                }
+                            ],
+                            "number": "6"
+                        }
+                    ]
+                },
+                {
+                    "id": "cvGroup_1817",
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Lange Lokadresse"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Long loco address"
+                        }
+                    ],
+                    "defaultValue": 49280,
+                    "type": "dccLongAddr",
+                    "possibleValues": "",
+                    "cvs": [
+                        {
+                            "id": "cv_18",
+                            "number": 18,
+                            "mode": "rw",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Lange Lokadr. (tiefes Byte)"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Long loco address (Low byte)"
+                                }
+                            ],
+                            "defaultValue": 128,
+                            "type": "byte",
+                            "possibleValues": "0-255"
+                        },
+                        {
+                            "id": "cv_17",
+                            "number": 17,
+                            "mode": "rw",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Lange Lokadr. (hohes Byte) "
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Long loco address (High byte)"
+                                }
+                            ],
+                            "defaultValue": 192,
+                            "type": "byte",
+                            "possibleValues": "0-255"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_29",
+                    "number": 29,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "NMRA DCC Konfiguration "
+                        },
+                        {
+                            "language": "en",
+                            "text": "NMRA DCC Configuration"
+                        }
+                    ],
+                    "defaultValue": 0,
+                    "type": "select",
+                    "possibleValues": "0;32",
+                    "items": [
+                        {
+                            "type": "bitSelection",
+                            "number": "5",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "kurze Lokadresse (CV1) aktiv"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "short loco address (CV1) active"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "lange Lokadresse (CV17/CV18) aktiv"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "long loco address (CV1) active"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_50",
+                    "number": 50,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Betriebsart"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Operating Mode"
+                        }
+                    ],
+                    "defaultValue": 2,
+                    "type": "select",
+                    "possibleValues": "0;2;3",
+                    "items": [
+                        {
+                            "type": "group",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Dieselmodus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Diesel mode"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 2,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Dampfmodus mit 2/4 Takt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Steam operation with 2/4 chuffs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 3,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Dampfmodus mit 4/4 Takt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Steam operation with 4/4 chuffs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "number": 0
+                        }
+                    ]
+                },
+                {
+                    "number": 61,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_61",
+                    "defaultValue": 20,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-100",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 3,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "1"
+                            }
+                        ],
+                        "specialValues": [
+                            {
+                                "descriptions": [
+                                    {
+                                        "language": "de",
+                                        "text": "auto"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "text": "auto"
+                                    }
+                                ],
+                                "value": 0
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Drehzahl Lüfter Stand"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Fan speed standing"
+                        }
+                    ]
+                },
+                {
+                    "number": 62,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_62",
+                    "defaultValue": 100,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-100",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 3,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "1"
+                            }
+                        ],
+                        "specialValues": [
+                            {
+                                "descriptions": [
+                                    {
+                                        "language": "de",
+                                        "text": "auto"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "text": "auto"
+                                    }
+                                ],
+                                "value": 0
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Drehzahl Lüfter Anfahren"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Fan speed start up"
+                        }
+                    ]
+                },
+                {
+                    "number": 63,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_63",
+                    "defaultValue": 100,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-100",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 3,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "1"
+                            }
+                        ],
+                        "specialValues": [
+                            {
+                                "descriptions": [
+                                    {
+                                        "language": "de",
+                                        "text": "auto"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "text": "auto"
+                                    }
+                                ],
+                                "value": 0
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Drehzahl Lüfter Fahren"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Fan speed drive"
+                        }
+                    ]
+                },
+                {
+                    "number": 64,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_64",
+                    "defaultValue": 30,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-100",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 3,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "1"
+                            }
+                        ],
+                        "specialValues": [
+                            {
+                                "descriptions": [
+                                    {
+                                        "language": "de",
+                                        "text": "auto"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "text": "auto"
+                                    }
+                                ],
+                                "value": 0
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Drehzahl Lüfter Ausrollen "
+                        },
+                        {
+                            "language": "en",
+                            "text": "Fan speed roll out"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_65",
+                    "number": 65,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Heizprofil"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Heating Profile"
+                        }
+                    ],
+                    "defaultValue": 5,
+                    "type": "select",
+                    "possibleValues": "1-5",
+                    "items": [
+                        {
+                            "type": "group",
+                            "options": [
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Heizleistung 1"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Heating 1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 2,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Heizleistung 2"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Heating 2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 3,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Heizleistung 3"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Heating 3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 4,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Heizleistung 4"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Heating 4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 5,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Heizleistung 5"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Heating 5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "number": 0
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_110",
+                    "number": 110,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Vorheizen F-Taste"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Function key preheating "
+                        }
+                    ],
+                    "defaultValue": 30,
+                    "type": "byte",
+                    "possibleValues": "0-31",
+                    "items": [
+                        {
+                            "type": "partial",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Schalten mit der Funktionstaste/Lichttaste"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Switch function with Function key/light key"
+                                }
+                            ],
+                            "number": 0,
+                            "possibleValues": "0-28",
+                            "reset": false,
+                            "disableOther": true,
+                            "multiply": 1
+                        }
+                    ]
+                },
+                {
+                    "number": 116,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_116",
+                    "defaultValue": 0,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-15",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 2,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "1"
+                            }
+                        ],
+                        "specialValues": [
+                            {
+                                "descriptions": [
+                                    {
+                                        "language": "de",
+                                        "text": "auto"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "text": "auto"
+                                    }
+                                ],
+                                "value": 0
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Vorheizen Verzögerung"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Preheating delay"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_120",
+                    "number": 120,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Lüfter (Ausstoß) F-Taste"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Function key Fan (Ejection) "
+                        }
+                    ],
+                    "defaultValue": 7,
+                    "type": "byte",
+                    "possibleValues": "0-31"
+                },
+                {
+                    "number": 126,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_126",
+                    "defaultValue": 1,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-127",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 3,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "1"
+                            }
+                        ],
+                        "specialValues": [
+                            {
+                                "descriptions": [
+                                    {
+                                        "language": "de",
+                                        "text": "auto"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "text": "auto"
+                                    }
+                                ],
+                                "value": 0
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Ausblasfunktion bei Anfahrt/Lüfter Einschaltverzögerung",
+                            "help": "Ausblasfunktion bei Anfahrt (Dampf) Lüfter Einschaltverzögerung (Diesel)"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Blow-out function on start-up/Fan switch-on delay",
+                            "help": "Blow-out function on start-up (steam) Fan switch-on delay (diesel)"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_130",
+                    "number": 130,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Manuelle Ausblasfunktion F-Taste"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Function key blow out"
+                        }
+                    ],
+                    "defaultValue": 30,
+                    "type": "byte",
+                    "possibleValues": "0-31"
+                },
+                {
+                    "id": "cv_255",
+                    "number": 255,
+                    "mode": "ro",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Decodertyp"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Decoder type"
+                        }
+                    ],
+                    "defaultValue": 162,
+                    "type": "byte",
+                    "possibleValues": "162"
+                }
+            ],
+            "cvStructure": [
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Informationen"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Informations"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_7"
+                        },
+                        {
+                            "id": "cv_8"
+                        },
+                        {
+                            "id": "cv_255"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adressen"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Addresses"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_1"
+                        },
+                        {
+                            "id": "cvGroup_1817"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Grundeinstellungen"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Basic settings"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_15"
+                        },
+                        {
+                            "id": "cv_16"
+                        },
+                        {
+                            "id": "cv_29"
+                        },
+                        {
+                            "id": "cv_49"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Verdampfer"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Smoke"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_50"
+                        },
+                        {
+                            "id": "cv_61"
+                        },
+                        {
+                            "id": "cv_62"
+                        },
+                        {
+                            "id": "cv_63"
+                        },
+                        {
+                            "id": "cv_64"
+                        },
+                        {
+                            "id": "cv_65"
+                        },
+                        {
+                            "id": "cv_110"
+                        },
+                        {
+                            "id": "cv_116"
+                        },
+                        {
+                            "id": "cv_120"
+                        },
+                        {
+                            "id": "cv_126"
+                        },
+                        {
+                            "id": "cv_130"
+                        }
+                    ]
+                }
+            ],
+            "type": "dcc"
+        },
+        "version": "3.5",
+        "versionExtension": "",
+        "releaseDate": "2018-02-12T00:00:00.000",
+        "manufacturerId": 123,
+        "manufacturerExtendedId": 0
+    },
+    "version": {
+        "author": "Luke",
+        "lastUpdate": "2026-01-30T23:06:02.475Z",
+        "created": "2025-12-30T00:00:34.00"
+    }
+}
