@@ -1629,23 +1629,6 @@
         "fileSize": 54281
     },
     {
-        "manufacturerId": 160,
-        "manufacturerExtendedId": 0,
-        "version": "1.0",
-        "versionExtension": "",
-        "created": "2025-12-30",
-        "decoder": [
-            {
-                "name": "Weichenheizung"
-            }
-        ],
-        "filename": "Firmware_160_1.0.json",
-        "link": "https://decoderdb.bidib.org/firmware/160/Firmware_160_1.0.json",
-        "lastUpdate": "2026-01-15T22:46:47.430",
-        "sha1": "0e2b2d441d750304f7d17259cc11434a175d6eb8",
-        "fileSize": 8407
-    },
-    {
         "manufacturerId": 162,
         "manufacturerExtendedId": 0,
         "version": "26",
@@ -4530,33 +4513,63 @@
         "fileSize": 60517
     },
     {
-        "manufacturerId": 123,
-        "manufacturerExtendedId": 0,
-        "version": "3.5",
-        "versionExtension": "",
-        "filename": "Firmware_123_3.5.json",
-        "lastUpdate": "2026-01-30T23:26:38.853Z",
-        "created": "2025-12-30T00:00:34.00",
-        "fileSize": 10398
-    },
-    {
-        "manufacturerId": 160,
-        "manufacturerExtendedId": 0,
-        "version": "1.1",
-        "versionExtension": "",
-        "filename": "Firmware_160_1.1.json",
-        "lastUpdate": "2026-02-05T22:16:28.739Z",
-        "created": "2025-12-30T00:00:34.00",
-        "fileSize": 8984
-    },
-    {
         "manufacturerId": 145,
         "manufacturerExtendedId": 0,
         "version": "5.21",
         "versionExtension": "MS",
         "filename": "Firmware_145_5.21_MS.json",
-        "lastUpdate": "2026-02-06T02:13:36.212Z",
+        "lastUpdate": "2026-02-10T02:13:36.212Z",
         "created": "2026-01-23T21:00:00.000",
         "fileSize": 180317
+    },
+    {
+        "manufacturerId": 145,
+        "manufacturerExtendedId": 0,
+        "version": "5.21",
+        "versionExtension": "MN",
+        "filename": "Firmware_145_5.21_MN.json",
+        "lastUpdate": "2026-02-10T00:40:57.154Z",
+        "created": "2026-01-23T21:00:00.000",
+        "fileSize": 171878
+    },
+    {
+        "manufacturerId": 123,
+        "manufacturerExtendedId": 0,
+        "version": "3.5",
+        "versionExtension": "Rundkesselverdampfer",
+        "filename": "Firmware_123_3.5_Rundkesselverdampfer.json",
+        "lastUpdate": "2026-02-10T22:33:58.999Z",
+        "created": "2025-12-30T00:00:34.00",
+        "fileSize": 10358
+    },
+    {
+        "manufacturerId": 123,
+        "manufacturerExtendedId": 0,
+        "version": "3.0",
+        "versionExtension": "LGB-onBoard-Decoders",
+        "filename": "Firmware_123_3.0_LGB_onBoard_Decoders.json",
+        "lastUpdate": "2026-02-11T00:17:11.080Z",
+        "created": "2026-02-10T22:23:34.00",
+        "fileSize": 21483
+    },
+    {
+        "manufacturerId": 160,
+        "manufacturerExtendedId": 0,
+        "version": "1.0",
+        "versionExtension": "Weichenheizung",
+        "filename": "Firmware_160_1.0_Weichenheizung.json",
+        "lastUpdate": "2026-02-10T23:14:21.947Z",
+        "created": "2025-12-30T00:00:34.00",
+        "fileSize": 8421
+    },
+    {
+        "manufacturerId": 160,
+        "manufacturerExtendedId": 0,
+        "version": "1.1",
+        "versionExtension": "MWB",
+        "filename": "Firmware_160_1.1_MWB.json",
+        "lastUpdate": "2026-02-10T23:14:36.833Z",
+        "created": "2025-12-30T00:00:34.00",
+        "fileSize": 9546
     }
 ]

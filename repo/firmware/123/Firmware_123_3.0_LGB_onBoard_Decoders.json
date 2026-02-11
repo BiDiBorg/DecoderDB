@@ -1,0 +1,1924 @@
+{
+    "firmware": {
+        "decoders": [
+            {
+                "name": "LGB onBoard Decoder 3A",
+                "type": "loco"
+            },
+            {
+                "name": "LGB onBoard Decoder 1.5A",
+                "type": "loco"
+            }
+        ],
+        "protocol": {
+            "cvs": [
+                {
+                    "id": "cv_1",
+                    "number": 1,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adresse kurz"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Short Address"
+                        }
+                    ],
+                    "defaultValue": 3,
+                    "type": "byte",
+                    "possibleValues": "1-127"
+                },
+                {
+                    "id": "cv_2",
+                    "number": 2,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Anfahrspannung "
+                        },
+                        {
+                            "language": "en",
+                            "text": "Starting Voltage"
+                        }
+                    ],
+                    "defaultValue": 5,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "number": 3,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_3",
+                    "defaultValue": 3,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-255",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "0.5"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Beschleunigungszeit"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Acceleration time"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_4",
+                    "defaultValue": 3,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-255",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "0.5"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Verzögerungszeit"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Braking time"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_5",
+                    "defaultValue": 255,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-255",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "100"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "/"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "255"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Höchstgeschwindigkeit"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Maximum Speed (max. Motor voltage )"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_7",
+                    "number": 7,
+                    "mode": "ro",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": " Softwareversion"
+                        },
+                        {
+                            "language": "de",
+                            "text": " Softwareversion"
+                        }
+                    ],
+                    "defaultValue": 31,
+                    "type": "byte",
+                    "possibleValues": "30-31"
+                },
+                {
+                    "id": "cv_8",
+                    "number": 8,
+                    "mode": "ro",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": " Herstellerkennung"
+                        },
+                        {
+                            "language": "en",
+                            "text": " Manufacturer identification"
+                        }
+                    ],
+                    "defaultValue": 123,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_9",
+                    "number": 9,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Motorfrequenz",
+                            "help": "Frequenz, mit der der Motor gesteuert wird. Bei 16 kHz läuft der Motor sehr leise. ACHTUNG: Die Lastnachregelung funktioniert nur bei 16 kHz"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Motor frequency"
+                        }
+                    ],
+                    "defaultValue": 0,
+                    "type": "select",
+                    "possibleValues": "0;1;2;3",
+                    "items": [
+                        {
+                            "type": "group",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Ansteuerung des Motors mit 16kHz"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Driving the Motor with 16kHz"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Ansteuerung des Motors mit 1,8kHz"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Driving the Motor with 1,8kHz"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 2,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Ansteuerung des Motors mit 270Hz"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Driving the Motor with 270Hz"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 3,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Ansteuerung des Motors mit 70Hz"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Driving the Motor with 70Hz"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "number": 0
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_15",
+                    "number": 15,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Programmiersperre (Schlüssel)",
+                            "help": "Zum Sperren nur diese CV ändern"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Programming lock (Key)",
+                            "help": "To lock, change only this CV"
+                        }
+                    ],
+                    "defaultValue": 162,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cv_16",
+                    "number": 16,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Programmiersperre (Schloss)",
+                            "help": "Änderung hier ändern auch CV15"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Programming lock (Lock)",
+                            "help": "Changes here also apply to CV15"
+                        }
+                    ],
+                    "defaultValue": 162,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "id": "cvGroup_1817",
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adresse lang"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Short address"
+                        }
+                    ],
+                    "defaultValue": 49280,
+                    "type": "dccLongAddr",
+                    "possibleValues": "",
+                    "cvs": [
+                        {
+                            "id": "cv_18",
+                            "number": 18,
+                            "mode": "rw",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Lange adresse (tiefes Byte)"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Long address (Low byte)"
+                                }
+                            ],
+                            "defaultValue": 0,
+                            "type": "byte",
+                            "possibleValues": "0-255"
+                        },
+                        {
+                            "id": "cv_17",
+                            "number": 17,
+                            "mode": "rw",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Lange adresse (hohes Byte) "
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Long address (High byte)"
+                                }
+                            ],
+                            "defaultValue": 128,
+                            "type": "byte",
+                            "possibleValues": "192-231"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_29",
+                    "number": 29,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "NMRA DCC Konfiguration "
+                        },
+                        {
+                            "language": "en",
+                            "text": "NMRA DCC Configuration"
+                        }
+                    ],
+                    "defaultValue": 4,
+                    "type": "select",
+                    "possibleValues": "0-31",
+                    "items": [
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Inverse Fahrtrichtung"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Inverse direction"
+                                }
+                            ],
+                            "number": 0
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "1",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "14 Fahrstufen",
+                                            "help": ""
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "14 speed steps",
+                                            "help": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "28 Fahrstufen",
+                                            "help": "Wird von dem LGB MZS-System nicht unterstützt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "28 speed steps",
+                                            "help": "not Supported by the LGB MTS-System"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Analogbetrieb möglich"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "No analog operation"
+                                }
+                            ],
+                            "number": "2"
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "4",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Fahrstufentabelle intern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Internal speed step table"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Fahrstufentabelle extern gemäß CV67-CV94",
+                                            "help": "CV67-94"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "External speed step table according to CV67-CV94",
+                                            "help": "CV67-94"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "5",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Kurze Adresse (CV1)"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Short Address (CV1)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Lange Adresse (CV17/CV18)"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Long Address (CV17/CV18)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "number": 49,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_49",
+                    "defaultValue": 32,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-32",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "3.125"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Spannung für den F1-Ausgang"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Voltage for F1-Output"
+                        }
+                    ]
+                },
+                {
+                    "number": 50,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_50",
+                    "defaultValue": 5,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-32",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "3.125"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Spannung für Licht-Ausgänge"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Voltage for lighting terminals"
+                        }
+                    ]
+                },
+                {
+                    "number": 56,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_56",
+                    "defaultValue": 5,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-32",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "3.125"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Spannung für den F2-Ausgang"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Voltage for F2-Output"
+                        }
+                    ]
+                },
+                {
+                    "number": 58,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_58",
+                    "defaultValue": 0,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-255",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "0.5"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Pausenzeit zwischen Richtungswechseln"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Pause Time Between Changes in Direction"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_60",
+                    "number": 60,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Lastnachregelung: Maximaler Nachregelfaktor"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Load Control: Maximum Adjustment Factor"
+                        }
+                    ],
+                    "defaultValue": 10,
+                    "type": "byte",
+                    "possibleValues": "1-255"
+                },
+                {
+                    "id": "cv_61",
+                    "number": 61,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Lastnachregelung: Nachregelverzögerung"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Load Control: Adjustment Frequency"
+                        }
+                    ],
+                    "defaultValue": 5,
+                    "type": "byte",
+                    "possibleValues": "1-255"
+                },
+                {
+                    "id": "cv_62",
+                    "number": 62,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Lastnachregelung: Nachregelstärke"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Load Control: Maximum Adjustment"
+                        }
+                    ],
+                    "defaultValue": 255,
+                    "type": "byte",
+                    "possibleValues": "1-255"
+                },
+                {
+                    "conditions": {
+                        "triggers": [
+                            {
+                                "conditions": [
+                                    {
+                                        "type": "relational",
+                                        "operation": "equal",
+                                        "cv": "29",
+                                        "indexHigh": 0,
+                                        "indexLow": 0,
+                                        "selection": "bit:4",
+                                        "value": "0"
+                                    }
+                                ],
+                                "value": "notRelevant"
+                            }
+                        ]
+                    },
+                    "cvs": [
+                        {
+                            "number": 67,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 6,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 1"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 1"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 68,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 14,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 2"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 2"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 69,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 22,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 3"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 3"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 70,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 30,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 4"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 4"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 71,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 38,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 5"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 5"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 72,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 46,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 6"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 6"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 73,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 54,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 7"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 7"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 74,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 62,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 8"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 8"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 75,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 70,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 9"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 9"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 76,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 78,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 10"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 10"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 77,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 86,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 11"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 11"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 78,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 94,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 12"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 12"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 79,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 102,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 13"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 13"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 80,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 110,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 14"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 14"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 81,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 118,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 15"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 15"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 82,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 126,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 16"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 16"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 83,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 134,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 17"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 17"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 84,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 142,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 18"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 18"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 85,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 150,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 19"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 19"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 86,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 158,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 20"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 20"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 87,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 166,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 21"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 21"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 88,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 174,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 22"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 22"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 89,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 182,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 23"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 23"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 90,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 190,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 24"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 24"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 91,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 198,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 25"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 25"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 92,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 206,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 26"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 26"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 93,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 214,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 27"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 27"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 94,
+                            "type": "byte",
+                            "indexHigh": 0,
+                            "indexLow": 0,
+                            "initialRead": false,
+                            "isCustom": false,
+                            "defaultValue": 222,
+                            "mode": "rw",
+                            "pomWriteExclude": false,
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufe 28"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Speedstep 28"
+                                }
+                            ]
+                        }
+                    ],
+                    "type": "dccSpeedCurve",
+                    "options": "bitList",
+                    "id": "395",
+                    "defaultValue": 0,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Geschwindigkeitskurve"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Speed curve"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_54",
+                    "number": 54,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "LGB-Konfiguration "
+                        }
+                    ],
+                    "defaultValue": 2,
+                    "type": "select",
+                    "possibleValues": "0-247",
+                    "items": [
+                        {
+                            "type": "bitSelection",
+                            "number": 0,
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Übernahmefunktion aus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Hand-over function off "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Übernahmefunktion ein"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Hand-over function on"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "1",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Lastregelung digital aus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Load control digital off"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Lastregelung digital ein"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Load control digital on"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "2",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Lastnachregelung analog aus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Load control analog off"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Lastnachregelung analog ein"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Load control analog on"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "4",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "F1 Dauerlicht"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "F1 permanently on"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "F1 blinkend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "F1 flashing"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "5",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "F2 Dauerlicht"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "F2 permanently on"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "F2 blinkend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "F2 flashing"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "6",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Soundfunktion 1 (Dampfausstoss 2x)"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Sound function 1 (2 chuffs)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Soundfunktion 1 (Dampfausstoss 4x) "
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Sound function 1 (4 chuffs)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bitSelection",
+                            "number": "7",
+                            "options": [
+                                {
+                                    "value": 0,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Soundfunktion 2 (automatische Sounds ein, z. B. Kreischen der Bremsen)"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Sound function 2 (automatic sounds on, e.g., brake sounds)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "value": 1,
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Automatische Sounds aus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Automatic sounds off"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_51",
+                    "number": 51,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Schaltbefehl für den F1-Ausgang"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Command for F1 Output"
+                        }
+                    ],
+                    "defaultValue": 13,
+                    "type": "byte",
+                    "possibleValues": "0-129"
+                },
+                {
+                    "id": "cv_52",
+                    "number": 52,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Schaltbefehl Licht vorne"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Command for Front Light Terminal"
+                        }
+                    ],
+                    "defaultValue": 128,
+                    "type": "byte",
+                    "possibleValues": "0-129"
+                },
+                {
+                    "id": "cv_53",
+                    "number": 53,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Schaltbefehl Licht hinten"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Command for Rear Light Terminal"
+                        }
+                    ],
+                    "defaultValue": 64,
+                    "type": "byte",
+                    "possibleValues": "0-129"
+                },
+                {
+                    "id": "cv_57",
+                    "number": 57,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Schaltbefehl für den F2-Ausgang"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Command for F2 Terminal"
+                        }
+                    ],
+                    "defaultValue": 15,
+                    "type": "byte",
+                    "possibleValues": "0-129"
+                }
+            ],
+            "cvStructure": [
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Informationen"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Informations"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_7"
+                        },
+                        {
+                            "id": "cv_8"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adressen"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Addresses"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_1"
+                        },
+                        {
+                            "id": "cvGroup_1817"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Grundeinstellungen"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Basic settings"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_29"
+                        },
+                        {
+                            "id": "cv_54"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Motorregelung"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Motor control"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_9"
+                        },
+                        {
+                            "id": "cv_54",
+                            "activeItems": "bit:1;bit:2"
+                        },
+                        {
+                            "id": "cv_60"
+                        },
+                        {
+                            "id": "cv_61"
+                        },
+                        {
+                            "id": "cv_62"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Fahreigenschaften"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Driving characteristics"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_2"
+                        },
+                        {
+                            "id": "cv_3"
+                        },
+                        {
+                            "id": "cv_4"
+                        },
+                        {
+                            "id": "cv_5"
+                        },
+                        {
+                            "id": "cv_58"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Geschwindigkeitskennline"
+                        },
+                        {
+                            "language": "en",
+                            "text": "External Speed Steps"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_29",
+                            "activeItems": "bit:4"
+                        },
+                        {
+                            "id": "395"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Funktionsausgänge"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Function outputs"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "cv_51"
+                        },
+                        {
+                            "id": "cv_57"
+                        },
+                        {
+                            "id": "cv_52"
+                        },
+                        {
+                            "id": "cv_53"
+                        },
+                        {
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Dimmen"
+                                },
+                                {
+                                    "language": "en",
+                                    "text": "Dimming"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "cv_49"
+                                },
+                                {
+                                    "id": "cv_56"
+                                },
+                                {
+                                    "id": "cv_50"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "dcc"
+        },
+        "version": "3.0",
+        "versionExtension": "LGB-onBoard-Decoders",
+        "releaseDate": "2004-10-05T00:00:00.000",
+        "manufacturerId": 123,
+        "manufacturerExtendedId": 0
+    },
+    "version": {
+        "author": "Luke",
+        "lastUpdate": "2026-02-11T00:17:11.078Z",
+        "created": "2026-02-10T22:23:34.00"
+    }
+}
