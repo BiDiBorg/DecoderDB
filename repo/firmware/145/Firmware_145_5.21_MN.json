@@ -2,39 +2,31 @@
     "firmware": {
         "decoders": [
             {
-                "name": "MS440",
+                "name": "MN150",
                 "type": "loco-sound"
             },
             {
-                "name": "MS450",
+                "name": "MN160",
                 "type": "loco-sound"
             },
             {
-                "name": "MS480",
+                "name": "MN170",
                 "type": "loco-sound"
             },
             {
-                "name": "MS490",
+                "name": "MN250",
                 "type": "loco-sound"
             },
             {
-                "name": "MS560",
+                "name": "MN300",
                 "type": "loco-sound"
             },
             {
-                "name": "MS580",
+                "name": "MN330",
                 "type": "loco-sound"
             },
             {
-                "name": "MS950",
-                "type": "loco-sound"
-            },
-            {
-                "name": "MS990",
-                "type": "loco-sound"
-            },
-            {
-                "name": "MS500",
+                "name": "MN340",
                 "type": "loco-sound"
             }
         ],
