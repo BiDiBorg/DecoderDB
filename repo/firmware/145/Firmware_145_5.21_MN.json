@@ -2,32 +2,40 @@
     "firmware": {
         "decoders": [
             {
-                "name": "MN150",
-                "type": "loco"
+                "name": "MS440",
+                "type": "loco-sound"
             },
             {
-                "name": "MN160",
-                "type": "loco"
+                "name": "MS450",
+                "type": "loco-sound"
             },
             {
-                "name": "MN170",
-                "type": "loco"
+                "name": "MS480",
+                "type": "loco-sound"
             },
             {
-                "name": "MN250",
-                "type": "loco"
+                "name": "MS490",
+                "type": "loco-sound"
             },
             {
-                "name": "MN300",
-                "type": "loco"
+                "name": "MS560",
+                "type": "loco-sound"
             },
             {
-                "name": "MN330",
-                "type": "loco"
+                "name": "MS580",
+                "type": "loco-sound"
             },
             {
-                "name": "MN340",
-                "type": "loco"
+                "name": "MS950",
+                "type": "loco-sound"
+            },
+            {
+                "name": "MS990",
+                "type": "loco-sound"
+            },
+            {
+                "name": "MS500",
+                "type": "loco-sound"
             }
         ],
         "protocol": {
@@ -4646,6 +4654,32 @@
                             "language": "de",
                             "text": "Trimmwert Rückwärtsfahrt",
                             "help": "Multiplikation der Fahrstufe mit Trimmwert/128"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_102",
+                    "number": 102,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "SUSI Slave 3"
+                        }
+                    ],
+                    "defaultValue": 0,
+                    "type": "select",
+                    "possibleValues": "0;1",
+                    "items": [
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "SUSI Slave 3 aktivieren"
+                                }
+                            ],
+                            "number": 0
                         }
                     ]
                 },
@@ -15119,157 +15153,6 @@
                     ]
                 },
                 {
-                    "number": 250,
-                    "type": "byte",
-                    "indexHigh": 0,
-                    "indexLow": 0,
-                    "initialRead": false,
-                    "isCustom": false,
-                    "id": "285",
-                    "defaultValue": 0,
-                    "mode": "ro",
-                    "pomWriteExclude": false,
-                    "possibleValues": "0-255",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Decoder-ID 1 / Decoder-Typ"
-                        }
-                    ]
-                },
-                {
-                    "number": 251,
-                    "type": "byte",
-                    "indexHigh": 0,
-                    "indexLow": 0,
-                    "initialRead": false,
-                    "isCustom": false,
-                    "id": "287R0",
-                    "defaultValue": 0,
-                    "mode": "ro",
-                    "pomWriteExclude": false,
-                    "possibleValues": "0-255",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Decoder-ID 2"
-                        }
-                    ]
-                },
-                {
-                    "number": 252,
-                    "type": "byte",
-                    "indexHigh": 0,
-                    "indexLow": 0,
-                    "initialRead": false,
-                    "isCustom": false,
-                    "id": "287R1",
-                    "defaultValue": 0,
-                    "mode": "ro",
-                    "pomWriteExclude": false,
-                    "possibleValues": "0-255",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Decoder-ID 3"
-                        }
-                    ]
-                },
-                {
-                    "number": 253,
-                    "type": "byte",
-                    "indexHigh": 0,
-                    "indexLow": 0,
-                    "initialRead": false,
-                    "isCustom": false,
-                    "id": "287R2",
-                    "defaultValue": 0,
-                    "mode": "ro",
-                    "pomWriteExclude": false,
-                    "possibleValues": "0-255",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Decoder-ID 4"
-                        }
-                    ]
-                },
-                {
-                    "id": "cv_268",
-                    "number": 268,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Verwendung/Umschaltung Achsdetektor (Taktgeber)"
-                        }
-                    ],
-                    "defaultValue": 1,
-                    "type": "select",
-                    "possibleValues": "0-63;128;192",
-                    "items": [
-                        {
-                            "type": "group",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Simulierter Achsdetektor aktiv"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Echter Achsdetektor aktiv"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "number": 0
-                        },
-                        {
-                            "type": "partial",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "mehrere Flanken hintereinander",
-                                    "help": "bei einem echten Achsdetektor"
-                                }
-                            ],
-                            "number": 0,
-                            "possibleValues": "2-63",
-                            "reset": false,
-                            "disableOther": false,
-                            "multiply": 1
-                        },
-                        {
-                            "type": "bit",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "beide Treibwerke gleiches Dampfset (sofern nur eines vorhanden)"
-                                }
-                            ],
-                            "number": "6"
-                        },
-                        {
-                            "type": "bit",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "CV268.0-5=0 --> zweites Triebwerk etwas langsamer             CV268.0-5>0 --> Achsdetektor Triebwerk 1 an IN3\t\t\t\tAchsdetektor Triebwerk 2 an IN2"
-                                }
-                            ],
-                            "number": "7"
-                        }
-                    ]
-                },
-                {
                     "id": "cv_201",
                     "number": 201,
                     "mode": "rw",
@@ -15643,89 +15526,6 @@
                     ]
                 },
                 {
-                    "id": "cv_102",
-                    "number": 102,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "SUSI Slave 3"
-                        }
-                    ],
-                    "defaultValue": 0,
-                    "type": "select",
-                    "possibleValues": "0;1",
-                    "items": [
-                        {
-                            "type": "bit",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "SUSI Slave 3 aktivieren"
-                                }
-                            ],
-                            "number": 0
-                        }
-                    ]
-                },
-                {
-                    "id": "cv_280",
-                    "number": 280,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Dieselmotor - Lasteinfluss"
-                        }
-                    ],
-                    "defaultValue": 10,
-                    "type": "byte",
-                    "possibleValues": "0-255"
-                },
-                {
-                    "id": "cv_302",
-                    "number": 302,
-                    "mode": "wo",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Messfahrt zur Bestimmung der Motor-Grundlast",
-                            "help": "ACHTUNG: die Lok (oder der Zug) wird dabei automatisch bewegt, wofür eine freie Strecke von je nach Spurweite ca. 20cm – 1,5m gebraucht wird, frei von Steigungen und Gefälle, möglichst ohne (enge) Kurven."
-                        }
-                    ],
-                    "defaultValue": 0,
-                    "type": "select",
-                    "possibleValues": "75;76",
-                    "items": [
-                        {
-                            "type": "group",
-                            "options": [
-                                {
-                                    "value": 75,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Einleitung der Messfahrt in Vorwärtsrichtung",
-                                            "help": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 76,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Einleitung der Messfahrt in Rückwärtsrichtung",
-                                            "help": ""
-                                        }
-                                    ]
-                                }
-                            ],
-                            "number": 0
-                        }
-                    ]
-                },
-                {
                     "id": "cv_248",
                     "number": 248,
                     "mode": "ro",
@@ -15747,6 +15547,163 @@
                         {
                             "language": "de",
                             "text": "Subversionsnummer"
+                        }
+                    ],
+                    "defaultValue": 0,
+                    "type": "byte",
+                    "possibleValues": "0-255"
+                },
+                {
+                    "number": 250,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "285",
+                    "defaultValue": 0,
+                    "mode": "ro",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-255",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Decoder-ID 1 / Decoder-Typ"
+                        }
+                    ]
+                },
+                {
+                    "number": 251,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "287R0",
+                    "defaultValue": 0,
+                    "mode": "ro",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-255",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Decoder-ID 2"
+                        }
+                    ]
+                },
+                {
+                    "number": 252,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "287R1",
+                    "defaultValue": 0,
+                    "mode": "ro",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-255",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Decoder-ID 3"
+                        }
+                    ]
+                },
+                {
+                    "number": 253,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "287R2",
+                    "defaultValue": 0,
+                    "mode": "ro",
+                    "pomWriteExclude": false,
+                    "possibleValues": "0-255",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Decoder-ID 4"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_394",
+                    "number": 394,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Spezielle ZIMO Konfigurationsbits 4"
+                        }
+                    ],
+                    "defaultValue": 0,
+                    "type": "select",
+                    "possibleValues": "",
+                    "items": [
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Lichtblitzen bei Schaltwerks-Sound"
+                                }
+                            ],
+                            "number": 0
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": " Schnelleres Beschleunigen und Sound auf hohe Leistung, wenn Fahrregler schnell auf Vollwert"
+                                }
+                            ],
+                            "number": "4"
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": " Dampfschläge überblenden"
+                                }
+                            ],
+                            "number": "5"
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": " Verhindere das Beschleunigen, wenn Bremstaste aktiv"
+                                }
+                            ],
+                            "number": "6"
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Thyristor-Sound kommt vor wegfahren"
+                                }
+                            ],
+                            "number": "7"
+                        }
+                    ]
+                },
+                {
+                    "id": "cv_398",
+                    "number": 398,
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Automatische Coasting-Wirkung",
+                            "help": "Anzahl der Fahrstufen, um welche innerhalb einer Zeit von 0,5 sec gebremst werden muss, damit „Coasting“ automatisch (d.h. ohne spezieller „Coasting-Taste“, siehe oben) auszulösen, d.h. den Diesel-Motor auf Standgeräusch abzusenken. Bei langsamerem zurücknehmen der Fahrstufe tritt dieser Effekt hingegen nicht ein"
                         }
                     ],
                     "defaultValue": 0,
@@ -15906,9 +15863,6 @@
                         },
                         {
                             "id": "644"
-                        },
-                        {
-                            "id": "cv_302"
                         },
                         {
                             "descriptions": [
@@ -16525,7 +16479,7 @@
     },
     "version": {
         "author": "Luke",
-        "lastUpdate": "2026-02-10T02:14:57.147Z",
+        "lastUpdate": "2026-02-14T02:05:26.618Z",
         "created": "2026-01-23T21:00:00.000"
     }
 }
