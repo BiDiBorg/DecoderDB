@@ -18303,100 +18303,6 @@
                     "possibleValues": "0-255"
                 },
                 {
-                    "id": "cvGroup_777778",
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "PWM-Werte Vorwärtsrichtung"
-                        }
-                    ],
-                    "defaultValue": 0,
-                    "type": "list",
-                    "possibleValues": "0-65535",
-                    "cvs": [
-                        {
-                            "id": "cv_777",
-                            "number": 777,
-                            "mode": "rw",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "PWM-Werte Langsamfahrt"
-                                }
-                            ],
-                            "defaultValue": 0,
-                            "type": "byte",
-                            "possibleValues": "0-255",
-                            "indexHigh": 0,
-                            "indexLow": 0
-                        },
-                        {
-                            "id": "cv_778",
-                            "number": 778,
-                            "mode": "rw",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "PWM-Werte Schnellfahrt"
-                                }
-                            ],
-                            "defaultValue": 0,
-                            "type": "byte",
-                            "possibleValues": "0-255",
-                            "indexHigh": 0,
-                            "indexLow": 0
-                        }
-                    ]
-                },
-                {
-                    "id": "cvGroup_779780",
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "PWM-Werte Rückwärtsrichtung"
-                        }
-                    ],
-                    "defaultValue": 0,
-                    "type": "list",
-                    "possibleValues": "0-65535",
-                    "cvs": [
-                        {
-                            "id": "cv_779",
-                            "number": 779,
-                            "mode": "rw",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "PWM-Werte Langsamfahrt"
-                                }
-                            ],
-                            "defaultValue": 0,
-                            "type": "byte",
-                            "possibleValues": "0-255",
-                            "indexHigh": 0,
-                            "indexLow": 0
-                        },
-                        {
-                            "id": "cv_780",
-                            "number": 780,
-                            "mode": "rw",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "PWM-Werte Schnellfahrt"
-                                }
-                            ],
-                            "defaultValue": 0,
-                            "type": "byte",
-                            "possibleValues": "0-255",
-                            "indexHigh": 0,
-                            "indexLow": 0
-                        }
-                    ]
-                },
-                {
                     "id": "cv_842",
                     "number": 842,
                     "mode": "rw",
@@ -18575,22 +18481,6 @@
                         },
                         {
                             "id": "644"
-                        },
-                        {
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "Messfahrt"
-                                }
-                            ],
-                            "items": [
-                                {
-                                    "id": "cvGroup_777778"
-                                },
-                                {
-                                    "id": "cvGroup_779780"
-                                }
-                            ]
                         }
                     ]
                 },
