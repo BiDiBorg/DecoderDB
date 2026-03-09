@@ -3,7 +3,7 @@
     "name": "MS440",
     "type": "loco-sound",
     "typeIds": "4",
-    "articleNumbers": "MS450;MS450R,MS450P16;MS450P22",
+    "articleNumbers": "MS440;MS440D;MS440C",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -34,6 +34,6 @@
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:23:37.402Z"
+    "lastUpdate": "2026-03-09T21:11:06.952Z"
   }
 }

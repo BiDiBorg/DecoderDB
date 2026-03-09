@@ -1,1 +1,34 @@
-{"decoder":{"name":"MN340","type":"loco","typeIds":"123","articleNumbers":"MN340C;MN340D","manufacturerId":145,"manufacturerExtendedId":0,"specifications":{"connectors":{"list":"MTC C/D"},"dimensions":{"width":15.3,"height":2.5,"length":28.6},"electrical":{"peakCurrent":0,"maxMotorCurrent":1.2,"maxTotalCurrent":1.2,"maxVoltage":24,"functionOutputs":4}},"options":"","images":[]},"version":{"created":"2024-12-25T00:00:00.000","lastUpdate":"2026-01-17T12:26:23.731Z"}}
+{
+  "decoder": {
+    "name": "MN340",
+    "type": "loco",
+    "typeIds": "123",
+    "articleNumbers": "MN340C;MN340D",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "MTC C/D"
+      },
+      "dimensions": {
+        "width": 15.3,
+        "height": 2.5,
+        "length": 28.6
+      },
+      "electrical": {
+        "peakCurrent": 0,
+        "maxMotorCurrent": 1.2,
+        "maxTotalCurrent": 1.2,
+        "maxVoltage": 24,
+        "functionOutputs": 4
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN340"
+  },
+  "version": {
+    "created": "2024-12-25T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:58:04.212Z"
+  }
+}

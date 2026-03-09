@@ -1,1 +1,34 @@
-{"decoder":{"name":"MN180N18","type":"loco","typeIds":"127","articleNumbers":"MN180N18","manufacturerId":145,"manufacturerExtendedId":0,"specifications":{"connectors":{"list":"Next18"},"dimensions":{"width":9.5,"height":2.6,"length":13.3},"electrical":{"peakCurrent":1.5,"maxMotorCurrent":0.7,"maxTotalCurrent":0.7,"maxVoltage":24,"functionOutputs":4}},"options":"","images":[]},"version":{"created":"2024-12-25T00:00:00.000","lastUpdate":"2026-01-23T10:40:13.285Z"}}
+{
+  "decoder": {
+    "name": "MN180N18",
+    "type": "loco",
+    "typeIds": "127",
+    "articleNumbers": "MN180N18",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Next18"
+      },
+      "dimensions": {
+        "width": 9.5,
+        "height": 2.3,
+        "length": 13.3
+      },
+      "electrical": {
+        "peakCurrent": 1.5,
+        "maxMotorCurrent": 0.7,
+        "maxTotalCurrent": 0.7,
+        "maxVoltage": 24,
+        "functionOutputs": 4
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN180N18"
+  },
+  "version": {
+    "created": "2024-12-25T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:55:43.606Z"
+  }
+}
