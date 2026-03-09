@@ -1,9 +1,9 @@
 {
   "decoder": {
-    "name": "MS500",
+    "name": "MS501",
     "type": "loco-sound",
-    "typeIds": "1",
-    "articleNumbers": "MS500;MS500F;MS500N",
+    "typeIds": "17",
+    "articleNumbers": "MS501;MS501F;MS501N",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -11,9 +11,9 @@
         "list": "Cable;NEM-651;NEM-652"
       },
       "dimensions": {
-        "width": 10,
-        "height": 2.6,
-        "length": 14
+        "width": 9.5,
+        "height": 2.4,
+        "length": 13.4
       },
       "electrical": {
         "peakCurrent": 1.5,
@@ -26,18 +26,18 @@
     "options": "",
     "images": [
       {
-        "name": "MS500-1.jpg",
+        "name": "MS501r-1.jpg",
         "copyright": "Zimo"
       },
       {
-        "name": "MS500-2.jpg",
-        "copyright": "zimo"
+        "name": "MS501r-2.jpg",
+        "copyright": "Zimo"
       }
     ],
-    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS500"
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS501"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:30:23.248Z"
+    "lastUpdate": "2026-03-09T21:30:34.509Z"
   }
 }
