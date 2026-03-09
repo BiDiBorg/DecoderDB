@@ -1,1 +1,32 @@
-{"decoder":{"specifications":{"dimensions":{"length":20.0,"width":8.5,"height":3.5},"electrical":{"maxTotalCurrent":0.8,"maxMotorCurrent":0.8,"maxVoltage":35.0},"connectors":{"list":"Cable;NEM651+Cable;NEM652+Cable;Plux12"}},"name":"MX623","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"234","producedFrom":"2012","decoderDBLink":"https://www.decoderdb.de/?decoderPage=46"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2017-05-02T20:13:27","created":"2017-01-02T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX623",
+    "type": "loco",
+    "typeIds": "234",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;NEM651+Cable;NEM652+Cable;Plux12"
+      },
+      "dimensions": {
+        "width": 8.5,
+        "height": 3.5,
+        "length": 20
+      },
+      "electrical": {
+        "maxMotorCurrent": 0.8,
+        "maxTotalCurrent": 0.8,
+        "maxVoltage": 35,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX623"
+  },
+  "version": {
+    "created": "2017-01-02T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:15:32.332Z"
+  }
+}

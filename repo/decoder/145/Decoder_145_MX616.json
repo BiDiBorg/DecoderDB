@@ -1,1 +1,33 @@
-{"decoder":{"specifications":{"dimensions":{"length":8.0,"width":8.0,"height":2.4},"electrical":{"maxTotalCurrent":0.7,"maxMotorCurrent":0.7,"maxVoltage":24.0},"connectors":{"list":"Cable;NEM651;NEM652+Cable"}},"name":"MX616","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"195","articleNumbers":"MX616;MX616N;MX616R","producedFrom":"2017","decoderDBLink":"https://www.decoderdb.de/?decoderPage=87"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2020-04-11T14:19:18","created":"2017-05-02T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX616",
+    "type": "loco",
+    "typeIds": "195",
+    "articleNumbers": "MX616;MX616N;MX616R",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;NEM651;NEM652+Cable"
+      },
+      "dimensions": {
+        "width": 8,
+        "height": 2.4,
+        "length": 8
+      },
+      "electrical": {
+        "maxMotorCurrent": 0.7,
+        "maxTotalCurrent": 0.7,
+        "maxVoltage": 24,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX616"
+  },
+  "version": {
+    "created": "2017-05-02T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:14:00.356Z"
+  }
+}

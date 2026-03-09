@@ -1,1 +1,32 @@
-{"decoder":{"specifications":{"dimensions":{"length":28.0,"width":10.5,"height":4.0},"electrical":{"maxTotalCurrent":1.0,"maxMotorCurrent":1.0,"maxVoltage":30.0},"connectors":{"list":"Cable"}},"name":"MX647","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"216","producedFrom":"2010","producedTill":"2010","decoderDBLink":"https://www.decoderdb.de/?decoderPage=67"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2017-05-13T20:28:39","created":"2017-01-21T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX647",
+    "type": "loco",
+    "typeIds": "216",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable"
+      },
+      "dimensions": {
+        "width": 10.5,
+        "height": 4,
+        "length": 28
+      },
+      "electrical": {
+        "maxMotorCurrent": 1,
+        "maxTotalCurrent": 1,
+        "maxVoltage": 30,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX647"
+  },
+  "version": {
+    "created": "2017-01-21T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:32:20.343Z"
+  }
+}

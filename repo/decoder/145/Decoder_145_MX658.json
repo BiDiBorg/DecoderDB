@@ -1,1 +1,32 @@
-{"decoder":{"specifications":{"dimensions":{"length":25.0,"width":10.5,"height":4.0},"electrical":{"maxTotalCurrent":0.8,"maxMotorCurrent":0.8,"maxVoltage":35.0},"connectors":{"list":"Next18"}},"name":"MX658","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"246","producedFrom":"2012","decoderDBLink":"https://www.decoderdb.de/?decoderPage=70"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2017-05-02T20:12:56","created":"2017-01-21T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX658",
+    "type": "loco",
+    "typeIds": "246",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Next18"
+      },
+      "dimensions": {
+        "width": 10.5,
+        "height": 4,
+        "length": 25
+      },
+      "electrical": {
+        "maxMotorCurrent": 0.8,
+        "maxTotalCurrent": 0.8,
+        "maxVoltage": 35,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX658"
+  },
+  "version": {
+    "created": "2017-01-21T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:31:25.070Z"
+  }
+}

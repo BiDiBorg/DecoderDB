@@ -1,1 +1,32 @@
-{"decoder":{"specifications":{"dimensions":{"length":22.0,"width":15.0,"height":3.5},"electrical":{"maxTotalCurrent":1.2,"maxMotorCurrent":1.2,"maxVoltage":35.0},"connectors":{"list":"Cable;NEM652+Cable;Plux22"}},"name":"MX633","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"133;237","producedFrom":"2012","decoderDBLink":"https://www.decoderdb.de/?decoderPage=47"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2020-04-11T14:08:29","created":"2017-01-02T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX633",
+    "type": "loco",
+    "typeIds": "133;237",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;NEM652+Cable;Plux22"
+      },
+      "dimensions": {
+        "width": 15,
+        "height": 3.5,
+        "length": 22
+      },
+      "electrical": {
+        "maxMotorCurrent": 1.2,
+        "maxTotalCurrent": 1.2,
+        "maxVoltage": 35,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX633"
+  },
+  "version": {
+    "created": "2017-01-02T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:25:30.700Z"
+  }
+}

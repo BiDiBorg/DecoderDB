@@ -1,1 +1,37 @@
-{"decoder":{"specifications":{"dimensions":{"length":14.0,"width":9.0,"height":2.5},"electrical":{"maxTotalCurrent":0.8,"maxMotorCurrent":0.8,"maxVoltage":35.0},"connectors":{"list":"Cable;NEM651;NEM651+Cable;NEM652+Cable"}},"images":[{"name":"MX622N.jpg","source":"https://www.decoderdb.de/fileadmin/media/Hersteller/Zimo/Images/MX622N.jpg","lastModified":"2020-04-11T17:52:15","copyright":"Zimo"}],"name":"MX622","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"192;233","producedFrom":"2012","decoderDBLink":"https://www.decoderdb.de/?decoderPage=45"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2020-04-11T17:52:15","created":"2017-01-02T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX622",
+    "type": "loco",
+    "typeIds": "192;233",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;NEM651;NEM651+Cable;NEM652+Cable"
+      },
+      "dimensions": {
+        "width": 9,
+        "height": 2.5,
+        "length": 14
+      },
+      "electrical": {
+        "maxMotorCurrent": 0.8,
+        "maxTotalCurrent": 0.8,
+        "maxVoltage": 35,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "MX622N.jpg",
+        "copyright": "Zimo"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX622"
+  },
+  "version": {
+    "created": "2017-01-02T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:12:34.486Z"
+  }
+}

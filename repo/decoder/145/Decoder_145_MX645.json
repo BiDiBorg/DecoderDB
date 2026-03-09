@@ -1,1 +1,32 @@
-{"decoder":{"specifications":{"dimensions":{"length":30.0,"width":15.0,"height":4.0},"electrical":{"maxTotalCurrent":1.2,"maxMotorCurrent":1.2,"maxVoltage":35.0},"connectors":{"list":"Cable;NEM651+Cable;NEM652+Cable;Plux16;Plux22"}},"name":"MX645","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"221","decoderDBLink":"https://www.decoderdb.de/?decoderPage=65"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2017-01-21T17:07:49","created":"2017-01-21T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX645",
+    "type": "loco",
+    "typeIds": "221",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;NEM651+Cable;NEM652+Cable;Plux16;Plux22"
+      },
+      "dimensions": {
+        "width": 15,
+        "height": 4,
+        "length": 30
+      },
+      "electrical": {
+        "maxMotorCurrent": 1.2,
+        "maxTotalCurrent": 1.2,
+        "maxVoltage": 35,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX645"
+  },
+  "version": {
+    "created": "2017-01-21T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:32:50.242Z"
+  }
+}

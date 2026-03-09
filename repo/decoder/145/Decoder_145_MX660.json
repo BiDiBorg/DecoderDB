@@ -1,1 +1,32 @@
-{"decoder":{"specifications":{"dimensions":{"length":45.0,"width":9.0,"height":2.4},"electrical":{"maxTotalCurrent":0.8,"maxMotorCurrent":0.8,"maxVoltage":0.0},"connectors":{"list":"Pad"}},"name":"MX660","type":0,"manufacturerId":145,"manufacturerExtendedId":0,"typeIds":"160","producedFrom":"2018","decoderDBLink":"https://www.decoderdb.de/?decoderPage=148"},"version":{"createdBy":"DecoderDB","creatorLink":"https://www.decoderdb.de","author":"Stephan Bauer","lastUpdate":"2019-12-30T17:32:45","created":"2019-12-30T00:00:00.000"}}
+{
+  "decoder": {
+    "name": "MX660",
+    "type": "loco",
+    "typeIds": "160",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Pad"
+      },
+      "dimensions": {
+        "width": 9,
+        "height": 2.4,
+        "length": 45
+      },
+      "electrical": {
+        "maxMotorCurrent": 0.8,
+        "maxTotalCurrent": 0.8,
+        "maxVoltage": 0,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX660"
+  },
+  "version": {
+    "created": "2019-12-30T00:00:00.000",
+    "lastUpdate": "2026-03-09T20:31:13.612Z"
+  }
+}
