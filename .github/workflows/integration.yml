@@ -68,7 +68,7 @@ jobs:
           path: |
             repo/repository.json
             repo/decoder/decoderDetails.json
-            repo/firmware/firmwareDetails.json            
+            repo/firmware/firmwareDetails.json
           key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
       - name: "show file sizes"
         run: |
@@ -84,7 +84,21 @@ jobs:
             repo/decoder/decoderDetails.json
             repo/firmware/firmwareDetails.json
         # Commit all changed files back to the repository
-            
+      - name: commit generated
+        if: steps.restore-output.outputs.cache-hit == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v7
+        id: auto-commit-action
+        with:
+          commit_message: Update generated files [skip ci]
+          commit_options: "--no-verify"
+      - name: "Run if changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: echo "Changes!"
+
+      - name: "Run if no changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'false'
+        run: echo "No Changes!"
+
   deploy_json_to_ftp:
     needs: generate_repository_json
     runs-on: ubuntu-latest
@@ -138,10 +152,10 @@ jobs:
             repo/decoder/decoderDetails.json
             repo/firmware/firmwareDetails.json
           key: ${{ runner.os }}-json-${{ hashFiles('./repo/**/*.json', '!./repo/repository.json', '!./repo/decoder/decoderDetails.json',  '!./repo/firmware/firmwareDetails.json') }}
-      - name: commit generated 
+      - name: commit generated
         if: steps.restore-output.outputs.cache-hit == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update repository.json [skip ci]
+          commit_message: Update generated files [skip ci]
           commit_options: "--no-verify"
           file_pattern: "*/**"
