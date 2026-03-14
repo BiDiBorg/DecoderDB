@@ -46,8 +46,8 @@
     "filename": "Firmware_109_1_Robel2.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_1_Robel2.json",
     "lastUpdate": "2024-05-25T17:30:11.000",
-    "sha1": "57c53d90507cae61b0013c37a2fb4174f818a07a",
-    "fileSize": 60693
+    "sha1": "f513a43b066108f20c951a49df72af8abaf4c9de",
+    "fileSize": 48104
   },
   {
     "manufacturerId": 109,
@@ -63,8 +63,8 @@
     "filename": "Firmware_109_10_Robel.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_10_Robel.json",
     "lastUpdate": "2024-05-25T17:29:55.000",
-    "sha1": "852ef6238f37b082a5e978aa3199948b6709cab1",
-    "fileSize": 46625
+    "sha1": "6c764a6719fc70306f01c027c97e83780d4f691b",
+    "fileSize": 36386
   },
   {
     "manufacturerId": 109,
@@ -80,8 +80,8 @@
     "filename": "Firmware_109_112_Unimat.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_112_Unimat.json",
     "lastUpdate": "2024-06-01T16:26:02.000",
-    "sha1": "c1eecaa06180298ef841dda2ac2cf85ac105b986",
-    "fileSize": 419232
+    "sha1": "6975050967274954d139031ab7dc02e77c3b36fd",
+    "fileSize": 301578
   },
   {
     "manufacturerId": 109,
@@ -100,8 +100,8 @@
     "filename": "Firmware_109_2_524x.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_2_524x.json",
     "lastUpdate": "2020-10-13T16:59:39.000",
-    "sha1": "060e6cc18c7c1bc6c6d0ada3e5ebfe692d61ecc0",
-    "fileSize": 49269
+    "sha1": "272d93f28192cc1c85ffb2e4a0828b5f8d45a4ea",
+    "fileSize": 38804
   },
   {
     "manufacturerId": 109,
@@ -117,8 +117,8 @@
     "filename": "Firmware_109_2_Betonmischer.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_2_Betonmischer.json",
     "lastUpdate": "2024-04-30T11:18:25.000",
-    "sha1": "1d29a1c5ce7a5209d408332fa104d4812fb242a4",
-    "fileSize": 16177
+    "sha1": "57b55b1f527c52745eb1df09a028ccca3cf963a0",
+    "fileSize": 11467
   },
   {
     "manufacturerId": 109,
@@ -137,8 +137,8 @@
     "filename": "Firmware_109_3_524x.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_3_524x.json",
     "lastUpdate": "2020-10-13T16:59:55.000",
-    "sha1": "589f9a18563f1d33434d135f1acad36bc683c594",
-    "fileSize": 48718
+    "sha1": "38a26f7234fabb7a156a92681843e7c31ca154ab",
+    "fileSize": 38253
   },
   {
     "manufacturerId": 109,
@@ -157,8 +157,8 @@
     "filename": "Firmware_109_4_524x.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_4_524x.json",
     "lastUpdate": "2020-10-13T17:00:51.000",
-    "sha1": "e93b5a47aa50d28efb14888f0f6f47d1e52c1c09",
-    "fileSize": 49247
+    "sha1": "f458bc9bb13c1c933caf1c6c7f911e422df5e686",
+    "fileSize": 38660
   },
   {
     "manufacturerId": 109,
@@ -177,8 +177,8 @@
     "filename": "Firmware_109_5_524x.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_5_524x.json",
     "lastUpdate": "2020-10-13T17:00:51.000",
-    "sha1": "cffb921f7c50807afc109f2dee9e5497f593b19b",
-    "fileSize": 49084
+    "sha1": "02cd7cb5b2db23ab8e4419af7f97205e5fde6928",
+    "fileSize": 38497
   },
   {
     "manufacturerId": 109,
@@ -194,8 +194,8 @@
     "filename": "Firmware_109_5_Robel.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_5_Robel.json",
     "lastUpdate": "2024-05-25T17:29:54.000",
-    "sha1": "a55562fe701491af657631e481918fe9c042fa87",
-    "fileSize": 46622
+    "sha1": "5e15f0de2d7a73995a9072f91e241c7380f2e4bd",
+    "fileSize": 36382
   },
   {
     "manufacturerId": 109,
@@ -214,8 +214,8 @@
     "filename": "Firmware_109_6_524x.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_6_524x.json",
     "lastUpdate": "2020-10-13T17:00:51.000",
-    "sha1": "1b0580b958e6df8d55396e3dc29d9cae45031b77",
-    "fileSize": 49084
+    "sha1": "2eebdfe6d58d987f45061c0f2bb33313a975904d",
+    "fileSize": 38497
   },
   {
     "manufacturerId": 109,
@@ -231,8 +231,8 @@
     "filename": "Firmware_109_6_Robel.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_6_Robel.json",
     "lastUpdate": "2024-05-25T17:29:55.000",
-    "sha1": "32413a84f6b9024193e630981ca2c7079544f2a6",
-    "fileSize": 46624
+    "sha1": "776c83c33b4de2e284d79d2eb50f2614e9cefbfe",
+    "fileSize": 36384
   },
   {
     "manufacturerId": 109,
@@ -248,8 +248,8 @@
     "filename": "Firmware_109_8_Plasser-Theuer.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_8_Plasser-Theuer.json",
     "lastUpdate": "2024-04-30T11:18:25.000",
-    "sha1": "f40397001063e5047b5232dfdd88d6d127aeb970",
-    "fileSize": 33451
+    "sha1": "576c7eafc0153ad671736b581d0ecb4585e7b2c0",
+    "fileSize": 26622
   },
   {
     "manufacturerId": 109,
@@ -265,8 +265,8 @@
     "filename": "Firmware_109_8_Robel.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_8_Robel.json",
     "lastUpdate": "2024-05-25T17:29:55.000",
-    "sha1": "42436778091a7c3439616c1332721bb51a9ba242",
-    "fileSize": 46624
+    "sha1": "3763528b40ad01c34e734711b6432975ecdff2ca",
+    "fileSize": 36384
   },
   {
     "manufacturerId": 109,
@@ -282,8 +282,8 @@
     "filename": "Firmware_109_9_Robel.json",
     "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_9_Robel.json",
     "lastUpdate": "2024-05-25T17:29:55.000",
-    "sha1": "4dc7b4d45ab7eb5bb05d8b7fbce03bf34367db41",
-    "fileSize": 46624
+    "sha1": "c31bfc1bad3845d99805a105bc12e2a3ced1622c",
+    "fileSize": 36384
   },
   {
     "manufacturerId": 115,
@@ -299,8 +299,8 @@
     "filename": "Firmware_115_16_micro-x3.json",
     "link": "https://decoderdb.bidib.org/firmware/115/Firmware_115_16_micro-x3.json",
     "lastUpdate": "2020-11-12T16:52:21.000",
-    "sha1": "f6b15395d229775e89d84058a5e5e72c213b7f3c",
-    "fileSize": 123033
+    "sha1": "e5c3e0d5bfc6a5a7942bc8081eacdcf9a4d99058",
+    "fileSize": 88281
   },
   {
     "manufacturerId": 117,
@@ -316,8 +316,8 @@
     "filename": "Firmware_117_56_DCX32.json",
     "link": "https://decoderdb.bidib.org/firmware/117/Firmware_117_56_DCX32.json",
     "lastUpdate": "2020-12-27T23:42:32.000",
-    "sha1": "34f6a66c8dac0cca1431a5fd8dbc8283f7819146",
-    "fileSize": 24512
+    "sha1": "6236ec733e750f30972d27c8e01ceeba4bbf21d7",
+    "fileSize": 20578
   },
   {
     "manufacturerId": 117,
@@ -333,8 +333,8 @@
     "filename": "Firmware_117_71_DCX33.json",
     "link": "https://decoderdb.bidib.org/firmware/117/Firmware_117_71_DCX33.json",
     "lastUpdate": "2020-12-27T23:42:32.000",
-    "sha1": "ae44aad96f29ba1656a2bca5f9fdce65176df7fa",
-    "fileSize": 50177
+    "sha1": "cc97b10a9bdabe7d8457e60b219f2bb5515add33",
+    "fileSize": 39225
   },
   {
     "manufacturerId": 117,
@@ -362,8 +362,8 @@
     "filename": "Firmware_117_88_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/117/Firmware_117_88_sound.json",
     "lastUpdate": "2025-02-21T16:09:22.000",
-    "sha1": "5d275f8ff725420e9549178dd89bc20336f61e72",
-    "fileSize": 84579
+    "sha1": "85cc9ed56dbf30d6c92303a215466a7b1b328a4a",
+    "fileSize": 65573
   },
   {
     "manufacturerId": 117,
@@ -408,8 +408,82 @@
     "filename": "Firmware_117_88.json",
     "link": "https://decoderdb.bidib.org/firmware/117/Firmware_117_88.json",
     "lastUpdate": "2025-02-21T16:09:22.000",
-    "sha1": "995cc19b38c190850b76fb67250b7d880b5d8b6c",
-    "fileSize": 71055
+    "sha1": "5a2ce5326754b250f30db34a678cb2966319d1af",
+    "fileSize": 54356
+  },
+  {
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "version": "3.0",
+    "versionExtension": "LGB_MZS_Decoder_I",
+    "created": "2026-03-14",
+    "decoder": [
+      {
+        "name": "LGB MZS Decoder I"
+      }
+    ],
+    "filename": "Firmware_123_3.0_LGB_MZS_Decoder_I.json",
+    "link": "https://decoderdb.bidib.org/firmware/123/Firmware_123_3.0_LGB_MZS_Decoder_I.json",
+    "lastUpdate": "2026-03-14T14:06:50.617",
+    "sha1": "6e7dcd9acd92f090dd0dc358b6d879c03470e33b",
+    "fileSize": 55668
+  },
+  {
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "version": "3.0",
+    "versionExtension": "LGB_MZS_Decoder_II_Kleinlok",
+    "created": "2026-03-14",
+    "decoder": [
+      {
+        "name": "LGB MZS Decoder II"
+      },
+      {
+        "name": "LGB MZS Kleinlok"
+      }
+    ],
+    "filename": "Firmware_123_3.0_LGB_MZS_Decoder_II_Kleinlok.json",
+    "link": "https://decoderdb.bidib.org/firmware/123/Firmware_123_3.0_LGB_MZS_Decoder_II_Kleinlok.json",
+    "lastUpdate": "2026-03-14T14:07:08.518",
+    "sha1": "a73a80d4db8f7d1bcd94c5b0950aa4495ad89471",
+    "fileSize": 40672
+  },
+  {
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "version": "3.0",
+    "versionExtension": "LGB_onBoard_Decoders",
+    "created": "2026-02-10",
+    "decoder": [
+      {
+        "name": "LGB onBoard Decoder 1.5A"
+      },
+      {
+        "name": "LGB onBoard Decoder 3A"
+      }
+    ],
+    "filename": "Firmware_123_3.0_LGB_onBoard_Decoders.json",
+    "link": "https://decoderdb.bidib.org/firmware/123/Firmware_123_3.0_LGB_onBoard_Decoders.json",
+    "lastUpdate": "2026-03-14T13:13:52.374",
+    "sha1": "a53c627d432822c018dc80c9613f436ec817cdde",
+    "fileSize": 79051
+  },
+  {
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "version": "3.5",
+    "versionExtension": "Rundkesselverdampfer",
+    "created": "2025-12-30",
+    "decoder": [
+      {
+        "name": "Rundkesselverdampfer"
+      }
+    ],
+    "filename": "Firmware_123_3.5_Rundkesselverdampfer.json",
+    "link": "https://decoderdb.bidib.org/firmware/123/Firmware_123_3.5_Rundkesselverdampfer.json",
+    "lastUpdate": "2026-02-10T22:33:58.991",
+    "sha1": "112d3557171a0c2b608edae67fcf536b63c4ab07",
+    "fileSize": 10358
   },
   {
     "manufacturerId": 13,
@@ -702,8 +776,8 @@
     "filename": "Firmware_131_3.08.27_Minitrix.json",
     "link": "https://decoderdb.bidib.org/firmware/131/Firmware_131_3.08.27_Minitrix.json",
     "lastUpdate": "2025-04-01T18:02:05.000",
-    "sha1": "4357cd26e5b95bd04f40790f88ef93e9689f1c65",
-    "fileSize": 127525
+    "sha1": "dfecfaff07ee33b02bad677264479c3dfe953778",
+    "fileSize": 101037
   },
   {
     "manufacturerId": 131,
@@ -719,8 +793,8 @@
     "filename": "Firmware_131_3.09.47_Minitrix.json",
     "link": "https://decoderdb.bidib.org/firmware/131/Firmware_131_3.09.47_Minitrix.json",
     "lastUpdate": "2025-04-01T18:02:20.000",
-    "sha1": "ec44669da8c5c03ad4cd4342a95564fc81d6b2c3",
-    "fileSize": 128222
+    "sha1": "6c32b3056ef846d97311eb7eb914cf113a9ea04c",
+    "fileSize": 101680
   },
   {
     "manufacturerId": 131,
@@ -736,8 +810,8 @@
     "filename": "Firmware_131_3.2.0_mSD3.json",
     "link": "https://decoderdb.bidib.org/firmware/131/Firmware_131_3.2.0_mSD3.json",
     "lastUpdate": "2025-10-30T16:46:07.000",
-    "sha1": "f8f38b75008a141241d0ce58863b2cf678267e9c",
-    "fileSize": 736120
+    "sha1": "25abaf5d763fc22e2f145833e9091bfc706e4f2b",
+    "fileSize": 504117
   },
   {
     "manufacturerId": 131,
@@ -753,8 +827,8 @@
     "filename": "Firmware_131_52_66838.json",
     "link": "https://decoderdb.bidib.org/firmware/131/Firmware_131_52_66838.json",
     "lastUpdate": "2025-03-29T00:17:55.000",
-    "sha1": "67d86236f9566944ca4c567387463bd8a970984b",
-    "fileSize": 7712
+    "sha1": "f29ec6663b959578f9e8e4cc9c3dcbc619f690fb",
+    "fileSize": 6204
   },
   {
     "manufacturerId": 145,
@@ -838,8 +912,8 @@
     "filename": "Firmware_145_31.57.json",
     "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_31.57.json",
     "lastUpdate": "2025-04-12T00:16:02.000",
-    "sha1": "c368bdd2385c116ece3fc0117ce7317a02d3cffe",
-    "fileSize": 165327
+    "sha1": "5e874d9650d6497a49953a12cd5718d454ba0f71",
+    "fileSize": 123248
   },
   {
     "manufacturerId": 145,
@@ -926,8 +1000,93 @@
     "filename": "Firmware_145_5.15.json",
     "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.15.json",
     "lastUpdate": "2025-06-16T21:47:01.000",
-    "sha1": "0491aef8c5c5e4e7ec6fc7267f0b18f81a45e920",
-    "fileSize": 168838
+    "sha1": "5fa6376d4942a0f301242757bd6de123430af669",
+    "fileSize": 126512
+  },
+  {
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "version": "5.21",
+    "versionExtension": "MN",
+    "created": "2026-01-23",
+    "decoder": [
+      {
+        "name": "MN140"
+      },
+      {
+        "name": "MN150"
+      },
+      {
+        "name": "MN160"
+      },
+      {
+        "name": "MN170"
+      },
+      {
+        "name": "MN300"
+      },
+      {
+        "name": "MN330"
+      },
+      {
+        "name": "MN340"
+      },
+      {
+        "name": "MN180N18"
+      }
+    ],
+    "filename": "Firmware_145_5.21_MN.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MN.json",
+    "lastUpdate": "2026-03-14T14:31:19.546",
+    "sha1": "2db0b6fefe1c0aa57fa446d0091805c45eb49884",
+    "fileSize": 201229
+  },
+  {
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "version": "5.21",
+    "versionExtension": "MS",
+    "created": "2026-01-23",
+    "decoder": [
+      {
+        "name": "MS440"
+      },
+      {
+        "name": "MS450"
+      },
+      {
+        "name": "MS480"
+      },
+      {
+        "name": "MS490"
+      },
+      {
+        "name": "MS560"
+      },
+      {
+        "name": "MS580"
+      },
+      {
+        "name": "MS950"
+      },
+      {
+        "name": "MS990"
+      },
+      {
+        "name": "MS491"
+      },
+      {
+        "name": "MS501"
+      },
+      {
+        "name": "MS500"
+      }
+    ],
+    "filename": "Firmware_145_5.21_MS.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MS.json",
+    "lastUpdate": "2026-03-14T14:24:23.323",
+    "sha1": "8841d70370b7b470cb2bc1aa2245ed5891e893ee",
+    "fileSize": 227631
   },
   {
     "manufacturerId": 145,
@@ -1014,8 +1173,8 @@
     "filename": "Firmware_145_5.5.json",
     "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.5.json",
     "lastUpdate": "2024-12-25T21:47:01.000",
-    "sha1": "bd29d46fef46a7607484e6cec8b7e7d868d4c6e0",
-    "fileSize": 168840
+    "sha1": "eb77ec68a0dd507172709c996a51333372faee89",
+    "fileSize": 126514
   },
   {
     "manufacturerId": 145,
@@ -1055,8 +1214,8 @@
     "filename": "Firmware_145_MN Decoder.json",
     "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_MN Decoder.json",
     "lastUpdate": "2026-01-20T06:19:37.362",
-    "sha1": "dc383132d6ed2b8a781b3beab08edb23f726f6b5",
-    "fileSize": 175359
+    "sha1": "3ba1ecbdeccd8e82a6c0959c8d0fe8465b1aa728",
+    "fileSize": 132953
   },
   {
     "manufacturerId": 145,
@@ -1096,8 +1255,8 @@
     "filename": "Firmware_145_MS Decoder.json",
     "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_MS Decoder.json",
     "lastUpdate": "2026-01-19T17:45:40.016",
-    "sha1": "0384728b850de965b4064dee3decf8a22a264f79",
-    "fileSize": 168038
+    "sha1": "48ded52d437a281c927006e436c5a907b18e4ead",
+    "fileSize": 125712
   },
   {
     "manufacturerId": 145,
@@ -1181,8 +1340,8 @@
     "filename": "Firmware_145_MX Decoder.json",
     "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_MX Decoder.json",
     "lastUpdate": "2025-10-25T20:46:48.860",
-    "sha1": "9614361804e86c0797707f9b840dcd5d34643ba7",
-    "fileSize": 165337
+    "sha1": "06095cc8a8ac4c8e06a89b95db184df0e3fefa26",
+    "fileSize": 123258
   },
   {
     "manufacturerId": 151,
@@ -1198,8 +1357,8 @@
     "filename": "Firmware_151_0.0.5973_LokPilotV3.0OEM.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.5973_LokPilotV3.0OEM.json",
     "lastUpdate": "2020-08-21T17:06:29.000",
-    "sha1": "1cc2c1a77133691abfce27fba37bf9924d660163",
-    "fileSize": 24245
+    "sha1": "c462aec8baa81553ffc231288db8cb92457d9014",
+    "fileSize": 18452
   },
   {
     "manufacturerId": 151,
@@ -1215,8 +1374,8 @@
     "filename": "Firmware_151_0.0.6093_LokSoundV3.5.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.6093_LokSoundV3.5.json",
     "lastUpdate": "2020-11-22T19:30:17.000",
-    "sha1": "431056bc3f4fd11acafed9763e335bcfee1581f7",
-    "fileSize": 199105
+    "sha1": "4303281141f5640dc0186044a24685cef32a7077",
+    "fileSize": 154320
   },
   {
     "manufacturerId": 151,
@@ -1232,8 +1391,8 @@
     "filename": "Firmware_151_0.0.6607_LokPilotV3.0.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.6607_LokPilotV3.0.json",
     "lastUpdate": "2020-08-21T17:06:15.000",
-    "sha1": "184787a3732736e817ed496ecd7867e6a308c93a",
-    "fileSize": 106719
+    "sha1": "d3a633792551fe87d2aaebf009dd5004f407c13d",
+    "fileSize": 87528
   },
   {
     "manufacturerId": 151,
@@ -1249,8 +1408,8 @@
     "filename": "Firmware_151_0.0.6607_LokPilotV3.0DCC.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.6607_LokPilotV3.0DCC.json",
     "lastUpdate": "2020-08-21T17:06:22.000",
-    "sha1": "ef64ff5077e8aab8833cde5ea8a9285e3874aa3f",
-    "fileSize": 106446
+    "sha1": "de3114fc1a262a84ae6f32e0cf12999b12f13c3c",
+    "fileSize": 87220
   },
   {
     "manufacturerId": 151,
@@ -1266,8 +1425,8 @@
     "filename": "Firmware_151_1.2_LokPilotFxNano.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_1.2_LokPilotFxNano.json",
     "lastUpdate": "2020-08-21T17:05:16.000",
-    "sha1": "f99092ee4e699be83e0077159c71c40a3a489491",
-    "fileSize": 76365
+    "sha1": "596755c04afeead7b99571599e58504e931387f5",
+    "fileSize": 60614
   },
   {
     "manufacturerId": 151,
@@ -1283,8 +1442,8 @@
     "filename": "Firmware_151_1.2_LokPilotNanoStandard.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_1.2_LokPilotNanoStandard.json",
     "lastUpdate": "2020-08-21T17:05:28.000",
-    "sha1": "895abde86ee670b3e384beabb441f57164e684be",
-    "fileSize": 86118
+    "sha1": "1d7499a0834c820883c4318a0a4db2cd3be94530",
+    "fileSize": 67368
   },
   {
     "manufacturerId": 151,
@@ -1300,8 +1459,8 @@
     "filename": "Firmware_151_1.2_LokPilotStandardV1.0.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_1.2_LokPilotStandardV1.0.json",
     "lastUpdate": "2020-08-21T17:05:28.000",
-    "sha1": "f29627a6cacbc72e1a993fd7e8b1a7b79c90c15a",
-    "fileSize": 86119
+    "sha1": "67580224641d6da210585e80c6991beef1724ca1",
+    "fileSize": 67335
   },
   {
     "manufacturerId": 151,
@@ -1317,8 +1476,8 @@
     "filename": "Firmware_151_16_LS1.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_16_LS1.json",
     "lastUpdate": "2020-08-21T17:08:49.000",
-    "sha1": "5ba36b6d36c15f42d29b7cfdaf1c0183c21bd6c5",
-    "fileSize": 7368
+    "sha1": "ff239462eea2a9977d217697068d3f4ec2493078",
+    "fileSize": 5688
   },
   {
     "manufacturerId": 151,
@@ -1340,8 +1499,8 @@
     "filename": "Firmware_151_4.14_M4.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_M4.json",
     "lastUpdate": "2022-02-23T22:23:51.000",
-    "sha1": "52785dd0040ca3a9870bd7e4e8fa4989bdf5ce18",
-    "fileSize": 58522
+    "sha1": "a842fbccb6a5046353249b7cfb9bdaa4561d7b34",
+    "fileSize": 43669
   },
   {
     "manufacturerId": 151,
@@ -1360,8 +1519,8 @@
     "filename": "Firmware_151_4.14_Sound.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_Sound.json",
     "lastUpdate": "2022-02-23T22:25:22.000",
-    "sha1": "f2afc51de24eb1bbe05303b1296f7ed21eb194c8",
-    "fileSize": 798132
+    "sha1": "94617ecd95528dd926c63d32445d8e2beb203e0a",
+    "fileSize": 707147
   },
   {
     "manufacturerId": 151,
@@ -1383,8 +1542,8 @@
     "filename": "Firmware_151_4.14_SoundM4.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_SoundM4.json",
     "lastUpdate": "2022-02-23T22:23:37.000",
-    "sha1": "da6b5e76c983a581ca7e5aeb324313d8051a2d0a",
-    "fileSize": 798189
+    "sha1": "47475b50f5b006e7ed7f644cda40bdee809da2e3",
+    "fileSize": 707428
   },
   {
     "manufacturerId": 151,
@@ -1399,8 +1558,8 @@
     "filename": "Firmware_151_40.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_40.json",
     "lastUpdate": "2022-02-15T18:02:04.000",
-    "sha1": "bcdd1bc05707ea3df3e7cba00bb63e654b529af2",
-    "fileSize": 13042
+    "sha1": "e047768fbfd5bcc1ff148ab5c780296dc6bc6452",
+    "fileSize": 10239
   },
   {
     "manufacturerId": 151,
@@ -1415,8 +1574,8 @@
     "filename": "Firmware_151_48.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_48.json",
     "lastUpdate": "2022-02-15T18:02:04.000",
-    "sha1": "d109623633dd5d3cb07bf545d06fe4d6378f7b76",
-    "fileSize": 35888
+    "sha1": "2a168f0ffb12a2c4958413fe0fd3d7a7943fdf5a",
+    "fileSize": 27360
   },
   {
     "manufacturerId": 151,
@@ -1456,8 +1615,8 @@
     "filename": "Firmware_151_5.3_DCC.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_5.3_DCC.json",
     "lastUpdate": "2022-02-24T00:20:07.000",
-    "sha1": "deba3c3223cb6148a999c3f759013fea9616e2d2",
-    "fileSize": 126551
+    "sha1": "8133943015c956b631efd4feb575e6c81cb2a6e5",
+    "fileSize": 96581
   },
   {
     "manufacturerId": 151,
@@ -1488,8 +1647,8 @@
     "filename": "Firmware_151_5.3_M4.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_5.3_M4.json",
     "lastUpdate": "2022-02-24T00:20:03.000",
-    "sha1": "c45c22b92b9df3f95621df9feab9e087531adf37",
-    "fileSize": 126309
+    "sha1": "d8d9a6561b5e024121abc8311a9c3a6a9c992c7a",
+    "fileSize": 96355
   },
   {
     "manufacturerId": 151,
@@ -1510,8 +1669,8 @@
     "filename": "Firmware_151_5.3.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_5.3.json",
     "lastUpdate": "2022-02-24T00:20:07.000",
-    "sha1": "d589c4965df14adc0e3c295011a6935a5293a1b1",
-    "fileSize": 126070
+    "sha1": "2adf1b682ac2e1b27a184989c2afa2110bbe75d5",
+    "fileSize": 96096
   },
   {
     "manufacturerId": 151,
@@ -1527,8 +1686,8 @@
     "filename": "Firmware_151_88_LokPilotBasic.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_88_LokPilotBasic.json",
     "lastUpdate": "2020-04-13T14:20:48.000",
-    "sha1": "7bebe4871c2b1e312708328b8b949a1c0df99a03",
-    "fileSize": 8323
+    "sha1": "c7395a69f3224a30e2c033693d0fcc076f803159",
+    "fileSize": 6671
   },
   {
     "manufacturerId": 151,
@@ -1544,8 +1703,8 @@
     "filename": "Firmware_151_89_LokPilotBasic.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_89_LokPilotBasic.json",
     "lastUpdate": "2020-04-08T21:14:18.000",
-    "sha1": "6df622d489adcb54a5f8a1590a74d78bc690a452",
-    "fileSize": 8622
+    "sha1": "93a4507069da71cd924a8355d09d63241da0d990",
+    "fileSize": 6882
   },
   {
     "manufacturerId": 157,
@@ -1561,8 +1720,8 @@
     "filename": "Firmware_157_34_F60.json",
     "link": "https://decoderdb.bidib.org/firmware/157/Firmware_157_34_F60.json",
     "lastUpdate": "2020-03-22T19:29:49.000",
-    "sha1": "1a1121804da90c9ca6eed89bf366c27818431121",
-    "fileSize": 27241
+    "sha1": "5c59f3cb2fb977c64063c6c857dda38d170c1fc3",
+    "fileSize": 21777
   },
   {
     "manufacturerId": 157,
@@ -1583,8 +1742,8 @@
     "filename": "Firmware_157_34.json",
     "link": "https://decoderdb.bidib.org/firmware/157/Firmware_157_34.json",
     "lastUpdate": "2020-03-22T00:09:25.000",
-    "sha1": "5877292186ec1f02c531f1c15545042acc0454dd",
-    "fileSize": 35307
+    "sha1": "0458d424b98f755e57fb37704e115dc91d9e89fc",
+    "fileSize": 27380
   },
   {
     "manufacturerId": 157,
@@ -1605,8 +1764,8 @@
     "filename": "Firmware_157_35.1.json",
     "link": "https://decoderdb.bidib.org/firmware/157/Firmware_157_35.1.json",
     "lastUpdate": "2020-03-21T23:41:56.000",
-    "sha1": "fd4195136b87e2619d6f56fddb2cc16a03249f55",
-    "fileSize": 80075
+    "sha1": "9610c49adf19d28e7eea978f4cd73a71cb9d5950",
+    "fileSize": 65450
   },
   {
     "manufacturerId": 157,
@@ -1625,8 +1784,42 @@
     "filename": "Firmware_157_36.1_LH-LT.json",
     "link": "https://decoderdb.bidib.org/firmware/157/Firmware_157_36.1_LH-LT.json",
     "lastUpdate": "2020-03-21T23:55:39.000",
-    "sha1": "e0fbff981ae5258db1125ca0b54bd3415e93a419",
-    "fileSize": 54281
+    "sha1": "63e0b2a3f30a69a1a1b93d947922c37b3f30be9b",
+    "fileSize": 45062
+  },
+  {
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "version": "1.0",
+    "versionExtension": "Weichenheizung",
+    "created": "2025-12-30",
+    "decoder": [
+      {
+        "name": "Weichenheizung"
+      }
+    ],
+    "filename": "Firmware_160_1.0_Weichenheizung.json",
+    "link": "https://decoderdb.bidib.org/firmware/160/Firmware_160_1.0_Weichenheizung.json",
+    "lastUpdate": "2026-02-10T23:14:21.829",
+    "sha1": "8c5e6369aa62964cdf02e196b7d68341bd2cb510",
+    "fileSize": 8421
+  },
+  {
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "version": "1.1",
+    "versionExtension": "MWB",
+    "created": "2025-12-30",
+    "decoder": [
+      {
+        "name": "MWB-Weichenantrieb"
+      }
+    ],
+    "filename": "Firmware_160_1.1_MWB.json",
+    "link": "https://decoderdb.bidib.org/firmware/160/Firmware_160_1.1_MWB.json",
+    "lastUpdate": "2026-02-10T23:14:36.745",
+    "sha1": "fcf40384f6e5a1dcbef2c02925f55178852f058c",
+    "fileSize": 9546
   },
   {
     "manufacturerId": 162,
@@ -1669,8 +1862,8 @@
     "filename": "Firmware_162_26_IntelliDrive2.json",
     "link": "https://decoderdb.bidib.org/firmware/162/Firmware_162_26_IntelliDrive2.json",
     "lastUpdate": "2025-11-18T22:04:05.000",
-    "sha1": "7edc5eed7db91a7d45ea109a4e6d27b1ef64ed25",
-    "fileSize": 813672
+    "sha1": "6a4f249f90ebb61c25643484005138f836474b53",
+    "fileSize": 679806
   },
   {
     "manufacturerId": 162,
@@ -1692,8 +1885,8 @@
     "filename": "Firmware_162_29_SmartDecoderSound.json",
     "link": "https://decoderdb.bidib.org/firmware/162/Firmware_162_29_SmartDecoderSound.json",
     "lastUpdate": "2020-12-12T20:00:51.000",
-    "sha1": "43de19db0c1c0e406cc928265ffa768cbaa35f0a",
-    "fileSize": 791592
+    "sha1": "5c30e41d16d471aff98ee0e946dbdd3d0174d347",
+    "fileSize": 662379
   },
   {
     "manufacturerId": 162,
@@ -1736,8 +1929,8 @@
     "filename": "Firmware_162_33_IntelliDrive2.json",
     "link": "https://decoderdb.bidib.org/firmware/162/Firmware_162_33_IntelliDrive2.json",
     "lastUpdate": "2025-11-18T22:04:05.000",
-    "sha1": "f4f46fc7b4a6069b092deef651a1953d12551aba",
-    "fileSize": 813672
+    "sha1": "9b3c1fb4d6412b11f4aee2add2c51ab74cbb63e4",
+    "fileSize": 679806
   },
   {
     "manufacturerId": 172,
@@ -1756,8 +1949,8 @@
     "filename": "Firmware_172_1.08_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/172/Firmware_172_1.08_sound.json",
     "lastUpdate": "2025-10-27T22:57:07.000",
-    "sha1": "69db48277b1af4653b7ca2b8f9e93e5a67c2408c",
-    "fileSize": 170815
+    "sha1": "1165c115c3884ef1534281733d79535aa779986c",
+    "fileSize": 135866
   },
   {
     "manufacturerId": 172,
@@ -1776,8 +1969,8 @@
     "filename": "Firmware_172_1.09_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/172/Firmware_172_1.09_sound.json",
     "lastUpdate": "2025-11-03T20:35:10.000",
-    "sha1": "cc02df03d417b3b626c8bfd536b4cfadbc65c49b",
-    "fileSize": 174401
+    "sha1": "23f16c09cf2919fddeae6191b2dedecaed18c7bb",
+    "fileSize": 138244
   },
   {
     "manufacturerId": 172,
@@ -1793,8 +1986,8 @@
     "filename": "Firmware_172_33_loco.json",
     "link": "https://decoderdb.bidib.org/firmware/172/Firmware_172_33_loco.json",
     "lastUpdate": "2025-10-28T00:32:37.000",
-    "sha1": "bad6de578a96665852ac8f0189e4df42d22daabc",
-    "fileSize": 66122
+    "sha1": "7a175527090797be9b260b5fa942c643edf0af99",
+    "fileSize": 50781
   },
   {
     "manufacturerId": 172,
@@ -1810,8 +2003,8 @@
     "filename": "Firmware_172_34_loco.json",
     "link": "https://decoderdb.bidib.org/firmware/172/Firmware_172_34_loco.json",
     "lastUpdate": "2025-10-28T00:33:16.000",
-    "sha1": "9bf588fe252075af972c6f829cf61a2684d8d750",
-    "fileSize": 66106
+    "sha1": "649f1435a0b583a681305b10489180250729f8af",
+    "fileSize": 50765
   },
   {
     "manufacturerId": 172,
@@ -1827,8 +2020,8 @@
     "filename": "Firmware_172_35_loco.json",
     "link": "https://decoderdb.bidib.org/firmware/172/Firmware_172_35_loco.json",
     "lastUpdate": "2025-10-29T15:36:59.000",
-    "sha1": "f5fd1a85f3f0cd7ed7ecec954322b1197a3b8221",
-    "fileSize": 66111
+    "sha1": "7c44e3cddc75491f60265bd2ab3fe8903d5777d9",
+    "fileSize": 50770
   },
   {
     "manufacturerId": 20,
@@ -2348,8 +2541,8 @@
     "filename": "Firmware_97_1.00_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.00_SH.json",
     "lastUpdate": "2020-11-07T12:42:42.000",
-    "sha1": "c6940c36cc2cd239171e956a11fd43b11cbc80d5",
-    "fileSize": 95718
+    "sha1": "2d7439c2561971bc7e09447230213f50286057ee",
+    "fileSize": 65335
   },
   {
     "manufacturerId": 97,
@@ -2365,8 +2558,8 @@
     "filename": "Firmware_97_1.00_sp05a.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.00_sp05a.json",
     "lastUpdate": "2025-05-08T15:45:17.000",
-    "sha1": "f0ec03c632b7aad8ab3e0e208d4d0b73d1cda0b9",
-    "fileSize": 5513
+    "sha1": "93f632a9e076a818398f54da11be6e91c6f21469",
+    "fileSize": 4208
   },
   {
     "manufacturerId": 97,
@@ -2382,8 +2575,8 @@
     "filename": "Firmware_97_1.01_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.01_SH.json",
     "lastUpdate": "2020-11-07T12:43:05.000",
-    "sha1": "ceb19538013f62358c228dbbc81797f1bb1f5854",
-    "fileSize": 98184
+    "sha1": "1d8dc201f50fec04f639b2ae5c9a8f5f002d4aed",
+    "fileSize": 67344
   },
   {
     "manufacturerId": 97,
@@ -2399,8 +2592,8 @@
     "filename": "Firmware_97_1.01_sp05a.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.01_sp05a.json",
     "lastUpdate": "2025-05-08T15:28:12.000",
-    "sha1": "bc4768eb1a787b49a977038e3498aa35ee90d0f8",
-    "fileSize": 5513
+    "sha1": "9b9b21afada4cd16362a10dc37715624da60cfbb",
+    "fileSize": 4224
   },
   {
     "manufacturerId": 97,
@@ -2416,8 +2609,8 @@
     "filename": "Firmware_97_1.02_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.02_SH.json",
     "lastUpdate": "2020-11-07T12:43:24.000",
-    "sha1": "429e480284a35ceda6bad0e6e757df4616786e4d",
-    "fileSize": 100385
+    "sha1": "00e6cd23d575977205f0a9db94cd4800fe4dd122",
+    "fileSize": 69115
   },
   {
     "manufacturerId": 97,
@@ -2433,8 +2626,8 @@
     "filename": "Firmware_97_1.03_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.03_SH.json",
     "lastUpdate": "2020-11-07T13:11:23.000",
-    "sha1": "cf3b1570e1bebe101192ac6f0f0136efad602131",
-    "fileSize": 102986
+    "sha1": "1b35a0b3d3ff93383c3ba210fbcd34367e1bf305",
+    "fileSize": 71120
   },
   {
     "manufacturerId": 97,
@@ -2450,8 +2643,8 @@
     "filename": "Firmware_97_1.04_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.04_SH.json",
     "lastUpdate": "2020-11-07T13:11:23.000",
-    "sha1": "32cf217c53e640d8ce47f3c6eed49958cb59b368",
-    "fileSize": 102969
+    "sha1": "213857aee76cc4e77fc2ab526cee8885bcf43bf3",
+    "fileSize": 71103
   },
   {
     "manufacturerId": 97,
@@ -2467,8 +2660,8 @@
     "filename": "Firmware_97_1.05_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.05_SH.json",
     "lastUpdate": "2020-11-07T13:10:42.000",
-    "sha1": "713c65c27637f0c6c0c4ec5eda7abf520d5fa063",
-    "fileSize": 119815
+    "sha1": "2b65f6229a02f6170fa49d8c36929a20f25b0119",
+    "fileSize": 82098
   },
   {
     "manufacturerId": 97,
@@ -2493,8 +2686,8 @@
     "filename": "Firmware_97_1.05_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.05_sound.json",
     "lastUpdate": "2023-05-16T05:54:34.000",
-    "sha1": "56f3a8f5027c7bea570aa39daf63200bdfdbe0a8",
-    "fileSize": 186451
+    "sha1": "e9895e2d1fbf33298866ad69af91a2c3af08a72f",
+    "fileSize": 137541
   },
   {
     "manufacturerId": 97,
@@ -2510,8 +2703,8 @@
     "filename": "Firmware_97_1.06_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.06_SH.json",
     "lastUpdate": "2020-11-07T12:44:03.000",
-    "sha1": "70f7bcb000b6b8a95ffc247dcebfb0dcbbe33eb7",
-    "fileSize": 109626
+    "sha1": "012585774f4acc2d3d84b432a2a76d431019f951",
+    "fileSize": 75450
   },
   {
     "manufacturerId": 97,
@@ -2539,8 +2732,8 @@
     "filename": "Firmware_97_1.06_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.06_sound.json",
     "lastUpdate": "2023-05-16T05:54:34.000",
-    "sha1": "7a5b52aea51f4ef0411c7baf2effc8c0c459edc9",
-    "fileSize": 213185
+    "sha1": "b1f5944d939325228b30eb2ac1bb0b5ac9969a70",
+    "fileSize": 157193
   },
   {
     "manufacturerId": 97,
@@ -2556,8 +2749,8 @@
     "filename": "Firmware_97_1.07_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.07_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "54afd734ff1251fb7c744cdc7f49f1452a333e26",
-    "fileSize": 119831
+    "sha1": "8b0fd1b7e43a30553bb35b94596bb2f32490e314",
+    "fileSize": 82115
   },
   {
     "manufacturerId": 97,
@@ -2585,8 +2778,8 @@
     "filename": "Firmware_97_1.07_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.07_sound.json",
     "lastUpdate": "2023-05-16T05:54:34.000",
-    "sha1": "aef0e479d2298d0a29d5c4517f046f9f560af83f",
-    "fileSize": 213168
+    "sha1": "363a178595b31eb6d3b369cd32b59b6718bd4a57",
+    "fileSize": 157176
   },
   {
     "manufacturerId": 97,
@@ -2602,8 +2795,8 @@
     "filename": "Firmware_97_1.08_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.08_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "1534b1930f9f9395fd470d179ae6f331ec36f686",
-    "fileSize": 119814
+    "sha1": "abb7195adcb15225259cba8efbe88de81f02d974",
+    "fileSize": 82097
   },
   {
     "manufacturerId": 97,
@@ -2631,8 +2824,8 @@
     "filename": "Firmware_97_1.08_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.08_sound.json",
     "lastUpdate": "2023-05-16T05:54:34.000",
-    "sha1": "b3d64a4c649910a5a4eb0daa92259e34c9b54a5c",
-    "fileSize": 213872
+    "sha1": "0eb0507f0393499367b0071b331121252456387d",
+    "fileSize": 157711
   },
   {
     "manufacturerId": 97,
@@ -2648,8 +2841,8 @@
     "filename": "Firmware_97_1.09_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.09_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "17bfed08e72a1e79a20654c660fa4613e3a6e01b",
-    "fileSize": 119814
+    "sha1": "7ec786ae11cb8cae1807bce4fb713c227a51739c",
+    "fileSize": 82097
   },
   {
     "manufacturerId": 97,
@@ -2677,8 +2870,8 @@
     "filename": "Firmware_97_1.09_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.09_sound.json",
     "lastUpdate": "2024-04-17T12:12:02.000",
-    "sha1": "d1b22fe83669e31a7e4e602a3b262b1fc5bc72ea",
-    "fileSize": 274918
+    "sha1": "ff541824b2a7af66267e92565e2c4d2bc0370df7",
+    "fileSize": 197866
   },
   {
     "manufacturerId": 97,
@@ -2694,8 +2887,8 @@
     "filename": "Firmware_97_1.10_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.10_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "0a19a64fe58d0ffb9823b13158045d80f7134aa1",
-    "fileSize": 119815
+    "sha1": "d2875799d34fc08df88ddd4750fb6263ea7058fa",
+    "fileSize": 82098
   },
   {
     "manufacturerId": 97,
@@ -2723,8 +2916,8 @@
     "filename": "Firmware_97_1.10_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.10_sound.json",
     "lastUpdate": "2024-04-17T12:12:02.000",
-    "sha1": "01397b058744b1cc9a9f4243a8b9158bf9f7e3d9",
-    "fileSize": 282392
+    "sha1": "ea89c9aed00a416d9f7677f568a40c26c2b714e3",
+    "fileSize": 203228
   },
   {
     "manufacturerId": 97,
@@ -2740,8 +2933,8 @@
     "filename": "Firmware_97_1.11_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.11_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "c46424a9281b2b268a9ea9d465e810874bebf10f",
-    "fileSize": 119816
+    "sha1": "9dc8ac891a721cdb0f938fed67ecdc47e0f432f3",
+    "fileSize": 82099
   },
   {
     "manufacturerId": 97,
@@ -2772,8 +2965,8 @@
     "filename": "Firmware_97_1.11_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.11_sound.json",
     "lastUpdate": "2024-04-17T12:12:02.000",
-    "sha1": "459fdabfa534229bd17dc00c5f1ea4a04275e8a2",
-    "fileSize": 282763
+    "sha1": "36246c67d4d884b3dd66df578eb4579a2459582a",
+    "fileSize": 203321
   },
   {
     "manufacturerId": 97,
@@ -2789,8 +2982,8 @@
     "filename": "Firmware_97_1.12_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.12_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "629679dca247c3f6478e4905edc14684f78eae5b",
-    "fileSize": 119815
+    "sha1": "79949f19c72ed04e269bd0fa79dd410fd1a4b31b",
+    "fileSize": 82098
   },
   {
     "manufacturerId": 97,
@@ -2821,8 +3014,8 @@
     "filename": "Firmware_97_1.12_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.12_sound.json",
     "lastUpdate": "2024-04-17T12:12:02.000",
-    "sha1": "09c4d8e7b144dbdd670c8a9b9e06fd028f54d5c8",
-    "fileSize": 297315
+    "sha1": "5a3b921802a663bdffe22a73b0483c3bc1eb9731",
+    "fileSize": 213110
   },
   {
     "manufacturerId": 97,
@@ -2843,8 +3036,8 @@
     "filename": "Firmware_97_1.12.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.12.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "bd74cc68a1e331442742772899945d68afcb07e3",
-    "fileSize": 59992
+    "sha1": "6afc1e106460469f6a78bdb0e08b2261f3ce5182",
+    "fileSize": 50783
   },
   {
     "manufacturerId": 97,
@@ -2863,8 +3056,8 @@
     "filename": "Firmware_97_1.13_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.13_SH.json",
     "lastUpdate": "2020-11-07T13:10:07.000",
-    "sha1": "7f77dbcb40b13e6446774075d1b553337c478621",
-    "fileSize": 119867
+    "sha1": "1cf078c1987ed552754eabed6f436725b2d2a812",
+    "fileSize": 82150
   },
   {
     "manufacturerId": 97,
@@ -2895,8 +3088,8 @@
     "filename": "Firmware_97_1.13_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.13_sound.json",
     "lastUpdate": "2024-04-17T12:11:31.000",
-    "sha1": "a8c53d52fd6f7a6fa47ae5abe9ddca78ef0456d9",
-    "fileSize": 297369
+    "sha1": "1d202871e9f5ca896ad4ff3e3884471a5d647bd8",
+    "fileSize": 213306
   },
   {
     "manufacturerId": 97,
@@ -2915,8 +3108,8 @@
     "filename": "Firmware_97_1.14_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.14_SH.json",
     "lastUpdate": "2022-11-20T13:34:50.000",
-    "sha1": "b000026bf7fcb10909e74f74adbcb0e1b943f51d",
-    "fileSize": 119375
+    "sha1": "91ad04252bceb5108fb6dc169fe3fbd852e1dee6",
+    "fileSize": 81658
   },
   {
     "manufacturerId": 97,
@@ -2935,8 +3128,8 @@
     "filename": "Firmware_97_1.15_SH.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.15_SH.json",
     "lastUpdate": "2022-11-20T13:42:51.000",
-    "sha1": "4464d44974852497f5284f4a79c30553ccf335ba",
-    "fileSize": 119358
+    "sha1": "0b39fd6ba28fb28c0db2dd0fbf1363f875fcd50c",
+    "fileSize": 81641
   },
   {
     "manufacturerId": 97,
@@ -2954,8 +3147,8 @@
     "filename": "Firmware_97_2.10.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_2.10.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "5e369928d7855e6681874899d084d9eed5582616",
-    "fileSize": 59941
+    "sha1": "09e354bfa5abd87fb42c82360fe1794ec0330bc8",
+    "fileSize": 50750
   },
   {
     "manufacturerId": 97,
@@ -2979,8 +3172,8 @@
     "filename": "Firmware_97_3.02.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.02.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "62328eced284013bdc5add05b8241d90c3565cd9",
-    "fileSize": 63858
+    "sha1": "cfd5433db5f57a18bfdac2d61df97bd8f8d48c57",
+    "fileSize": 53792
   },
   {
     "manufacturerId": 97,
@@ -3007,8 +3200,8 @@
     "filename": "Firmware_97_3.03.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.03.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "abe966616c6eb60025a4f0489afbae9572727fc0",
-    "fileSize": 68965
+    "sha1": "6f6a583f88c7bbe9e495301568b6097cf8cfe3e6",
+    "fileSize": 58031
   },
   {
     "manufacturerId": 97,
@@ -3041,8 +3234,8 @@
     "filename": "Firmware_97_3.04.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.04.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "fdf7c83e93bba63937041760b0f90ecc6edea0d0",
-    "fileSize": 70226
+    "sha1": "db66400fbbc0cdf71c6f507e722a0520e02d7c52",
+    "fileSize": 59064
   },
   {
     "manufacturerId": 97,
@@ -3078,8 +3271,8 @@
     "filename": "Firmware_97_3.05.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.05.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "55616d3512323c275fb83647e381eb621e1d16c1",
-    "fileSize": 70995
+    "sha1": "79424c7c031f08263e6fdf3d6aa3d36eb3004ff7",
+    "fileSize": 59834
   },
   {
     "manufacturerId": 97,
@@ -3095,8 +3288,8 @@
     "filename": "Firmware_97_3.06_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.06_DH06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "74f47df2ea8f90cb0345d072ed67e11d0af12350",
-    "fileSize": 126828
+    "sha1": "e65c86c583250b8e17c3b7eeef15d9c174ce8901",
+    "fileSize": 100571
   },
   {
     "manufacturerId": 97,
@@ -3112,8 +3305,8 @@
     "filename": "Firmware_97_3.06_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.06_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "f8a6991de8aeba6f854445ab5be0f6327f198541",
-    "fileSize": 67101
+    "sha1": "1ed9e2467bf0b7f1b8a6d3b9974a301dc745c0a0",
+    "fileSize": 55878
   },
   {
     "manufacturerId": 97,
@@ -3155,8 +3348,8 @@
     "filename": "Firmware_97_3.06.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.06.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "17139de9f8755ef690b5c82c815817f0c27b65ce",
-    "fileSize": 126904
+    "sha1": "8d46dbc2239a80d8e15e3b424cf574a46afb1c96",
+    "fileSize": 100659
   },
   {
     "manufacturerId": 97,
@@ -3172,8 +3365,8 @@
     "filename": "Firmware_97_3.07_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.07_DH06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "680b7e9018aafb2c095d3807ff8cd8b41e4a276c",
-    "fileSize": 126808
+    "sha1": "c939e4894e6225601cefc21ff67dd26604c8b779",
+    "fileSize": 100466
   },
   {
     "manufacturerId": 97,
@@ -3189,8 +3382,8 @@
     "filename": "Firmware_97_3.07_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.07_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "b83b9d6becd0c3c497f4d141e090c40e2d96b2cc",
-    "fileSize": 67081
+    "sha1": "47af2af98c51d68106e0a8a374fec8f627107eb4",
+    "fileSize": 55773
   },
   {
     "manufacturerId": 97,
@@ -3232,8 +3425,8 @@
     "filename": "Firmware_97_3.07.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.07.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "4d45721101d5dd7c8c24d28ab22a0f8deff6c28c",
-    "fileSize": 127252
+    "sha1": "163e90407472ffb6da07e412303acf2f25588f84",
+    "fileSize": 100921
   },
   {
     "manufacturerId": 97,
@@ -3249,8 +3442,8 @@
     "filename": "Firmware_97_3.08_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.08_DH06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "03be8deaee91d2f6d8a8222ff66cede346feb5b4",
-    "fileSize": 127514
+    "sha1": "e63d98c7092edb02f48a644e242ec8a445d1ebb7",
+    "fileSize": 101003
   },
   {
     "manufacturerId": 97,
@@ -3266,8 +3459,8 @@
     "filename": "Firmware_97_3.08_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.08_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "b18d99c6723e86534c3f4a005256a97fb3d3ab5e",
-    "fileSize": 67787
+    "sha1": "1244c30d75f7b49938c2cefa3bb1de78ff11583e",
+    "fileSize": 56310
   },
   {
     "manufacturerId": 97,
@@ -3309,8 +3502,8 @@
     "filename": "Firmware_97_3.08.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.08.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "270ecbf0249f984d01209c28cf6b1778d4154700",
-    "fileSize": 127591
+    "sha1": "21c4f3063bfe6c6005d4c851a47c5ee7b7039653",
+    "fileSize": 101091
   },
   {
     "manufacturerId": 97,
@@ -3326,8 +3519,8 @@
     "filename": "Firmware_97_3.09_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.09_DH06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "032110c198e770f5386598b9ea378a4465befa60",
-    "fileSize": 128211
+    "sha1": "ef76ba94592c533cf101e3c74e6643b51d07ed84",
+    "fileSize": 101646
   },
   {
     "manufacturerId": 97,
@@ -3343,8 +3536,8 @@
     "filename": "Firmware_97_3.09_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.09_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "0ca9d7d3f0cc06a6f4a182e74f046cb0ea7d8aaf",
-    "fileSize": 68324
+    "sha1": "ba14922fe7f9e023d326d60f83875191ca385f4c",
+    "fileSize": 56793
   },
   {
     "manufacturerId": 97,
@@ -3392,8 +3585,8 @@
     "filename": "Firmware_97_3.09.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.09.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "ccb092e72f8dc8c2038b70c45153798f834fc2ac",
-    "fileSize": 128386
+    "sha1": "420727cca4f49e3e4226aee2be0a9174e5147de1",
+    "fileSize": 101832
   },
   {
     "manufacturerId": 97,
@@ -3409,8 +3602,8 @@
     "filename": "Firmware_97_3.10_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.10_DH06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "870003d564a268e192d57a3fa49fe2a33a9338bc",
-    "fileSize": 130491
+    "sha1": "e41e37ec443d04767effd587484b38f4266a6458",
+    "fileSize": 103269
   },
   {
     "manufacturerId": 97,
@@ -3426,8 +3619,8 @@
     "filename": "Firmware_97_3.10_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.10_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "7f9013254b05ba3ef3ffd2dca8efa3825e971fb5",
-    "fileSize": 69225
+    "sha1": "08e684f091af1bb91f6747b6e69baf5c0cd6aab3",
+    "fileSize": 57552
   },
   {
     "manufacturerId": 97,
@@ -3475,8 +3668,8 @@
     "filename": "Firmware_97_3.10.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.10.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "8022333851c0f677675b7ca52ac9b32a9e1560b3",
-    "fileSize": 130666
+    "sha1": "c3e396ad0d2db5d6984051ade2a690df9600b897",
+    "fileSize": 103455
   },
   {
     "manufacturerId": 97,
@@ -3492,8 +3685,8 @@
     "filename": "Firmware_97_3.11_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.11_DH06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "47d235221f2617d90e9ac8f2cab9945b31d1afe8",
-    "fileSize": 130607
+    "sha1": "41f4b7d5b2f95e945710f6edb99c28ca51d12be9",
+    "fileSize": 103385
   },
   {
     "manufacturerId": 97,
@@ -3509,8 +3702,8 @@
     "filename": "Firmware_97_3.11_PD06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.11_PD06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "0831a2de35e2681dd230635c3ec079de354ed14a",
-    "fileSize": 63621
+    "sha1": "f441f9e3d0dbad5e734685b319fe3b0b03023d2c",
+    "fileSize": 53112
   },
   {
     "manufacturerId": 97,
@@ -3532,8 +3725,8 @@
     "filename": "Firmware_97_3.11_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.11_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "3a55c46f8bde4dc8c2670306871b146cf20e1b4a",
-    "fileSize": 69798
+    "sha1": "d3cc6b13755b504c8692dd2bf9c5511f472b6a70",
+    "fileSize": 58125
   },
   {
     "manufacturerId": 97,
@@ -3581,8 +3774,8 @@
     "filename": "Firmware_97_3.11.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.11.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "71549acf07e303deb492bdd9441ae16049829688",
-    "fileSize": 131148
+    "sha1": "88ead867e58eec6ee32042d251f7b87696d2894c",
+    "fileSize": 103937
   },
   {
     "manufacturerId": 97,
@@ -3598,8 +3791,8 @@
     "filename": "Firmware_97_3.12_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.12_DH06A.json",
     "lastUpdate": "2025-09-26T21:31:17.000",
-    "sha1": "dcad0f4a325d1d796edbd4b5e6348c050d8872e0",
-    "fileSize": 180980
+    "sha1": "fbcf506795c5c811687b81daccb53e753e3c021b",
+    "fileSize": 136467
   },
   {
     "manufacturerId": 97,
@@ -3615,8 +3808,8 @@
     "filename": "Firmware_97_3.12_PD05A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.12_PD05A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "13b2f43f524fd8bc017fcc307e25c48d6cff622a",
-    "fileSize": 61183
+    "sha1": "aa8072949602137c8e476ebde6122533de9baf20",
+    "fileSize": 51031
   },
   {
     "manufacturerId": 97,
@@ -3632,8 +3825,8 @@
     "filename": "Firmware_97_3.12_PD06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.12_PD06A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "ada47e31b57054bf7f6cc0016dde307253d20656",
-    "fileSize": 63900
+    "sha1": "e9b7487efe60bf15c42451845b4ad433e73d9f9d",
+    "fileSize": 53474
   },
   {
     "manufacturerId": 97,
@@ -3655,8 +3848,8 @@
     "filename": "Firmware_97_3.12_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.12_PD12A.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "94902220657099403dde68e7bea5d5a84d82a96d",
-    "fileSize": 70604
+    "sha1": "2f6f93744f476c8c780e49f5bd88e2d0a1144595",
+    "fileSize": 58987
   },
   {
     "manufacturerId": 97,
@@ -3713,8 +3906,8 @@
     "filename": "Firmware_97_3.12.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.12.json",
     "lastUpdate": "2025-09-26T21:31:17.000",
-    "sha1": "e17610666c6a374f5843856e4df8df2d9cd1074d",
-    "fileSize": 183055
+    "sha1": "61de62c048efcec5c4f3031a2eb7fbec5fdcd35b",
+    "fileSize": 138553
   },
   {
     "manufacturerId": 97,
@@ -3730,8 +3923,8 @@
     "filename": "Firmware_97_3.13_DH06A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.13_DH06A.json",
     "lastUpdate": "2025-09-26T21:31:17.000",
-    "sha1": "8a75c01340e5f11074b6437dd77c19be5b74b9be",
-    "fileSize": 181257
+    "sha1": "6337a451a1bcb8b32acdda8fdfb5b1e7b3a866aa",
+    "fileSize": 136717
   },
   {
     "manufacturerId": 97,
@@ -3747,8 +3940,8 @@
     "filename": "Firmware_97_3.13_PD05A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.13_PD05A.json",
     "lastUpdate": "2025-09-14T12:46:58.000",
-    "sha1": "58b301c2a85f7499a5f81c8f87f1d14dbd342d82",
-    "fileSize": 58860
+    "sha1": "eeea81d61d70348a94fa9959c6d7ac0232919fe3",
+    "fileSize": 49176
   },
   {
     "manufacturerId": 97,
@@ -3770,8 +3963,8 @@
     "filename": "Firmware_97_3.13_PD12A.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.13_PD12A.json",
     "lastUpdate": "2025-09-14T12:34:12.000",
-    "sha1": "953e2f62f8d2b69881f67d6dc7a0986706827d29",
-    "fileSize": 70587
+    "sha1": "b0ff6a3967c53f93469a7612d63879d33fd31627",
+    "fileSize": 58970
   },
   {
     "manufacturerId": 97,
@@ -3828,8 +4021,8 @@
     "filename": "Firmware_97_3.13.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.13.json",
     "lastUpdate": "2025-09-26T21:31:17.000",
-    "sha1": "312cf943ab082be4bd5f99694cbc9dabd79929a8",
-    "fileSize": 182593
+    "sha1": "8d1c9363b49a2f537b9fab086c4532ead673b632",
+    "fileSize": 138064
   },
   {
     "manufacturerId": 97,
@@ -3892,8 +4085,8 @@
     "filename": "Firmware_97_3.14.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.14.json",
     "lastUpdate": "2025-11-15T10:23:21.000",
-    "sha1": "c13a724b40d776f03c7045a4f39d24481cc08c15",
-    "fileSize": 182465
+    "sha1": "8e1b41d1dadc15756f780c44efd0b6309ef7df32",
+    "fileSize": 137936
   },
   {
     "manufacturerId": 97,
@@ -3909,8 +4102,8 @@
     "filename": "Firmware_97_51_dhz400.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_51_dhz400.json",
     "lastUpdate": "2019-05-14T10:24:37.000",
-    "sha1": "acdc5f09bde1d288cae57e0e0f7854041ce13c4b",
-    "fileSize": 2468
+    "sha1": "c1bd590126945560c0db4306474f9de72412b3d6",
+    "fileSize": 1829
   },
   {
     "manufacturerId": 97,
@@ -3926,8 +4119,8 @@
     "filename": "Firmware_97_52_DHL160.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_52_DHL160.json",
     "lastUpdate": "2025-03-29T00:17:54.000",
-    "sha1": "02be77f7720c8073f21b7b1e724497cebd6c29b9",
-    "fileSize": 7682
+    "sha1": "7edf9ba8251daed9c5c9578b6f69fb3f9c0ef24e",
+    "fileSize": 6174
   },
   {
     "manufacturerId": 97,
@@ -3948,8 +4141,8 @@
     "filename": "Firmware_97_8.12.json",
     "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_8.12.json",
     "lastUpdate": "2024-12-17T19:18:00.000",
-    "sha1": "c07b8ca963331ad4f2c461392c9a6ea769916241",
-    "fileSize": 60568
+    "sha1": "cc4c090356a7c54e4c6418a7e30aac8d8a0eeb3a",
+    "fileSize": 51133
   },
   {
     "manufacturerId": 99,
@@ -3965,8 +4158,8 @@
     "filename": "Firmware_99_1_BR66.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_1_BR66.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "d2f0e67dc8443d59e5b22e612014f987754a7e5b",
-    "fileSize": 51301
+    "sha1": "c1ae9b3e28b6aed469aa23e152a0b737a92d0718",
+    "fileSize": 40107
   },
   {
     "manufacturerId": 99,
@@ -3985,8 +4178,8 @@
     "filename": "Firmware_99_1_Gold.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_1_Gold.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "4a83e05361c40195e298c6218af549c6b4e633b9",
-    "fileSize": 51340
+    "sha1": "78355699c6416c3920a354ec7b80d8bdcba6be31",
+    "fileSize": 40129
   },
   {
     "manufacturerId": 99,
@@ -4014,8 +4207,8 @@
     "filename": "Firmware_99_1_Silver.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_1_Silver.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "64ba7c28edb610707e3eefc2dbce04c8e71cd72e",
-    "fileSize": 49361
+    "sha1": "21be620eb332306809b11352e122c0852622fe1a",
+    "fileSize": 38764
   },
   {
     "manufacturerId": 99,
@@ -4031,8 +4224,8 @@
     "filename": "Firmware_99_1_Standard.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_1_Standard.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "f8ac32a4b7b3aa959e941f07ae01b70f01707274",
-    "fileSize": 46369
+    "sha1": "f7906a46be02b1ee0f80f1842e36a1a2a9227ef7",
+    "fileSize": 36095
   },
   {
     "manufacturerId": 99,
@@ -4048,8 +4241,8 @@
     "filename": "Firmware_99_1_V36.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_1_V36.json",
     "lastUpdate": "2020-04-16T00:10:38.000",
-    "sha1": "07cd8a2d37352f279d63ac5e48a920f75cd6698f",
-    "fileSize": 7015
+    "sha1": "1cd608876ace8d22fc2cc69fb73c58c174b291b2",
+    "fileSize": 5724
   },
   {
     "manufacturerId": 99,
@@ -4065,8 +4258,8 @@
     "filename": "Firmware_99_10_Koef.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_10_Koef.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "7f52f77cd93c3c78ac971bb2e9d1a3cb7326c7e7",
-    "fileSize": 53554
+    "sha1": "f5dedf2c06c945fdd3ec7bebb9c2c6fc0f4a2ae6",
+    "fileSize": 43100
   },
   {
     "manufacturerId": 99,
@@ -4082,8 +4275,8 @@
     "filename": "Firmware_99_10_Spur0-V60.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_10_Spur0-V60.json",
     "lastUpdate": "2020-10-28T12:45:16.000",
-    "sha1": "913508372d131fcf7beb29590732e40d48757d93",
-    "fileSize": 57940
+    "sha1": "f1096d8b07b2d697e63cd378a10395a4df739b8d",
+    "fileSize": 39454
   },
   {
     "manufacturerId": 99,
@@ -4099,8 +4292,8 @@
     "filename": "Firmware_99_11_Spur0-VT98.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_11_Spur0-VT98.json",
     "lastUpdate": "2020-10-28T12:45:45.000",
-    "sha1": "f4790128a13d29e264b071ddcf40bd8a2bfca365",
-    "fileSize": 59455
+    "sha1": "6241cc4592b1f0f9fca3db1de5d5ea81f8d01867",
+    "fileSize": 40802
   },
   {
     "manufacturerId": 99,
@@ -4116,8 +4309,8 @@
     "filename": "Firmware_99_12_Goldminiplus.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_12_Goldminiplus.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "cb32d552810eabc4ef24364039a5f27798086cc1",
-    "fileSize": 58173
+    "sha1": "d8b6d94bf667b66b4fe78fa6105c4afb77ef2888",
+    "fileSize": 46294
   },
   {
     "manufacturerId": 99,
@@ -4133,8 +4326,8 @@
     "filename": "Firmware_99_12_V20.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_12_V20.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "9aece26b3d7c08a4aa14bda31df211b2a730f51c",
-    "fileSize": 53547
+    "sha1": "e978044076f9803394f94c5b3e95a73562ceb210",
+    "fileSize": 43092
   },
   {
     "manufacturerId": 99,
@@ -4150,8 +4343,8 @@
     "filename": "Firmware_99_13_Silverminiplus.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_13_Silverminiplus.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "aa46bea6b98b957522a344a462f7ff2370acff84",
-    "fileSize": 58640
+    "sha1": "e35575bfa261617395f8b75cbe16fed02f42983c",
+    "fileSize": 46564
   },
   {
     "manufacturerId": 99,
@@ -4167,8 +4360,8 @@
     "filename": "Firmware_99_13_Standardplus.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_13_Standardplus.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "a63dea5e3991d77c796548896fde4c58e71b0292",
-    "fileSize": 60511
+    "sha1": "7ca9fa55a8614642217882faf3eb3dffa405f22c",
+    "fileSize": 48348
   },
   {
     "manufacturerId": 99,
@@ -4195,8 +4388,8 @@
     "filename": "Firmware_99_13.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_13.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "8ea216deb6d2c4f65c468d73717d3c75db646e08",
-    "fileSize": 65852
+    "sha1": "6c7af99d4bfe2032192e595483efb64b8180d3ca",
+    "fileSize": 52559
   },
   {
     "manufacturerId": 99,
@@ -4221,8 +4414,8 @@
     "filename": "Firmware_99_14_Plus.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_14_Plus.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "4b1d18490ea80f91c8c713fb741c86a003a3b233",
-    "fileSize": 66742
+    "sha1": "ac8317592073d4870eb0578cfbd4b4c01d46075c",
+    "fileSize": 53284
   },
   {
     "manufacturerId": 99,
@@ -4238,8 +4431,8 @@
     "filename": "Firmware_99_14_Silverminiplus.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_14_Silverminiplus.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "df0d374b0466ff271bcad4b6c0a7f84196ef4f11",
-    "fileSize": 59603
+    "sha1": "abb554c932cb97b8a373bb37f73128e7e2f65bac",
+    "fileSize": 47405
   },
   {
     "manufacturerId": 99,
@@ -4255,8 +4448,8 @@
     "filename": "Firmware_99_14_SilverplusPlux12.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_14_SilverplusPlux12.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "02d863ebe46549d4a4ed60c052a9ac426ca34703",
-    "fileSize": 64669
+    "sha1": "e9b1960172ccbf0845313a79770dd55750efdea1",
+    "fileSize": 51463
   },
   {
     "manufacturerId": 99,
@@ -4272,8 +4465,8 @@
     "filename": "Firmware_99_14_Spur0-VT98.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_14_Spur0-VT98.json",
     "lastUpdate": "2020-10-28T12:45:46.000",
-    "sha1": "f6f146171914f4f592f611ece1f6f43505b18ba1",
-    "fileSize": 59455
+    "sha1": "6c5744746243adaa963c7e76ff3c1e5fda813288",
+    "fileSize": 40802
   },
   {
     "manufacturerId": 99,
@@ -4289,8 +4482,8 @@
     "filename": "Firmware_99_15_Spur0-BR64.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_15_Spur0-BR64.json",
     "lastUpdate": "2020-10-28T12:40:53.000",
-    "sha1": "5d00d412fe3d2f9dd72e87f1820e4b60335bdde4",
-    "fileSize": 56658
+    "sha1": "584b91d4c81cd9d85773563d64e33ed5fd91b94c",
+    "fileSize": 38485
   },
   {
     "manufacturerId": 99,
@@ -4306,8 +4499,8 @@
     "filename": "Firmware_99_19_Spur0-V20.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_19_Spur0-V20.json",
     "lastUpdate": "2020-10-28T12:44:56.000",
-    "sha1": "88c236688ff326a6f9b8477c62ff61e94323e870",
-    "fileSize": 58586
+    "sha1": "bd7b14c382d8f23165fb7428ba9c629cfc7fced8",
+    "fileSize": 40090
   },
   {
     "manufacturerId": 99,
@@ -4323,8 +4516,8 @@
     "filename": "Firmware_99_2_Spur0-V60Serie2.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_2_Spur0-V60Serie2.json",
     "lastUpdate": "2020-10-28T12:45:34.000",
-    "sha1": "f7d19f92e83522e34592d87e53037f82e69cbaa5",
-    "fileSize": 59892
+    "sha1": "2fdd4c3a0b0b169a88b6799cfad721a7f2876b6c",
+    "fileSize": 41081
   },
   {
     "manufacturerId": 99,
@@ -4340,8 +4533,8 @@
     "filename": "Firmware_99_21_StandardplusV2.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_21_StandardplusV2.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "35a63a1d189d562a691655c89c22197196c7f02b",
-    "fileSize": 64715
+    "sha1": "26aea8f00922fb91b10041b14c288dc4d97f794c",
+    "fileSize": 51554
   },
   {
     "manufacturerId": 99,
@@ -4356,8 +4549,8 @@
     "filename": "Firmware_99_24.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_24.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "10ca90071bf7df3557ebb0df425c72c5e9c01aa4",
-    "fileSize": 78560
+    "sha1": "3ff5285324d90c0fe85826fccee1f75708d8cfce",
+    "fileSize": 63128
   },
   {
     "manufacturerId": 99,
@@ -4373,8 +4566,8 @@
     "filename": "Firmware_99_4_Spur0-BR89.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_4_Spur0-BR89.json",
     "lastUpdate": "2020-10-28T12:44:22.000",
-    "sha1": "ef54d365e446571ea1a01cb32c5a14d2a52bf1f7",
-    "fileSize": 66865
+    "sha1": "34cbff1001aa92c2379d6aad8d0f9ea015b70201",
+    "fileSize": 45636
   },
   {
     "manufacturerId": 99,
@@ -4390,8 +4583,8 @@
     "filename": "Firmware_99_5_Spur0-Koef2.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_5_Spur0-Koef2.json",
     "lastUpdate": "2020-10-28T12:44:34.000",
-    "sha1": "e29f1430c9dd2a3f70d848398659bd0d59cd49bc",
-    "fileSize": 57670
+    "sha1": "dd2adc9036839ca78dca8d283749dd9c05e1ed06",
+    "fileSize": 39273
   },
   {
     "manufacturerId": 99,
@@ -4407,8 +4600,8 @@
     "filename": "Firmware_99_5_Spur0-V100.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_5_Spur0-V100.json",
     "lastUpdate": "2020-10-28T12:44:45.000",
-    "sha1": "0f12105194d700a020245827c1bf7b309bba99c9",
-    "fileSize": 59151
+    "sha1": "9096776e754b4d350b5081a0f92e934754b3d6c0",
+    "fileSize": 40499
   },
   {
     "manufacturerId": 99,
@@ -4424,8 +4617,8 @@
     "filename": "Firmware_99_5_Spur0-V36.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_5_Spur0-V36.json",
     "lastUpdate": "2020-10-28T12:45:06.000",
-    "sha1": "9386a3c9048790530012b762d8769451a84a6489",
-    "fileSize": 60516
+    "sha1": "031e751fad8559bbd8bbb970d5f278b2ab49c246",
+    "fileSize": 41627
   },
   {
     "manufacturerId": 99,
@@ -4441,8 +4634,8 @@
     "filename": "Firmware_99_7_Koef.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_7_Koef.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "992cb893dd8e1713c3444f74c303241782a5b8e3",
-    "fileSize": 53553
+    "sha1": "902c39d7808a44e94ed52603008f6fd71340c79a",
+    "fileSize": 43098
   },
   {
     "manufacturerId": 99,
@@ -4458,8 +4651,8 @@
     "filename": "Firmware_99_8_Spur0-BR64.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_8_Spur0-BR64.json",
     "lastUpdate": "2020-10-28T12:40:53.000",
-    "sha1": "9b5997ae7502915e1aa4975cfe372e57e1136edc",
-    "fileSize": 56656
+    "sha1": "c5ef306c64840cfd63082bedcc531f8477cda6fc",
+    "fileSize": 38465
   },
   {
     "manufacturerId": 99,
@@ -4475,8 +4668,8 @@
     "filename": "Firmware_99_9_Koef.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_9_Koef.json",
     "lastUpdate": "2020-04-22T14:38:27.000",
-    "sha1": "8c61c72eb9e07b0d791a40efb715f3caada4b861",
-    "fileSize": 53553
+    "sha1": "df2349f33cfc102340eec09ebdc0a8ffdb458da7",
+    "fileSize": 43098
   },
   {
     "manufacturerId": 99,
@@ -4492,8 +4685,8 @@
     "filename": "Firmware_99_9_Spur0-V100.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_9_Spur0-V100.json",
     "lastUpdate": "2020-10-28T12:44:46.000",
-    "sha1": "5879fe87a8339a37471da76a0008997feb99ae4e",
-    "fileSize": 59151
+    "sha1": "c72f745ec926f904e38cd497497435f4fb3d0837",
+    "fileSize": 40516
   },
   {
     "manufacturerId": 99,
@@ -4509,87 +4702,7 @@
     "filename": "Firmware_99_9_Spur0-V36.json",
     "link": "https://decoderdb.bidib.org/firmware/99/Firmware_99_9_Spur0-V36.json",
     "lastUpdate": "2020-10-28T12:45:06.000",
-    "sha1": "9a6c1e3f7755d2cba1de1640d02b56a16233eddf",
-    "fileSize": 60517
-  },
-  {
-    "manufacturerId": 145,
-    "manufacturerExtendedId": 0,
-    "version": "5.21",
-    "versionExtension": "MS",
-    "filename": "Firmware_145_5.21_MS.json",
-    "lastUpdate": "2026-03-14T14:24:23.331Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 986119
-  },
-  {
-    "manufacturerId": 145,
-    "manufacturerExtendedId": 0,
-    "version": "5.21",
-    "versionExtension": "MN",
-    "filename": "Firmware_145_5.21_MN.json",
-    "lastUpdate": "2026-03-14T14:31:19.554Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 201105
-  },
-  {
-    "manufacturerId": 123,
-    "manufacturerExtendedId": 0,
-    "version": "3.5",
-    "versionExtension": "Rundkesselverdampfer",
-    "filename": "Firmware_123_3.5_Rundkesselverdampfer.json",
-    "lastUpdate": "2026-02-10T22:33:58.999Z",
-    "created": "2025-12-30T00:00:34.00",
-    "fileSize": 10358
-  },
-  {
-    "manufacturerId": 160,
-    "manufacturerExtendedId": 0,
-    "version": "1.0",
-    "versionExtension": "Weichenheizung",
-    "filename": "Firmware_160_1.0_Weichenheizung.json",
-    "lastUpdate": "2026-02-10T23:14:21.947Z",
-    "created": "2025-12-30T00:00:34.00",
-    "fileSize": 8421
-  },
-  {
-    "manufacturerId": 160,
-    "manufacturerExtendedId": 0,
-    "version": "1.1",
-    "versionExtension": "MWB",
-    "filename": "Firmware_160_1.1_MWB.json",
-    "lastUpdate": "2026-02-10T23:14:36.833Z",
-    "created": "2025-12-30T00:00:34.00",
-    "fileSize": 9546
-  },
-  {
-    "manufacturerId": 123,
-    "manufacturerExtendedId": 0,
-    "version": "3.0",
-    "versionExtension": "LGB_onBoard_Decoders",
-    "filename": "Firmware_123_3.0_LGB_onBoard_Decoders.json",
-    "lastUpdate": "2026-03-14T13:13:52.539Z",
-    "created": "2026-02-10T22:23:34.00",
-    "fileSize": 21519
-  },
-  {
-    "manufacturerId": 123,
-    "manufacturerExtendedId": 0,
-    "version": "3.0",
-    "versionExtension": "LGB_MZS_Decoder_I",
-    "filename": "Firmware_123_3.0_LGB_MZS_Decoder_I.json",
-    "lastUpdate": "2026-03-14T14:06:50.617Z",
-    "created": "2026-03-14T14:06:50.00",
-    "fileSize": 15507
-  },
-  {
-    "manufacturerId": 123,
-    "manufacturerExtendedId": 0,
-    "version": "3.0",
-    "versionExtension": "LGB_MZS_Decoder_II_Kleinlok",
-    "filename": "Firmware_123_3.0_LGB_MZS_Decoder_II_Kleinlok.json",
-    "lastUpdate": "2026-03-14T14:07:08.518Z",
-    "created": "2026-03-14T14:07:08.00",
-    "fileSize": 17119
+    "sha1": "009f55756edee848457db7a4167378d403df059c",
+    "fileSize": 41645
   }
 ]
