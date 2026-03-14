@@ -132,6 +132,7 @@ public class RepositoryGenerator(
             {
                 Name = definition.Decoder.Name,
                 Type = definition.Decoder.Type,
+                TypeIds = definition.Decoder.TypeIds,
                 ManufacturerId = definition.Decoder.ManufacturerId,
                 ManufacturerExtendedId = definition.Decoder.ManufacturerExtendedId,
                 FileName = decoderInfo.FileName,
