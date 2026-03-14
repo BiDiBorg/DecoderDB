@@ -40,7 +40,7 @@
     </When>
     <When Condition="'$(Configuration)'=='Release' ">
       <ItemGroup>
-        <PackageReference Include="org.bidib.net.decoderdb" Version="1.0.2-dev.13" />
+        <PackageReference Include="org.bidib.net.decoderdb" Version="1.0.4-dev.0" />
       </ItemGroup>
     </When>
   </Choose>
