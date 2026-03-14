@@ -84,6 +84,9 @@ jobs:
             repo/decoder/decoderDetails.json
             repo/firmware/firmwareDetails.json
         # Commit all changed files back to the repository
+      - name: register safe directory
+        run: |
+          git config --global --add safe.directory /__w/DecoderDB/DecoderDB
       - name: commit generated
         if: steps.restore-output.outputs.cache-hit == 'true'
         uses: stefanzweifel/git-auto-commit-action@v7
@@ -91,6 +94,8 @@ jobs:
         with:
           commit_message: Update generated files [skip ci]
           commit_options: "--no-verify"
+          file_pattern: '*.json'
+          disable_globbing: true
       - name: "Run if changes have been detected"
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         run: echo "Changes!"
