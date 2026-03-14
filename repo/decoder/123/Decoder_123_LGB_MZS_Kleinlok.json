@@ -1,0 +1,39 @@
+{
+  "decoder": {
+    "name": "LGB MZS Kleinlok",
+    "type": "loco",
+    "typeIds": "55022",
+    "articleNumbers": "",
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "MOT+;Gleis+;Gleis-;MOT-;Licht hinten;Dekoder+ 1;Licht vorne;Dekoder+ 2;F1;Dekoder+ 3;GND"
+      },
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "electrical": {
+        "peakCurrent": 1,
+        "maxMotorCurrent": 0.8,
+        "maxTotalCurrent": 1,
+        "maxVoltage": 24,
+        "functionOutputs": 1
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "LGB MZS Kleinlok-1.jpg",
+        "copyright": "LGB"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/123/LGB%20MZS%20Kleinlok"
+  },
+  "version": {
+    "created": "2026-02-10T20:13:12.453Z",
+    "lastUpdate": "2026-03-14T14:03:16.623Z"
+  }
+}

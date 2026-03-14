@@ -1,0 +1,39 @@
+{
+  "decoder": {
+    "name": "LGB MZS Decoder II",
+    "type": "loco",
+    "typeIds": "55021",
+    "articleNumbers": "",
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "MOT+;Gleis+;Gleis-;MOT-;Licht hinten;Dekoder+ 1;Licht vorne;Dekoder+ 2;F1;Dekoder+ 3;GND"
+      },
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "electrical": {
+        "peakCurrent": 1.5,
+        "maxMotorCurrent": 1.5,
+        "maxTotalCurrent": 2.7,
+        "maxVoltage": 24,
+        "functionOutputs": 1
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "LGB 55021-1.jpg",
+        "copyright": "spur-g-news"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/123/LGB%20MZS%20Decoder%20II"
+  },
+  "version": {
+    "created": "2026-02-10T20:13:12.453Z",
+    "lastUpdate": "2026-03-14T14:01:51.531Z"
+  }
+}

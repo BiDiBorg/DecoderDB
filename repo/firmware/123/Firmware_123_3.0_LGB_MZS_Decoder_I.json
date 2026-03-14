@@ -2,11 +2,7 @@
     "firmware": {
         "decoders": [
             {
-                "name": "LGB onBoard Decoder 1.5A",
-                "type": "loco"
-            },
-            {
-                "name": "LGB onBoard Decoder 3A",
+                "name": "LGB MZS Decoder I",
                 "type": "loco"
             }
         ],
@@ -213,180 +209,6 @@
                     "possibleValues": "0-255"
                 },
                 {
-                    "id": "cv_9",
-                    "number": 9,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Motorfrequenz",
-                            "help": "Frequenz, mit der der Motor gesteuert wird. Bei 16 kHz läuft der Motor sehr leise. ACHTUNG: Die Lastnachregelung funktioniert nur bei 16 kHz"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Motor frequency"
-                        }
-                    ],
-                    "defaultValue": 0,
-                    "type": "select",
-                    "possibleValues": "0;1;2;3",
-                    "items": [
-                        {
-                            "type": "group",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Ansteuerung des Motors mit 16kHz"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Driving the Motor with 16kHz"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Ansteuerung des Motors mit 1,8kHz"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Driving the Motor with 1,8kHz"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 2,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Ansteuerung des Motors mit 270Hz"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Driving the Motor with 270Hz"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 3,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Ansteuerung des Motors mit 70Hz"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Driving the Motor with 70Hz"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "number": 0
-                        }
-                    ]
-                },
-                {
-                    "id": "cv_15",
-                    "number": 15,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Programmiersperre (Schlüssel)",
-                            "help": "Zum Sperren nur diese CV ändern"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Programming lock (Key)",
-                            "help": "To lock, change only this CV"
-                        }
-                    ],
-                    "defaultValue": 162,
-                    "type": "byte",
-                    "possibleValues": "0-255"
-                },
-                {
-                    "id": "cv_16",
-                    "number": 16,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Programmiersperre (Schloss)",
-                            "help": "Änderung hier ändern auch CV15"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Programming lock (Lock)",
-                            "help": "Changes here also apply to CV15"
-                        }
-                    ],
-                    "defaultValue": 162,
-                    "type": "byte",
-                    "possibleValues": "0-255"
-                },
-                {
-                    "id": "cvGroup_1817",
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Adresse lang"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Short address"
-                        }
-                    ],
-                    "defaultValue": 49280,
-                    "type": "dccLongAddr",
-                    "possibleValues": "",
-                    "cvs": [
-                        {
-                            "id": "cv_18",
-                            "number": 18,
-                            "mode": "rw",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "Lange adresse (tiefes Byte)"
-                                },
-                                {
-                                    "language": "en",
-                                    "text": "Long address (Low byte)"
-                                }
-                            ],
-                            "defaultValue": 0,
-                            "type": "byte",
-                            "possibleValues": "0-255"
-                        },
-                        {
-                            "id": "cv_17",
-                            "number": 17,
-                            "mode": "rw",
-                            "descriptions": [
-                                {
-                                    "language": "de",
-                                    "text": "Lange adresse (hohes Byte) "
-                                },
-                                {
-                                    "language": "en",
-                                    "text": "Long address (High byte)"
-                                }
-                            ],
-                            "defaultValue": 128,
-                            "type": "byte",
-                            "possibleValues": "192-231"
-                        }
-                    ]
-                },
-                {
                     "id": "cv_29",
                     "number": 29,
                     "mode": "rw",
@@ -501,38 +323,6 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "5",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Kurze Adresse (CV1)"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Short Address (CV1)"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Lange Adresse (CV17/CV18)"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Long Address (CV17/CV18)"
-                                        }
-                                    ]
-                                }
-                            ]
                         }
                     ]
                 },
@@ -615,140 +405,6 @@
                             "text": "Voltage for lighting terminals"
                         }
                     ]
-                },
-                {
-                    "number": 56,
-                    "type": "byte",
-                    "indexHigh": 0,
-                    "indexLow": 0,
-                    "initialRead": false,
-                    "isCustom": false,
-                    "id": "cv_56",
-                    "defaultValue": 5,
-                    "mode": "rw",
-                    "pomWriteExclude": false,
-                    "possibleValues": "1-32",
-                    "valueCalculation": {
-                        "unit": "percent",
-                        "digits": 1,
-                        "items": [
-                            {
-                                "type": "self"
-                            },
-                            {
-                                "type": "operator",
-                                "value": "*"
-                            },
-                            {
-                                "type": "constant",
-                                "value": "3.125"
-                            }
-                        ]
-                    },
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Spannung für den F2-Ausgang"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Voltage for F2-Output"
-                        }
-                    ]
-                },
-                {
-                    "number": 58,
-                    "type": "byte",
-                    "indexHigh": 0,
-                    "indexLow": 0,
-                    "initialRead": false,
-                    "isCustom": false,
-                    "id": "cv_58",
-                    "defaultValue": 0,
-                    "mode": "rw",
-                    "pomWriteExclude": false,
-                    "possibleValues": "0-255",
-                    "valueCalculation": {
-                        "unit": "second",
-                        "digits": 1,
-                        "items": [
-                            {
-                                "type": "self"
-                            },
-                            {
-                                "type": "operator",
-                                "value": "*"
-                            },
-                            {
-                                "type": "constant",
-                                "value": "0.5"
-                            }
-                        ]
-                    },
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Pausenzeit zwischen Richtungswechseln"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Pause Time Between Changes in Direction"
-                        }
-                    ]
-                },
-                {
-                    "id": "cv_60",
-                    "number": 60,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Lastnachregelung: Maximaler Nachregelfaktor"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Load Control: Maximum Adjustment Factor"
-                        }
-                    ],
-                    "defaultValue": 10,
-                    "type": "byte",
-                    "possibleValues": "1-255"
-                },
-                {
-                    "id": "cv_61",
-                    "number": 61,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Lastnachregelung: Nachregelverzögerung"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Load Control: Adjustment Frequency"
-                        }
-                    ],
-                    "defaultValue": 5,
-                    "type": "byte",
-                    "possibleValues": "1-255"
-                },
-                {
-                    "id": "cv_62",
-                    "number": 62,
-                    "mode": "rw",
-                    "descriptions": [
-                        {
-                            "language": "de",
-                            "text": "Lastnachregelung: Nachregelstärke"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Load Control: Maximum Adjustment"
-                        }
-                    ],
-                    "defaultValue": 255,
-                    "type": "byte",
-                    "possibleValues": "1-255"
                 },
                 {
                     "conditions": {
@@ -1449,198 +1105,6 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "1",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Lastregelung digital aus"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Load control digital off"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Lastregelung digital ein"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Load control digital on"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "2",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Lastnachregelung analog aus"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Load control analog off"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Lastnachregelung analog ein"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Load control analog on"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "4",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "F1 Dauerlicht"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "F1 permanently on"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "F1 blinkend"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "F1 flashing"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "5",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "F2 Dauerlicht"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "F2 permanently on"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "F2 blinkend"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "F2 flashing"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "6",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Soundfunktion 1 (Dampfausstoss 2x)"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Sound function 1 (2 chuffs)"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Soundfunktion 1 (Dampfausstoss 4x) "
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Sound function 1 (4 chuffs)"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "type": "bitSelection",
-                            "number": "7",
-                            "options": [
-                                {
-                                    "value": 0,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Soundfunktion 2 (automatische Sounds ein, z. B. Kreischen der Bremsen)"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Sound function 2 (automatic sounds on, e.g., brake sounds)"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "value": 1,
-                                    "descriptions": [
-                                        {
-                                            "language": "de",
-                                            "text": "Automatische Sounds aus"
-                                        },
-                                        {
-                                            "language": "en",
-                                            "text": "Automatic sounds off"
-                                        }
-                                    ]
-                                }
-                            ]
                         }
                     ]
                 },
@@ -1699,6 +1163,46 @@
                     "possibleValues": "0-129"
                 },
                 {
+                    "number": 56,
+                    "type": "byte",
+                    "indexHigh": 0,
+                    "indexLow": 0,
+                    "initialRead": false,
+                    "isCustom": false,
+                    "id": "cv_56",
+                    "defaultValue": 5,
+                    "mode": "rw",
+                    "pomWriteExclude": false,
+                    "possibleValues": "1-32",
+                    "valueCalculation": {
+                        "unit": "percent",
+                        "digits": 1,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "3.125"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Spannung für den F2-Ausgang"
+                        },
+                        {
+                            "language": "en",
+                            "text": "Voltage for F2-Output"
+                        }
+                    ]
+                },
+                {
                     "id": "cv_57",
                     "number": 57,
                     "mode": "rw",
@@ -1752,9 +1256,6 @@
                     "items": [
                         {
                             "id": "cv_1"
-                        },
-                        {
-                            "id": "cvGroup_1817"
                         }
                     ]
                 },
@@ -1782,36 +1283,6 @@
                     "descriptions": [
                         {
                             "language": "de",
-                            "text": "Motorregelung"
-                        },
-                        {
-                            "language": "en",
-                            "text": "Motor control"
-                        }
-                    ],
-                    "items": [
-                        {
-                            "id": "cv_9"
-                        },
-                        {
-                            "id": "cv_54",
-                            "activeItems": "bit:1;bit:2"
-                        },
-                        {
-                            "id": "cv_60"
-                        },
-                        {
-                            "id": "cv_61"
-                        },
-                        {
-                            "id": "cv_62"
-                        }
-                    ]
-                },
-                {
-                    "descriptions": [
-                        {
-                            "language": "de",
                             "text": "Fahreigenschaften"
                         },
                         {
@@ -1831,9 +1302,6 @@
                         },
                         {
                             "id": "cv_5"
-                        },
-                        {
-                            "id": "cv_58"
                         }
                     ]
                 },
@@ -1874,9 +1342,6 @@
                             "id": "cv_51"
                         },
                         {
-                            "id": "cv_57"
-                        },
-                        {
                             "id": "cv_52"
                         },
                         {
@@ -1898,9 +1363,6 @@
                                     "id": "cv_49"
                                 },
                                 {
-                                    "id": "cv_56"
-                                },
-                                {
                                     "id": "cv_50"
                                 }
                             ]
@@ -1911,14 +1373,14 @@
             "type": "dcc"
         },
         "version": "3.0",
-        "versionExtension": "LGB_onBoard_Decoders",
+        "versionExtension": "LGB_MZS_Decoder_I",
         "releaseDate": "2004-10-05T00:00:00.000",
         "manufacturerId": 123,
         "manufacturerExtendedId": 0
     },
     "version": {
         "author": "Luke",
-        "lastUpdate": "2026-03-14T13:13:52.374Z",
-        "created": "2026-02-10T22:23:34.00"
+        "lastUpdate": "2026-03-14T14:06:50.617Z",
+        "created": "2026-03-14T14:06:50.00"
     }
 }
