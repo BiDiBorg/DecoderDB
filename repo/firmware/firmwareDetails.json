@@ -1008,84 +1008,19 @@
     "manufacturerExtendedId": 0,
     "version": "5.21",
     "versionExtension": "MN",
-    "created": "2026-01-23",
-    "decoder": [
-      {
-        "name": "MN140"
-      },
-      {
-        "name": "MN150"
-      },
-      {
-        "name": "MN160"
-      },
-      {
-        "name": "MN170"
-      },
-      {
-        "name": "MN300"
-      },
-      {
-        "name": "MN330"
-      },
-      {
-        "name": "MN340"
-      },
-      {
-        "name": "MN180N18"
-      }
-    ],
     "filename": "Firmware_145_5.21_MN.json",
-    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MN.json",
-    "lastUpdate": "2026-03-14T14:31:19.546",
-    "sha1": "2db0b6fefe1c0aa57fa446d0091805c45eb49884",
-    "fileSize": 201229
+    "lastUpdate": "2026-03-20T15:04:18.572Z",
+    "created": "2026-01-23T21:00:00.000",
+    "fileSize": 201269
   },
   {
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "version": "5.21",
     "versionExtension": "MS",
-    "created": "2026-01-23",
-    "decoder": [
-      {
-        "name": "MS440"
-      },
-      {
-        "name": "MS450"
-      },
-      {
-        "name": "MS480"
-      },
-      {
-        "name": "MS490"
-      },
-      {
-        "name": "MS560"
-      },
-      {
-        "name": "MS580"
-      },
-      {
-        "name": "MS950"
-      },
-      {
-        "name": "MS990"
-      },
-      {
-        "name": "MS491"
-      },
-      {
-        "name": "MS501"
-      },
-      {
-        "name": "MS500"
-      }
-    ],
     "filename": "Firmware_145_5.21_MS.json",
-    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MS.json",
-    "lastUpdate": "2026-03-14T14:24:23.323",
-    "sha1": "8841d70370b7b470cb2bc1aa2245ed5891e893ee",
+    "lastUpdate": "2026-03-20T15:02:42.532Z",
+    "created": "2026-01-23T21:00:00.000",
     "fileSize": 227631
   },
   {
