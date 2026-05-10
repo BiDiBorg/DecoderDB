@@ -7006,6 +7006,71 @@
     {
       "manufacturerId": 97,
       "manufacturerExtendedId": 0,
+      "version": "3.15",
+      "versionExtension": "",
+      "created": "2024-12-07",
+      "decoder": [
+        {
+          "name": "DH05C"
+        },
+        {
+          "name": "DH06A"
+        },
+        {
+          "name": "DH10C"
+        },
+        {
+          "name": "DH12A"
+        },
+        {
+          "name": "DH14B"
+        },
+        {
+          "name": "DH16A"
+        },
+        {
+          "name": "DH18A"
+        },
+        {
+          "name": "DH21A"
+        },
+        {
+          "name": "DH21B"
+        },
+        {
+          "name": "DH22A"
+        },
+        {
+          "name": "DH22B"
+        },
+        {
+          "name": "DH24A"
+        },
+        {
+          "name": "DHSP10A"
+        },
+        {
+          "name": "FH05B"
+        },
+        {
+          "name": "FH16A"
+        },
+        {
+          "name": "FH18A"
+        },
+        {
+          "name": "FH22A"
+        }
+      ],
+      "filename": "Firmware_97_3.15.json",
+      "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.15.json",
+      "lastUpdate": "2026-05-10T12:06:24.001",
+      "sha1": "9b370a2fc8d8e8d5758578af616e850338926fbd",
+      "fileSize": 138256
+    },
+    {
+      "manufacturerId": 97,
+      "manufacturerExtendedId": 0,
       "version": "51",
       "versionExtension": "dhz400",
       "created": "2018-03-15",
@@ -8048,7 +8113,7 @@
       "name": "DH05A-0.jpg",
       "filename": "DH05A-0.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH05A-0.jpg",
-      "lastUpdate": "2021-03-02T12:52:35.000",
+      "lastUpdate": "2021-03-02T12:52:20.000",
       "sha1": "45d4cf925037126473e7bf4d2b87b34cd8551801",
       "fileSize": 442825
     },
@@ -8058,7 +8123,7 @@
       "name": "DH05A-0.jpg",
       "filename": "DH05A-0.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH05A-0.jpg",
-      "lastUpdate": "2021-03-02T12:52:20.000",
+      "lastUpdate": "2021-03-02T12:52:35.000",
       "sha1": "45d4cf925037126473e7bf4d2b87b34cd8551801",
       "fileSize": 442825
     },
@@ -8108,7 +8173,7 @@
       "name": "DH10A_unten.jpg",
       "filename": "DH10A_unten.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH10A_unten.jpg",
-      "lastUpdate": "2021-03-02T12:52:46.000",
+      "lastUpdate": "2021-03-02T12:52:56.000",
       "sha1": "f43bd2c446d2bcb430c340170107b5a98720ac4b",
       "fileSize": 328247
     },
@@ -8118,7 +8183,7 @@
       "name": "DH10A_unten.jpg",
       "filename": "DH10A_unten.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH10A_unten.jpg",
-      "lastUpdate": "2021-03-02T12:52:56.000",
+      "lastUpdate": "2021-03-02T12:52:46.000",
       "sha1": "f43bd2c446d2bcb430c340170107b5a98720ac4b",
       "fileSize": 328247
     },
@@ -8128,7 +8193,7 @@
       "name": "DH10A-0.jpg",
       "filename": "DH10A-0.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH10A-0.jpg",
-      "lastUpdate": "2021-03-02T12:52:46.000",
+      "lastUpdate": "2021-03-02T12:52:56.000",
       "sha1": "102b1ade3e199283f42025bcbc20225b33aefe1a",
       "fileSize": 418846
     },
@@ -8138,7 +8203,7 @@
       "name": "DH10A-0.jpg",
       "filename": "DH10A-0.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH10A-0.jpg",
-      "lastUpdate": "2021-03-02T12:52:56.000",
+      "lastUpdate": "2021-03-02T12:52:46.000",
       "sha1": "102b1ade3e199283f42025bcbc20225b33aefe1a",
       "fileSize": 418846
     },
@@ -8293,22 +8358,22 @@
       "fileSize": 40754
     },
     {
-      "manufacturerId": 131,
-      "manufacturerExtendedId": 0,
-      "name": "DHL160.jpg",
-      "filename": "DHL160.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/131/images/DHL160.jpg",
-      "lastUpdate": "2025-04-01T17:52:37.000",
-      "sha1": "20bf5941ca75eade52db217ae5ffcac5d7ddfc6e",
-      "fileSize": 11770
-    },
-    {
       "manufacturerId": 97,
       "manufacturerExtendedId": 0,
       "name": "DHL160.jpg",
       "filename": "DHL160.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DHL160.jpg",
       "lastUpdate": "2025-03-28T23:55:33.000",
+      "sha1": "20bf5941ca75eade52db217ae5ffcac5d7ddfc6e",
+      "fileSize": 11770
+    },
+    {
+      "manufacturerId": 131,
+      "manufacturerExtendedId": 0,
+      "name": "DHL160.jpg",
+      "filename": "DHL160.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/131/images/DHL160.jpg",
+      "lastUpdate": "2025-04-01T17:52:37.000",
       "sha1": "20bf5941ca75eade52db217ae5ffcac5d7ddfc6e",
       "fileSize": 11770
     },
