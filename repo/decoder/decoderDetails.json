@@ -10,8 +10,8 @@
     "filename": "Decoder_0_NMRA-Standard.json",
     "link": "https://decoderdb.bidib.org/decoder/0/Decoder_0_NMRA-Standard.json",
     "lastUpdate": "2016-08-04T16:08:43.000",
-    "sha1": "69a07179f173efa7ff4496676e025eefea19f41c",
-    "fileSize": 593
+    "sha1": "7d32cfacdfceb76be5ca322ebf6cd486e93ce645",
+    "fileSize": 528
   },
   {
     "manufacturerId": 0,
@@ -24,8 +24,8 @@
     "filename": "Decoder_0_StandardSUSI.json",
     "link": "https://decoderdb.bidib.org/decoder/0/Decoder_0_StandardSUSI.json",
     "lastUpdate": "2019-12-26T19:29:41.000",
-    "sha1": "7e0c9f9e8b7dc068fcf9de33ad2fe91fb8ee3553",
-    "fileSize": 595
+    "sha1": "f1572df94f684d0674cbfe9ec66bc48240a823f7",
+    "fileSize": 844
   },
   {
     "manufacturerId": 109,
@@ -602,8 +602,8 @@
     "filename": "Decoder_13-257_CarDecoderV5.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_CarDecoderV5.json",
     "lastUpdate": "2018-05-02T22:43:48.000",
-    "sha1": "20f0b609fc36844b9c45e08aaa77e774b08e809b",
-    "fileSize": 1084
+    "sha1": "3df5fe70510babadc98a229dde08864b911f3fd3",
+    "fileSize": 1675
   },
   {
     "manufacturerId": 13,
@@ -616,8 +616,8 @@
     "filename": "Decoder_13-257_IRM.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_IRM.json",
     "lastUpdate": "2017-07-08T15:10:44.000",
-    "sha1": "23a1dc579174eb2afc362ecd445d3a1c14d1d19e",
-    "fileSize": 838
+    "sha1": "5ae527ee7e5853160cf4de205cab86fba5614411",
+    "fileSize": 778
   },
   {
     "manufacturerId": 13,
@@ -634,8 +634,8 @@
     "filename": "Decoder_13-257_T85.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_T85.json",
     "lastUpdate": "2020-03-21T10:06:08.000",
-    "sha1": "89146f5d461113626841ee7f747c528eaed7168e",
-    "fileSize": 1040
+    "sha1": "52b9a4636a8df567ec4e0b81fd068d729cc7020a",
+    "fileSize": 1590
   },
   {
     "manufacturerId": 13,
@@ -648,8 +648,8 @@
     "filename": "Decoder_13-264_DCCrailV4.json",
     "link": "https://decoderdb.bidib.org/decoder/13_264/Decoder_13-264_DCCrailV4.json",
     "lastUpdate": "2021-01-08T22:14:48.000",
-    "sha1": "463caa501ce9354a34ac3c47fbf5be246d5b2cd0",
-    "fileSize": 558
+    "sha1": "8af6a1f6accddc81894435a30bb10feb281ff16b",
+    "fileSize": 792
   },
   {
     "manufacturerId": 13,
@@ -665,8 +665,8 @@
     "filename": "Decoder_13-264_DCCtrainV4.json",
     "link": "https://decoderdb.bidib.org/decoder/13_264/Decoder_13-264_DCCtrainV4.json",
     "lastUpdate": "2021-01-08T22:14:54.000",
-    "sha1": "9c3814d44fbd3e69ed7214edc1e59c13957780c6",
-    "fileSize": 839
+    "sha1": "06277e3f3c9d73db2b7ac82b1a20ca410ecb7747",
+    "fileSize": 1249
   },
   {
     "manufacturerId": 131,
