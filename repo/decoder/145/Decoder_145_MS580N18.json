@@ -1,0 +1,49 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 25.0,
+        "width": 10.5,
+        "height": 4.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.8,
+        "maxMotorCurrent": 0.8,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Next18;classicSUSI"
+      }
+    },
+    "images": [
+      {
+        "name": "ZIMO-MS580_top_HD.jpg",
+        "lastModified": "2025-03-19T23:08:46",
+        "copyright": "Zimo"
+      },
+      {
+        "name": "ZIMO-MS580_bottom_HD.jpg",        
+        "lastModified": "2025-03-19T23:08:46",
+        "copyright": "Zimo"
+      }
+    ],
+    "name": "MS580N18",
+    "type": "loco-sound",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "typeIds": "4",
+    "articleNumbers": "MS580N18",
+    "producedFrom": "2019",
+    "producedTill": "2024",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS580N18"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-02-14T12:20:23",
+    "created": "2020-04-29T00:00:00.000"
+  }
+}

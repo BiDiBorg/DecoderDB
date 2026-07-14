@@ -1,14 +1,14 @@
 {
   "decoder": {
-    "name": "MS580",
+    "name": "MS581N18",
     "type": "loco-sound",
-    "typeIds": "5",
+    "typeIds": "13",
     "articleNumbers": "MS581N18;MS581N18G",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
       "connectors": {
-        "list": "KATO"
+        "list": "Next18"
       },
       "dimensions": {
         "width": 10,
@@ -25,10 +25,11 @@
     },
     "options": "",
     "images": [],
-    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS580"
+	"producedFrom": "2025",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS581N18"
   },
   "version": {
-    "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:05:43.126Z"
+"lastUpdate": "2026-02-14T12:20:23",
+    "created": "2025-03-19T00:00:00.000"
   }
 }

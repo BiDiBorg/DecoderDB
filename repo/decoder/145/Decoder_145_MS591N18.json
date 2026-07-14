@@ -1,0 +1,36 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 15.0,
+        "width": 9.3,
+        "height": 3.1
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.7,
+        "maxMotorCurrent": 0.7,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Next18"
+      }
+    },
+    "name": "MS591N18",
+    "type": "loco-sound",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "typeIds": "15",
+    "articleNumbers": "MS591N18",
+    "producedFrom": "2024",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS590N18"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-02-14T12:20:23",
+    "created": "2025-03-19T00:00:00.000"
+  }
+}

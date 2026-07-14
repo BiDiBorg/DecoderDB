@@ -1,0 +1,49 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 15.0,
+        "width": 9.5,
+        "height": 3.3
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.7,
+        "maxMotorCurrent": 0.7,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Next18;classicSUSI"
+      }
+    },
+    "images": [
+      {
+        "name": "ZIMO-MS590N18_top_HD.jpg",
+        "lastModified": "2025-03-17T19:21:37",
+        "copyright": "Zimo"
+      },
+      {
+        "name": "ZIMO-MS590N18_bottom_HD.jpg",        
+        "lastModified": "2025-03-17T19:21:37",
+        "copyright": "Zimo"
+      }
+    ],
+    "name": "MS590N18",
+    "type": "loco-sound",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "typeIds": "8",
+    "articleNumbers": "MS590N18",
+    "producedFrom": "2020",
+    "producedTill": "2024",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS590N18"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-02-14T12:20:23",
+    "created": "2022-01-23T00:00:00.000"
+  }
+}
