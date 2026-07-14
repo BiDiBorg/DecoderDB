@@ -485,9 +485,9 @@
       "created": "2026-01-18",
       "filename": "Decoder_145_MN140.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN140.json",
-      "lastUpdate": "2026-01-23T10:56:37.529",
-      "sha1": "240e25455a1eb59fe38c6812273814f6123b4953",
-      "fileSize": 718
+      "lastUpdate": "2026-07-14T08:07:20.890",
+      "sha1": "75fcc9e9eb3d26bc727c57286b711182ecb915c8",
+      "fileSize": 890
     },
     {
       "manufacturerId": 145,
@@ -584,9 +584,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS440.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS440.json",
-      "lastUpdate": "2026-03-09T21:11:06.952",
-      "sha1": "89e0432f2e4f1230b2323ab421acc5bb851c5d9d",
-      "fileSize": 850
+      "lastUpdate": "2026-07-14T06:51:39.241",
+      "sha1": "620e43040603f99eb8ec4a9c2225a755c72b2cb0",
+      "fileSize": 1032
     },
     {
       "manufacturerId": 145,
@@ -609,6 +609,17 @@
       "lastUpdate": "2026-03-09T21:00:25.607",
       "sha1": "120193875704ee8bfded714eb0acf7472e32c9a1",
       "fileSize": 800
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481",
+      "created": "2025-03-19",
+      "filename": "Decoder_145_MS481.json",
+      "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS481.json",
+      "lastUpdate": "2026-02-14T12:20:23.000",
+      "sha1": "2aeb727087f81105fd60c017dc8039df63c250bb",
+      "fileSize": 919
     },
     {
       "manufacturerId": 145,
@@ -653,6 +664,17 @@
       "lastUpdate": "2026-03-09T21:30:34.509",
       "sha1": "6aa9190e6057df58bd188d14db50603b306f09c7",
       "fileSize": 952
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540",
+      "created": "2025-03-19",
+      "filename": "Decoder_145_MS540.json",
+      "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS540.json",
+      "lastUpdate": "2026-02-14T12:20:23.000",
+      "sha1": "a840383e2a1afcde63554be83d022c2170bda096",
+      "fileSize": 888
     },
     {
       "manufacturerId": 145,
@@ -965,17 +987,6 @@
     {
       "manufacturerId": 151,
       "manufacturerExtendedId": 0,
-      "name": "LokPilot 5 DCC",
-      "created": "2022-02-23",
-      "filename": "Decoder_151_LokPilot 5 DCC.json",
-      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilot 5 DCC.json",
-      "lastUpdate": "2026-01-20T14:26:15.363",
-      "sha1": "69543b5809944c92aff5f98cd59c563ea6bc9bfb",
-      "fileSize": 522
-    },
-    {
-      "manufacturerId": 151,
-      "manufacturerExtendedId": 0,
       "name": "Lokpilot",
       "created": "2019-05-23",
       "filename": "Decoder_151_Lokpilot.json",
@@ -1005,6 +1016,17 @@
       "lastUpdate": "2022-02-24T00:23:36.000",
       "sha1": "1e73e16e3eb33babdd2acaffb606efd6c98d23ce",
       "fileSize": 620
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "LokPilot 5 DCC",
+      "created": "2022-02-23",
+      "filename": "Decoder_151_LokPilot5DCC.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilot5DCC.json",
+      "lastUpdate": "2026-01-20T14:26:15.363",
+      "sha1": "69543b5809944c92aff5f98cd59c563ea6bc9bfb",
+      "fileSize": 522
     },
     {
       "manufacturerId": 151,
@@ -1229,17 +1251,6 @@
     {
       "manufacturerId": 151,
       "manufacturerExtendedId": 0,
-      "name": "LokSound 5",
-      "created": "2022-02-24",
-      "filename": "Decoder_151_LokSound 5.json",
-      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokSound 5.json",
-      "lastUpdate": "2026-01-27T21:44:07.230",
-      "sha1": "182dc7637a54557191460f44f64b7e096b57f3d6",
-      "fileSize": 576
-    },
-    {
-      "manufacturerId": 151,
-      "manufacturerExtendedId": 0,
       "name": "Loksound 1",
       "created": "2020-03-21",
       "filename": "Decoder_151_Loksound1.json",
@@ -1247,6 +1258,17 @@
       "lastUpdate": "2020-08-21T17:08:30.000",
       "sha1": "d68161b0fb672299b3b1a719aaa81363bd2a3226",
       "fileSize": 631
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "LokSound 5",
+      "created": "2022-02-24",
+      "filename": "Decoder_151_LokSound5.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokSound5.json",
+      "lastUpdate": "2026-01-27T21:44:07.230",
+      "sha1": "182dc7637a54557191460f44f64b7e096b57f3d6",
+      "fileSize": 576
     },
     {
       "manufacturerId": 151,
@@ -5600,9 +5622,9 @@
       ],
       "filename": "Firmware_97_1.05_sound.json",
       "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_1.05_sound.json",
-      "lastUpdate": "2023-05-16T05:54:34.000",
-      "sha1": "e9895e2d1fbf33298866ad69af91a2c3af08a72f",
-      "fileSize": 137541
+      "lastUpdate": "2026-04-03T11:52:38.000",
+      "sha1": "f7beaeb97038610468b4269179b2771a90ce51b2",
+      "fileSize": 154579
     },
     {
       "manufacturerId": 97,
@@ -8113,7 +8135,7 @@
       "name": "DH05A-0.jpg",
       "filename": "DH05A-0.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH05A-0.jpg",
-      "lastUpdate": "2021-03-02T12:52:20.000",
+      "lastUpdate": "2021-03-02T12:52:35.000",
       "sha1": "45d4cf925037126473e7bf4d2b87b34cd8551801",
       "fileSize": 442825
     },
@@ -8123,7 +8145,7 @@
       "name": "DH05A-0.jpg",
       "filename": "DH05A-0.jpg",
       "link": "https://decoderdb.bidib.org/decoder/97/images/DH05A-0.jpg",
-      "lastUpdate": "2021-03-02T12:52:35.000",
+      "lastUpdate": "2021-03-02T12:52:20.000",
       "sha1": "45d4cf925037126473e7bf4d2b87b34cd8551801",
       "fileSize": 442825
     },
@@ -8358,22 +8380,22 @@
       "fileSize": 40754
     },
     {
-      "manufacturerId": 97,
-      "manufacturerExtendedId": 0,
-      "name": "DHL160.jpg",
-      "filename": "DHL160.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/97/images/DHL160.jpg",
-      "lastUpdate": "2025-03-28T23:55:33.000",
-      "sha1": "20bf5941ca75eade52db217ae5ffcac5d7ddfc6e",
-      "fileSize": 11770
-    },
-    {
       "manufacturerId": 131,
       "manufacturerExtendedId": 0,
       "name": "DHL160.jpg",
       "filename": "DHL160.jpg",
       "link": "https://decoderdb.bidib.org/decoder/131/images/DHL160.jpg",
       "lastUpdate": "2025-04-01T17:52:37.000",
+      "sha1": "20bf5941ca75eade52db217ae5ffcac5d7ddfc6e",
+      "fileSize": 11770
+    },
+    {
+      "manufacturerId": 97,
+      "manufacturerExtendedId": 0,
+      "name": "DHL160.jpg",
+      "filename": "DHL160.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/97/images/DHL160.jpg",
+      "lastUpdate": "2025-03-28T23:55:33.000",
       "sha1": "20bf5941ca75eade52db217ae5ffcac5d7ddfc6e",
       "fileSize": 11770
     },
@@ -9656,6 +9678,26 @@
       "lastUpdate": "0001-01-01T00:00:00.000",
       "sha1": "3ac570a9962ec96d2de9c6a3706b23f2aab41ea4",
       "fileSize": 53436
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "ZIMO-MS440_bottom_HD.jpg",
+      "filename": "ZIMO-MS440_bottom_HD.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS440_bottom_HD.jpg",
+      "lastUpdate": "0001-01-01T00:00:00.000",
+      "sha1": "b4d62b63ba7f0beb3266441966623baf0a44722b",
+      "fileSize": 113404
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "ZIMO-MS440_top_HD.jpg",
+      "filename": "ZIMO-MS440_top_HD.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS440_top_HD.jpg",
+      "lastUpdate": "0001-01-01T00:00:00.000",
+      "sha1": "f3c4c6d2f0f6381dc37eda8ca538abd09cfb945b",
+      "fileSize": 122588
     }
   ]
 }
