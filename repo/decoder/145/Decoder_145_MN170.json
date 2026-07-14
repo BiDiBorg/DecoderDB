@@ -3,12 +3,18 @@
     "name": "MN170",
     "type": "loco",
     "typeIds": "124",
-    "articleNumbers": "MN330;MN330R;MN330P22",
+    "articleNumbers": "MN170;MN170R;MN170F;MN170N",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
-      "connectors": { "list": "Cable (9);NEM652+Cable;NEM651" },
-      "dimensions": { "width": 8.6, "height": 2.3, "length": 12 },
+      "connectors": {
+        "list": "Cable (9);NEM651;NEM651+Cable;NEM652+Cable;classicSUSI-Pads"
+      },
+      "dimensions": {
+        "width": 8.6,
+        "height": 2.3,
+        "length": 12
+      },
       "electrical": {
         "peakCurrent": 1.5,
         "maxMotorCurrent": 0.7,
@@ -18,10 +24,12 @@
       }
     },
     "options": "",
-    "images": []
+    "producedFrom": "2023",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN170"
   },
   "version": {
-    "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-01-18T07:30:25.897Z"
+    "created": "2023-09-05T00:00:00.000",
+    "lastUpdate": "2026-07-14T11:51:32.828Z"
   }
 }

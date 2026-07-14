@@ -1,1 +1,35 @@
-{"decoder":{"name":"MN250","type":"loco","typeIds":"120","articleNumbers":"","manufacturerId":145,"manufacturerExtendedId":0,"specifications":{"connectors":{"list":"Cable (11)"},"dimensions":{"width":7.5,"height":2.1,"length":9.9},"electrical":{"peakCurrent":0.8,"maxMotorCurrent":0.2,"maxTotalCurrent":0.5,"maxVoltage":24,"functionOutputs":4}},"options":"","images":[]},"version":{"created":"2026-01-18T07:37:20.573Z","lastUpdate":"2026-01-18T07:37:20.578Z"}}
+{
+  "decoder": {
+    "name": "MN250",
+    "type": "loco",
+    "typeIds": "120",
+    "articleNumbers": "MN250",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable"
+      },
+      "dimensions": {
+        "width": 7.5,
+        "height": 2.1,
+        "length": 9.9
+      },
+      "electrical": {
+        "peakCurrent": 0.8,
+        "maxMotorCurrent": 0.2,
+        "maxTotalCurrent": 0.5,
+        "maxVoltage": 24,
+        "functionOutputs": 4
+      }
+    },
+    "options": "",
+    "images": [],
+    "producedFrom": "2025",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN250"
+  },
+  "version": {
+    "created": "2025-03-19T00:00:00.000Z",
+    "lastUpdate": "2026-07-14T11:46:48.828Z"
+  }
+}
