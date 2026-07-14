@@ -3,12 +3,18 @@
     "name": "MN140",
     "type": "loco",
     "typeIds": "119",
-    "articleNumbers": "",
+    "articleNumbers": "MN140E24;MN140P12",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
-      "connectors": { "list": "E24;E24 mit Plus12-Stecker (Adapterplatine)" },
-      "dimensions": { "width": 8.7, "height": 2.3, "length": 13.5 },
+      "connectors": {
+        "list": "E24;E24 mit Plux12-Stecker (Adapterplatine)"
+      },
+      "dimensions": {
+        "width": 8.7,
+        "height": 2.3,
+        "length": 13.5
+      },
       "electrical": {
         "peakCurrent": 1.5,
         "maxMotorCurrent": 0.7,
@@ -18,10 +24,16 @@
       }
     },
     "options": "",
-    "images": [{ "name": "MN140-1.png", "copyright": "Zimo" }]
+    "images": [
+      {
+        "name": "MN140-1.png",
+        "copyright": "Zimo"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN140"
   },
   "version": {
     "created": "2026-01-18T07:35:39.870Z",
-    "lastUpdate": "2026-01-23T10:56:37.529Z"
+    "lastUpdate": "2026-07-14T08:07:20.890Z"
   }
 }

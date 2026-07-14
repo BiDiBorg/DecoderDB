@@ -1,0 +1,36 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 19.0,
+        "width": 8.7,
+        "height": 2.8
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.8,
+        "maxMotorCurrent": 0.8,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Plux12;E24(RCD-124)"
+      }
+    },
+    "name": "MS540",
+    "type": "loco-sound",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "typeIds": "14",
+    "articleNumbers": "MS540E24;MS540P12",
+    "producedFrom": "2024",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS540"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-02-14T12:20:23",
+    "created": "2025-03-19T00:00:00.000"
+  }
+}
