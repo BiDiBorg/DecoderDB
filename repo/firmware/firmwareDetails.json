@@ -918,6 +918,95 @@
   {
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
+    "version": "4.229",
+    "versionExtension": "MS-Sound-MFX",
+    "created": "2020-04-29",
+    "decoder": [
+      {
+        "name": "MN140"
+      },
+      {
+        "name": "MN150"
+      },
+      {
+        "name": "MN160"
+      },
+      {
+        "name": "MN170"
+      },
+      {
+        "name": "MN180N18"
+      },
+      {
+        "name": "MN250"
+      },
+      {
+        "name": "MN300"
+      },
+      {
+        "name": "MN330"
+      },
+      {
+        "name": "MN340"
+      },
+      {
+        "name": "MS440"
+      },
+      {
+        "name": "MS450"
+      },
+      {
+        "name": "MS480"
+      },
+      {
+        "name": "MS481"
+      },
+      {
+        "name": "MS490"
+      },
+      {
+        "name": "MS491"
+      },
+      {
+        "name": "MS500"
+      },
+      {
+        "name": "MS501"
+      },
+      {
+        "name": "MS540"
+      },
+      {
+        "name": "MS560"
+      },
+      {
+        "name": "MS580N18"
+      },
+      {
+        "name": "MS581N18"
+      },
+      {
+        "name": "MS590N18"
+      },
+      {
+        "name": "MS591N18"
+      },
+      {
+        "name": "MS950"
+      },
+      {
+        "name": "MS990"
+      }
+    ],
+    "filename": "Firmware_145_4.229_MS-Sound-MFX.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_4.229_MS-Sound-MFX.json",
+    "lastUpdate": "2026-05-18T23:26:38.000",
+    "sha1": "4164dbf39d36dfb2f83514ae65d6974786672378",
+    "fileSize": 113842
+  },
+  {
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
     "version": "5.15",
     "created": "2025-06-16",
     "decoder": [
@@ -4026,6 +4115,29 @@
     "lastUpdate": "2025-09-26T21:31:17.000",
     "sha1": "8d1c9363b49a2f537b9fab086c4532ead673b632",
     "fileSize": 138064
+  },
+  {
+    "manufacturerId": 97,
+    "manufacturerExtendedId": 0,
+    "version": "3.14",
+    "versionExtension": "PD12A",
+    "created": "2026-04-03",
+    "decoder": [
+      {
+        "name": "PD12A"
+      },
+      {
+        "name": "PD18A"
+      },
+      {
+        "name": "PD21A"
+      }
+    ],
+    "filename": "Firmware_97_3.14_PD12A.json",
+    "link": "https://decoderdb.bidib.org/firmware/97/Firmware_97_3.14_PD12A.json",
+    "lastUpdate": "2026-04-03T18:57:28.000",
+    "sha1": "13168d1aec1d5e237e9e4c5c9f729fddfe573ed8",
+    "fileSize": 60061
   },
   {
     "manufacturerId": 97,
