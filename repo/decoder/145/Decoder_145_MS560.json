@@ -24,7 +24,16 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "ZIMO-MS560_bottom_HD.jpg",
+        "copyright": "Zimo"
+      },
+      {
+        "name": "ZIMO-MS560_top_HD.jpg",
+        "copyright": "Zimo"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS560"
   },
   "version": {

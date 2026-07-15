@@ -32,6 +32,18 @@
       {
         "name": "MS500-2.jpg",
         "copyright": "zimo"
+      },
+      {
+        "name": "ZIMO-MS500_top_bedrahtet_HD.jpg",
+        "copyright": "Zimo"
+      },
+      {
+        "name": "ZIMO-MS500N_bottom_HD.jpg",
+        "copyright": "Zimo"
+      },
+      {
+        "name": "ZIMO-MS500N_top_HD.jpg",
+        "copyright": "Zimo"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS500"

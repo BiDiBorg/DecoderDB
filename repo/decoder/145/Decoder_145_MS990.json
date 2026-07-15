@@ -24,7 +24,16 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "ZIMO-MS990K_top_HD.jpg",
+        "copyright": "Zimo"
+      },
+      {
+        "name": "ZIMO-MS990L_top_HD.jpg",
+        "copyright": "Zimo"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS990"
   },
   "version": {
