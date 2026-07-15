@@ -735,9 +735,9 @@
     "functionOutputs": 4.0,
     "filename": "Decoder_145_MN150.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN150.json",
-    "lastUpdate": "2026-01-18T07:38:51.777",
-    "sha1": "5f161e3304246bb19c97bf1db9125e592979573b",
-    "fileSize": 639
+    "lastUpdate": "2026-02-14T12:20:23.000",
+    "sha1": "ebaea9c014a0a588eae06749d4dbdf896e678855",
+    "fileSize": 856
   },
   {
     "manufacturerId": 145,
@@ -745,7 +745,7 @@
     "name": "MN160",
     "type": "loco",
     "typeIds": "122",
-    "length": 30.0,
+    "length": 13.0,
     "width": 7.5,
     "height": 1.6,
     "maxTotalCurrent": 0.5,
@@ -753,9 +753,9 @@
     "functionOutputs": 4.0,
     "filename": "Decoder_145_MN160.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN160.json",
-    "lastUpdate": "2026-01-26T10:53:08.564",
-    "sha1": "4af98fa58c0890f0a0a7e680a8ebbb242a597b26",
-    "fileSize": 460
+    "lastUpdate": "2026-02-14T12:20:23.000",
+    "sha1": "122caf64c6d6cc8cb4edacc7fccfe167d50c1520",
+    "fileSize": 1098
   },
   {
     "manufacturerId": 145,
@@ -898,8 +898,8 @@
     "filename": "Decoder_145_MS450.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS450.json",
     "lastUpdate": "2026-03-09T20:58:24.985",
-    "sha1": "7a980347f7c20faffce97ac10d130cd03bbed269",
-    "fileSize": 887
+    "sha1": "59735bb7d8f33cf1c769e1463c7496d9bbff06da",
+    "fileSize": 1068
   },
   {
     "manufacturerId": 145,
@@ -916,8 +916,8 @@
     "filename": "Decoder_145_MS480.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS480.json",
     "lastUpdate": "2026-03-09T21:00:25.607",
-    "sha1": "120193875704ee8bfded714eb0acf7472e32c9a1",
-    "fileSize": 800
+    "sha1": "5686bf9434ba7926004037b905e037bb67e83ae4",
+    "fileSize": 1180
   },
   {
     "manufacturerId": 145,
@@ -952,8 +952,8 @@
     "filename": "Decoder_145_MS490.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS490.json",
     "lastUpdate": "2026-03-09T21:01:32.926",
-    "sha1": "892513fa91d735f28309fc3b97af98013a0fc6b2",
-    "fileSize": 800
+    "sha1": "a21ef77341cd1864554ed8b9bb26d19ca1173f5c",
+    "fileSize": 1176
   },
   {
     "manufacturerId": 145,
@@ -988,8 +988,8 @@
     "filename": "Decoder_145_MS500.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS500.json",
     "lastUpdate": "2026-03-09T21:30:23.248",
-    "sha1": "313b83d7961e5be98005b1266a22de0a7dabe55b",
-    "fileSize": 946
+    "sha1": "05c2d19ec53bca16484a650f32686c5d13bfe320",
+    "fileSize": 1219
   },
   {
     "manufacturerId": 145,
@@ -1042,8 +1042,8 @@
     "filename": "Decoder_145_MS560.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS560.json",
     "lastUpdate": "2026-03-09T21:03:28.173",
-    "sha1": "39a5a63fef229a27a57834d6329952a3a0237d7e",
-    "fileSize": 761
+    "sha1": "d473da25dd574aa44ecd47f38435c1aae7149905",
+    "fileSize": 940
   },
   {
     "manufacturerId": 145,
@@ -1132,8 +1132,8 @@
     "filename": "Decoder_145_MS950.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS950.json",
     "lastUpdate": "2026-03-09T21:07:33.437",
-    "sha1": "b5444bcb501fd3cb74231c5aa5e4aea094184384",
-    "fileSize": 1345
+    "sha1": "3f5b206aefe3ac82450e01ecc76996669f533a27",
+    "fileSize": 1431
   },
   {
     "manufacturerId": 145,
@@ -1150,8 +1150,8 @@
     "filename": "Decoder_145_MS990.json",
     "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS990.json",
     "lastUpdate": "2026-03-09T21:09:16.791",
-    "sha1": "e4c11a4410f420a9c160eaf1ebfbdacd6ac68d3e",
-    "fileSize": 792
+    "sha1": "efb7da6370969a6b2ba30e76e9f676d1b4defe68",
+    "fileSize": 970
   },
   {
     "manufacturerId": 145,
@@ -2918,8 +2918,8 @@
     "filename": "Decoder_62_LD-G-42.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-42.json",
     "lastUpdate": "2025-08-26T22:43:20.000",
-    "sha1": "7e6334df6b295f8e048f80f9f6525e5b98336144",
-    "fileSize": 870
+    "sha1": "c6e981c18cf0642d00b43c6774f6d867a2322c0e",
+    "fileSize": 1137
   },
   {
     "manufacturerId": 62,
