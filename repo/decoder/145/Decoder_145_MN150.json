@@ -3,11 +3,10 @@
     "name": "MN150",
     "type": "loco",
     "typeIds": "121",
-    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
-      "connectors": { "list": "Cable (7);651" },
+      "connectors": { "list": "Cable (7);NEM651" },
       "dimensions": { "width": 5.9, "height": 2.1, "length": 8.2 },
       "electrical": {
         "peakCurrent": 1,
@@ -18,10 +17,16 @@
       }
     },
     "options": "",
-    "images": []
+    "images": [],
+	"articleNumbers": "MN150;MN150N",
+    "producedFrom": "2025",
+	"decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN150"
   },
   "version": {
-    "created": "2026-01-18T07:38:51.772Z",
-    "lastUpdate": "2026-01-18T07:38:51.777Z"
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-02-14T12:20:23",
+    "created": "2025-03-19T00:00:00.000"
   }
 }
