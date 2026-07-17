@@ -1,0 +1,46 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 19.5,
+        "width": 9.0,
+        "height": 4.5
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.2,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad;Cable;Plux12"
+      }
+    },
+    "images": [
+      {
+        "name": "FD-R-Ext-2_front.jpg",
+        "lastModified": "2019-05-13T14:53:49",
+        "copyright": "Tams Elektronik GmbH"
+      },
+      {
+        "name": "FD-R-Ext-2_back.jpg",
+        "lastModified": "2019-05-13T14:53:49",
+        "copyright": "Tams Elektronik GmbH"
+      }
+    ],
+    "name": "FD-R Extended.2",
+    "type": "function",
+    "manufacturerId": 62,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "42-0117x",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/62/FD-R-Extended.2"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2019-05-13T14:53:49",
+    "created": "2019-05-13T00:00:00.000"
+  }
+}

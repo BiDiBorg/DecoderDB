@@ -1,0 +1,47 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 28.0,
+        "width": 17.5,
+        "height": 7.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 3.0,
+        "maxMotorCurrent": 3.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad;Cable;Terminal;classicSUSI;SUSI-Master"
+      }
+    },
+    "images": [
+      {
+        "name": "LD-G-44_Vorderseite.jpg",
+        "lastModified": "2025-08-26T23:57:18",
+        "copyright": "Tams"
+      },
+      {
+        "name": "LD-G-44_Rueckseite.jpg",
+        "lastModified": "2025-08-26T23:57:18",
+        "copyright": "Tams"
+      }
+    ],
+    "name": "LD-G-44",
+    "type": "loco",
+    "manufacturerId": 62,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "41-0444x",
+    "producedFrom": "2024",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/62/LD-G-44"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Andre Ruff",
+    "lastUpdate": "2025-08-26T23:57:18",
+    "created": "2025-04-01T00:00:00.000"
+  }
+}

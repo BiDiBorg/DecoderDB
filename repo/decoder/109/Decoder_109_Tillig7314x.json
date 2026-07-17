@@ -1,0 +1,38 @@
+{
+  "decoder": {
+    "specifications": {
+      "electrical": {
+        "maxTotalCurrent": 0.125,
+        "maxMotorCurrent": 0.125,
+        "peakCurrent": 0.0,
+        "maxVoltage": 21.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "PCB"
+      }
+    },
+    "images": [
+      {
+        "name": "73141.jpg",
+        "lastModified": "2026-05-03T19:11:55",
+        "copyright": "Tillig"
+      }
+    ],
+    "name": "Tillig 7314x",
+    "type": "loco",
+    "manufacturerId": 109,
+    "manufacturerExtendedId": 0,
+    "typeIds": "14",
+    "articleNumbers": "73141;73144;73145;73146",
+    "producedFrom": "2017",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/109/Tillig7314x"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-05-03T19:11:55",
+    "created": "2026-05-03T00:00:00.000"
+  }
+}

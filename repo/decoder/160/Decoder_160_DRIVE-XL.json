@@ -1,0 +1,42 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 60.0,
+        "width": 35.0,
+        "height": 20.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 10.0,
+        "maxMotorCurrent": 8.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 27.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Terminal"
+      }
+    },
+    "images": [
+      {
+        "name": "DRIVE-XL_TRANS_QUER.jpg",
+        "lastModified": "2020-09-22T20:19:08",
+        "copyright": "MD Electronics"
+      }
+    ],
+    "name": "DRIVE-XL",
+    "type": "loco",
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "typeIds": "11.0",
+    "producedFrom": "2018",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/160/DRIVE-XL"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2020-09-22T20:19:08",
+    "created": "2020-09-22T00:00:00.000"
+  }
+}

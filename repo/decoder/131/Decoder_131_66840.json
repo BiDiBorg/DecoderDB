@@ -1,0 +1,42 @@
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "Empfänger für alle Gleichstromlokomotiven mit einer Stromaufnahme bis 1000 mA (Motor 1000 mA, Licht 300 mA). Geeignet für Digitallokomotiven mit 14-poliger Digitalschnittstelle (mTc14).<br /> Universell im Selectrix-/SX2- und DCC-Format einsetzbar.<br /> Automatische Digital- und Analogerkennung.<br /> Einstellbare Höchstgeschwindigkeit.<br /> Einstellbare Motorimpulsvarianten.<br /> Automatischer Lastausgleich.<br /> Anschluss für Lichtfunktion.<br /> Anschluss für Zusatzfunktion.<br /> Kurzschlusssicherung des Motorausgangs.<br /> Überlastsicherung des Lichtausgangs.<br /> Überlastsicherung der Zusatzfunktion.<br /> Programmierung von zusätzlichen Einstellungen über Anwahl der Adresse \"00\",<br /> z.B. feiner Abstufung der Impulsbreiten (Regelvariante), Fahrtrichtungsumpolung.<br /> im Selectrix-Betrieb:<br /> 31 Fahrstufen. (Sx2 127 Fahrstufen).<br /> 111 Adressen. (Sx2 10.000 Adressen).<br /> 1 Zusatzfunktion (Sx2 16 Zusatzfunktionen).<br /> Blockstreckenbetrieb mit einfachen Dioden (1- oder 2-Halteabschnitte).<br /> Bremsbetrieb mit Bremsdiode.<br /> im DCC-Betrieb:<br /> Manuelle Fahrstufenwahl 14/28 Stufen.<br /> Automatische Umschaltung auf 128 Fahrstufen.<br /> Adressen wahlweise lang oder kurz.<br /> Bremsbetrieb mit Gleichspannungs- und \"broadcast-mode\"-Bremsgeneratoren."
+      }
+    ],
+    "specifications": {
+      "dimensions": {
+        "length": 14.0,
+        "width": 9.0,
+        "height": 1.8
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.0,
+        "maxMotorCurrent": 1.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "MTC14"
+      }
+    },
+    "name": "66840",
+    "type": "loco",
+    "manufacturerId": 131,
+    "manufacturerExtendedId": 0,
+    "typeIds": "140",
+    "producedFrom": "2012",
+    "producedTill": "2012",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/131/66840"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2021-02-09T00:24:10",
+    "created": "2018-02-11T00:00:00.000"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "decoder": {
+    "description": [
+      {
+        "language": "all",
+        "innerText": "<p>Der Funktionsdecoder ist ein Multiprotokoll-Decoder, der sowohl Signale im DCC-Format als auch im Motorola-Format auswertet. Der Decoder erkennt automatisch, in welchem Format die Zentrale die Signale an seine Adresse sendet.<br>Der Funktionsdecoder kann auch in analogen Modellbahnanlagen eingesetzt werden, die mit einem Gleichstrom-Fahrregler betrieben werden, jedoch nicht in analogen Wechselstrom-Anlagen.<br><br>Der Decoder hat vier Funktionsausgänge mit einem maximalen Strom von je 300 mA (F0f, F0r) bzw. 100 mA (AUX1, AUX2) für den Anschluss zusätzlicher Verbraucher (z.B. Beleuchtung, Rauchgenerator, elektrische Kupplung).&nbsp;<br>Hinweis: Der maximale Gesamtstrom des Decoders beträgt 700 mA.</p>"
+      }
+    ],
+    "specifications": {
+      "dimensions": {
+        "length": 13.0,
+        "width": 9.5,
+        "height": 5.2
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.7,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad;Cable"
+      }
+    },
+    "name": "FD-R Basic.3",
+    "type": "function",
+    "manufacturerId": 62,
+    "manufacturerExtendedId": 0,
+    "typeIds": "179",
+    "articleNumbers": "42-01180;42-01181",
+    "producedFrom": "2021",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/62/FD-RBasic.3"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Andre Ruff",
+    "lastUpdate": "2025-04-02T15:28:01",
+    "created": "2025-04-01T00:00:00.000"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 34.5,
+        "width": 16.0,
+        "height": 6.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 1.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 0.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad;NEM652+Cable;Plux22;MTC21RCN-121;MTC21-M"
+      }
+    },
+    "images": [
+      {
+        "name": "LD-G-36_plus.jpg",
+        "lastModified": "2019-05-11T20:34:47",
+        "copyright": "Tams Elektronik GmbH"
+      }
+    ],
+    "name": "LD-G-36 plus",
+    "type": "loco-sound",
+    "manufacturerId": 62,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "41-0336x-xxx",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/62/LD-G-36plus"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2019-05-11T20:34:47",
+    "created": "2016-06-08T00:00:00.000"
+  }
+}

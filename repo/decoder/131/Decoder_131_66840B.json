@@ -1,0 +1,37 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 14.0,
+        "width": 9.0,
+        "height": 1.8
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.0,
+        "maxMotorCurrent": 1.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 30.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "MTC14"
+      }
+    },
+    "name": "66840B",
+    "type": "loco",
+    "manufacturerId": 131,
+    "manufacturerExtendedId": 0,
+    "typeIds": "141",
+    "articleNumbers": "66840;66857",
+    "producedFrom": "2013",
+    "producedTill": "2015",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/131/66840B"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-04-01T00:49:09",
+    "created": "2017-02-06T00:00:00.000"
+  }
+}

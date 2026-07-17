@@ -1,0 +1,36 @@
+{
+  "decoder": {
+    "specifications": {
+      "electrical": {
+        "maxTotalCurrent": 0.11,
+        "maxMotorCurrent": 0.11,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad"
+      }
+    },
+    "images": [
+      {
+        "name": "Zweiwege-UNIMOG_2680.jpg",
+        "lastModified": "2025-03-15T01:12:10"
+      }
+    ],
+    "name": "Zweiwege-UNIMOG",
+    "type": "loco",
+    "manufacturerId": 109,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "2680",
+    "producedFrom": "2020",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/109/Zweiwege-UNIMOG"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-03-15T01:12:10",
+    "created": "2017-04-11T00:00:00.000"
+  }
+}

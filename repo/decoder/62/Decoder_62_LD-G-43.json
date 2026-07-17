@@ -1,0 +1,47 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 25.0,
+        "width": 16.0,
+        "height": 5.5
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.5,
+        "maxMotorCurrent": 1.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad;Cable;NEM652+Cable;Plux22;classicSUSI;SUSI-Master"
+      }
+    },
+    "images": [
+      {
+        "name": "LD-G-43_Vorderseite.jpg",
+        "lastModified": "2025-08-26T22:38:22",
+        "copyright": "Tams"
+      },
+      {
+        "name": "LD-G-43_Rueckseite.jpg",
+        "lastModified": "2025-08-26T22:38:22",
+        "copyright": "Tams"
+      }
+    ],
+    "name": "LD-G-43",
+    "type": "loco",
+    "manufacturerId": 62,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "41-0443x",
+    "producedFrom": "2023",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/62/LD-G-43"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-08-26T22:38:22",
+    "created": "2024-04-17T00:00:00.000"
+  }
+}

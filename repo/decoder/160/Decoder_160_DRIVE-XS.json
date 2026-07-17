@@ -1,0 +1,40 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 16.0,
+        "width": 10.0,
+        "height": 5.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.0,
+        "maxMotorCurrent": 0.5,
+        "peakCurrent": 0.0,
+        "maxVoltage": 27.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad"
+      }
+    },
+    "images": [
+      {
+        "name": "DRIVE-XS_TRANS_QUER.jpg",
+        "lastModified": "2022-04-27T17:53:08"
+      }
+    ],
+    "name": "DRIVE-XS",
+    "type": "loco",
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "typeIds": "11.6",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/160/DRIVE-XS"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2022-04-27T17:53:08",
+    "created": "2022-04-27T00:00:00.000"
+  }
+}

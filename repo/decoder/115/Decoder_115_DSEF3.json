@@ -1,0 +1,40 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 19.0,
+        "width": 17.5,
+        "height": 4.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.0,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Pad"
+      }
+    },
+    "images": [
+      {
+        "name": "DSE_F3.jpg",
+        "lastModified": "2020-11-02T14:51:41"
+      }
+    ],
+    "name": "DSE F3",
+    "type": "function",
+    "manufacturerId": 115,
+    "manufacturerExtendedId": 0,
+    "typeIds": "83",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/115/DSE%20F3"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2020-11-02T14:51:41",
+    "created": "2020-11-02T00:00:00.000"
+  }
+}

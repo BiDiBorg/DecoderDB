@@ -1,0 +1,35 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 16.3,
+        "width": 9.5,
+        "height": 3.4
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.8,
+        "maxMotorCurrent": 1.8,
+        "peakCurrent": 0.0,
+        "maxVoltage": 20.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "NEM651"
+      }
+    },
+    "name": "687301",
+    "type": "loco",
+    "manufacturerId": 155,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "687301",
+    "producedFrom": "2008",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/155/687301"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2026-05-06T22:16:46",
+    "created": "2026-05-06T00:00:00.000"
+  }
+}

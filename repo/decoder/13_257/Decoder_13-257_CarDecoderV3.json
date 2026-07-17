@@ -1,37 +1,57 @@
 {
   "decoder": {
-    "name": "Car Decoder V3",
-    "type": "car",
-    "typeIds": "20;30;31;32;40",
-    "manufacturerId": 13,
-    "manufacturerExtendedId": 257,
+    "description": [
+      {
+        "language": "all",
+        "innerText": "OpenCarSystem Cardecoder ab Firmware Version V0.3.xx"
+      }
+    ],
     "specifications": {
-      "connectors": { "list": "Pad" },
-      "dimensions": { "width": 11, "height": 3, "length": 13 },
+      "dimensions": {
+        "length": 13.0,
+        "width": 11.0,
+        "height": 3.0
+      },
       "electrical": {
-        "peakCurrent": 0,
-        "maxMotorCurrent": 0.5,
         "maxTotalCurrent": 0.6,
+        "maxMotorCurrent": 0.5,
+        "peakCurrent": 0.0,
         "maxVoltage": 4.2,
         "functionOutputs": 14
+      },
+      "connectors": {
+        "list": "Pad"
       }
     },
-    "options": "",
     "images": [
       {
         "name": "cardecoder_v3_unten.jpg",
-        "copyright": "OpenCarSystem",
-        "lastModified": "2018-10-07T10:19:45"
+        "lastModified": "2025-11-15T15:22:35",
+        "copyright": "OpenCarSystem"
       },
       {
         "name": "cardecoder_v3_oben.jpg",
-        "copyright": "OpenCarSystem",
-        "lastModified": "2018-10-07T10:19:15"
+        "lastModified": "2025-11-15T15:22:35",
+        "copyright": "OpenCarSystem"
       }
-    ]
+    ],
+    "name": "Car Decoder V3",
+    "type": "car",
+    "manufacturerId": 13,
+    "manufacturerExtendedId": 257,
+    "manufacturerName": "OpenCarSystem",
+    "manufacturerShortName": "OpenCar",
+    "manufacturerUrl": "www.opencarsystem.de",
+    "typeIds": "20;30;31;32;40",
+    "producedFrom": "2014",
+    "producedTill": "2020",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/13/Car%20Decoder%20V3"
   },
   "version": {
-    "created": "2016-08-22T00:00:00.000",
-    "lastUpdate": "2025-12-16T20:59:22.078Z"
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Wilhelm Toralf",
+    "lastUpdate": "2025-11-15T15:22:35",
+    "created": "2016-08-22T00:00:00.000"
   }
 }
