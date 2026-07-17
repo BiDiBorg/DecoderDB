@@ -1,0 +1,37 @@
+{
+  "decoder": {
+    "specifications": {
+      "electrical": {
+        "maxTotalCurrent": 0.0,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 25.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Terminal"
+      }
+    },
+    "images": [
+      {
+        "name": "LS100_11100.jpg",
+        "lastModified": "2019-08-04T20:26:55"
+      }
+    ],
+    "name": "LS100",
+    "type": "standardAccessory",
+    "manufacturerId": 99,
+    "manufacturerExtendedId": 0,
+    "typeIds": "22",
+    "articleNumbers": "11100",
+    "producedFrom": "2004",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/99/LS100"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2019-08-04T20:26:55",
+    "created": "2019-08-01T00:00:00.000"
+  }
+}

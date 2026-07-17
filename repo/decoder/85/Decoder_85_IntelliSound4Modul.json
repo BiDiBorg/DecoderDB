@@ -1,0 +1,34 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 18.4,
+        "width": 11.5,
+        "height": 3.3
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.0,
+        "maxMotorCurrent": 0.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 20.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": ""
+      }
+    },
+    "name": "IntelliSound 4 Modul",
+    "type": "susi-sound",
+    "manufacturerId": 85,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "32500;32504",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/85/IntelliSound%204%20Modul"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-04-20T00:08:29",
+    "created": "2016-10-16T00:00:00.000"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 51.0,
+        "width": 41.0,
+        "height": 14.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.0,
+        "maxMotorCurrent": 4.0,
+        "peakCurrent": 0.0,
+        "maxVoltage": 0.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Terminal;classicSUSI"
+      }
+    },
+    "name": "LokSound XL V4.0",
+    "type": "loco",
+    "manufacturerId": 151,
+    "manufacturerExtendedId": 0,
+    "typeIds": "33554544",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/151/LokPilot%20XL%20V4.0"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2022-02-23T23:46:26",
+    "created": "2022-02-23T00:00:00.000"
+  }
+}

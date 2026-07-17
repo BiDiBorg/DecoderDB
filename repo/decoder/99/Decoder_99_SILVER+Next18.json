@@ -1,0 +1,36 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 15.0,
+        "width": 9.5,
+        "height": 2.9
+      },
+      "electrical": {
+        "maxTotalCurrent": 0.75,
+        "maxMotorCurrent": 0.75,
+        "peakCurrent": 0.0,
+        "maxVoltage": 0.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Next18"
+      }
+    },
+    "name": "SILVER+Next18",
+    "type": "loco",
+    "manufacturerId": 99,
+    "manufacturerExtendedId": 0,
+    "typeIds": "94",
+    "articleNumbers": "10318-01",
+    "producedFrom": "2015",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/99/SILVER+Next18"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2020-03-23T12:32:10",
+    "created": "2017-01-21T00:00:00.000"
+  }
+}

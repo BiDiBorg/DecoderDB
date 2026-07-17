@@ -1,0 +1,35 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 21.3,
+        "width": 15.5,
+        "height": 5.5
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.1,
+        "maxMotorCurrent": 1.1,
+        "peakCurrent": 0.0,
+        "maxVoltage": 40.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "NEM651+Cable;NEM652+Cable;Plux12+Cable;MTC21RCN-121"
+      }
+    },
+    "name": "LokPilot V4.0",
+    "type": "loco",
+    "manufacturerId": 151,
+    "manufacturerExtendedId": 0,
+    "typeIds": "33554495;33554564",
+    "articleNumbers": "54610;54612;54614;54616",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/151/LokPilot%20V4.0"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Dirk Geffe",
+    "lastUpdate": "2022-02-23T21:51:39",
+    "created": "2017-06-05T00:00:00.000"
+  }
+}
