@@ -1086,6 +1086,17 @@
     {
       "manufacturerId": 151,
       "manufacturerExtendedId": 0,
+      "name": "LED",
+      "created": "2017-01-28",
+      "filename": "Decoder_151_LED.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LED.json",
+      "lastUpdate": "2018-11-08T18:27:35.000",
+      "sha1": "71a21041778c4a5893612302b7cdda84e9860d4b",
+      "fileSize": 929
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
       "name": "Lokpilot",
       "created": "2019-05-23",
       "filename": "Decoder_151_Lokpilot.json",
@@ -1262,6 +1273,28 @@
     {
       "manufacturerId": 151,
       "manufacturerExtendedId": 0,
+      "name": "LokPilot micro V4.0",
+      "created": "2022-02-23",
+      "filename": "Decoder_151_LokPilotmicroV4.0.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilotmicroV4.0.json",
+      "lastUpdate": "2022-02-23T21:19:20.000",
+      "sha1": "233b61aaf9d058e0d7232da1b3129ae9f5c57744",
+      "fileSize": 902
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "LokPilot micro V4.0 DCC",
+      "created": "2022-02-23",
+      "filename": "Decoder_151_LokPilotmicroV4.0DCC.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilotmicroV4.0DCC.json",
+      "lastUpdate": "2022-02-23T21:19:14.000",
+      "sha1": "e6fbd1e53ce5502e2b5b39941aefc502b7a3882e",
+      "fileSize": 897
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
       "name": "LokPilot Nano Standard",
       "created": "2020-04-09",
       "filename": "Decoder_151_LokPilotNanoStandard.json",
@@ -1313,6 +1346,28 @@
       "lastUpdate": "2020-08-21T17:07:09.000",
       "sha1": "15fc2eb969f32f43e4f33b7b2893fdb3da4bb75a",
       "fileSize": 643
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "LokPilot V4.0",
+      "created": "2017-06-05",
+      "filename": "Decoder_151_LokPilotV4.0.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilotV4.0.json",
+      "lastUpdate": "2022-02-23T21:51:39.000",
+      "sha1": "54e60619bbe9da3a90613a8995276d72a87fb856",
+      "fileSize": 924
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "LokPilot V4.0 DCC",
+      "created": "2022-02-23",
+      "filename": "Decoder_151_LokPilotV4.0DCC.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilotV4.0DCC.json",
+      "lastUpdate": "2022-02-23T21:51:29.000",
+      "sha1": "dc1e0654388167e706817b87a843ad22bac24b95",
+      "fileSize": 935
     },
     {
       "manufacturerId": 151,
@@ -1438,6 +1493,17 @@
     {
       "manufacturerId": 151,
       "manufacturerExtendedId": 0,
+      "name": "LokSound L V4.0",
+      "created": "2022-02-23",
+      "filename": "Decoder_151_LokSoundLV4.0.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokSoundLV4.0.json",
+      "lastUpdate": "2022-02-23T23:45:44.000",
+      "sha1": "93269876b8b50d8d9db11787fb070cc4274c5e30",
+      "fileSize": 832
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
       "name": "LokSound micro V4.0",
       "created": "2022-02-23",
       "filename": "Decoder_151_LokSoundmicroV4.0.json",
@@ -1478,6 +1544,17 @@
       "lastUpdate": "2022-02-23T23:46:18.000",
       "sha1": "52eacc6166387c8258b5236a5e2d75df89554329",
       "fileSize": 665
+    },
+    {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "LokSound XL V4.0",
+      "created": "2022-02-23",
+      "filename": "Decoder_151_LokSoundXLV4.0.json",
+      "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokSoundXLV4.0.json",
+      "lastUpdate": "2022-02-23T23:46:26.000",
+      "sha1": "5fc45341180fdf200983c28eadee2e00ee27b332",
+      "fileSize": 846
     },
     {
       "manufacturerId": 155,
@@ -2437,6 +2514,17 @@
       "fileSize": 815
     },
     {
+      "manufacturerId": 85,
+      "manufacturerExtendedId": 0,
+      "name": "IntelliSound 4 Modul",
+      "created": "2016-10-16",
+      "filename": "Decoder_85_IntelliSound4Modul.json",
+      "link": "https://decoderdb.bidib.org/decoder/85/Decoder_85_IntelliSound4Modul.json",
+      "lastUpdate": "2025-04-20T00:08:29.000",
+      "sha1": "3e25a02ea10ebb41d6c0cb24164415fe85c6cdf3",
+      "fileSize": 848
+    },
+    {
       "manufacturerId": 97,
       "manufacturerExtendedId": 0,
       "name": "DH05A",
@@ -2978,6 +3066,17 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "LS100",
+      "created": "2019-08-01",
+      "filename": "Decoder_99_LS100.json",
+      "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_LS100.json",
+      "lastUpdate": "2019-08-04T20:26:55.000",
+      "sha1": "e9e9d688dda8992dbfeb8c28caf31b2e8d61c477",
+      "fileSize": 892
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "Modell plus BR66",
       "created": "2020-04-10",
       "filename": "Decoder_99_ModellplusBR66.json",
@@ -3040,6 +3139,17 @@
       "lastUpdate": "2017-12-29T14:08:05.000",
       "sha1": "e6a914fb9f36ccd0386e402259fbea891cccc6e8",
       "fileSize": 624
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "SILVER+Next18",
+      "created": "2017-01-21",
+      "filename": "Decoder_99_SILVER+Next18.json",
+      "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_SILVER+Next18.json",
+      "lastUpdate": "2020-03-23T12:32:10.000",
+      "sha1": "5828d53c51ebbd5779762ae1a861c1a02234c666",
+      "fileSize": 876
     },
     {
       "manufacturerId": 99,
@@ -3301,6 +3411,23 @@
       "lastUpdate": "2024-05-25T17:30:11.000",
       "sha1": "f513a43b066108f20c951a49df72af8abaf4c9de",
       "fileSize": 48104
+    },
+    {
+      "manufacturerId": 109,
+      "manufacturerExtendedId": 0,
+      "version": "1",
+      "versionExtension": "Unimog",
+      "created": "2020-10-13",
+      "decoder": [
+        {
+          "name": "Zweiwege-UNIMOG"
+        }
+      ],
+      "filename": "Firmware_109_1_Unimog.json",
+      "link": "https://decoderdb.bidib.org/firmware/109/Firmware_109_1_Unimog.json",
+      "lastUpdate": "2024-05-25T17:30:27.000",
+      "sha1": "218b3436c5ed023f2606c4fdbe1e7453102e3b69",
+      "fileSize": 41237
     },
     {
       "manufacturerId": 109,
@@ -5483,6 +5610,57 @@
     {
       "manufacturerId": 62,
       "manufacturerExtendedId": 0,
+      "version": "1.0",
+      "versionExtension": "FD-R-Extended2",
+      "created": "2019-05-21",
+      "decoder": [
+        {
+          "name": "FD-R Extended.2"
+        }
+      ],
+      "filename": "Firmware_62_1.0_FD-R-Extended2.json",
+      "link": "https://decoderdb.bidib.org/firmware/62/Firmware_62_1.0_FD-R-Extended2.json",
+      "lastUpdate": "2025-10-27T20:00:23.000",
+      "sha1": "ccede327f6c9ff90adafce4a1a70353b0824e05c",
+      "fileSize": 186897
+    },
+    {
+      "manufacturerId": 62,
+      "manufacturerExtendedId": 0,
+      "version": "1.0",
+      "versionExtension": "FD-RBasic3",
+      "created": "2025-04-01",
+      "decoder": [
+        {
+          "name": "FD-R Basic.3"
+        }
+      ],
+      "filename": "Firmware_62_1.0_FD-RBasic3.json",
+      "link": "https://decoderdb.bidib.org/firmware/62/Firmware_62_1.0_FD-RBasic3.json",
+      "lastUpdate": "2025-04-02T15:37:12.000",
+      "sha1": "7b5fb378f61e2676567077e1234ab305f4f75a5a",
+      "fileSize": 7901
+    },
+    {
+      "manufacturerId": 62,
+      "manufacturerExtendedId": 0,
+      "version": "1.1",
+      "versionExtension": "FD-LED",
+      "created": "2019-05-13",
+      "decoder": [
+        {
+          "name": "FD-LED"
+        }
+      ],
+      "filename": "Firmware_62_1.1_FD-LED.json",
+      "link": "https://decoderdb.bidib.org/firmware/62/Firmware_62_1.1_FD-LED.json",
+      "lastUpdate": "2019-05-13T12:52:28.000",
+      "sha1": "3b90bb8163822cf64e8c54578eb4814f45717332",
+      "fileSize": 14352
+    },
+    {
+      "manufacturerId": 62,
+      "manufacturerExtendedId": 0,
       "version": "1.3",
       "versionExtension": "LD-G-42",
       "created": "2020-11-11",
@@ -5513,6 +5691,43 @@
       "lastUpdate": "2025-08-26T23:20:37.000",
       "sha1": "5e6e60f454c7079f1c7e47f3fd81b62bba7ab0d4",
       "fileSize": 254311
+    },
+    {
+      "manufacturerId": 62,
+      "manufacturerExtendedId": 0,
+      "version": "1.4",
+      "versionExtension": "LD-G-43-44",
+      "created": "2024-04-17",
+      "decoder": [
+        {
+          "name": "LD-G-43"
+        },
+        {
+          "name": "LD-G-44"
+        }
+      ],
+      "filename": "Firmware_62_1.4_LD-G-43-44.json",
+      "link": "https://decoderdb.bidib.org/firmware/62/Firmware_62_1.4_LD-G-43-44.json",
+      "lastUpdate": "2025-08-26T23:45:23.000",
+      "sha1": "1d2c3987593eb25c551d0ce71542c02a6e066aef",
+      "fileSize": 239227
+    },
+    {
+      "manufacturerId": 62,
+      "manufacturerExtendedId": 0,
+      "version": "2.6",
+      "versionExtension": "LD-G-36plus",
+      "created": "2019-05-12",
+      "decoder": [
+        {
+          "name": "LD-G-36 plus"
+        }
+      ],
+      "filename": "Firmware_62_2.6_LD-G-36plus.json",
+      "link": "https://decoderdb.bidib.org/firmware/62/Firmware_62_2.6_LD-G-36plus.json",
+      "lastUpdate": "2025-10-27T21:00:39.000",
+      "sha1": "6a3929fa9c02ea2b6c56d5018a7b0e7b74f916f6",
+      "fileSize": 99914
     },
     {
       "manufacturerId": 62,
@@ -5790,6 +6005,23 @@
       "lastUpdate": "2025-11-19T01:05:53.000",
       "sha1": "af97c3c541862efd2301ca09f7a3124653908e25",
       "fileSize": 4197
+    },
+    {
+      "manufacturerId": 85,
+      "manufacturerExtendedId": 0,
+      "version": "1",
+      "versionExtension": "susi",
+      "created": "2016-10-16",
+      "decoder": [
+        {
+          "name": "IntelliSound 4 Modul"
+        }
+      ],
+      "filename": "Firmware_85_1_susi.json",
+      "link": "https://decoderdb.bidib.org/firmware/85/Firmware_85_1_susi.json",
+      "lastUpdate": "2025-04-20T13:56:13.000",
+      "sha1": "ce2b0f6d75788c664a2084eb388a104f2ebfd976",
+      "fileSize": 5048
     },
     {
       "manufacturerId": 85,
@@ -8280,6 +8512,16 @@
       "fileSize": 96529
     },
     {
+      "manufacturerId": 151,
+      "manufacturerExtendedId": 0,
+      "name": "50708.jpg",
+      "filename": "50708.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/151/images/50708.jpg",
+      "lastUpdate": "2018-11-08T18:27:35.000",
+      "sha1": "e5d06b8f0cefb038433d919667fe724203e8c741",
+      "fileSize": 926
+    },
+    {
       "manufacturerId": 109,
       "manufacturerExtendedId": 0,
       "name": "5240.jpg",
@@ -9448,6 +9690,16 @@
       "lastUpdate": "2025-02-15T21:21:43.000",
       "sha1": "b2af63146109da14e0a0cd47ec2eb76e2d6c6171",
       "fileSize": 39454
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "LS100_11100.jpg",
+      "filename": "LS100_11100.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/LS100_11100.jpg",
+      "lastUpdate": "2019-08-04T20:26:55.000",
+      "sha1": "142ceb9bf46488e628c73652d8f3f1af073f6bea",
+      "fileSize": 119441
     },
     {
       "manufacturerId": 115,
