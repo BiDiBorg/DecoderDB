@@ -1,0 +1,40 @@
+{
+  "decoder": {
+    "specifications": {
+      "dimensions": {
+        "length": 255.0,
+        "width": 7.0,
+        "height": 0.0
+      },
+      "electrical": {
+        "maxTotalCurrent": 1.1,
+        "maxMotorCurrent": 1.1,
+        "peakCurrent": 0.0,
+        "maxVoltage": 24.0,
+        "functionOutputs": 0.0
+      },
+      "connectors": {
+        "list": "Cable"
+      }
+    },
+    "images": [
+      {
+        "name": "50708.jpg",
+        "lastModified": "2018-11-08T18:27:35"
+      }
+    ],
+    "name": "LED",
+    "type": "function",
+    "manufacturerId": 151,
+    "manufacturerExtendedId": 0,
+    "articleNumbers": "50708;50709",
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/151/LED"
+  },
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2018-11-08T18:27:35",
+    "created": "2017-01-28T00:00:00.000"
+  }
+}

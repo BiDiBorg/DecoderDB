@@ -1,0 +1,212 @@
+{
+  "firmware": {
+    "decoders": [
+      {
+        "name": "IntelliSound 4 Modul",
+        "type": "susi-sound"
+      }
+    ],
+    "protocols": [
+      {
+        "cvs": [
+          {
+            "number": 897,
+            "type": "byte",
+            "id": "1389",
+            "defaultValue": 1,
+            "mode": "rw",
+            "possibleValues": "1-3",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Modul"
+              }
+            ]
+          },
+          {
+            "number": 900,
+            "type": "byte",
+            "id": "385",
+            "defaultValue": 85,
+            "mode": "ro",
+            "possibleValues": "0-255",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Herstellerkennung"
+              }
+            ]
+          },
+          {
+            "number": 900,
+            "type": "byte",
+            "indexHigh": 1,
+            "id": "387",
+            "mode": "ro",
+            "possibleValues": "0-255",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Hardware-Version (Product ID)"
+              }
+            ]
+          },
+          {
+            "number": 901,
+            "type": "byte",
+            "id": "1441",
+            "mode": "ro",
+            "possibleValues": "0-255",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Versionsnummer"
+              }
+            ]
+          },
+          {
+            "number": 901,
+            "type": "byte",
+            "indexHigh": 1,
+            "id": "1442",
+            "mode": "ro",
+            "possibleValues": "0-255",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Sub-Versionsnummer"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "bit",
+                "descriptions": [
+                  {
+                    "language": "de",
+                    "text": "WAIT"
+                  }
+                ],
+                "number": 0
+              },
+              {
+                "type": "bit",
+                "descriptions": [
+                  {
+                    "language": "de",
+                    "text": "SLOW"
+                  }
+                ],
+                "number": 1
+              },
+              {
+                "type": "bit",
+                "descriptions": [
+                  {
+                    "language": "de",
+                    "text": "HOLD"
+                  }
+                ],
+                "number": 2
+              },
+              {
+                "type": "bit",
+                "descriptions": [
+                  {
+                    "language": "de",
+                    "text": "STOP"
+                  }
+                ],
+                "number": 3
+              }
+            ],
+            "number": 1020,
+            "type": "select",
+            "id": "1395",
+            "mode": "ro",
+            "possibleValues": "0-15",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Statusbits"
+              }
+            ]
+          },
+          {
+            "number": 1021,
+            "type": "byte",
+            "id": "1396",
+            "mode": "rw",
+            "possibleValues": "0;1",
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "CV-Banking"
+              }
+            ]
+          }
+        ],
+        "cvStructure": [
+          {
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Informationen"
+              }
+            ],
+            "items": [
+              {
+                "id": "385"
+              },
+              {
+                "id": "387"
+              },
+              {
+                "id": "1441"
+              },
+              {
+                "id": "1442"
+              },
+              {
+                "id": "1395"
+              }
+            ]
+          },
+          {
+            "descriptions": [
+              {
+                "language": "de",
+                "text": "Grundeinstellungen"
+              }
+            ],
+            "items": [
+              {
+                "id": "1389"
+              },
+              {
+                "id": "1396"
+              }
+            ]
+          }
+        ],
+        "indexHigh": 1021,
+        "type": "susi"
+      }
+    ],
+    "version": "1",
+    "versionExtension": "susi",
+    "releaseDate": "2016-10-01T00:00:00.000",
+    "manufacturerId": 85,
+    "manufacturerExtendedId": 0,
+    "decoderDBLink": "https://www.decoderdb.de/?decoderFirmwarePage=14"
+  },
+  "fileSize": 0,
+  "version": {
+    "createdBy": "DecoderDB",
+    "creatorLink": "https://www.decoderdb.de",
+    "author": "Stephan Bauer",
+    "lastUpdate": "2025-04-20T13:56:13",
+    "created": "2016-10-16T00:00:00.000"
+  }
+}
