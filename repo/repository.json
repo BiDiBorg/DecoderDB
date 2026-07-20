@@ -501,6 +501,28 @@
       "fileSize": 1249
     },
     {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "D16",
+      "created": "2026-07-20",
+      "filename": "Decoder_13-265_D16.json",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D16.json",
+      "lastUpdate": "2026-07-20T11:44:14.620",
+      "sha1": "9b6ce1258f908e9deffa6a61dd0fe6318b45e305",
+      "fileSize": 1004
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "D24",
+      "created": "2026-07-20",
+      "filename": "Decoder_13-265_D24.json",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D24.json",
+      "lastUpdate": "2026-07-20T11:50:55.825",
+      "sha1": "4c56b12c6c6659b0598e2564377b40f8906eb854",
+      "fileSize": 1006
+    },
+    {
       "manufacturerId": 131,
       "manufacturerExtendedId": 0,
       "name": "66838",
@@ -10040,6 +10062,46 @@
       "lastUpdate": "2019-01-09T21:21:19.000",
       "sha1": "b1745658d75a30f14df5a59560221cd65df4fc40",
       "fileSize": 119618
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "RTB_D16_btm.png",
+      "filename": "RTB_D16_btm.png",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D16_btm.png",
+      "lastUpdate": "2026-07-20T11:20:44.703",
+      "sha1": "2fdc7802eb560744fa0d09540ca4c5a2ca739a9a",
+      "fileSize": 9118
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "RTB_D16_top.png",
+      "filename": "RTB_D16_top.png",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D16_top.png",
+      "lastUpdate": "2026-07-20T11:20:07.299",
+      "sha1": "f017185d253c6aecbe72977e336256a9dd3f1466",
+      "fileSize": 13788
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "RTB_D24_btm.jpg",
+      "filename": "RTB_D24_btm.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D24_btm.jpg",
+      "lastUpdate": "2026-07-20T11:49:54.957",
+      "sha1": "656c1bc95dc8da625d5770413684c33313994515",
+      "fileSize": 73773
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "RTB_D24_top.jpg",
+      "filename": "RTB_D24_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D24_top.jpg",
+      "lastUpdate": "2026-07-20T11:50:03.822",
+      "sha1": "8271b375e952c1fdbb4e7314a6f0ee276c36f715",
+      "fileSize": 82091
     },
     {
       "manufacturerId": 123,
