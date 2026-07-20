@@ -1,0 +1,45 @@
+{
+  "decoder": {
+    "name": "D16",
+    "type": "loco",
+    "typeIds": "",
+    "articleNumbers": "",
+    "manufacturerId": 13,
+    "manufacturerExtendedId": 265,
+    "specifications": {
+      "connectors": {
+        "list": "NEM651"
+      },
+      "dimensions": {
+        "width": 11,
+        "height": 0,
+        "length": 17
+      },
+      "electrical": {
+        "peakCurrent": 0,
+        "maxMotorCurrent": 0,
+        "maxTotalCurrent": 0,
+        "maxVoltage": 20,
+        "functionOutputs": 3
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "RTB_D16_top.png",
+        "copyright": "RTB",
+        "lastModified": "2026-07-20T11:20:07.299Z"
+      },
+      {
+        "name": "RTB_D16_btm.png",
+        "copyright": "RTB",
+        "lastModified": "2026-07-20T11:20:44.703Z"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/13/D16"
+  },
+  "version": {
+    "created": "2026-07-20T11:42:15.708Z",
+    "lastUpdate": "2026-07-20T11:44:14.620Z"
+  }
+}
