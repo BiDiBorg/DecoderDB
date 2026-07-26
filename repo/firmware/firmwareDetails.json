@@ -1155,10 +1155,62 @@
     "manufacturerExtendedId": 0,
     "version": "5.21",
     "versionExtension": "MS",
+    "created": "2026-01-23",
+    "decoder": [
+      {
+        "name": "MS440"
+      },
+      {
+        "name": "MS450"
+      },
+      {
+        "name": "MS480"
+      },
+      {
+        "name": "MS481"
+      },
+      {
+        "name": "MS490"
+      },
+      {
+        "name": "MS491"
+      },
+      {
+        "name": "MS500"
+      },
+      {
+        "name": "MS501"
+      },
+      {
+        "name": "MS540"
+      },
+      {
+        "name": "MS560"
+      },
+      {
+        "name": "MS580N18"
+      },
+      {
+        "name": "MS581N18"
+      },
+      {
+        "name": "MS590N18"
+      },
+      {
+        "name": "MS591N18"
+      },
+      {
+        "name": "MS950"
+      },
+      {
+        "name": "MS990"
+      }
+    ],
     "filename": "Firmware_145_5.21_MS.json",
-    "lastUpdate": "2026-07-26T22:30:27.873Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 348972
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MS.json",
+    "lastUpdate": "2026-07-26T22:30:27.865",
+    "sha1": "7986f9821ab23f9e3e16d0c067937a5c43929f5d",
+    "fileSize": 349001
   },
   {
     "manufacturerId": 145,
