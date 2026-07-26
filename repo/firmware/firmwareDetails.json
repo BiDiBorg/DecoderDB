@@ -1112,6 +1112,109 @@
   {
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
+    "version": "5.29",
+    "versionExtension": "MN",
+    "created": "2026-01-23",
+    "decoder": [
+      {
+        "name": "MN140"
+      },
+      {
+        "name": "MN150"
+      },
+      {
+        "name": "MN160"
+      },
+      {
+        "name": "MN170"
+      },
+      {
+        "name": "MN180N18"
+      },
+      {
+        "name": "MN250"
+      },
+      {
+        "name": "MN300"
+      },
+      {
+        "name": "MN330"
+      },
+      {
+        "name": "MN340"
+      }
+    ],
+    "filename": "Firmware_145_5.29_MN.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MN.json",
+    "lastUpdate": "2026-07-26T23:13:54.681",
+    "sha1": "72f0f577dcb5e1f9fc0ebee8597e7d39ee64b17c",
+    "fileSize": 285688
+  },
+  {
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "version": "5.29",
+    "versionExtension": "MS",
+    "created": "2026-01-23",
+    "decoder": [
+      {
+        "name": "MS440"
+      },
+      {
+        "name": "MS450"
+      },
+      {
+        "name": "MS480"
+      },
+      {
+        "name": "MS481"
+      },
+      {
+        "name": "MS490"
+      },
+      {
+        "name": "MS491"
+      },
+      {
+        "name": "MS500"
+      },
+      {
+        "name": "MS501"
+      },
+      {
+        "name": "MS540"
+      },
+      {
+        "name": "MS560"
+      },
+      {
+        "name": "MS580N18"
+      },
+      {
+        "name": "MS581N18"
+      },
+      {
+        "name": "MS590N18"
+      },
+      {
+        "name": "MS591N18"
+      },
+      {
+        "name": "MS950"
+      },
+      {
+        "name": "MS990"
+      }
+    ],
+    "filename": "Firmware_145_5.29_MS.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MS.json",
+    "lastUpdate": "2026-07-26T23:13:49.321",
+    "sha1": "816aec8863990f0f1d15715f28d0dc64633df13b",
+    "fileSize": 349001
+  },
+  {
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
     "version": "5.5-99",
     "created": "2024-12-25",
     "decoder": [
@@ -4917,25 +5020,5 @@
     "lastUpdate": "2020-10-28T12:45:06.000",
     "sha1": "009f55756edee848457db7a4167378d403df059c",
     "fileSize": 41645
-  },
-  {
-    "manufacturerId": 145,
-    "manufacturerExtendedId": 0,
-    "version": "5.29",
-    "versionExtension": "MS",
-    "filename": "Firmware_145_5.29_MS.json",
-    "lastUpdate": "2026-07-26T23:13:49.412Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 0
-  },
-  {
-    "manufacturerId": 145,
-    "manufacturerExtendedId": 0,
-    "version": "5.29",
-    "versionExtension": "MN",
-    "filename": "Firmware_145_5.29_MN.json",
-    "lastUpdate": "2026-07-26T23:13:54.767Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 0
   }
 ]
