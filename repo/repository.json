@@ -1801,6 +1801,17 @@
     {
       "manufacturerId": 160,
       "manufacturerExtendedId": 0,
+      "name": "DRIVE-SR 2.0",
+      "created": "2026-07-26",
+      "filename": "Decoder_160_DRIVE-SR2.0.json",
+      "link": "https://decoderdb.bidib.org/decoder/160/Decoder_160_DRIVE-SR2.0.json",
+      "lastUpdate": "2026-07-27T15:42:35.703",
+      "sha1": "c433dd2914f7d6e792f5a97a9abdcd2211dc2699",
+      "fileSize": 903
+    },
+    {
+      "manufacturerId": 160,
+      "manufacturerExtendedId": 0,
       "name": "DRIVE-XL",
       "created": "2020-09-22",
       "filename": "Decoder_160_DRIVE-XL.json",
@@ -5329,6 +5340,23 @@
       "lastUpdate": "2026-02-10T23:14:36.745",
       "sha1": "fcf40384f6e5a1dcbef2c02925f55178852f058c",
       "fileSize": 9546
+    },
+    {
+      "manufacturerId": 160,
+      "manufacturerExtendedId": 0,
+      "version": "2.1",
+      "versionExtension": "DRIVE-SR",
+      "created": "2026-07-26",
+      "decoder": [
+        {
+          "name": "DRIVE-SR 2.0"
+        }
+      ],
+      "filename": "Firmware_160_2.1_DRIVE-SR.json",
+      "link": "https://decoderdb.bidib.org/firmware/160/Firmware_160_2.1_DRIVE-SR.json",
+      "lastUpdate": "2026-07-27T21:29:44.973",
+      "sha1": "f5536e273c21c308cb509f367f3d80caa72e9969",
+      "fileSize": 61291
     },
     {
       "manufacturerId": 162,
@@ -9277,6 +9305,16 @@
       "lastUpdate": "2020-09-27T13:33:51.000",
       "sha1": "94ca89a197ea52590748fc8fe46e6168fae162b2",
       "fileSize": 51108
+    },
+    {
+      "manufacturerId": 160,
+      "manufacturerExtendedId": 0,
+      "name": "DRIVE-SR-QUER1.png",
+      "filename": "DRIVE-SR-QUER1.png",
+      "link": "https://decoderdb.bidib.org/decoder/160/images/DRIVE-SR-QUER1.png",
+      "lastUpdate": "2026-07-27T14:45:48.754",
+      "sha1": "5dfbc7716389b5257d1917a0e88176c9b708d9b7",
+      "fileSize": 1021701
     },
     {
       "manufacturerId": 160,
