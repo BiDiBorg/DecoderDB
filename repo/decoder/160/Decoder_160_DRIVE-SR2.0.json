@@ -1,0 +1,40 @@
+{
+  "decoder": {
+    "name": "DRIVE-SR 2.0",
+    "type": "loco",
+    "typeIds": "4505",
+    "articleNumbers": "",
+    "manufacturerId": 160,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": ""
+      },
+      "dimensions": {
+        "width": 39,
+        "height": 20,
+        "length": 160.6
+      },
+      "electrical": {
+        "peakCurrent": 2,
+        "maxMotorCurrent": 1.5,
+        "maxTotalCurrent": 10,
+        "maxVoltage": 27,
+        "functionOutputs": 6
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "DRIVE-SR-QUER1.png",
+        "copyright": "mXion",
+        "lastModified": "2026-07-27T14:45:48.754Z"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/160/DRIVE-SR%202.0"
+  },
+  "version": {
+    "created": "2026-07-26T21:56:02.933Z",
+    "lastUpdate": "2026-07-27T15:42:35.703Z"
+  }
+}
