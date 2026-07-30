@@ -2,7 +2,7 @@
   "decoder": {
     "name": "D24",
     "type": "loco",
-    "typeIds": "",
+    "typeIds": "D240",
     "articleNumbers": "",
     "manufacturerId": 13,
     "manufacturerExtendedId": 265,
@@ -40,6 +40,6 @@
   },
   "version": {
     "created": "2026-07-20T11:42:15.708Z",
-    "lastUpdate": "2026-07-20T11:50:55.825Z"
+    "lastUpdate": "2026-07-30T15:15:58.382Z"
   }
 }
