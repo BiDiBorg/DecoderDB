@@ -1,0 +1,3980 @@
+{
+    "firmware": {
+        "decoders": [
+            {
+                "name": "LED",
+                "type": "function"
+            }
+        ],
+        "manuals": [
+            {
+                "name": "04514-15093_50708_50709_Digital_Innenraumbeleuchtung_Betriebsanleitung_DE_Auflage_III_eBook.pdf",
+                "source": "https://www.decoderdb.de/fileadmin/media/Hersteller/Digikeijs/Manuals/04514-15093_50708_50709_Digital_Innenraumbeleuchtung_Betriebsanleitung_DE_Auflage_III_eBook.pdf",
+                "lastModifiedString": "2018-11-13T23:03:18",
+                "lastModified": "2018-11-13T23:03:18.000",
+                "sha1": "a505f9e1853068c85d1230e17d2d7b90ddefc134",
+                "fileSize": 152670
+            }
+        ],
+        "protocol": {
+            "resets": [
+                {
+                    "descriptions": [
+                        {
+                            "language": "all",
+                            "text": "Decoder-Reset"
+                        }
+                    ],
+                    "cv": 8,
+                    "value": 8
+                }
+            ],
+            "cvs": [
+                {
+                    "conditions": {
+                        "triggers": [
+                            {
+                                "conditions": [
+                                    {
+                                        "type": "relational",
+                                        "operation": "equal",
+                                        "cv": "29",
+                                        "selection": "bit:5",
+                                        "value": "1"
+                                    }
+                                ],
+                                "value": "notRelevant"
+                            }
+                        ]
+                    },
+                    "number": 1,
+                    "type": "byte",
+                    "id": "1",
+                    "defaultValue": 3,
+                    "mode": "rw",
+                    "possibleValues": "1-127",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adresse kurz"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "type": "byte",
+                    "id": "26",
+                    "defaultValue": 151,
+                    "mode": "ro",
+                    "possibleValues": "0-255",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Herstellerkennung"
+                        }
+                    ]
+                },
+                {
+                    "conditions": {
+                        "triggers": [
+                            {
+                                "conditions": [
+                                    {
+                                        "type": "relational",
+                                        "operation": "equal",
+                                        "cv": "29",
+                                        "selection": "bit:5",
+                                        "value": "0"
+                                    }
+                                ],
+                                "value": "notRelevant"
+                            }
+                        ]
+                    },
+                    "cvs": [
+                        {
+                            "number": 18,
+                            "type": "byte",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Niederwertiges Byte"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 17,
+                            "type": "byte",
+                            "defaultValue": 192,
+                            "mode": "rw",
+                            "possibleValues": "192-231",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Höherwertiges Byte"
+                                }
+                            ]
+                        }
+                    ],
+                    "type": "dccLongAddr",
+                    "id": "10",
+                    "mode": "rw",
+                    "possibleValues": "0-10239",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adresse lang"
+                        }
+                    ]
+                },
+                {
+                    "number": 19,
+                    "type": "byte",
+                    "id": "35",
+                    "mode": "rw",
+                    "possibleValues": "0-127",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Verbundadresse",
+                            "help": "0 = Inaktiv"
+                        }
+                    ]
+                },
+                {
+                    "items": [
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Richtung umkehren"
+                                }
+                            ],
+                            "number": 0
+                        },
+                        {
+                            "type": "bitSelection",
+                            "options": [
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "14 Fahrstufen"
+                                        }
+                                    ],
+                                    "value": 0
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "28 / 128 Fahrstufen"
+                                        }
+                                    ],
+                                    "value": 1
+                                }
+                            ],
+                            "number": 1
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Analogbetrieb eingeschaltet"
+                                }
+                            ],
+                            "number": 2
+                        },
+                        {
+                            "type": "bitSelection",
+                            "options": [
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Geschwindigkeit gemäß CV2, 5 u. 6"
+                                        }
+                                    ],
+                                    "value": 0
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Individuelle Kurve gemäß CV67-94"
+                                        }
+                                    ],
+                                    "value": 1
+                                }
+                            ],
+                            "number": 4
+                        },
+                        {
+                            "type": "bitSelection",
+                            "options": [
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Kurze Adresse (CV1)"
+                                        }
+                                    ],
+                                    "value": 0
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Lange Adresse (CV17/18)"
+                                        }
+                                    ],
+                                    "value": 1
+                                }
+                            ],
+                            "number": 5
+                        }
+                    ],
+                    "number": 29,
+                    "type": "select",
+                    "id": "790",
+                    "defaultValue": 6,
+                    "mode": "rw",
+                    "possibleValues": "0-7;16-23;32-39;48-55",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Einstellungen"
+                        }
+                    ]
+                },
+                {
+                    "cvs": [
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 33,
+                            "type": "select",
+                            "id": "1174",
+                            "defaultValue": 1,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F0 vorwärts"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 34,
+                            "type": "select",
+                            "id": "1175",
+                            "defaultValue": 2,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F0 rückwärts"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 35,
+                            "type": "select",
+                            "id": "1176",
+                            "defaultValue": 4,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F1 vorwärts"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 47,
+                            "type": "select",
+                            "id": "1177",
+                            "defaultValue": 4,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F1 rückwärts"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 36,
+                            "type": "select",
+                            "id": "1178R0",
+                            "defaultValue": 248,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F2"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 37,
+                            "type": "select",
+                            "id": "1178R1",
+                            "defaultValue": 8,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F3"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 38,
+                            "type": "select",
+                            "id": "1178R2",
+                            "defaultValue": 16,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F4"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 39,
+                            "type": "select",
+                            "id": "1178R3",
+                            "defaultValue": 32,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F5"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 40,
+                            "type": "select",
+                            "id": "1178R4",
+                            "defaultValue": 64,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F6"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 41,
+                            "type": "select",
+                            "id": "1178R5",
+                            "defaultValue": 128,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F7"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 42,
+                            "type": "select",
+                            "id": "1178R6",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F8"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 43,
+                            "type": "select",
+                            "id": "1178R7",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F9"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 44,
+                            "type": "select",
+                            "id": "1178R8",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F10"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 45,
+                            "type": "select",
+                            "id": "1178R9",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F11"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 46,
+                            "type": "select",
+                            "id": "1178R10",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F12"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 129,
+                            "type": "select",
+                            "id": "1180R0",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F13"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 130,
+                            "type": "select",
+                            "id": "1180R1",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F14"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 131,
+                            "type": "select",
+                            "id": "1180R2",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F15"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 132,
+                            "type": "select",
+                            "id": "1180R3",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F16"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 133,
+                            "type": "select",
+                            "id": "1180R4",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F17"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 134,
+                            "type": "select",
+                            "id": "1180R5",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F18"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 135,
+                            "type": "select",
+                            "id": "1180R6",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F19"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Spitzenlicht"
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Schlusslicht"
+                                        }
+                                    ],
+                                    "number": 1
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "AUX1"
+                                        }
+                                    ],
+                                    "number": 2
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe„A“"
+                                        }
+                                    ],
+                                    "number": 3
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „B“"
+                                        }
+                                    ],
+                                    "number": 4
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „C“"
+                                        }
+                                    ],
+                                    "number": 5
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „D“"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "LED Gruppe „E“"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 136,
+                            "type": "select",
+                            "id": "1180R7",
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Mapping F20"
+                                }
+                            ]
+                        }
+                    ],
+                    "type": "matrix",
+                    "id": "1521",
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Funktionmapping"
+                        }
+                    ]
+                },
+                {
+                    "conditions": {
+                        "triggers": [
+                            {
+                                "conditions": [
+                                    {
+                                        "type": "relational",
+                                        "operation": "equal",
+                                        "cv": "49",
+                                        "selection": "bit:0",
+                                        "value": "0"
+                                    }
+                                ],
+                                "value": "notRelevant",
+                                "target": "bit:1"
+                            }
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Lastregelung Ein"
+                                }
+                            ],
+                            "number": 0
+                        },
+                        {
+                            "type": "bitSelection",
+                            "options": [
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Motor PWM Frequenz 20kHz"
+                                        }
+                                    ],
+                                    "value": 0
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Motor PWM Frequenz 40kHz"
+                                        }
+                                    ],
+                                    "value": 1
+                                }
+                            ],
+                            "number": 1
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Märklin Delta Modus"
+                                }
+                            ],
+                            "number": 2
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Fahrstufenerkennung DCC Format ein"
+                                }
+                            ],
+                            "number": 4
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "LGB Modus ein"
+                                }
+                            ],
+                            "number": 5
+                        },
+                        {
+                            "type": "bit",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Zimo Manual Funktion ein"
+                                }
+                            ],
+                            "number": 6
+                        },
+                        {
+                            "type": "group",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "MM-Folgeadressen"
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "keine Folgeadressen"
+                                        }
+                                    ],
+                                    "value": 0
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "1 Folgeadresse aktiv"
+                                        }
+                                    ],
+                                    "value": 8
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "2 Folgeadressen aktiv"
+                                        }
+                                    ],
+                                    "value": 128
+                                },
+                                {
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "3 Folgeadressen aktiv"
+                                        }
+                                    ],
+                                    "value": 136
+                                }
+                            ],
+                            "number": 0
+                        }
+                    ],
+                    "number": 49,
+                    "type": "select",
+                    "id": "532",
+                    "defaultValue": 19,
+                    "mode": "rw",
+                    "possibleValues": "0-255",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Erweiterte Konfiguration #1"
+                        }
+                    ]
+                },
+                {
+                    "number": 59,
+                    "type": "byte",
+                    "id": "1161",
+                    "mode": "rw",
+                    "possibleValues": "0-64",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 2,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "62"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "/"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "248"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Einschaltverzögerung untere Schranke"
+                        }
+                    ]
+                },
+                {
+                    "number": 60,
+                    "type": "byte",
+                    "id": "1162",
+                    "defaultValue": 8,
+                    "mode": "rw",
+                    "possibleValues": "0-64",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 2,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "62"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "/"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "248"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Einschaltverzögerung obere Schranke"
+                        }
+                    ]
+                },
+                {
+                    "number": 61,
+                    "type": "byte",
+                    "id": "1163",
+                    "defaultValue": 10,
+                    "mode": "rw",
+                    "possibleValues": "0-64",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 2,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "62"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "/"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "248"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Zufallszeit untere Schranke",
+                            "help": "Minimalzeit, die der Ausgang mindestens an bleibt bei zufälliger Zeitsteuerung."
+                        }
+                    ]
+                },
+                {
+                    "number": 62,
+                    "type": "byte",
+                    "id": "1164",
+                    "defaultValue": 20,
+                    "mode": "rw",
+                    "possibleValues": "0-64",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 2,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "62"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "/"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "248"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Zufallszeit obere Schranke",
+                            "help": "Maximalwert, die der Ausgang mindestens an bleibt bei zufälliger Zeitsteuerung."
+                        }
+                    ]
+                },
+                {
+                    "number": 63,
+                    "type": "byte",
+                    "id": "1165",
+                    "defaultValue": 2,
+                    "mode": "rw",
+                    "possibleValues": "0-15",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Startblinkanzahl Neon-Simulation",
+                            "help": "Anzahl der Einschaltblinker bei der Neonlicht-Simulation"
+                        }
+                    ]
+                },
+                {
+                    "number": 112,
+                    "type": "byte",
+                    "id": "1182",
+                    "defaultValue": 16,
+                    "mode": "rw",
+                    "possibleValues": "4-64",
+                    "valueCalculation": {
+                        "unit": "second",
+                        "digits": 3,
+                        "items": [
+                            {
+                                "type": "self"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "*"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "13"
+                            },
+                            {
+                                "type": "operator",
+                                "value": "/"
+                            },
+                            {
+                                "type": "constant",
+                                "value": "200"
+                            }
+                        ]
+                    },
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Blinkfrequenz",
+                            "help": "Periodendauer aller Blinkeffekte als vielfaches von 0,065 Sek."
+                        }
+                    ]
+                },
+                {
+                    "cvs": [
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 113,
+                            "type": "select",
+                            "id": "1166",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration Spitzenlicht",
+                                    "help": "Definiert das Verhalten des Ausgangs „Spitzenlicht“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 114,
+                            "type": "select",
+                            "id": "1167",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration Schlusslicht",
+                                    "help": "Definiert das Verhalten des Ausgangs „Schlusslicht“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 115,
+                            "type": "select",
+                            "id": "1168",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration AUX 1",
+                                    "help": "Definiert das Verhalten des Ausgangs „AUX 1“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 116,
+                            "type": "select",
+                            "id": "1169",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration LED 1-3",
+                                    "help": "Definiert das Verhalten des Ausgangs „LED 1-3 Gruppe A“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 117,
+                            "type": "select",
+                            "id": "1170",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration LED 4-5",
+                                    "help": "Definiert das Verhalten des Ausgangs „LED 4-5 Gruppe B“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 118,
+                            "type": "select",
+                            "id": "1171",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration LED 6-7",
+                                    "help": "Definiert das Verhalten des Ausgangs „LED 6-7 Gruppe C“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 119,
+                            "type": "select",
+                            "id": "1172",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration LED 8-9",
+                                    "help": "Definiert das Verhalten des Ausgangs „LED 8-9 Gruppe D“"
+                                }
+                            ]
+                        },
+                        {
+                            "items": [
+                                {
+                                    "type": "partial",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Helligkeit"
+                                        }
+                                    ],
+                                    "number": 1310,
+                                    "possibleValues": "0-7"
+                                },
+                                {
+                                    "type": "group",
+                                    "options": [
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Dimmer"
+                                                }
+                                            ],
+                                            "value": 0
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Zoom"
+                                                }
+                                            ],
+                                            "value": 8
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Neonlampe"
+                                                }
+                                            ],
+                                            "value": 16
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase I"
+                                                }
+                                            ],
+                                            "value": 32
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Blinklicht Phase II"
+                                                }
+                                            ],
+                                            "value": 40
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Strobe"
+                                                }
+                                            ],
+                                            "value": 48
+                                        },
+                                        {
+                                            "descriptions": [
+                                                {
+                                                    "language": "de",
+                                                    "text": "Flackerlicht"
+                                                }
+                                            ],
+                                            "value": 56
+                                        }
+                                    ],
+                                    "number": 0
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Einschaltverzögerung"
+                                        }
+                                    ],
+                                    "number": 6
+                                },
+                                {
+                                    "type": "bit",
+                                    "descriptions": [
+                                        {
+                                            "language": "de",
+                                            "text": "Zufallslicht"
+                                        }
+                                    ],
+                                    "number": 7
+                                }
+                            ],
+                            "number": 120,
+                            "type": "select",
+                            "id": "1173",
+                            "defaultValue": 15,
+                            "mode": "rw",
+                            "possibleValues": "0-255",
+                            "descriptions": [
+                                {
+                                    "language": "de",
+                                    "text": "Ausgangskonfiguration LED 10-11",
+                                    "help": "Definiert das Verhalten des Ausgangs „LED 10-11 Gruppe E“"
+                                }
+                            ]
+                        }
+                    ],
+                    "type": "matrix",
+                    "id": "1522",
+                    "mode": "rw",
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Ausgangskonfiguration"
+                        }
+                    ]
+                }
+            ],
+            "cvStructure": [
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Informationen"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "26"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Grundeinstellungen"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "790"
+                        },
+                        {
+                            "id": "1161"
+                        },
+                        {
+                            "id": "1162"
+                        },
+                        {
+                            "id": "1163"
+                        },
+                        {
+                            "id": "1164"
+                        },
+                        {
+                            "id": "1165"
+                        },
+                        {
+                            "id": "1182"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Adressen"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1"
+                        },
+                        {
+                            "id": "10"
+                        },
+                        {
+                            "id": "35"
+                        },
+                        {
+                            "id": "790",
+                            "activeItems": "bit:5"
+                        },
+                        {
+                            "id": "532",
+                            "activeItems": "group:0"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Motorregelung"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "532",
+                            "activeItems": "bit:0;bit:1"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Mehrfachtraktion"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "35"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Analogbetrieb"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "790",
+                            "activeItems": "bit:2"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Fahreigenschaften"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "790",
+                            "activeItems": "bit:4"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Geschwindigkeitskennline"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "790",
+                            "activeItems": "bit:4"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Funktionskonfiguration"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1522"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Funktionsmapping"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1521"
+                        }
+                    ]
+                },
+                {
+                    "descriptions": [
+                        {
+                            "language": "de",
+                            "text": "Erweiterungen"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "532"
+                        }
+                    ]
+                }
+            ],
+            "speedSteps": "14;28;128",
+            "progModes": "Paged;DirectByte;DirectBit;POM",
+            "options": "POMCV1;POMCV17/CV18",
+            "type": "dcc"
+        },
+        "version": "1.0",
+        "versionExtension": "led",
+        "releaseDate": "2017-06-05T00:00:00.000",
+        "manufacturerId": 151,
+        "manufacturerExtendedId": 0,
+        "decoderDBLink": "https://www.decoderdb.de/?decoderFirmwarePage=38"
+    },
+    "fileSize": 0,
+    "version": {
+        "createdBy": "DecoderDB",
+        "creatorLink": "https://www.decoderdb.de",
+        "author": "Dirk Geffe",
+        "lastUpdate": "2020-09-13T14:44:01",
+        "created": "2017-06-05T00:00:00.000"
+    }
+}
