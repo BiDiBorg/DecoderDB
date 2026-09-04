@@ -1,9 +1,9 @@
 {
   "version": {
-    "nmraListDate": "2026-01-28T00:00:00.000",
+    "nmraListDate": "2026-08-17T00:00:00.000",
     "createdBy": "DecoderDB",
     "creatorLink": "https://www.decoderdb.de",
-    "lastUpdate": "2026-02-14T12:13:51",
+    "lastUpdate": "2026-08-20T12:24:51",
     "created": "0001-01-01T00:00:00.000"
   },
   "manufacturers": [
@@ -424,7 +424,6 @@
       "extendedId": 0,
       "name": "DCC Supplies, Ltd",
       "shortName": "DCC Supplies",
-      "url": "https://www.dccsupplies.com",
       "country": "GB"
     },
     {
@@ -1199,7 +1198,6 @@
       "extendedId": 0,
       "name": "Digi-CZ",
       "shortName": "Digi-CZ",
-      "url": "https://www.digi-cz.cz",
       "country": "CZ"
     },
     {
@@ -1377,8 +1375,16 @@
       "extendedId": 0,
       "name": "IMON Corporation",
       "shortName": "IMON",
-      "url": "https://www.imon.co.jp/",
+      "url": "https://www.imon.co.jp",
       "country": "JP"
+    },
+    {
+      "id": 175,
+      "extendedId": 0,
+      "name": "Little Layout Lighting Co.",
+      "shortName": "Little Layout Lighting",
+      "url": "https://www.thelittlelayoutcompany.co.uk/",
+      "country": "GB"
     },
     {
       "id": 186,
