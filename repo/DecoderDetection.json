@@ -1,8 +1,8 @@
 {
   "version": {
     "createdBy": "DecoderDB",
-    "creatorLink": "www.decoderdb.de",
-    "lastUpdate": "2024-05-13T14:39:39",
+    "creatorLink": "https://www.decoderdb.de",
+    "lastUpdate": "2025-10-27T23:12:31",
     "created": "0001-01-01T00:00:00.000"
   },
   "protocols": [
@@ -247,6 +247,34 @@
             {
               "items": [
                 {
+                  "number": 7,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            },
+            {
+              "items": [
+                {
+                  "number": 47,
+                  "type": "byte",
+                  "mode": "ro"
+                }
+              ],
+              "type": "firmwareVersion"
+            }
+          ],
+          "id": 72,
+          "extendedId": 0,
+          "name": "MTB Model",
+          "shortName": "MTB"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
                   "cvs": [
                     {
                       "number": 8,
@@ -349,24 +377,28 @@
                     {
                       "number": 261,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 262,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 263,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 264,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     }
@@ -413,24 +445,28 @@
                     {
                       "number": 265,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 266,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 267,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 268,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     }
@@ -951,9 +987,8 @@
                   ]
                 }
               ],
-              "type": "decoderId",
-              "value": "141",
-              "valueName": "66857"
+              "type": "firmwareVersion",
+              "value": "3.09.47"
             },
             {
               "items": [
@@ -973,8 +1008,7 @@
                   ]
                 }
               ],
-              "type": "firmwareVersion",
-              "value": "3.09.47"
+              "type": "decoderId"
             }
           ],
           "id": 131,
@@ -1015,12 +1049,7 @@
                 {
                   "cvs": [
                     {
-                      "number": 250,
-                      "type": "byte",
-                      "mode": "ro"
-                    },
-                    {
-                      "number": 251,
+                      "number": 253,
                       "type": "byte",
                       "mode": "ro"
                     },
@@ -1030,7 +1059,12 @@
                       "mode": "ro"
                     },
                     {
-                      "number": 253,
+                      "number": 251,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 250,
                       "type": "byte",
                       "mode": "ro"
                     }
@@ -1163,24 +1197,28 @@
                     {
                       "number": 261,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 262,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 263,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 264,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     }
@@ -1215,12 +1253,14 @@
                 {
                   "number": 288,
                   "type": "byte",
+                  "indexHigh": 0,
                   "indexLow": 255,
                   "mode": "ro"
                 },
                 {
                   "number": 287,
                   "type": "byte",
+                  "indexHigh": 0,
                   "indexLow": 255,
                   "mode": "ro"
                 },
@@ -1229,12 +1269,14 @@
                     {
                       "number": 285,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 286,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     }
@@ -1271,24 +1313,28 @@
                     {
                       "number": 265,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 266,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 267,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 268,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     }
@@ -1416,24 +1462,28 @@
                     {
                       "number": 261,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 262,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 263,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     },
                     {
                       "number": 264,
                       "type": "byte",
+                      "indexHigh": 0,
                       "indexLow": 255,
                       "mode": "ro"
                     }
@@ -1453,6 +1503,36 @@
           "extendedId": 0,
           "name": "PIKO Spielwaren GmbH",
           "shortName": "PIKO"
+        },
+        {
+          "detection": [
+            {
+              "items": [
+                {
+                  "cvs": [
+                    {
+                      "number": 111,
+                      "type": "byte",
+                      "mode": "ro"
+                    },
+                    {
+                      "number": 110,
+                      "type": "byte",
+                      "mode": "ro"
+                    }
+                  ],
+                  "type": "int",
+                  "id": "3071",
+                  "mode": "ro"
+                }
+              ],
+              "type": "decoderId"
+            }
+          ],
+          "id": 172,
+          "extendedId": 0,
+          "name": "RailBOX Electronics",
+          "shortName": "RailBOX"
         }
       ],
       "type": "dcc"
@@ -1524,6 +1604,7 @@
             {
               "number": 900,
               "type": "byte",
+              "indexHigh": 0,
               "mode": "ro"
             }
           ],
@@ -1585,6 +1666,7 @@
             {
               "number": 901,
               "type": "byte",
+              "indexHigh": 0,
               "mode": "ro"
             },
             {
