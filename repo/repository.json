@@ -1,19 +1,19 @@
 {
   "version": 7,
   "manufacturers": {
-    "nmraListDate": "2026-01-28",
+    "nmraListDate": "2026-08-17",
     "filename": "Manufacturers.json",
     "link": "https://decoderdb.bidib.org/Manufacturers.json",
-    "lastUpdate": "2026-02-14T12:13:51.000",
-    "sha1": "5c81ea04ac08193f47a947d4bb90689fb7f97d47",
-    "fileSize": 32277
+    "lastUpdate": "2026-08-20T12:24:51.000",
+    "sha1": "4515d158729ab7f3c164ae960424800dc47853c0",
+    "fileSize": 32415
   },
   "decoderDetections": {
     "filename": "DecoderDetection.json",
     "link": "https://decoderdb.bidib.org/DecoderDetection.json",
-    "lastUpdate": "2024-05-13T14:39:39.000",
-    "sha1": "f798be82de2b5adac14b8a2b00a8983023b49325",
-    "fileSize": 47328
+    "lastUpdate": "2025-10-27T23:12:31.000",
+    "sha1": "5ed1cc41fb06a504c5f9cc7e09a9eddc8d73243c",
+    "fileSize": 49654
   },
   "decoder": [
     {
@@ -433,6 +433,17 @@
       "lastUpdate": "2026-01-30T23:28:39.792",
       "sha1": "3474a3eb4a4c3efe8afa7b87e6912c1550011e15",
       "fileSize": 553
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 0,
+      "name": "Test-Decoder",
+      "created": "2017-01-02",
+      "filename": "Decoder_13_Test-Decoder.json",
+      "link": "https://decoderdb.bidib.org/decoder/13/Decoder_13_Test-Decoder.json",
+      "lastUpdate": "2026-09-04T22:00:39.591",
+      "sha1": "96d22e47ba914d9bc5f614d5f770e84739af8468",
+      "fileSize": 871
     },
     {
       "manufacturerId": 13,
@@ -3381,17 +3392,6 @@
       "lastUpdate": "2020-10-28T11:38:17.000",
       "sha1": "0034229855a96ffb1db4a53285d825b49bd5749e",
       "fileSize": 693
-    },
-    {
-      "manufacturerId": 13,
-      "manufacturerExtendedId": 0,
-      "name": "Test-Decoder",
-      "created": "2017-01-02",
-      "filename": "Decoder_Franks-Test-Decoder.json",
-      "link": "https://decoderdb.bidib.org/decoder/13/Decoder_Franks-Test-Decoder.json",
-      "lastUpdate": "2023-01-30T19:34:35.000",
-      "sha1": "36ae1a1c962709563072425c6f85f54d2e68bdf6",
-      "fileSize": 586
     }
   ],
   "firmware": [
@@ -3945,8 +3945,8 @@
       "filename": "Firmware_13_100_TestDecoder.json",
       "link": "https://decoderdb.bidib.org/firmware/13/Firmware_13_100_TestDecoder.json",
       "lastUpdate": "2023-03-19T18:02:04.000",
-      "sha1": "f3ee34dcf8c488aed4410583cf8794f2a852f446",
-      "fileSize": 14750
+      "sha1": "4c1c729c05a182debdd7c3b8c82f2299168fea37",
+      "fileSize": 14755
     },
     {
       "manufacturerId": 13,

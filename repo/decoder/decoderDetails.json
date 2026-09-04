@@ -636,6 +636,24 @@
   },
   {
     "manufacturerId": 13,
+    "manufacturerExtendedId": 0,
+    "name": "Test-Decoder",
+    "type": "loco",
+    "typeIds": "100",
+    "length": 16.7,
+    "width": 10.9,
+    "height": 2.8,
+    "maxTotalCurrent": 1.5,
+    "maxVoltage": 30.0,
+    "functionOutputs": 0.0,
+    "filename": "Decoder_13_Test-Decoder.json",
+    "link": "https://decoderdb.bidib.org/decoder/13/Decoder_13_Test-Decoder.json",
+    "lastUpdate": "2026-09-04T22:00:39.591",
+    "sha1": "96d22e47ba914d9bc5f614d5f770e84739af8468",
+    "fileSize": 871
+  },
+  {
+    "manufacturerId": 13,
     "manufacturerExtendedId": 257,
     "name": "Car Decoder V3",
     "type": "car",
@@ -5320,23 +5338,5 @@
     "lastUpdate": "2020-10-28T11:38:17.000",
     "sha1": "0034229855a96ffb1db4a53285d825b49bd5749e",
     "fileSize": 693
-  },
-  {
-    "manufacturerId": 13,
-    "manufacturerExtendedId": 0,
-    "name": "Test-Decoder",
-    "type": "loco",
-    "typeIds": "100",
-    "length": 16.7,
-    "width": 10.9,
-    "height": 2.8,
-    "maxTotalCurrent": 1.5,
-    "maxVoltage": 30.0,
-    "functionOutputs": 0.0,
-    "filename": "Decoder_Franks-Test-Decoder.json",
-    "link": "https://decoderdb.bidib.org/decoder/13/Decoder_Franks-Test-Decoder.json",
-    "lastUpdate": "2023-01-30T19:34:35.000",
-    "sha1": "36ae1a1c962709563072425c6f85f54d2e68bdf6",
-    "fileSize": 586
   }
 ]
