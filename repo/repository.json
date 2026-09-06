@@ -679,6 +679,17 @@
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
+      "name": "MS420",
+      "created": "2026-09-06",
+      "filename": "Decoder_145_MS420.json",
+      "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS420.json",
+      "lastUpdate": "2026-09-06T12:46:55.488",
+      "sha1": "4d9b6f5f84bd0ed0cd201c9f9e1a18c7ab859d47",
+      "fileSize": 786
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
       "name": "MS440",
       "created": "2024-12-25",
       "filename": "Decoder_145_MS440.json",
@@ -4777,6 +4788,9 @@
       "created": "2026-01-23",
       "decoder": [
         {
+          "name": "MS420"
+        },
+        {
           "name": "MS440"
         },
         {
@@ -4827,9 +4841,9 @@
       ],
       "filename": "Firmware_145_5.29_MS.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MS.json",
-      "lastUpdate": "2026-08-10T19:46:42.414",
-      "sha1": "a512cc59f4a7650aa10d8d5a866750117212119c",
-      "fileSize": 349000
+      "lastUpdate": "2026-09-06T12:48:17.632",
+      "sha1": "2ccf33302cb9c75c6aa31e9bab9135bc154d45bb",
+      "fileSize": 349037
     },
     {
       "manufacturerId": 145,

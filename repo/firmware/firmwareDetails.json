@@ -1378,10 +1378,7 @@
     "manufacturerExtendedId": 0,
     "version": "5.29",
     "versionExtension": "MS",
-    "filename": "Firmware_145_5.29_MS.json",
-    "lastUpdate": "2026-09-06T12:48:17.637Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 349000,
+    "created": "2026-01-23",
     "decoder": [
       {
         "name": "MS420"
@@ -1434,7 +1431,12 @@
       {
         "name": "MS990"
       }
-    ]
+    ],
+    "filename": "Firmware_145_5.29_MS.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MS.json",
+    "lastUpdate": "2026-09-06T12:48:17.632",
+    "sha1": "2ccf33302cb9c75c6aa31e9bab9135bc154d45bb",
+    "fileSize": 349037
   },
   {
     "manufacturerId": 145,
