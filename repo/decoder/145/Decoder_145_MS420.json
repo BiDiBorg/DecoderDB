@@ -1,0 +1,34 @@
+{
+  "decoder": {
+    "name": "MS420",
+    "type": "loco-sound",
+    "typeIds": "19",
+    "articleNumbers": "MS420;MS420R;MS420P24",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;Plux24"
+      },
+      "dimensions": {
+        "width": 15.3,
+        "height": 4,
+        "length": 30
+      },
+      "electrical": {
+        "peakCurrent": 2.5,
+        "maxMotorCurrent": 1.2,
+        "maxTotalCurrent": 1.2,
+        "maxVoltage": 24,
+        "functionOutputs": 10
+      }
+    },
+    "options": "",
+    "images": [],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS420"
+  },
+  "version": {
+    "created": "2026-09-06T12:46:55.481Z",
+    "lastUpdate": "2026-09-06T12:46:55.488Z"
+  }
+}
