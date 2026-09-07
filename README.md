@@ -7,9 +7,9 @@ Definitions are currently used by BiDiB-Monitor to provide comfortable support w
 ## Decoders & Firmware
 
 The repository contains 2 kinds of data. Decoder definitions and firmware definitions.
-The decoder definition describes the base specifications a decoder like product identifieres, dimensions, electrical limits but also references to products images and manuals.
+The decoder definition describes the base specifications a decoder like product identifiers, dimensions, electrical limits but also references to products images and manuals.
 
-The firmware definition contains the descriptions of all configuration variables available for the corresponding firmware version. It also contains a struture definition to navigate through the huge amout of variables in an easy way.
+The firmware definition contains the descriptions of all configuration variables available for the corresponding firmware version. It also contains a structure definition to navigate through the huge amount of variables in an easy way.
 
 The reference between decoder definition and firmware definition is done via a list of decoder names inside the firmware definition.
 
@@ -38,7 +38,7 @@ If access is not granted it can be set via the button there.
 
 ## Deployment
 
-Changes can be done manually direcly in this repository at any time.
+Changes can be done manually directly in this repository at any time.
 
 Every commit / push within the `repo/` folder on main branch triggers the workflow to updates the repository.json reference and publish the changes.
 The update source is currently available via [repository.json](https://decoderdb.bidib.org/repository.json)
@@ -47,7 +47,7 @@ Changes to the generator code does not trigger any workflow at the moment.
 
 ## BiDiB-Monitor
 
-To be use the new repository with BiDiB-Monitor, the synchronization settings have to be changed. Replace the exisiting value for the service update url with `https://decoderdb.bidib.org/repository.json`.
+To be use the new repository with BiDiB-Monitor, the synchronization settings have to be changed. Replace the existing value for the service update url with `https://decoderdb.bidib.org/repository.json`.
 
 ![Update service url](./docs/bidib-monitor-decoderdb-update.png "Update service url")
 
@@ -62,7 +62,7 @@ But the new BiBiB-Monitor version preferably loads the `*.json` files first.
 
 As long the editor does not support the full preview of the CV definitions, the **BiBiB-Monitor** can be use for testing.
 
-Therefore the changed file have to be copied from the repository folder to the appropiated folder inside the BiDiB user data directory.
+Therefore the changed file have to be copied from the repository folder to the appropriated folder inside the BiDiB user data directory.
 
 ```
 Decoder_145_MS450.json

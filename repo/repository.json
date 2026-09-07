@@ -679,6 +679,17 @@
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
+      "name": "MS420",
+      "created": "2026-09-06",
+      "filename": "Decoder_145_MS420.json",
+      "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS420.json",
+      "lastUpdate": "2026-09-06T12:46:55.488",
+      "sha1": "4d9b6f5f84bd0ed0cd201c9f9e1a18c7ab859d47",
+      "fileSize": 786
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
       "name": "MS440",
       "created": "2024-12-25",
       "filename": "Decoder_145_MS440.json",
@@ -4395,7 +4406,7 @@
       "filename": "Firmware_145_31.57.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_31.57.json",
       "lastUpdate": "2025-04-12T00:16:02.000",
-      "sha1": "5e874d9650d6497a49953a12cd5718d454ba0f71",
+      "sha1": "9177092b657a589e336536dfc8a950ebf1965d3f",
       "fileSize": 123248
     },
     {
@@ -4622,7 +4633,7 @@
       "filename": "Firmware_145_5.15.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.15.json",
       "lastUpdate": "2025-06-16T21:47:01.000",
-      "sha1": "5fa6376d4942a0f301242757bd6de123430af669",
+      "sha1": "fc4d271fac672d01bd312d898a7c541dc84d5214",
       "fileSize": 126512
     },
     {
@@ -4663,7 +4674,7 @@
       "filename": "Firmware_145_5.21_MN.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MN.json",
       "lastUpdate": "2026-08-10T19:47:13.269",
-      "sha1": "4aa09967e5269ffdcc81b6cac071a4e424d65602",
+      "sha1": "099986805efbd19b884976f80f01d8ab410ba607",
       "fileSize": 201299
     },
     {
@@ -4725,7 +4736,7 @@
       "filename": "Firmware_145_5.21_MS.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MS.json",
       "lastUpdate": "2026-08-10T19:47:30.293",
-      "sha1": "ad50126709d71cfa9a8168c93c36393870b21967",
+      "sha1": "c1c8f4e7525cf7b6c2090c139d26a719d8ff0639",
       "fileSize": 227961
     },
     {
@@ -4766,7 +4777,7 @@
       "filename": "Firmware_145_5.29_MN.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MN.json",
       "lastUpdate": "2026-08-10T19:46:56.681",
-      "sha1": "c5dcd1fca1340802240edf87eedd8cd7ef0c5668",
+      "sha1": "b77df0d2e13e855b4f15cd57ace4898d9bdfb577",
       "fileSize": 285687
     },
     {
@@ -4776,6 +4787,9 @@
       "versionExtension": "MS",
       "created": "2026-01-23",
       "decoder": [
+        {
+          "name": "MS420"
+        },
         {
           "name": "MS440"
         },
@@ -4827,9 +4841,9 @@
       ],
       "filename": "Firmware_145_5.29_MS.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MS.json",
-      "lastUpdate": "2026-08-10T19:46:42.414",
-      "sha1": "a512cc59f4a7650aa10d8d5a866750117212119c",
-      "fileSize": 349000
+      "lastUpdate": "2026-09-06T12:48:17.632",
+      "sha1": "70bd7a8f6d2ffbc3ad6db7e15260181ed296cfb7",
+      "fileSize": 349037
     },
     {
       "manufacturerId": 145,
@@ -4916,7 +4930,7 @@
       "filename": "Firmware_145_5.5.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.5.json",
       "lastUpdate": "2024-12-25T21:47:01.000",
-      "sha1": "eb77ec68a0dd507172709c996a51333372faee89",
+      "sha1": "a481e37c5684c8008ff34e1746b53232eff9c280",
       "fileSize": 126514
     },
     {
@@ -4957,7 +4971,7 @@
       "filename": "Firmware_145_MN Decoder.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_MN Decoder.json",
       "lastUpdate": "2026-01-20T06:19:37.362",
-      "sha1": "3ba1ecbdeccd8e82a6c0959c8d0fe8465b1aa728",
+      "sha1": "3716db4de30813e24d4a13d194f9873dd85b0655",
       "fileSize": 132953
     },
     {
@@ -4998,7 +5012,7 @@
       "filename": "Firmware_145_MS Decoder.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_MS Decoder.json",
       "lastUpdate": "2026-01-19T17:45:40.016",
-      "sha1": "48ded52d437a281c927006e436c5a907b18e4ead",
+      "sha1": "f57e697203a4571c2ff49de1a93985170a624674",
       "fileSize": 125712
     },
     {
@@ -5083,7 +5097,7 @@
       "filename": "Firmware_145_MX Decoder.json",
       "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_MX Decoder.json",
       "lastUpdate": "2025-10-25T20:46:48.860",
-      "sha1": "06095cc8a8ac4c8e06a89b95db184df0e3fefa26",
+      "sha1": "f2c7b5b4cd09e79b05b34242ac9d41fa2392db90",
       "fileSize": 123258
     },
     {
