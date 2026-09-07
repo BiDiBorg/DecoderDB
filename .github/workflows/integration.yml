@@ -140,6 +140,7 @@ jobs:
           #options: "--depth-first --only-newer --parallel=10"
 
   publish_generated:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: generate_repository_json
     runs-on: ubuntu-latest
     permissions:
