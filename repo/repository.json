@@ -436,17 +436,6 @@
     },
     {
       "manufacturerId": 13,
-      "manufacturerExtendedId": 0,
-      "name": "Test-Decoder",
-      "created": "2017-01-02",
-      "filename": "Decoder_13_Test-Decoder.json",
-      "link": "https://decoderdb.bidib.org/decoder/13/Decoder_13_Test-Decoder.json",
-      "lastUpdate": "2026-09-04T22:00:39.591",
-      "sha1": "96d22e47ba914d9bc5f614d5f770e84739af8468",
-      "fileSize": 871
-    },
-    {
-      "manufacturerId": 13,
       "manufacturerExtendedId": 257,
       "name": "Car Decoder V3",
       "created": "2016-08-22",
@@ -3942,22 +3931,6 @@
       "lastUpdate": "2026-02-10T22:33:58.991",
       "sha1": "112d3557171a0c2b608edae67fcf536b63c4ab07",
       "fileSize": 10358
-    },
-    {
-      "manufacturerId": 13,
-      "manufacturerExtendedId": 0,
-      "version": "1.0",
-      "created": "2019-05-23",
-      "decoder": [
-        {
-          "name": "Test-Decoder"
-        }
-      ],
-      "filename": "Firmware_13_100_TestDecoder.json",
-      "link": "https://decoderdb.bidib.org/firmware/13/Firmware_13_100_TestDecoder.json",
-      "lastUpdate": "2023-03-19T18:02:04.000",
-      "sha1": "4c1c729c05a182debdd7c3b8c82f2299168fea37",
-      "fileSize": 14755
     },
     {
       "manufacturerId": 13,

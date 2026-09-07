@@ -538,22 +538,6 @@
   },
   {
     "manufacturerId": 13,
-    "manufacturerExtendedId": 0,
-    "version": "1.0",
-    "created": "2019-05-23",
-    "decoder": [
-      {
-        "name": "Test-Decoder"
-      }
-    ],
-    "filename": "Firmware_13_100_TestDecoder.json",
-    "link": "https://decoderdb.bidib.org/firmware/13/Firmware_13_100_TestDecoder.json",
-    "lastUpdate": "2023-03-19T18:02:04.000",
-    "sha1": "4c1c729c05a182debdd7c3b8c82f2299168fea37",
-    "fileSize": 14755
-  },
-  {
-    "manufacturerId": 13,
     "manufacturerExtendedId": 256,
     "version": "1.0.1",
     "created": "2016-05-17",
