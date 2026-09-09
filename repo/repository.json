@@ -573,9 +573,9 @@
       "created": "2026-01-18",
       "filename": "Decoder_145_MN140.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN140.json",
-      "lastUpdate": "2026-09-08T16:03:27.768",
-      "sha1": "017c10ec3a2fdf742b218fe5abede41aceae1b86",
-      "fileSize": 1486
+      "lastUpdate": "2026-09-09T11:03:49.135",
+      "sha1": "d65ac78b04a6b551e8d60263c1fdd10c68630e5a",
+      "fileSize": 2163
     },
     {
       "manufacturerId": 145,
@@ -584,9 +584,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MN150.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN150.json",
-      "lastUpdate": "2026-09-08T16:04:11.709",
-      "sha1": "518373d43f03f2255f79c29f08aacdf050908eb7",
-      "fileSize": 1456
+      "lastUpdate": "2026-09-09T11:08:25.380",
+      "sha1": "e340edb4ae7c124c38d11f772fb63f8b866bf228",
+      "fileSize": 2139
     },
     {
       "manufacturerId": 145,
@@ -595,9 +595,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MN160.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN160.json",
-      "lastUpdate": "2026-09-08T16:05:22.809",
-      "sha1": "b1c15921a416f712253c400658a59f57713cd520",
-      "fileSize": 2134
+      "lastUpdate": "2026-09-09T11:15:27.812",
+      "sha1": "68a69f22234f9d2dbb79a00e7b4e6966f48e4615",
+      "fileSize": 3494
     },
     {
       "manufacturerId": 145,
@@ -606,9 +606,9 @@
       "created": "2023-09-05",
       "filename": "Decoder_145_MN170.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN170.json",
-      "lastUpdate": "2026-09-08T16:05:58.237",
-      "sha1": "88b6e14b454479234c4d6e56f21ee7f0af68dd58",
-      "fileSize": 1641
+      "lastUpdate": "2026-09-09T11:18:18.942",
+      "sha1": "0317217331e9a3e39cd80ee3a32a462c16fb635d",
+      "fileSize": 2452
     },
     {
       "manufacturerId": 145,
@@ -617,9 +617,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MN180N18.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN180N18.json",
-      "lastUpdate": "2026-09-08T16:06:27.077",
-      "sha1": "79d5d90287d8caafdb44d3e3aaff07dedce73d37",
-      "fileSize": 1177
+      "lastUpdate": "2026-09-09T11:19:43.176",
+      "sha1": "0d98fbc1a44cffd736a98e9abc7994468512a96b",
+      "fileSize": 1584
     },
     {
       "manufacturerId": 145,
@@ -628,9 +628,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MN250.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN250.json",
-      "lastUpdate": "2026-09-08T16:06:50.365",
-      "sha1": "8d33d4ea5457a776d6d1b597fd91e79090fa0961",
-      "fileSize": 1158
+      "lastUpdate": "2026-09-09T11:20:44.365",
+      "sha1": "8d0e7f8d67504389c2e430277c1d427f4dc940c2",
+      "fileSize": 1556
     },
     {
       "manufacturerId": 145,
@@ -639,9 +639,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MN300.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN300.json",
-      "lastUpdate": "2026-09-08T16:07:40.416",
-      "sha1": "355a6a87ba596a86fa17375f5f4ac89d7f9cb86d",
-      "fileSize": 1619
+      "lastUpdate": "2026-09-09T11:23:30.835",
+      "sha1": "1dd5dcf3f8062cfa4ddb0d7b3dbfc562573234a1",
+      "fileSize": 2428
     },
     {
       "manufacturerId": 145,
@@ -650,9 +650,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MN330.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN330.json",
-      "lastUpdate": "2026-09-08T16:08:42.585",
-      "sha1": "96d84323340434b401580498684672f464cb78b3",
-      "fileSize": 1606
+      "lastUpdate": "2026-09-09T11:25:34.877",
+      "sha1": "5e2bb4cbcaf99b933912a4e30ae4fe968ec42e68",
+      "fileSize": 2419
     },
     {
       "manufacturerId": 145,
@@ -661,9 +661,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MN340.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MN340.json",
-      "lastUpdate": "2026-09-08T16:09:07.175",
-      "sha1": "cb86795f34fccae7c2dcdb1910af95585c72ba82",
-      "fileSize": 1173
+      "lastUpdate": "2026-09-09T12:06:26.474",
+      "sha1": "05a9500843179749df367a77cf05757c5157841d",
+      "fileSize": 1577
     },
     {
       "manufacturerId": 145,
@@ -672,9 +672,9 @@
       "created": "2026-09-06",
       "filename": "Decoder_145_MS420.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS420.json",
-      "lastUpdate": "2026-09-08T17:39:33.593",
-      "sha1": "e8863fbb93b896518f6a8c214ca8e8838b7c1309",
-      "fileSize": 1589
+      "lastUpdate": "2026-09-09T11:28:33.485",
+      "sha1": "031ddb780dc9927d662a6d6c202959da784c2c69",
+      "fileSize": 2394
     },
     {
       "manufacturerId": 145,
@@ -683,9 +683,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS440.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS440.json",
-      "lastUpdate": "2026-09-08T17:40:58.335",
-      "sha1": "1978b008e410dfac704a9a94794d923841864ab9",
-      "fileSize": 1171
+      "lastUpdate": "2026-09-09T11:29:30.302",
+      "sha1": "c4c6dff7ba93783daab3bef0167d2a2fcc62edd3",
+      "fileSize": 1569
     },
     {
       "manufacturerId": 145,
@@ -694,9 +694,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS450.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS450.json",
-      "lastUpdate": "2026-09-08T17:43:27.649",
-      "sha1": "e2a2194e958b9d26ab547851778041ae664d53ab",
-      "fileSize": 2015
+      "lastUpdate": "2026-09-09T11:34:35.704",
+      "sha1": "b50d9bb2e5ef44e0317414425864c09a294bdf15",
+      "fileSize": 3224
     },
     {
       "manufacturerId": 145,
@@ -705,9 +705,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS480.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS480.json",
-      "lastUpdate": "2026-09-08T17:45:04.372",
-      "sha1": "5e4a5ee4f3292dd65ebb4f108a352461993373a9",
-      "fileSize": 1611
+      "lastUpdate": "2026-09-09T11:36:46.368",
+      "sha1": "728908786fefcf70ddd111c25d3b682c70294740",
+      "fileSize": 2424
     },
     {
       "manufacturerId": 145,
@@ -716,9 +716,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MS481.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS481.json",
-      "lastUpdate": "2026-09-08T17:45:49.393",
-      "sha1": "5ac20b0363f83e15dc7e2faf3471c6dade3db9ee",
-      "fileSize": 1626
+      "lastUpdate": "2026-09-09T11:38:35.366",
+      "sha1": "5284d491f526e1f5dce523564b2c1f6d3e171cb0",
+      "fileSize": 2439
     },
     {
       "manufacturerId": 145,
@@ -727,9 +727,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS490.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS490.json",
-      "lastUpdate": "2026-03-09T21:01:32.926",
-      "sha1": "af4b0c85af69095bd3ea95d8d7e44b3fa779339b",
-      "fileSize": 1364
+      "lastUpdate": "2026-09-09T11:40:31.797",
+      "sha1": "dfd9927c1a0f8a8e8eb277ce7f07af60111d86eb",
+      "fileSize": 2175
     },
     {
       "manufacturerId": 145,
@@ -738,9 +738,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS491.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS491.json",
-      "lastUpdate": "2026-09-08T17:50:30.122",
-      "sha1": "d88bd04744e8412a31d8f31da1e5fa50a5845851",
-      "fileSize": 2400
+      "lastUpdate": "2026-09-09T11:45:41.903",
+      "sha1": "514b559c388c9e0bff68a12cf2a5254b1beee8a6",
+      "fileSize": 4018
     },
     {
       "manufacturerId": 145,
@@ -749,9 +749,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS500.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS500.json",
-      "lastUpdate": "2026-09-08T17:52:01.534",
-      "sha1": "719c5ee04d35824d8bcf431488c27ddf4cc258f9",
-      "fileSize": 1595
+      "lastUpdate": "2026-09-09T11:47:47.335",
+      "sha1": "4b1c286733a4780dbf398ba691facd2c0e1be3e1",
+      "fileSize": 2402
     },
     {
       "manufacturerId": 145,
@@ -760,9 +760,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS501.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS501.json",
-      "lastUpdate": "2026-09-08T17:53:25.227",
-      "sha1": "cd92363dacb07ebb26faa8f533de8836bea1944c",
-      "fileSize": 1599
+      "lastUpdate": "2026-09-09T11:49:21.947",
+      "sha1": "568d58b7ca64362e2052ccb787b688f261d0577c",
+      "fileSize": 2406
     },
     {
       "manufacturerId": 145,
@@ -771,9 +771,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MS540.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS540.json",
-      "lastUpdate": "2026-09-08T17:54:43.459",
-      "sha1": "843db460e809229f82d9473e6ebbdda84a30297b",
-      "fileSize": 1468
+      "lastUpdate": "2026-09-09T11:50:57.396",
+      "sha1": "b6d1e90ede13e67f6eb56fe452b77e86e01d1c8d",
+      "fileSize": 2151
     },
     {
       "manufacturerId": 145,
@@ -782,9 +782,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS560.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS560.json",
-      "lastUpdate": "2026-09-08T17:55:33.911",
-      "sha1": "bbae42d5a0c513acf7e345c18cb3c3704a9f6a0e",
-      "fileSize": 1303
+      "lastUpdate": "2026-09-09T11:52:11.722",
+      "sha1": "47dde68ef35db04ffcc864662df593679c94d443",
+      "fileSize": 1845
     },
     {
       "manufacturerId": 145,
@@ -793,9 +793,9 @@
       "created": "2020-04-29",
       "filename": "Decoder_145_MS580N18.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS580N18.json",
-      "lastUpdate": "2026-02-14T12:20:23.000",
-      "sha1": "c453b00cc4052b6d92e8192f429c766ef0ab1993",
-      "fileSize": 1211
+      "lastUpdate": "2026-09-09T11:53:48.190",
+      "sha1": "beca3d67c41ce9a5a57dedd77ee85149dac78178",
+      "fileSize": 1597
     },
     {
       "manufacturerId": 145,
@@ -804,9 +804,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MS581N18.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS581N18.json",
-      "lastUpdate": "2026-09-08T17:57:14.754",
-      "sha1": "b7eb833eedf33f15f483654b6d6d1089ff76141e",
-      "fileSize": 1604
+      "lastUpdate": "2026-09-09T11:55:29.659",
+      "sha1": "eda9e440fe3a79e8aa7e3693b31c00ffdad36c22",
+      "fileSize": 2429
     },
     {
       "manufacturerId": 145,
@@ -815,9 +815,9 @@
       "created": "2022-01-23",
       "filename": "Decoder_145_MS590N18.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS590N18.json",
-      "lastUpdate": "2026-09-08T17:58:03.965",
-      "sha1": "d6e0a906ad9c54cac7b10ec3d979cf81f32ecc8e",
-      "fileSize": 1208
+      "lastUpdate": "2026-09-09T11:56:20.893",
+      "sha1": "099b9387df3d9de21bcf1067092b64a473dcaef3",
+      "fileSize": 1634
     },
     {
       "manufacturerId": 145,
@@ -826,9 +826,9 @@
       "created": "2025-03-19",
       "filename": "Decoder_145_MS591N18.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS591N18.json",
-      "lastUpdate": "2026-09-08T17:58:39.326",
-      "sha1": "f94cd9593f7b9d6857120deecdbc90f1ab9494d3",
-      "fileSize": 1182
+      "lastUpdate": "2026-09-09T11:57:15.727",
+      "sha1": "1893c3fa7635d790b73ed1ec1c1cee0a506b96a5",
+      "fileSize": 1593
     },
     {
       "manufacturerId": 145,
@@ -837,9 +837,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS950.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS950.json",
-      "lastUpdate": "2026-09-08T18:00:51.661",
-      "sha1": "0586cecf15cea7c6f51b06a1cbaf126b00f20edd",
-      "fileSize": 1827
+      "lastUpdate": "2026-09-09T11:59:00.265",
+      "sha1": "48021e4dbae6618ef93bff45bfbe3d2bc15b9f87",
+      "fileSize": 2389
     },
     {
       "manufacturerId": 145,
@@ -848,9 +848,9 @@
       "created": "2024-12-25",
       "filename": "Decoder_145_MS990.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MS990.json",
-      "lastUpdate": "2026-09-08T18:02:59.244",
-      "sha1": "4a0c9268f493c1801b20665789b77fc3e325b554",
-      "fileSize": 1609
+      "lastUpdate": "2026-09-09T12:00:55.555",
+      "sha1": "4d248048f78907db0a26318b410112aa318963e6",
+      "fileSize": 2428
     },
     {
       "manufacturerId": 145,
@@ -10414,1322 +10414,2802 @@
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN140E24_bottom.png",
-      "filename": "MN140E24_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_bottom.png",
-      "lastUpdate": "2026-09-08T15:59:31.143",
-      "sha1": "c6de68e644e8b3176d3be6002e673c9893c79f41",
-      "fileSize": 3176183
+      "name": "MN140E24_bottom.jpg",
+      "filename": "MN140E24_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:49.713",
+      "sha1": "6f7251d3ae2c7015dfaa27cdf6ade3e3d8c00f65",
+      "fileSize": 239315
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN140E24_persp.png",
-      "filename": "MN140E24_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_persp.png",
-      "lastUpdate": "2026-09-08T15:28:34.528",
-      "sha1": "8528ab6bbfdddb2c345bb08bd2d38d5d5e48c8a0",
-      "fileSize": 2177142
+      "name": "MN140E24_bottom.webp",
+      "filename": "MN140E24_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:14.372",
+      "sha1": "d8a8bfe54fa335bc072a6563f8b5be76dc726ebb",
+      "fileSize": 156052
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN140E24_top.png",
-      "filename": "MN140E24_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_top.png",
-      "lastUpdate": "2026-09-08T15:28:35.429",
-      "sha1": "2eba41e524659e072ef0cb3e205be73ad3ad55b2",
-      "fileSize": 3118285
+      "name": "MN140E24_persp.jpg",
+      "filename": "MN140E24_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:49.784",
+      "sha1": "594cc475d7db4a8415ee6305333c893fee508963",
+      "fileSize": 217611
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN140P12_persp.png",
-      "filename": "MN140P12_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140P12_persp.png",
-      "lastUpdate": "2026-09-08T15:59:31.142",
-      "sha1": "ec778383f2b01761f039989d5fa53c7e33b2a203",
-      "fileSize": 2453394
+      "name": "MN140E24_persp.webp",
+      "filename": "MN140E24_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:14.504",
+      "sha1": "0b4a8ad000470a5ec0bfcb56af3a8bbac33f71b8",
+      "fileSize": 144196
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN140P12_top.png",
-      "filename": "MN140P12_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140P12_top.png",
-      "lastUpdate": "2026-09-08T15:59:31.144",
-      "sha1": "c0fdb7dc06a59f6c9af079cbb9ed0efcae47ede7",
-      "fileSize": 3084358
+      "name": "MN140E24_top.jpg",
+      "filename": "MN140E24_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:49.858",
+      "sha1": "8e3a4a23049a668173467c88ba90f749779f9607",
+      "fileSize": 286497
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN150_bottom.png",
-      "filename": "MN150_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150_bottom.png",
-      "lastUpdate": "2026-09-08T15:46:00.641",
-      "sha1": "d904655fde90890d0af622975f85f3cb38b0eca9",
-      "fileSize": 1735849
+      "name": "MN140E24_top.webp",
+      "filename": "MN140E24_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140E24_top.webp",
+      "lastUpdate": "2026-09-09T10:58:14.685",
+      "sha1": "4c75f72e144d6d3556d3389515598902b3842f2e",
+      "fileSize": 201896
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN150_top.png",
-      "filename": "MN150_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150_top.png",
-      "lastUpdate": "2026-09-08T15:46:00.643",
-      "sha1": "1a0f755833d6b3bbf98763ab4d5d8702a4d9b351",
-      "fileSize": 2185522
+      "name": "MN140P12_persp.jpg",
+      "filename": "MN140P12_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140P12_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:49.937",
+      "sha1": "b275bb5abf901b0aaa48150fab24f75b3d65973d",
+      "fileSize": 228009
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN150N_bottom.png",
-      "filename": "MN150N_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_bottom.png",
-      "lastUpdate": "2026-09-08T15:46:00.642",
-      "sha1": "e0a685e258738f1218b2a33152bc8b3b8fe15cb4",
-      "fileSize": 1844115
+      "name": "MN140P12_persp.webp",
+      "filename": "MN140P12_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140P12_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:14.834",
+      "sha1": "91fd088133f2508f284f45da8e69e96318066c7d",
+      "fileSize": 166622
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN150N_top_persp.png",
-      "filename": "MN150N_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_top_persp.png",
-      "lastUpdate": "2026-09-08T15:46:00.642",
-      "sha1": "2426cb2d3ac1c2e235b856e196f293c343915829",
-      "fileSize": 1485976
+      "name": "MN140P12_top.jpg",
+      "filename": "MN140P12_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140P12_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.008",
+      "sha1": "74b705f8f0a2e41751ad59807c7685ff08e53d68",
+      "fileSize": 261008
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN150N_Top_Vorabversion.png",
-      "filename": "MN150N_Top_Vorabversion.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_Top_Vorabversion.png",
-      "lastUpdate": "2026-09-08T15:46:00.643",
-      "sha1": "e8a13cfe861fa99041a579977af9d5ada86b1f8f",
-      "fileSize": 1964589
+      "name": "MN140P12_top.webp",
+      "filename": "MN140P12_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN140P12_top.webp",
+      "lastUpdate": "2026-09-09T10:58:15.022",
+      "sha1": "8a88621f4b407d4ca7892883740ca826d6291ce0",
+      "fileSize": 196648
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160_bottom.png",
-      "filename": "MN160_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_bottom.png",
-      "lastUpdate": "2026-09-08T15:48:30.136",
-      "sha1": "341ae166fa3b1f9b18bdd310b0e6264d56c1c74f",
-      "fileSize": 2433569
+      "name": "MN150_bottom.jpg",
+      "filename": "MN150_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.080",
+      "sha1": "b0ed8cf74bde25c09ce193f45c561850210b5343",
+      "fileSize": 150169
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160_top_persp_kor.png",
-      "filename": "MN160_top_persp_kor.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_top_persp_kor.png",
-      "lastUpdate": "2026-09-08T16:00:20.543",
-      "sha1": "fc0c33f502298ba8379b16aa8a0d5d4c9ff323bd",
-      "fileSize": 667866
+      "name": "MN150_bottom.webp",
+      "filename": "MN150_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:15.218",
+      "sha1": "6b1e10d427730f6a1c666bb2b4ffb38155f934b0",
+      "fileSize": 112276
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160_top.png",
-      "filename": "MN160_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_top.png",
-      "lastUpdate": "2026-09-08T15:48:30.134",
-      "sha1": "7d9b67210851e62d887fdcb604b8c3e295205be4",
-      "fileSize": 1778036
+      "name": "MN150_top.jpg",
+      "filename": "MN150_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.155",
+      "sha1": "34ad0f34d8fded7ea4a4fe2851593fc28738acb2",
+      "fileSize": 164066
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160L_bottom_persp.png",
-      "filename": "MN160L_bottom_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_bottom_persp.png",
-      "lastUpdate": "2026-09-08T15:48:30.136",
-      "sha1": "64b4c469f4900b0ea57327f821b868a6dc1f8742",
-      "fileSize": 2137066
+      "name": "MN150_top.webp",
+      "filename": "MN150_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150_top.webp",
+      "lastUpdate": "2026-09-09T10:58:15.431",
+      "sha1": "3c19233be3414bffeeaa10a0dc966f72e6bc69ea",
+      "fileSize": 119608
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160L_bottom.png",
-      "filename": "MN160L_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_bottom.png",
-      "lastUpdate": "2026-09-08T15:48:30.139",
-      "sha1": "13424750282cb9039d634d09d97e8ffbf7cc21e7",
-      "fileSize": 3212684
+      "name": "MN150N_bottom.jpg",
+      "filename": "MN150N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.927",
+      "sha1": "3ef8f48d81c6fde9330606027e47b008c406f6a2",
+      "fileSize": 143588
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160L_top.png",
-      "filename": "MN160L_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_top.png",
-      "lastUpdate": "2026-09-08T15:48:30.133",
-      "sha1": "7cc5b0287c2bf209be6256717b3fa980f89c6043",
-      "fileSize": 994302
+      "name": "MN150N_bottom.webp",
+      "filename": "MN150N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:34.830",
+      "sha1": "4cdb9cf65372da44638d49fc3ace35b6ce4bf690",
+      "fileSize": 95902
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160N_bottom_persp.png",
-      "filename": "MN160N_bottom_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_bottom_persp.png",
-      "lastUpdate": "2026-09-08T15:48:30.135",
-      "sha1": "9871a512367b5d801eb9c2d845e7c80a95b071e9",
-      "fileSize": 1544900
+      "name": "MN150N_top_persp.jpg",
+      "filename": "MN150N_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.992",
+      "sha1": "fea376c86b13b00f7cbeae5663e8354a13e30eab",
+      "fileSize": 137543
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160N_bottom.png",
-      "filename": "MN160N_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_bottom.png",
-      "lastUpdate": "2026-09-08T15:48:30.135",
-      "sha1": "a05d562ac1f0587afb7ff26792d72a49ee595187",
-      "fileSize": 1758359
+      "name": "MN150N_top_persp.webp",
+      "filename": "MN150N_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:34.940",
+      "sha1": "df6cc458504d465dee2dd584f63f9854ce180446",
+      "fileSize": 104780
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160N_top_persp.png",
-      "filename": "MN160N_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_top_persp.png",
-      "lastUpdate": "2026-09-08T15:48:30.135",
-      "sha1": "9a847257847a93cb4334ad5499482e54ea412d35",
-      "fileSize": 1491973
+      "name": "MN150N_Top_Vorabversion.jpg",
+      "filename": "MN150N_Top_Vorabversion.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_Top_Vorabversion.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.220",
+      "sha1": "7f28f86aad860554aa0c28a733395815542d31f3",
+      "fileSize": 156093
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN160N_top.png",
-      "filename": "MN160N_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_top.png",
-      "lastUpdate": "2026-09-08T15:48:30.135",
-      "sha1": "02e7c2cfd6d192d59671e0d56d1d8d8b7866cede",
-      "fileSize": 1722954
+      "name": "MN150N_Top_Vorabversion.webp",
+      "filename": "MN150N_Top_Vorabversion.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN150N_Top_Vorabversion.webp",
+      "lastUpdate": "2026-09-09T10:58:15.645",
+      "sha1": "749b5e33ef02efe2dc1b3cd1e0655d89850ec78f",
+      "fileSize": 100824
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN170_bottom.png",
-      "filename": "MN170_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_bottom.png",
-      "lastUpdate": "2026-09-08T15:49:57.348",
-      "sha1": "fd1806b997e0664462f854c293af3d889e11ead2",
-      "fileSize": 1454482
+      "name": "MN160_bottom.jpg",
+      "filename": "MN160_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.282",
+      "sha1": "578c38d917b45fffc24a7cfc73494e95310d3008",
+      "fileSize": 239366
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN170_top_persp_kor.png",
-      "filename": "MN170_top_persp_kor.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_top_persp_kor.png",
-      "lastUpdate": "2026-09-08T15:49:57.346",
-      "sha1": "ac2251b39ed5f628bf9b2c22988b3cff25a9f9da",
-      "fileSize": 501689
+      "name": "MN160_bottom.webp",
+      "filename": "MN160_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:15.833",
+      "sha1": "285bac69fc59c3b5ac60a6a6211875d9a92e9dc8",
+      "fileSize": 163992
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN170_top.png",
-      "filename": "MN170_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_top.png",
-      "lastUpdate": "2026-09-08T15:49:57.349",
-      "sha1": "4dcb4dfb7e5b9fa06d5671d837ae54344eaa9b2e",
-      "fileSize": 1352492
+      "name": "MN160_top_persp_kor.jpg",
+      "filename": "MN160_top_persp_kor.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_top_persp_kor.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.395",
+      "sha1": "5878fb1c6ec176c938fb338b14cc440bc7b8cce0",
+      "fileSize": 172922
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN170N-bottom.png",
-      "filename": "MN170N-bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-bottom.png",
-      "lastUpdate": "2026-09-08T15:49:57.350",
-      "sha1": "c3671896077a7a2a78ef605751c914343974757d",
-      "fileSize": 2045697
+      "name": "MN160_top_persp_kor.webp",
+      "filename": "MN160_top_persp_kor.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_top_persp_kor.webp",
+      "lastUpdate": "2026-09-09T10:58:16.165",
+      "sha1": "18d133cb39820a4423e3247f485632df763e6766",
+      "fileSize": 128102
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN170N-top-persp.png",
-      "filename": "MN170N-top-persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-top-persp.png",
-      "lastUpdate": "2026-09-08T15:49:57.349",
-      "sha1": "a167d3025bc3704e0a9ebf0d40d0f7339eadab28",
-      "fileSize": 1761582
+      "name": "MN160_top.jpg",
+      "filename": "MN160_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.335",
+      "sha1": "01fa89fe4a5f9ccdaef4b73a2368dea599bf8398",
+      "fileSize": 179370
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN170N-top.png",
-      "filename": "MN170N-top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-top.png",
-      "lastUpdate": "2026-09-08T15:49:57.350",
-      "sha1": "84a446c771a1b78f7b1c3b1824be003f4ed86f68",
-      "fileSize": 1912945
+      "name": "MN160_top.webp",
+      "filename": "MN160_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160_top.webp",
+      "lastUpdate": "2026-09-09T10:58:15.967",
+      "sha1": "4283d8571bed182dfc6a70626055c6c7982e8e73",
+      "fileSize": 131846
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN180N18_bottom.png",
-      "filename": "MN180N18_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_bottom.png",
-      "lastUpdate": "2026-09-08T15:50:39.297",
-      "sha1": "21e1f040877820d1b58a81db02610e2f2675bbc9",
-      "fileSize": 3744788
+      "name": "MN160L_bottom_persp.jpg",
+      "filename": "MN160L_bottom_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_bottom_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.556",
+      "sha1": "5629fc4105cb06e542fe1a59f7ca64eb941a4a0a",
+      "fileSize": 204990
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN180N18_persp.png",
-      "filename": "MN180N18_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_persp.png",
-      "lastUpdate": "2026-09-08T15:50:39.296",
-      "sha1": "a0fb9ade57a41422636493b3bf86b4781b4d2869",
-      "fileSize": 2322072
+      "name": "MN160L_bottom_persp.webp",
+      "filename": "MN160L_bottom_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_bottom_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:16.489",
+      "sha1": "a23d4f6f6c223b43f3ca399c73d3b906e5daff47",
+      "fileSize": 146202
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN180N18_top.png",
-      "filename": "MN180N18_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_top.png",
-      "lastUpdate": "2026-09-08T15:50:39.298",
-      "sha1": "dda3f57cfac2538a71e04d91879cf380d7fe24d8",
-      "fileSize": 3640799
+      "name": "MN160L_bottom.jpg",
+      "filename": "MN160L_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.479",
+      "sha1": "4f04c6152c88bf900ac90c3854b7c928f1136dd4",
+      "fileSize": 295731
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN250_bottom.png",
-      "filename": "MN250_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_bottom.png",
-      "lastUpdate": "2026-09-08T15:51:39.294",
-      "sha1": "da455d6b5d51f36b1a72a081912aaa72f15b017c",
-      "fileSize": 1387197
+      "name": "MN160L_bottom.webp",
+      "filename": "MN160L_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:16.343",
+      "sha1": "09762d0e72ea57b112e22232d779e2be36294e9b",
+      "fileSize": 191530
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN250_persp.png",
-      "filename": "MN250_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_persp.png",
-      "lastUpdate": "2026-09-08T15:51:39.295",
-      "sha1": "e3e48f77b1b9903fce9c0c84afa97d50348a569d",
-      "fileSize": 1885968
+      "name": "MN160L_top.jpg",
+      "filename": "MN160L_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.605",
+      "sha1": "b173498d23795d16c3a68a791c9f2778cac009fb",
+      "fileSize": 274486
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN250_top.png",
-      "filename": "MN250_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_top.png",
-      "lastUpdate": "2026-09-08T15:51:39.295",
-      "sha1": "27e2876edee2e91cc2ace04807445f7347445d7d",
-      "fileSize": 1846613
+      "name": "MN160L_top.webp",
+      "filename": "MN160L_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160L_top.webp",
+      "lastUpdate": "2026-09-09T10:58:16.681",
+      "sha1": "3e39bcec44810164913387155b5feb63fca52fe0",
+      "fileSize": 196354
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN300_bottom.png",
-      "filename": "MN300_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_bottom.png",
-      "lastUpdate": "2026-09-08T15:53:10.948",
-      "sha1": "1e19babd3e6994d6159cb4da6a684cd2af483d75",
-      "fileSize": 2244768
+      "name": "MN160N_bottom_persp.jpg",
+      "filename": "MN160N_bottom_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_bottom_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.728",
+      "sha1": "315ae68cf54d42a9e762cabf54a87277a892cd79",
+      "fileSize": 153492
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN300_top_persp.png",
-      "filename": "MN300_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_top_persp.png",
-      "lastUpdate": "2026-09-08T15:53:10.949",
-      "sha1": "d1046e069dceadc8c1d7eb693e292b40afcce8bd",
-      "fileSize": 1735523
+      "name": "MN160N_bottom_persp.webp",
+      "filename": "MN160N_bottom_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_bottom_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:17.000",
+      "sha1": "a6eebc1b2b89596f8ea9190baf0670bb9e669cb0",
+      "fileSize": 107442
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN300_top.png",
-      "filename": "MN300_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_top.png",
-      "lastUpdate": "2026-09-08T15:53:10.949",
-      "sha1": "2f25343302a1e3ed17ebc698f805fb6da445d477",
-      "fileSize": 2364752
+      "name": "MN160N_bottom.jpg",
+      "filename": "MN160N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.655",
+      "sha1": "4bdbf3357d8c2a67c8ec3560ee39fa35f81aacb2",
+      "fileSize": 203536
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN300P16_bottom.png",
-      "filename": "MN300P16_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_bottom.png",
-      "lastUpdate": "2026-09-08T15:53:10.952",
-      "sha1": "19ef6836b88b7137b7963212a186ef4aba0e9afc",
-      "fileSize": 3432309
+      "name": "MN160N_bottom.webp",
+      "filename": "MN160N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:16.809",
+      "sha1": "17b7b6dd4b521403af8127bd83b99368d5068c73",
+      "fileSize": 135588
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN300P16_persp.png",
-      "filename": "MN300P16_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_persp.png",
-      "lastUpdate": "2026-09-08T15:53:10.950",
-      "sha1": "33f82c11c32be03675819d989441a536edd9d62a",
-      "fileSize": 2394865
+      "name": "MN160N_top_persp.jpg",
+      "filename": "MN160N_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.833",
+      "sha1": "d90827bc3c538fffef7031dbfe5d9ccb3535feeb",
+      "fileSize": 149106
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN300P16_top.png",
-      "filename": "MN300P16_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_top.png",
-      "lastUpdate": "2026-09-08T15:53:10.952",
-      "sha1": "b047d08919f283eee98927def283d49ae151d07c",
-      "fileSize": 3383253
+      "name": "MN160N_top_persp.webp",
+      "filename": "MN160N_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:17.273",
+      "sha1": "2e217a64686342958c3df3398a14f909811a5fff",
+      "fileSize": 114998
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN330_bottom.png",
-      "filename": "MN330_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_bottom.png",
-      "lastUpdate": "2026-09-08T15:57:08.504",
-      "sha1": "03846004997768341d0399a3aa076babf4677786",
-      "fileSize": 1781307
+      "name": "MN160N_top.jpg",
+      "filename": "MN160N_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.778",
+      "sha1": "38888ff89cf87f5037d589165b9630493bee474c",
+      "fileSize": 162540
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN330_top_persp.png",
-      "filename": "MN330_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_top_persp.png",
-      "lastUpdate": "2026-09-08T15:57:08.505",
-      "sha1": "0eb81bed960ba1cfad6dbaab24ed2b0ce95043ea",
-      "fileSize": 1790238
+      "name": "MN160N_top.webp",
+      "filename": "MN160N_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN160N_top.webp",
+      "lastUpdate": "2026-09-09T10:58:17.146",
+      "sha1": "01dc681396e0a30e0eea21c8e629dc564473ba32",
+      "fileSize": 117628
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN330_top.png",
-      "filename": "MN330_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_top.png",
-      "lastUpdate": "2026-09-08T15:57:08.505",
-      "sha1": "ffba97b0f64992393f5e9206bde6827baf3d19ff",
-      "fileSize": 1907322
+      "name": "MN170_bottom.jpg",
+      "filename": "MN170_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.887",
+      "sha1": "86b66fe6917d0f55e0ea08594afa44762d3e6aae",
+      "fileSize": 146564
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN330P22_bottom.png",
-      "filename": "MN330P22_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_bottom.png",
-      "lastUpdate": "2026-09-08T15:57:08.507",
-      "sha1": "05c9b372e0659f347b09ebf44b94f2c9cb9ce084",
-      "fileSize": 2526839
+      "name": "MN170_bottom.webp",
+      "filename": "MN170_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:17.418",
+      "sha1": "6dc4e9e576766b049a3a999432d2177fbb4955cf",
+      "fileSize": 111654
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN330P22_top_persp.png",
-      "filename": "MN330P22_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_top_persp.png",
-      "lastUpdate": "2026-09-08T15:57:08.506",
-      "sha1": "756a23cc9cb8997c4eb48d673075321f3930b722",
-      "fileSize": 2213495
+      "name": "MN170_top_persp_kor.jpg",
+      "filename": "MN170_top_persp_kor.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_top_persp_kor.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.989",
+      "sha1": "fe30626b425df6f1c9ae1971340458d67684a80b",
+      "fileSize": 140251
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN330P22_top.png",
-      "filename": "MN330P22_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_top.png",
-      "lastUpdate": "2026-09-08T15:57:08.507",
-      "sha1": "958a757ff41fa844c86408f967aa110fd5fb4999",
-      "fileSize": 2918822
+      "name": "MN170_top_persp_kor.webp",
+      "filename": "MN170_top_persp_kor.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_top_persp_kor.webp",
+      "lastUpdate": "2026-09-09T10:58:17.679",
+      "sha1": "2265fd1fcf22ac1e4fc698c7d64243d16e2d28a1",
+      "fileSize": 102782
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN340CD_bottom.png",
-      "filename": "MN340CD_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_bottom.png",
-      "lastUpdate": "2026-09-08T15:58:02.191",
-      "sha1": "5fdd16ecfd72fc58518e2e114b92595338c80abe",
-      "fileSize": 2808630
+      "name": "MN170_top.jpg",
+      "filename": "MN170_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:50.946",
+      "sha1": "7189bdc56f6539a3322c9c72f25e4002aba69c04",
+      "fileSize": 140041
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN340CD_persp.png",
-      "filename": "MN340CD_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_persp.png",
-      "lastUpdate": "2026-09-08T15:58:02.190",
-      "sha1": "6a3437cd04e66b6b8b93f293ca7f991c8a69c8f8",
-      "fileSize": 2156091
+      "name": "MN170_top.webp",
+      "filename": "MN170_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170_top.webp",
+      "lastUpdate": "2026-09-09T10:58:17.564",
+      "sha1": "57afaf84f7b40f4016fc49ed5aff2eb6e4ff4186",
+      "fileSize": 102298
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MN340CD_top.png",
-      "filename": "MN340CD_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_top.png",
-      "lastUpdate": "2026-09-08T15:58:02.191",
-      "sha1": "4006f938264332ed249ab31f722e9d3f3e177a74",
-      "fileSize": 2912505
+      "name": "MN170N-bottom.jpg",
+      "filename": "MN170N-bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.047",
+      "sha1": "20ff1982a136e2c2da90b86d40b929d6d82520fb",
+      "fileSize": 202236
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS420_bottom.png",
-      "filename": "MS420_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:09.158",
-      "sha1": "5035658488a07216d260545bbb8c58607cad9385",
-      "fileSize": 602246
+      "name": "MN170N-bottom.webp",
+      "filename": "MN170N-bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:17.840",
+      "sha1": "d187b29d3039310f3781e74ca2edafdc85023c1b",
+      "fileSize": 157492
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS420_persp.png",
-      "filename": "MS420_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_persp.png",
-      "lastUpdate": "2026-09-08T15:29:09.471",
-      "sha1": "82e7f58226f9cfdab7ddd9e2bd60c78c44dfa360",
-      "fileSize": 674791
+      "name": "MN170N-top-persp.jpg",
+      "filename": "MN170N-top-persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-top-persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.108",
+      "sha1": "58f468080f5e700f72d57eda69bf33e15352d1a9",
+      "fileSize": 157605
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS420_top.png",
-      "filename": "MS420_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_top.png",
-      "lastUpdate": "2026-09-08T15:29:09.729",
-      "sha1": "f3297ad535a4d22a5962f79fdd9426d52718a4e0",
-      "fileSize": 566184
+      "name": "MN170N-top-persp.webp",
+      "filename": "MN170N-top-persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-top-persp.webp",
+      "lastUpdate": "2026-09-09T10:58:17.962",
+      "sha1": "07b8b354f464f9c71c448a0bf31fa6e898da9240",
+      "fileSize": 115066
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS420P24_bottom.png",
-      "filename": "MS420P24_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:08.312",
-      "sha1": "8ca9bc6052a7e7233e125611d50f337e96640511",
-      "fileSize": 950666
+      "name": "MN170N-top.jpg",
+      "filename": "MN170N-top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-top.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.161",
+      "sha1": "8f8f3563513d5ee429dd273ca66b46b6c30795bd",
+      "fileSize": 164203
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS420P24_persp.png",
-      "filename": "MS420P24_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_persp.png",
-      "lastUpdate": "2026-09-08T15:29:08.598",
-      "sha1": "6e465a322aba2d7c766a56267a8ba8d96ef4e9c2",
-      "fileSize": 940055
+      "name": "MN170N-top.webp",
+      "filename": "MN170N-top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN170N-top.webp",
+      "lastUpdate": "2026-09-09T10:58:18.137",
+      "sha1": "3d7df4123107de72f87503b262ac0350e83c4b48",
+      "fileSize": 113100
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS420P24_top.png",
-      "filename": "MS420P24_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_top.png",
-      "lastUpdate": "2026-09-08T15:29:08.899",
-      "sha1": "95820e7debc74b1f82a656b81288ca549bc97d51",
-      "fileSize": 1065579
+      "name": "MN180N18_bottom.jpg",
+      "filename": "MN180N18_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.240",
+      "sha1": "a7a62b9ad51c8d38b4f655ce0f297210b01d82d1",
+      "fileSize": 340080
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS440_bottom.png",
-      "filename": "MS440_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:10.868",
-      "sha1": "0e0ac8b4f505b65dd910c843fb108802cd1f18c6",
-      "fileSize": 2726656
+      "name": "MN180N18_bottom.webp",
+      "filename": "MN180N18_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:18.325",
+      "sha1": "a2cf2c3988ed44a5c42ef44c7a590b29506a02a9",
+      "fileSize": 259052
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS440_persp.png",
-      "filename": "MS440_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_persp.png",
-      "lastUpdate": "2026-09-08T15:29:11.487",
-      "sha1": "972952848ae792dd452803bba7b04262ca73c62c",
-      "fileSize": 2059614
+      "name": "MN180N18_persp.jpg",
+      "filename": "MN180N18_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.308",
+      "sha1": "15d34b164e49778818c65444c3b0f65c077b48c1",
+      "fileSize": 186498
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS440_top.png",
-      "filename": "MS440_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_top.png",
-      "lastUpdate": "2026-09-08T15:29:12.904",
-      "sha1": "256af7515a6f40f7a1c511569bd060f7640f3eab",
-      "fileSize": 2814015
+      "name": "MN180N18_persp.webp",
+      "filename": "MN180N18_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:18.476",
+      "sha1": "2f6baede41af6ceffd6ab60e2e79a2f6076fec9a",
+      "fileSize": 124808
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450_bottom.png",
-      "filename": "MS450_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:19.398",
-      "sha1": "b8e9de908b04b13dff999195690e5703fb327110",
-      "fileSize": 1811024
+      "name": "MN180N18_top.jpg",
+      "filename": "MN180N18_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.390",
+      "sha1": "6d5eda4eb99068bb72869cd85783893f2d219756",
+      "fileSize": 323233
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450_persp.png",
-      "filename": "MS450_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_persp.png",
-      "lastUpdate": "2026-09-08T15:29:19.972",
-      "sha1": "5c96fd99cec986f4f75720f1dac3ad1a5b110e70",
-      "fileSize": 1745040
+      "name": "MN180N18_top.webp",
+      "filename": "MN180N18_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN180N18_top.webp",
+      "lastUpdate": "2026-09-09T10:58:18.667",
+      "sha1": "5aa182f42c496556d54509afb3a606fd19e424a6",
+      "fileSize": 229178
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450_top.png",
-      "filename": "MS450_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_top.png",
-      "lastUpdate": "2026-09-08T15:29:21.059",
-      "sha1": "0ba2c97babae584d25ad78fe7448ad3f1e8e2f0b",
-      "fileSize": 2165137
+      "name": "MN250_bottom.jpg",
+      "filename": "MN250_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.431",
+      "sha1": "57b26ca9fdc4f87e57481271f55998ad936872a7",
+      "fileSize": 138530
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450P16_persp.png",
-      "filename": "MS450P16_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P16_persp.png",
-      "lastUpdate": "2026-09-08T15:29:14.328",
-      "sha1": "084b6c933814310c680c876de4569bd2f2c81991",
-      "fileSize": 799750
+      "name": "MN250_bottom.webp",
+      "filename": "MN250_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:18.789",
+      "sha1": "630a5bde0d0bac22a31c91c866fb9ee2c523819a",
+      "fileSize": 106342
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450P16_top.png",
-      "filename": "MS450P16_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P16_top.png",
-      "lastUpdate": "2026-09-08T15:29:15.702",
-      "sha1": "ab968ae124f49374e64bdd7ba581b7f823140cc0",
-      "fileSize": 3045364
+      "name": "MN250_persp.jpg",
+      "filename": "MN250_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.494",
+      "sha1": "ec6d7182550733c3c1b59474f94520c7eae12bf3",
+      "fileSize": 164522
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450P22_bottom.png",
-      "filename": "MS450P22_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:16.893",
-      "sha1": "dd2c9347bf0a1896ae10f61556dd09dc23ec6c54",
-      "fileSize": 2756578
+      "name": "MN250_persp.webp",
+      "filename": "MN250_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:18.946",
+      "sha1": "bada94eb7f813abf14abc2c428648e5c7073a43d",
+      "fileSize": 130768
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450P22_persp.png",
-      "filename": "MS450P22_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_persp.png",
-      "lastUpdate": "2026-09-08T15:29:17.166",
-      "sha1": "37d43a868eb46c9d2537ac49d719d8a772759ede",
-      "fileSize": 759701
+      "name": "MN250_top.jpg",
+      "filename": "MN250_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.549",
+      "sha1": "464fa77de4bfd55b34abc53aa33c7b635f568513",
+      "fileSize": 156981
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450P22_top.png",
-      "filename": "MS450P22_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_top.png",
-      "lastUpdate": "2026-09-08T15:29:18.544",
-      "sha1": "7d4f7972aa98b70a37758c13e562e611a1da9ff6",
-      "fileSize": 3047216
+      "name": "MN250_top.webp",
+      "filename": "MN250_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN250_top.webp",
+      "lastUpdate": "2026-09-09T10:58:19.112",
+      "sha1": "56e8c0d9d6c4f9b9ffa235914de78fe0fe612b83",
+      "fileSize": 118266
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS450R-Kabel.png",
-      "filename": "MS450R-Kabel.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450R-Kabel.png",
-      "lastUpdate": "2026-09-08T15:29:18.705",
-      "sha1": "d614cc18b8bd7f066c4818704089d80ef58d2332",
-      "fileSize": 497513
+      "name": "MN300_bottom.jpg",
+      "filename": "MN300_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.610",
+      "sha1": "088cce83f75eb55cd6a1ec7903d06c32ad179b2c",
+      "fileSize": 228566
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS480_bottom.png",
-      "filename": "MS480_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:24.771",
-      "sha1": "dc4bef263fb8e404c7047c7a62ca748acf814375",
-      "fileSize": 943773
+      "name": "MN300_bottom.webp",
+      "filename": "MN300_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:19.280",
+      "sha1": "15947cc6bbd425d7108f15cc6939c83dafee5423",
+      "fileSize": 173046
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS480_top_persp.png",
-      "filename": "MS480_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:25.437",
-      "sha1": "4afee2b8c6d6487cff6c48257446d9690346dd8f",
-      "fileSize": 1302755
+      "name": "MN300_top_persp.jpg",
+      "filename": "MN300_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.725",
+      "sha1": "bd383fda2972176f192d10fb19198d6c72747d59",
+      "fileSize": 180162
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS480_top.png",
-      "filename": "MS480_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_top.png",
-      "lastUpdate": "2026-09-08T15:29:25.142",
-      "sha1": "91a12fb0a0a3007defa017214eeee69895fb53b9",
-      "fileSize": 1364696
+      "name": "MN300_top_persp.webp",
+      "filename": "MN300_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:19.624",
+      "sha1": "f07014c2ce5c870a0c21aceda8394dae00e0f493",
+      "fileSize": 136040
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS480P16_bottom.png",
-      "filename": "MS480P16_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:23.007",
-      "sha1": "ec74b3d93a3dd11711dbbf747435ff99b23b012c",
-      "fileSize": 3082016
+      "name": "MN300_top.jpg",
+      "filename": "MN300_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.669",
+      "sha1": "059c05d766fa0bb72782e3d467cc2e51253749b0",
+      "fileSize": 236551
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS480P16_top_persp.png",
-      "filename": "MS480P16_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:24.222",
-      "sha1": "6b9c2de5ec72a7ce412a6c896d66dfe1b8ecfeae",
-      "fileSize": 839943
+      "name": "MN300_top.webp",
+      "filename": "MN300_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300_top.webp",
+      "lastUpdate": "2026-09-09T10:58:19.453",
+      "sha1": "4a099b734dd1e526beaf1e159aa6b68e00270237",
+      "fileSize": 175952
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS480P16_top.png",
-      "filename": "MS480P16_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_top.png",
-      "lastUpdate": "2026-09-08T15:29:23.986",
-      "sha1": "d4ebf330bc4e0adde717534291ae6e1ca0410d2a",
-      "fileSize": 3011625
+      "name": "MN300P16_bottom.jpg",
+      "filename": "MN300P16_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.819",
+      "sha1": "be138fab6449f900f31d169b8d12f82d8b20c75a",
+      "fileSize": 297606
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS481_bottom.png",
-      "filename": "MS481_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:29.388",
-      "sha1": "284c47539e9d9ff0ef45a501999576b35a834acf",
-      "fileSize": 2113094
+      "name": "MN300P16_bottom.webp",
+      "filename": "MN300P16_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:19.818",
+      "sha1": "1fa6f527772c1f961add6c274e22866c8385fbc3",
+      "fileSize": 219648
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS481_top_persp.png",
-      "filename": "MS481_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:30.160",
-      "sha1": "dd83d73979f9150fb0ab439492056971ffcd42ce",
-      "fileSize": 1194347
+      "name": "MN300P16_persp.jpg",
+      "filename": "MN300P16_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.900",
+      "sha1": "1e016408be75370375628cd5e6c55434bde49928",
+      "fileSize": 242331
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS481_top.png",
-      "filename": "MS481_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_top.png",
-      "lastUpdate": "2026-09-08T15:29:29.812",
-      "sha1": "75d42151dea74f2d15d6103108163083002dbad2",
-      "fileSize": 1123397
+      "name": "MN300P16_persp.webp",
+      "filename": "MN300P16_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:19.960",
+      "sha1": "f70b7ada3e231fe969eb2278ccf73db223620f26",
+      "fileSize": 171772
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS481P16_bottom.png",
-      "filename": "MS481P16_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:27.215",
-      "sha1": "cbee9fb759eb29d38f7287854863d732e7dd7854",
-      "fileSize": 3007489
+      "name": "MN300P16_top.jpg",
+      "filename": "MN300P16_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:51.972",
+      "sha1": "d01b27adb1bfe6f1e4e9f0844bd84a0a8810871f",
+      "fileSize": 312363
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS481P16_top_persp.png",
-      "filename": "MS481P16_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:29.035",
-      "sha1": "23a3f70cdcfb653b65c24f858094e4f7769763ce",
-      "fileSize": 2133754
+      "name": "MN300P16_top.webp",
+      "filename": "MN300P16_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN300P16_top.webp",
+      "lastUpdate": "2026-09-09T10:58:20.143",
+      "sha1": "d53f90b59c39a6e8988987b5224e6f10a87e53c9",
+      "fileSize": 226856
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS481P16_top.png",
-      "filename": "MS481P16_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_top.png",
-      "lastUpdate": "2026-09-08T15:29:28.259",
-      "sha1": "86f544632596655261cb8ebe62cd6eece6b9b6d3",
-      "fileSize": 3189154
+      "name": "MN330_bottom.jpg",
+      "filename": "MN330_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.022",
+      "sha1": "7810dfe6dfbf26d88acf1049382bacf50310e955",
+      "fileSize": 145950
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491_bottom_persp.png",
-      "filename": "MS491_bottom_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_bottom_persp.png",
-      "lastUpdate": "2026-09-08T15:29:34.917",
-      "sha1": "fc2d5b50a97831806157c6ad3db9507170f4944f",
-      "fileSize": 1435205
+      "name": "MN330_bottom.webp",
+      "filename": "MN330_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:20.274",
+      "sha1": "b9eaee05810863d64878162355629794ccb16ca5",
+      "fileSize": 91458
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491_bottom.png",
-      "filename": "MS491_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:34.536",
-      "sha1": "acbda03d92b9dcdb13447771ca14b2656af1229b",
-      "fileSize": 1312044
+      "name": "MN330_top_persp.jpg",
+      "filename": "MN330_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.155",
+      "sha1": "ff71d32c66bd9f1663632162cb5cfb2cc8d2f242",
+      "fileSize": 182106
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491_top_persp.png",
-      "filename": "MS491_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:36.024",
-      "sha1": "355aa96adb27210d8be0fe392658f3d0dfe627d0",
-      "fileSize": 1228785
+      "name": "MN330_top_persp.webp",
+      "filename": "MN330_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:20.558",
+      "sha1": "bebb346e19614f6656d7c39bbc71c7529d142dc0",
+      "fileSize": 133534
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491_top.png",
-      "filename": "MS491_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_top.png",
-      "lastUpdate": "2026-09-08T15:29:35.483",
-      "sha1": "79dcaa4ec4082997233878e1d294cc060fbaa9d5",
-      "fileSize": 1303408
+      "name": "MN330_top.jpg",
+      "filename": "MN330_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.079",
+      "sha1": "7569afabec998e0ce0c5bf936f0db8013a46447f",
+      "fileSize": 185739
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491L_bottom.png",
-      "filename": "MS491L_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491L_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:30.662",
-      "sha1": "b1e843e8817141ed17c0fccaaccaaa0318bd5036",
-      "fileSize": 1650860
+      "name": "MN330_top.webp",
+      "filename": "MN330_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330_top.webp",
+      "lastUpdate": "2026-09-09T10:58:20.409",
+      "sha1": "e94c3e780ab4da0fd56c47c01e9c4a4485b98b73",
+      "fileSize": 133674
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491L_top.png",
-      "filename": "MS491L_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491L_top.png",
-      "lastUpdate": "2026-09-08T15:29:31.190",
-      "sha1": "b5036de27d22756a801c6ed09847c28db3fb1d5a",
-      "fileSize": 1445712
+      "name": "MN330P22_bottom.jpg",
+      "filename": "MN330P22_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.217",
+      "sha1": "631fbdbaf3d34d9648415ba96a2c074678e61409",
+      "fileSize": 187911
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491N_bottom_persp.png",
-      "filename": "MS491N_bottom_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_bottom_persp.png",
-      "lastUpdate": "2026-09-08T15:29:31.949",
-      "sha1": "cf459d56bd43ed2c00afacaa997770e484dfd907",
-      "fileSize": 985528
+      "name": "MN330P22_bottom.webp",
+      "filename": "MN330P22_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:20.672",
+      "sha1": "e858b014a8ae7bbb6ec902cbe131d2f27e44ae0c",
+      "fileSize": 106414
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491N_bottom.png",
-      "filename": "MS491N_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:31.699",
-      "sha1": "93480f0206070425d1d1565ea37038df963e2409",
-      "fileSize": 1230354
+      "name": "MN330P22_top_persp.jpg",
+      "filename": "MN330P22_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.362",
+      "sha1": "2e951e1fa49a17c0b12240c763c17b28ecb08896",
+      "fileSize": 233187
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491N_persp.png",
-      "filename": "MS491N_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_persp.png",
-      "lastUpdate": "2026-09-08T15:29:32.201",
-      "sha1": "bcf9de12ca25c60a11e4143467404013a7c64771",
-      "fileSize": 855749
+      "name": "MN330P22_top_persp.webp",
+      "filename": "MN330P22_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:20.970",
+      "sha1": "2952a31cf79dbff4be3e85227185c16d8e6f634e",
+      "fileSize": 164782
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491N_top.png",
-      "filename": "MS491N_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_top.png",
-      "lastUpdate": "2026-09-08T15:29:33.236",
-      "sha1": "22f43a381e4edbb2130b1d7f1b5ae3b9146efd6a",
-      "fileSize": 1185383
+      "name": "MN330P22_top.jpg",
+      "filename": "MN330P22_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.290",
+      "sha1": "ceab75001c26c4de303902e81d5d6df9e9ccaaf1",
+      "fileSize": 280926
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491R_bottom.png",
-      "filename": "MS491R_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491R_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:33.520",
-      "sha1": "8a8a35a298c11048aa816034d1db21f33f1a762b",
-      "fileSize": 1293811
+      "name": "MN330P22_top.webp",
+      "filename": "MN330P22_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN330P22_top.webp",
+      "lastUpdate": "2026-09-09T10:58:20.832",
+      "sha1": "923726b1d8b3dc44f484f16ea63be39ed5ffdc4c",
+      "fileSize": 199448
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS491R_top.png",
-      "filename": "MS491R_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491R_top.png",
-      "lastUpdate": "2026-09-08T15:29:33.833",
-      "sha1": "15a7ef2549878e5124a31016ce61125cb9df93d3",
-      "fileSize": 1193719
+      "name": "MN340CD_bottom.jpg",
+      "filename": "MN340CD_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.423",
+      "sha1": "e71f4e1618240d7fa499864bb1f57e8f3ac887ce",
+      "fileSize": 217616
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS500_bottom.png",
-      "filename": "MS500_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:39.853",
-      "sha1": "95e22bbe52cd31c8be7aa5244099e01be3100056",
-      "fileSize": 1201492
+      "name": "MN340CD_bottom.webp",
+      "filename": "MN340CD_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:21.122",
+      "sha1": "222db6d9b790b1d44bd64c3a025e43d2c964e1c7",
+      "fileSize": 137056
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS500_top_persp.png",
-      "filename": "MS500_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:40.564",
-      "sha1": "30c18e433344bc959f56e784100d73af19f30c5b",
-      "fileSize": 1384276
+      "name": "MN340CD_persp.jpg",
+      "filename": "MN340CD_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.496",
+      "sha1": "b04a513cd96bc62533b3c4fb25ed2bf93508c593",
+      "fileSize": 236863
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS500_top.png",
-      "filename": "MS500_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_top.png",
-      "lastUpdate": "2026-09-08T15:29:40.203",
-      "sha1": "f1530e2b73f1f3a6d561e16881f54e2489144800",
-      "fileSize": 1593462
+      "name": "MN340CD_persp.webp",
+      "filename": "MN340CD_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:21.265",
+      "sha1": "1ab0952fc3330c3d424fb4624f270cbac9c7ab78",
+      "fileSize": 166746
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS500N_bottom.png",
-      "filename": "MS500N_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:38.045",
-      "sha1": "4261a9a58ee122c28780c9ee303ec6dc0b4998a1",
-      "fileSize": 1832004
+      "name": "MN340CD_top.jpg",
+      "filename": "MN340CD_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.564",
+      "sha1": "f8ffe258ed02f5010f861f9b87a072caf392a40b",
+      "fileSize": 291740
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS500N_top_persp.png",
-      "filename": "MS500N_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:39.251",
-      "sha1": "ae5dc65b0e92bcf1b0d042fc1727c9a94632729b",
-      "fileSize": 1619435
+      "name": "MN340CD_top.webp",
+      "filename": "MN340CD_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MN340CD_top.webp",
+      "lastUpdate": "2026-09-09T10:58:21.428",
+      "sha1": "b1ef4be7c8698142a2200c9ebc2d126be7e511c2",
+      "fileSize": 202266
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS500N_top.png",
-      "filename": "MS500N_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_top.png",
-      "lastUpdate": "2026-09-08T15:29:38.695",
-      "sha1": "e3bdd07820054861ec3a8c26bd2691c890886d9a",
-      "fileSize": 1647469
+      "name": "MS420_bottom.jpg",
+      "filename": "MS420_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.600",
+      "sha1": "0f8657ea351d0cdc9cfcf370dd79ad88651679cc",
+      "fileSize": 189507
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS501_bottom.png",
-      "filename": "MS501_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:43.981",
-      "sha1": "0061a5596509c2270c98798101f97e56225d5714",
-      "fileSize": 1458806
+      "name": "MS420_bottom.webp",
+      "filename": "MS420_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:21.577",
+      "sha1": "4f9ad5dc61b879a22f4bc1dc88f2170125bdc424",
+      "fileSize": 143466
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS501_top_persp.png",
-      "filename": "MS501_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:44.676",
-      "sha1": "4f731aa7504c1d781f065f17337bfce5572870b0",
-      "fileSize": 1137435
+      "name": "MS420_persp.jpg",
+      "filename": "MS420_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.668",
+      "sha1": "d5cdb8effa8d4d70e0581f472f20888a906440d0",
+      "fileSize": 226069
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS501_top.png",
-      "filename": "MS501_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_top.png",
-      "lastUpdate": "2026-09-08T15:29:44.395",
-      "sha1": "6beda0574f1f1f77ebf4aeb5ddc2e3f6108152c5",
-      "fileSize": 1278981
+      "name": "MS420_persp.webp",
+      "filename": "MS420_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:21.729",
+      "sha1": "cd6792857992f2e87f436945169c7d9aa02afca8",
+      "fileSize": 164324
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS501N_bottom.png",
-      "filename": "MS501N_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:41.246",
-      "sha1": "8025441c649b7c80b488f4612ff5000e1a13c15c",
-      "fileSize": 1314498
+      "name": "MS420_top.jpg",
+      "filename": "MS420_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.702",
+      "sha1": "e28379e58b2bd04897740d07f46adbe06875f8bd",
+      "fileSize": 187658
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS501N_top_persp.png",
-      "filename": "MS501N_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:43.551",
-      "sha1": "a42d7cd1323bc82b8cebb7947459529deeeb81a0",
-      "fileSize": 1112882
+      "name": "MS420_top.webp",
+      "filename": "MS420_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420_top.webp",
+      "lastUpdate": "2026-09-09T10:58:21.840",
+      "sha1": "40fdc3b119fee274c987eef5d74103a35ef49236",
+      "fileSize": 137174
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS501N_top.png",
-      "filename": "MS501N_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_top.png",
-      "lastUpdate": "2026-09-08T15:29:41.662",
-      "sha1": "7ad5617774020c19750d0c98c1ad41eddfd10489",
-      "fileSize": 1263569
+      "name": "MS420P24_bottom.jpg",
+      "filename": "MS420P24_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.755",
+      "sha1": "0e800ce93e55663e996426a29df6527a295ab2ab",
+      "fileSize": 279258
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS540E24_bottom.png",
-      "filename": "MS540E24_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:45.630",
-      "sha1": "167c49c2e201036a3113262802a333afcc18c499",
-      "fileSize": 2319365
+      "name": "MS420P24_bottom.webp",
+      "filename": "MS420P24_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:21.978",
+      "sha1": "cbc5916caade6f49af82bce6353df371377109bd",
+      "fileSize": 199300
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS540E24_persp.png",
-      "filename": "MS540E24_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_persp.png",
-      "lastUpdate": "2026-09-08T15:29:45.921",
-      "sha1": "46b7c0e7be4f14136d3e1a1ea2aa5d69b049485a",
-      "fileSize": 697755
+      "name": "MS420P24_persp.jpg",
+      "filename": "MS420P24_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.815",
+      "sha1": "3dffa0f1b4756eb2a91bbd667657d4c5b8d8a0b5",
+      "fileSize": 302213
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS540E24_top.png",
-      "filename": "MS540E24_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_top.png",
-      "lastUpdate": "2026-09-08T15:29:46.779",
-      "sha1": "8fff5a2daa9d49cef429051773e65b236137a583",
-      "fileSize": 2612111
+      "name": "MS420P24_persp.webp",
+      "filename": "MS420P24_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:22.111",
+      "sha1": "d90fda5cee70ce292281fdcd74cfc078c4fc0c4a",
+      "fileSize": 213586
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS540P12_oben_persp.png",
-      "filename": "MS540P12_oben_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540P12_oben_persp.png",
-      "lastUpdate": "2026-09-08T15:29:48.879",
-      "sha1": "d2afea1c511401965bd37e2e1765f225a004b26a",
-      "fileSize": 2144431
+      "name": "MS420P24_top.jpg",
+      "filename": "MS420P24_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.862",
+      "sha1": "2d666731ee90a96f4ad3f7b24cbf53dbd4cbdaa2",
+      "fileSize": 322715
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS540P12_oben.png",
-      "filename": "MS540P12_oben.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540P12_oben.png",
-      "lastUpdate": "2026-09-08T15:29:48.309",
-      "sha1": "d7bdeb837e8eb0f25554b05e238967c749fd8ce3",
-      "fileSize": 2660893
+      "name": "MS420P24_top.webp",
+      "filename": "MS420P24_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS420P24_top.webp",
+      "lastUpdate": "2026-09-09T10:58:22.259",
+      "sha1": "166debfc70f83e221dbddba55b0d2a75259b9d4c",
+      "fileSize": 236090
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS560-bottom-persp.png",
-      "filename": "MS560-bottom-persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-bottom-persp.png",
-      "lastUpdate": "2026-09-08T15:29:49.599",
-      "sha1": "dbe9ef8f45740005de0bbd9fb95e39598b34f403",
-      "fileSize": 1428339
+      "name": "MS440_bottom.jpg",
+      "filename": "MS440_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.928",
+      "sha1": "0cd408e1db5ff16dc310484d34aa0abea15d1bba",
+      "fileSize": 245869
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS560-bottom.png",
-      "filename": "MS560-bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-bottom.png",
-      "lastUpdate": "2026-09-08T15:29:50.222",
-      "sha1": "8e41c23dabce9e8dc20096f1066f809732f13ad0",
-      "fileSize": 1657241
+      "name": "MS440_bottom.webp",
+      "filename": "MS440_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:22.424",
+      "sha1": "ee0414ea5187f172bf9e5b402208f71a4e40dcb0",
+      "fileSize": 160676
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS560-top-persp.png",
-      "filename": "MS560-top-persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-top-persp.png",
-      "lastUpdate": "2026-09-08T15:29:50.619",
-      "sha1": "cc7ded6d26ad9abc1619f364d9161adac013fd6a",
-      "fileSize": 1394743
+      "name": "MS440_persp.jpg",
+      "filename": "MS440_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:52.991",
+      "sha1": "d960e66573f09b1d30fb7de7a3046e3f06e81246",
+      "fileSize": 215262
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS560-top.png",
-      "filename": "MS560-top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-top.png",
-      "lastUpdate": "2026-09-08T15:29:51.209",
-      "sha1": "a4a551213dd3133c18030a2d1f09a7531416b408",
-      "fileSize": 1830225
+      "name": "MS440_persp.webp",
+      "filename": "MS440_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:22.568",
+      "sha1": "1342f86d857f53e2936738f0d73ab078f48f76dd",
+      "fileSize": 151206
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS581N18_bottom.png",
-      "filename": "MS581N18_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:54.318",
-      "sha1": "6a2082c8edeec3b3b9af175bd3bb68b7a5d66a93",
-      "fileSize": 2390841
+      "name": "MS440_top.jpg",
+      "filename": "MS440_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.060",
+      "sha1": "cba72469a45c2efab32482a423ec342334f19f84",
+      "fileSize": 276584
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS581N18_top_persp.png",
-      "filename": "MS581N18_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:55.848",
-      "sha1": "f793dc4149dc91d8d0287677f64a0a1380f5579d",
-      "fileSize": 1726802
+      "name": "MS440_top.webp",
+      "filename": "MS440_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS440_top.webp",
+      "lastUpdate": "2026-09-09T10:58:22.749",
+      "sha1": "8754a6b3225b81188beebae44117c07ca5195ad5",
+      "fileSize": 192788
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS581N18_top.png",
-      "filename": "MS581N18_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_top.png",
-      "lastUpdate": "2026-09-08T15:29:55.185",
-      "sha1": "f667ba4f546907297b3834676d0a77be0afd2008",
-      "fileSize": 2427020
+      "name": "MS450_bottom.jpg",
+      "filename": "MS450_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.110",
+      "sha1": "62f0a3e733646f4ee58a6c8010415fed53ffeac9",
+      "fileSize": 175507
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS581N18G_bottom.png",
-      "filename": "MS581N18G_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:51.912",
-      "sha1": "25c24a3d23bff9a0823c5493ffb24e31af469509",
-      "fileSize": 1789321
+      "name": "MS450_bottom.webp",
+      "filename": "MS450_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:22.894",
+      "sha1": "bc5e69d99acf51769d02740511cfc087e09e0858",
+      "fileSize": 124456
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS581N18G_top_persp.png",
-      "filename": "MS581N18G_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:53.233",
-      "sha1": "48caa0362530d175e8310387ea99210a4fee6861",
-      "fileSize": 1329270
+      "name": "MS450_persp.jpg",
+      "filename": "MS450_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.177",
+      "sha1": "c1cc847275216affa797b3d0ac2cfb93faeace62",
+      "fileSize": 184978
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS581N18G_top.png",
-      "filename": "MS581N18G_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_top.png",
-      "lastUpdate": "2026-09-08T15:29:52.652",
-      "sha1": "8f64bb7533051c5a3bf73f5ff7296440c7c631ec",
-      "fileSize": 1872370
+      "name": "MS450_persp.webp",
+      "filename": "MS450_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:23.052",
+      "sha1": "176e9761931efb860455868fc9bb922f76e41231",
+      "fileSize": 141646
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS590N18_RevC_bottom.png",
-      "filename": "MS590N18_RevC_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_bottom.png",
-      "lastUpdate": "2026-09-08T15:29:58.049",
-      "sha1": "c094eb1457d5e84cdab2527a93295039e21f47a0",
-      "fileSize": 3662966
+      "name": "MS450_top.jpg",
+      "filename": "MS450_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.228",
+      "sha1": "794b49378f2afd84be5d3e855d00e107b7f67b49",
+      "fileSize": 213545
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS590N18_RevC_top_persp.png",
-      "filename": "MS590N18_RevC_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_top_persp.png",
-      "lastUpdate": "2026-09-08T15:29:59.728",
-      "sha1": "33c06c7889a6d362d06cae37dbb7f1247ac3480a",
-      "fileSize": 2228210
+      "name": "MS450_top.webp",
+      "filename": "MS450_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450_top.webp",
+      "lastUpdate": "2026-09-09T10:58:23.219",
+      "sha1": "0d553d099a0c0d69369a6fd755eaee186cced3a4",
+      "fileSize": 156570
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS590N18_RevC_top.png",
-      "filename": "MS590N18_RevC_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_top.png",
-      "lastUpdate": "2026-09-08T15:29:59.137",
-      "sha1": "f59a25f7e4ed42fd618de3da033b857c0b5e6211",
-      "fileSize": 3694394
+      "name": "MS450P16_persp.jpg",
+      "filename": "MS450P16_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P16_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.280",
+      "sha1": "8db5d33283d5c8ca9b28cf0918f2b60d1c8589ae",
+      "fileSize": 225072
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS591N18_bottom.png",
-      "filename": "MS591N18_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_bottom.png",
-      "lastUpdate": "2026-09-08T15:30:00.912",
-      "sha1": "5cbd174a6f32bbf7f524094d451f1f0f249afa99",
-      "fileSize": 3282973
+      "name": "MS450P16_persp.webp",
+      "filename": "MS450P16_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P16_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:23.341",
+      "sha1": "9a73f1f31fb95b27e303e3c2a18a69d1f2b8b3b1",
+      "fileSize": 160770
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS591N18_top_persp.png",
-      "filename": "MS591N18_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_top_persp.png",
-      "lastUpdate": "2026-09-08T15:30:02.600",
-      "sha1": "37f8741cd508ae8d3964c0021b40ea84b31fa490",
-      "fileSize": 2170529
+      "name": "MS450P16_top.jpg",
+      "filename": "MS450P16_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P16_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.340",
+      "sha1": "f14638938a22c387f1506c5cf69f85752d98f64c",
+      "fileSize": 304825
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS591N18_top.png",
-      "filename": "MS591N18_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_top.png",
-      "lastUpdate": "2026-09-08T15:30:02.001",
-      "sha1": "3f9121dfa846b88e582863d9db21abf101c54fb7",
-      "fileSize": 3347393
+      "name": "MS450P16_top.webp",
+      "filename": "MS450P16_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P16_top.webp",
+      "lastUpdate": "2026-09-09T10:58:23.518",
+      "sha1": "825092ca3a4fb47e805bb8b1ece44292ebc3d353",
+      "fileSize": 229276
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS950_RevA_bottom.png",
-      "filename": "MS950_RevA_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevA_bottom.png",
-      "lastUpdate": "2026-09-08T15:30:06.690",
-      "sha1": "3a21170136993fc57be7c7aec1d306de4add1c2a",
-      "fileSize": 2627023
+      "name": "MS450P22_bottom.jpg",
+      "filename": "MS450P22_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.416",
+      "sha1": "7ae77e5f8f3c861567fbb29bb7907c54731263a8",
+      "fileSize": 253802
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS950_RevA_persp_bottom.png",
-      "filename": "MS950_RevA_persp_bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevA_persp_bottom.png",
-      "lastUpdate": "2026-09-08T15:30:07.380",
-      "sha1": "a39df1012cbb1306ad6763b0946d7800ed906220",
-      "fileSize": 2148254
+      "name": "MS450P22_bottom.webp",
+      "filename": "MS450P22_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:23.685",
+      "sha1": "c29d0d900e94be35c114381de4a772a5e9d2e70d",
+      "fileSize": 165508
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS950_RevB_top_persp.png",
-      "filename": "MS950_RevB_top_persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevB_top_persp.png",
-      "lastUpdate": "2026-09-08T15:30:09.925",
-      "sha1": "150d67eb4f342d45e9f11d2f206494f3515b2d64",
-      "fileSize": 2121968
+      "name": "MS450P22_persp.jpg",
+      "filename": "MS450P22_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.471",
+      "sha1": "3ddfe55507c705105a34666553ba3ea54457d4f8",
+      "fileSize": 225261
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS950_RevB_top.png",
-      "filename": "MS950_RevB_top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevB_top.png",
-      "lastUpdate": "2026-09-08T15:30:09.091",
-      "sha1": "2d6b8f9437d634ac870ff993510d659985187d9a",
-      "fileSize": 2624555
+      "name": "MS450P22_persp.webp",
+      "filename": "MS450P22_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:23.827",
+      "sha1": "b29411feab73ca3caef9d967dd1ca566412817f5",
+      "fileSize": 159750
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS990-Bodenplatte-bottom-persp.png",
-      "filename": "MS990-Bodenplatte-bottom-persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990-Bodenplatte-bottom-persp.png",
-      "lastUpdate": "2026-09-08T15:30:10.691",
-      "sha1": "00c0381e387d745312d45e77881e944c95bb47b9",
-      "fileSize": 1044290
+      "name": "MS450P22_top.jpg",
+      "filename": "MS450P22_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.535",
+      "sha1": "1f09a6fe9700ee3e445169801989f4c62f86d6b3",
+      "fileSize": 305468
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS990K-persp.png",
-      "filename": "MS990K-persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990K-persp.png",
-      "lastUpdate": "2026-09-08T15:30:11.038",
-      "sha1": "8a14d1f696fbe3755994c3108e084a94d7acb68c",
-      "fileSize": 919389
+      "name": "MS450P22_top.webp",
+      "filename": "MS450P22_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450P22_top.webp",
+      "lastUpdate": "2026-09-09T10:58:23.984",
+      "sha1": "714e8d281bf4494213ff3a064a86ba91c978d3b1",
+      "fileSize": 231202
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS990K-top.png",
-      "filename": "MS990K-top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990K-top.png",
-      "lastUpdate": "2026-09-08T15:30:12.328",
-      "sha1": "4ee908854ee6effe7e2ccb7c9d88e6573d90f141",
-      "fileSize": 1312704
+      "name": "MS450R-Kabel.jpg",
+      "filename": "MS450R-Kabel.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450R-Kabel.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.589",
+      "sha1": "815cc1faffb8f6a51b0dc8fd2604c8009c6b3855",
+      "fileSize": 159403
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS990L-bottom.png",
-      "filename": "MS990L-bottom.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-bottom.png",
-      "lastUpdate": "2026-09-08T15:30:13.187",
-      "sha1": "6baf78b730f85caaf714129b89969a13222eb085",
-      "fileSize": 1289354
+      "name": "MS450R-Kabel.webp",
+      "filename": "MS450R-Kabel.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS450R-Kabel.webp",
+      "lastUpdate": "2026-09-09T10:58:24.097",
+      "sha1": "a52d480150ecfa5fa9c44c2b8706c99afcfae40e",
+      "fileSize": 126322
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS990L-persp.png",
-      "filename": "MS990L-persp.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-persp.png",
-      "lastUpdate": "2026-09-08T15:30:13.531",
-      "sha1": "c1127b27cef043d95f96e63ea48f4ade67605068",
-      "fileSize": 921281
+      "name": "MS480_bottom.jpg",
+      "filename": "MS480_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.624",
+      "sha1": "b13db0762f80ca1cda621b1f264f55c5107b1c95",
+      "fileSize": 99788
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MS990L-top.png",
-      "filename": "MS990L-top.png",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-top.png",
-      "lastUpdate": "2026-09-08T15:30:14.827",
-      "sha1": "28b3299222508e582f3ed757b2bde6c51b992f67",
-      "fileSize": 1296660
+      "name": "MS480_bottom.webp",
+      "filename": "MS480_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:24.195",
+      "sha1": "61138fd4e1a7261abe96750c6b485363589a9672",
+      "fileSize": 73550
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480_top_persp.jpg",
+      "filename": "MS480_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.721",
+      "sha1": "9bee0860d99d4a57512d37358ee27564a35fd152",
+      "fileSize": 134439
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480_top_persp.webp",
+      "filename": "MS480_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:24.445",
+      "sha1": "662faa5215fc8988fa8e4110286bebee95c84ba3",
+      "fileSize": 102048
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480_top.jpg",
+      "filename": "MS480_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.676",
+      "sha1": "90b9ab5225e015ad983b6cb847b3fb5b46ed1dad",
+      "fileSize": 137896
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480_top.webp",
+      "filename": "MS480_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480_top.webp",
+      "lastUpdate": "2026-09-09T10:58:24.332",
+      "sha1": "8d02fcf61f406b342ded1dd4fe0b47763cd916fe",
+      "fileSize": 98894
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480P16_bottom.jpg",
+      "filename": "MS480P16_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.800",
+      "sha1": "1ddcb1179c11dac6e3c7eeb7b6190955a791c03a",
+      "fileSize": 263778
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480P16_bottom.webp",
+      "filename": "MS480P16_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:24.607",
+      "sha1": "428ed971b892325333f2d75e3b8b547d1bef8109",
+      "fileSize": 179092
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480P16_top_persp.jpg",
+      "filename": "MS480P16_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.935",
+      "sha1": "4ff0d0c56aac0c2ca4de6f3930011a8bfa50dd7f",
+      "fileSize": 244242
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480P16_top_persp.webp",
+      "filename": "MS480P16_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:24.918",
+      "sha1": "273881aafa43614758d3ebfdc5f1f915f57b172f",
+      "fileSize": 169230
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480P16_top.jpg",
+      "filename": "MS480P16_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.874",
+      "sha1": "92252631e65540f56adb0f1bf06d2057860fc672",
+      "fileSize": 261960
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS480P16_top.webp",
+      "filename": "MS480P16_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS480P16_top.webp",
+      "lastUpdate": "2026-09-09T10:58:24.769",
+      "sha1": "173adc9cda810c5a5ce2d852cca227f56ce65b2f",
+      "fileSize": 180672
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481_bottom.jpg",
+      "filename": "MS481_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:53.978",
+      "sha1": "3fd7bf68f524e4d0db5c5a2a07d99a566192083a",
+      "fileSize": 115045
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481_bottom.webp",
+      "filename": "MS481_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:25.087",
+      "sha1": "2b67841c47ce22a710ed77162a7cc099266aa54d",
+      "fileSize": 137296
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481_top_persp.jpg",
+      "filename": "MS481_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.092",
+      "sha1": "52c5b5607602247055aa62118cdbcc5a84b10bc2",
+      "fileSize": 136327
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481_top_persp.webp",
+      "filename": "MS481_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:25.364",
+      "sha1": "1a8d7600c40f1521d82a9efdafe1c2be6c013af8",
+      "fileSize": 100256
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481_top.jpg",
+      "filename": "MS481_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.027",
+      "sha1": "b36c4cf57cc8d1b47e411f611f6b504ca183ea12",
+      "fileSize": 115625
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481_top.webp",
+      "filename": "MS481_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481_top.webp",
+      "lastUpdate": "2026-09-09T10:58:25.214",
+      "sha1": "b7279ece629cc73f37bae2370150279ff25de5d4",
+      "fileSize": 82866
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481P16_bottom.jpg",
+      "filename": "MS481P16_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.174",
+      "sha1": "dc5dc96d1687b77d5f544d9ecf7ff06a02e10f0b",
+      "fileSize": 266025
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481P16_bottom.webp",
+      "filename": "MS481P16_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:25.547",
+      "sha1": "78b9e0fd092d75b19420e2877861020c69106065",
+      "fileSize": 174790
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481P16_top_persp.jpg",
+      "filename": "MS481P16_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.314",
+      "sha1": "260ffe8521921536a43c0066063b6fe818bc9fb8",
+      "fileSize": 220659
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481P16_top_persp.webp",
+      "filename": "MS481P16_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:25.879",
+      "sha1": "78a4a8c23ecf357e7825cc56642192c8ca78fa57",
+      "fileSize": 148934
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481P16_top.jpg",
+      "filename": "MS481P16_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.242",
+      "sha1": "ed21d3ecfcec21a943712cb29711dbac2ebb1edb",
+      "fileSize": 312919
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS481P16_top.webp",
+      "filename": "MS481P16_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS481P16_top.webp",
+      "lastUpdate": "2026-09-09T10:58:25.718",
+      "sha1": "f7a7c0e838ba7fadc4a41712f73d8a42efcde4d6",
+      "fileSize": 220200
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490_bottom_bedrahtet.jpg",
+      "filename": "MS490_bottom_bedrahtet.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490_bottom_bedrahtet.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.342",
+      "sha1": "f0eda145d2d4a818603d8686d14679574f54a689",
+      "fileSize": 121812
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490_bottom_bedrahtet.webp",
+      "filename": "MS490_bottom_bedrahtet.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490_bottom_bedrahtet.webp",
+      "lastUpdate": "2026-09-09T10:58:25.957",
+      "sha1": "45fd3af878e6fecbaefb602d0bce02e89bd5cd20",
+      "fileSize": 89464
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490_top_bedrahtet.jpg",
+      "filename": "MS490_top_bedrahtet.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490_top_bedrahtet.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.375",
+      "sha1": "dbe51163b4523829a948b77a14e40e5f30674412",
+      "fileSize": 106925
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490_top_bedrahtet.webp",
+      "filename": "MS490_top_bedrahtet.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490_top_bedrahtet.webp",
+      "lastUpdate": "2026-09-09T10:58:26.044",
+      "sha1": "05478cc4e761d8fb79923b8d61754658efff69e0",
+      "fileSize": 82896
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490N_bottom.jpg",
+      "filename": "MS490N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490N_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.440",
+      "sha1": "18053df7a43dcad8c2db339b604aeebc45d0dea7",
+      "fileSize": 122200
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490N_bottom.webp",
+      "filename": "MS490N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490N_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:26.231",
+      "sha1": "2d266d384753b491dd5c7694867ad7b8446fd691",
+      "fileSize": 80804
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490N_perspektive.jpg",
+      "filename": "MS490N_perspektive.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490N_perspektive.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.491",
+      "sha1": "0bd9537f9449431bea03b36c67067038f9911697",
+      "fileSize": 163602
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490N_perspektive.webp",
+      "filename": "MS490N_perspektive.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490N_perspektive.webp",
+      "lastUpdate": "2026-09-09T10:58:26.344",
+      "sha1": "66a7b5f83722126625ca0623cb0584baa39b1003",
+      "fileSize": 114142
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490N.jpg",
+      "filename": "MS490N.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490N.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.410",
+      "sha1": "7940891be6296243495e3633319ffdecf492a5c6",
+      "fileSize": 122442
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS490N.webp",
+      "filename": "MS490N.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS490N.webp",
+      "lastUpdate": "2026-09-09T10:58:26.130",
+      "sha1": "aefea54d179c433374eb23c3ea5b1ac271fe0c33",
+      "fileSize": 78704
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_bottom_persp.jpg",
+      "filename": "MS491_bottom_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_bottom_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.584",
+      "sha1": "ca3a9ae1c39da0384519bf0fd0547d7f62db5758",
+      "fileSize": 156477
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_bottom_persp.webp",
+      "filename": "MS491_bottom_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_bottom_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:26.622",
+      "sha1": "746ee4e9d8ca8e5acc588c9f099af0385c2401f2",
+      "fileSize": 116444
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_bottom.jpg",
+      "filename": "MS491_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.531",
+      "sha1": "7607c3dfb9cb27522cfe6392b27ccfc5c8b47817",
+      "fileSize": 141363
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_bottom.webp",
+      "filename": "MS491_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:26.469",
+      "sha1": "62ec8f3a191a119f514184f001a09b3cd228cf52",
+      "fileSize": 109894
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_top_persp.jpg",
+      "filename": "MS491_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.696",
+      "sha1": "58828f1df551311fb68f0c0e1d08f02acc7cc1bd",
+      "fileSize": 144694
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_top_persp.webp",
+      "filename": "MS491_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:26.917",
+      "sha1": "4a095cf0e47fc7bfe23b6ce58723a306240aab85",
+      "fileSize": 107894
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_top.jpg",
+      "filename": "MS491_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.634",
+      "sha1": "d6014ce94d850bc36821b3c663eb873c955a4bdd",
+      "fileSize": 143321
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491_top.webp",
+      "filename": "MS491_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491_top.webp",
+      "lastUpdate": "2026-09-09T10:58:26.758",
+      "sha1": "4241747ad1dac7a81f30ab74bd162a9ce4c36c34",
+      "fileSize": 108210
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491L_bottom.jpg",
+      "filename": "MS491L_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491L_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.743",
+      "sha1": "c2f2a52c3d15338ed694d68fe98ec37ae7f9a706",
+      "fileSize": 177400
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491L_bottom.webp",
+      "filename": "MS491L_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491L_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:27.043",
+      "sha1": "6175b2eec446e5dc38d4a4c3e0e3a307b43c5982",
+      "fileSize": 135334
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491L_top.jpg",
+      "filename": "MS491L_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491L_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.789",
+      "sha1": "d3b9c9e5928ef28a75b852d3b6e13c751bdad380",
+      "fileSize": 145455
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491L_top.webp",
+      "filename": "MS491L_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491L_top.webp",
+      "lastUpdate": "2026-09-09T10:58:27.156",
+      "sha1": "19789053347709d2638a61387e73f422ff8d7478",
+      "fileSize": 98320
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_bottom_persp.jpg",
+      "filename": "MS491N_bottom_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_bottom_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.879",
+      "sha1": "a3d9d5056f9a128c55661d7604daf918cdf937cf",
+      "fileSize": 116102
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_bottom_persp.webp",
+      "filename": "MS491N_bottom_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_bottom_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:27.326",
+      "sha1": "67c03b1366c2b50abfc777739e9faeb6ce4eff4e",
+      "fileSize": 91802
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_bottom.jpg",
+      "filename": "MS491N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.827",
+      "sha1": "7b13f69a1cb526dc606f13af49ac2cf5dd8ba8ed",
+      "fileSize": 134353
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_bottom.webp",
+      "filename": "MS491N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:27.242",
+      "sha1": "859fc04bb762b154796e349416106b0411271c16",
+      "fileSize": 100110
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_persp.jpg",
+      "filename": "MS491N_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.931",
+      "sha1": "3c95f9c561bb72d8a84bdad0000c4aadc31cf436",
+      "fileSize": 109241
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_persp.webp",
+      "filename": "MS491N_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:27.418",
+      "sha1": "eb8aa14f06f28b67575d061710cba1a7a6a447df",
+      "fileSize": 82722
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_top.jpg",
+      "filename": "MS491N_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:54.980",
+      "sha1": "76d0ceaa5c9967af57aa2d4d8c0c9d6b940234df",
+      "fileSize": 130482
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491N_top.webp",
+      "filename": "MS491N_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491N_top.webp",
+      "lastUpdate": "2026-09-09T10:58:27.511",
+      "sha1": "8eb8c6932eec9b0dd29bdadde6ce9d2eaa6262b7",
+      "fileSize": 94324
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491R_bottom.jpg",
+      "filename": "MS491R_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491R_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.026",
+      "sha1": "5cec52d97b5ec65939ddabe8b601c4e2487a1414",
+      "fileSize": 140328
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491R_bottom.webp",
+      "filename": "MS491R_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491R_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:27.624",
+      "sha1": "8bf870c0a3eb104da84f5800b87fff1e8f013ca5",
+      "fileSize": 117018
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491R_top.jpg",
+      "filename": "MS491R_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491R_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.074",
+      "sha1": "044f309ce12f53477498e7508d5366c9fe0c4482",
+      "fileSize": 131384
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS491R_top.webp",
+      "filename": "MS491R_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS491R_top.webp",
+      "lastUpdate": "2026-09-09T10:58:27.754",
+      "sha1": "32664437cddd242dec111fdc47273b964a5ed99a",
+      "fileSize": 103294
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500_bottom.jpg",
+      "filename": "MS500_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.116",
+      "sha1": "870ebb58d8725925eee001f8a0229decad933fbf",
+      "fileSize": 145649
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500_bottom.webp",
+      "filename": "MS500_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:27.880",
+      "sha1": "079b6a13951d337926cb1d6efccbb131f12fa8e4",
+      "fileSize": 117452
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500_top_persp.jpg",
+      "filename": "MS500_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.232",
+      "sha1": "977e6294e916083499baf2741cf833d96c873133",
+      "fileSize": 142158
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500_top_persp.webp",
+      "filename": "MS500_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:28.188",
+      "sha1": "808e69ae2f38179c0487a3642fe9b5cf33dcc6f0",
+      "fileSize": 112864
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500_top.jpg",
+      "filename": "MS500_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.176",
+      "sha1": "2841dff078691fd4b0e71b68865cbfc061c78643",
+      "fileSize": 180397
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500_top.webp",
+      "filename": "MS500_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500_top.webp",
+      "lastUpdate": "2026-09-09T10:58:28.018",
+      "sha1": "681047d924849543e45efb71daa18de1d90a875a",
+      "fileSize": 131240
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500N_bottom.jpg",
+      "filename": "MS500N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.293",
+      "sha1": "f5c81f8c01650ec20ce402cbc88a8eb908ffdb8d",
+      "fileSize": 177249
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500N_bottom.webp",
+      "filename": "MS500N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:28.383",
+      "sha1": "3dce87c9abaf34c0d3836b4f144e8897d33aae62",
+      "fileSize": 145046
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500N_top_persp.jpg",
+      "filename": "MS500N_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.422",
+      "sha1": "aa229a5e496cb9a94c771cca9db9ae26838d47bf",
+      "fileSize": 155962
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500N_top_persp.webp",
+      "filename": "MS500N_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:28.731",
+      "sha1": "dccd992a2a4f89de3d054ff70fe21b2f423f2d2c",
+      "fileSize": 117206
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500N_top.jpg",
+      "filename": "MS500N_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.355",
+      "sha1": "b191bc2d1850db3bae6aaa6040160e4814844e28",
+      "fileSize": 155714
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS500N_top.webp",
+      "filename": "MS500N_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS500N_top.webp",
+      "lastUpdate": "2026-09-09T10:58:28.563",
+      "sha1": "271f70e85b6511ccd60232ff522a9cd136189bbd",
+      "fileSize": 110464
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501_bottom.jpg",
+      "filename": "MS501_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.468",
+      "sha1": "55a89dfb2df04d2539a9a20671cd706de063c731",
+      "fileSize": 151077
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501_bottom.webp",
+      "filename": "MS501_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:28.896",
+      "sha1": "f41249f3e880e33c4b9ea7e7118f0d1891b6269e",
+      "fileSize": 113606
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501_top_persp.jpg",
+      "filename": "MS501_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.569",
+      "sha1": "79573249884824342c5dfd720870541fef8aaae6",
+      "fileSize": 126789
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501_top_persp.webp",
+      "filename": "MS501_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:29.178",
+      "sha1": "4d155d82dd3e37598b8aa27377adbc2fcb1fb22f",
+      "fileSize": 99652
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501_top.jpg",
+      "filename": "MS501_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.512",
+      "sha1": "0a5ad00ea5393e17201001b4305fe6b63fc199ca",
+      "fileSize": 124813
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501_top.webp",
+      "filename": "MS501_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501_top.webp",
+      "lastUpdate": "2026-09-09T10:58:29.047",
+      "sha1": "09052925bea19b76f08f7b02fe3b121847d61ff6",
+      "fileSize": 91198
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501N_bottom.jpg",
+      "filename": "MS501N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.630",
+      "sha1": "d98dd7fb75bca69a746b7d998898e0b576ef5e07",
+      "fileSize": 130580
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501N_bottom.webp",
+      "filename": "MS501N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:29.377",
+      "sha1": "b3d68915ab90e64e239a3a33e5e35d4ecad8b715",
+      "fileSize": 97644
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501N_top_persp.jpg",
+      "filename": "MS501N_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.732",
+      "sha1": "6ec9909074bdd2d4f5b8780a5c1439e0337629f1",
+      "fileSize": 116823
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501N_top_persp.webp",
+      "filename": "MS501N_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:29.707",
+      "sha1": "9762c3be2c9cdf78ccd71f4ccdc0bcec92c3a2ec",
+      "fileSize": 91800
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501N_top.jpg",
+      "filename": "MS501N_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.683",
+      "sha1": "30bcc2bd5818875220a7b32954025356243617cd",
+      "fileSize": 126826
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS501N_top.webp",
+      "filename": "MS501N_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS501N_top.webp",
+      "lastUpdate": "2026-09-09T10:58:29.559",
+      "sha1": "24dfdd83ad9ae12a34c87ed42cc6158721627b0a",
+      "fileSize": 91604
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540E24_bottom.jpg",
+      "filename": "MS540E24_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.793",
+      "sha1": "33fe7c7f57c177d3fa3a3b672c983992f2ea236a",
+      "fileSize": 197230
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540E24_bottom.webp",
+      "filename": "MS540E24_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:29.874",
+      "sha1": "e3ee2fcfe5a30c7570b501f44eb6381df084ba01",
+      "fileSize": 126090
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540E24_persp.jpg",
+      "filename": "MS540E24_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.857",
+      "sha1": "28922c1f673597025753732a80266f338b68500e",
+      "fileSize": 192256
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540E24_persp.webp",
+      "filename": "MS540E24_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:29.996",
+      "sha1": "601a619f95b2cf2b8f12d974f0a7b4e8bb1792f5",
+      "fileSize": 137284
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540E24_top.jpg",
+      "filename": "MS540E24_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.923",
+      "sha1": "291608c3a70bc42fc37d0b259e244181ac15bf64",
+      "fileSize": 243263
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540E24_top.webp",
+      "filename": "MS540E24_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540E24_top.webp",
+      "lastUpdate": "2026-09-09T10:58:30.133",
+      "sha1": "b1609ba06419b9144180ae6fbe743e5b9f3b3612",
+      "fileSize": 171870
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540P12_oben_persp.jpg",
+      "filename": "MS540P12_oben_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540P12_oben_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.049",
+      "sha1": "7ee3aa7d42d2606a3a8b7b0598a9d8d8b65e1d49",
+      "fileSize": 229969
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540P12_oben_persp.webp",
+      "filename": "MS540P12_oben_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540P12_oben_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:30.441",
+      "sha1": "564e26f11eeb7f61d3b52394e729c9ecc5791f93",
+      "fileSize": 164290
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540P12_oben.jpg",
+      "filename": "MS540P12_oben.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540P12_oben.jpg",
+      "lastUpdate": "2026-09-09T10:57:55.982",
+      "sha1": "37598a4894016b8a0a0577f3d65dde0879dd40d1",
+      "fileSize": 271871
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS540P12_oben.webp",
+      "filename": "MS540P12_oben.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS540P12_oben.webp",
+      "lastUpdate": "2026-09-09T10:58:30.289",
+      "sha1": "8582ec58b0ad9d10ecc336d7bf3e8eeb8176f773",
+      "fileSize": 204676
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-bottom-persp.jpg",
+      "filename": "MS560-bottom-persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-bottom-persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.110",
+      "sha1": "6540575c96d8da953ec59086ab286e5a3bbfd899",
+      "fileSize": 154857
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-bottom-persp.webp",
+      "filename": "MS560-bottom-persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-bottom-persp.webp",
+      "lastUpdate": "2026-09-09T10:58:30.572",
+      "sha1": "3e1a7b886b048ed09b23cc2edd1e4fa7131ffdd7",
+      "fileSize": 119752
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-bottom.jpg",
+      "filename": "MS560-bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.169",
+      "sha1": "856b4cf28cbb589cf4f87762409199dc4f352c6a",
+      "fileSize": 166317
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-bottom.webp",
+      "filename": "MS560-bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:30.709",
+      "sha1": "00bc7b2d8f70d0ce438363496b744737924eb74d",
+      "fileSize": 113340
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-top-persp.jpg",
+      "filename": "MS560-top-persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-top-persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.228",
+      "sha1": "b0b590c915c23ad86893b493e7af110e835a1aa3",
+      "fileSize": 155974
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-top-persp.webp",
+      "filename": "MS560-top-persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-top-persp.webp",
+      "lastUpdate": "2026-09-09T10:58:30.821",
+      "sha1": "e3a51c81ef8371994ee3988eee46dfc2d8a3cbeb",
+      "fileSize": 112786
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-top.jpg",
+      "filename": "MS560-top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-top.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.299",
+      "sha1": "d7b266804229c33dae179da1df34be104ce79de1",
+      "fileSize": 207725
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS560-top.webp",
+      "filename": "MS560-top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS560-top.webp",
+      "lastUpdate": "2026-09-09T10:58:30.973",
+      "sha1": "9134845b766609c88167706bbbf8679475ff252e",
+      "fileSize": 149170
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS580-Goldcaps.jpg",
+      "filename": "MS580-Goldcaps.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS580-Goldcaps.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.327",
+      "sha1": "897e9f0a270578cc44ea8f38c97acf17f031102b",
+      "fileSize": 131713
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS580-Goldcaps.webp",
+      "filename": "MS580-Goldcaps.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS580-Goldcaps.webp",
+      "lastUpdate": "2026-09-09T10:58:31.051",
+      "sha1": "34f62f9416f3fe8530a4fc4c5ae27dc59e9bd60a",
+      "fileSize": 78410
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS580N18-persp-3.jpg",
+      "filename": "MS580N18-persp-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS580N18-persp-3.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.371",
+      "sha1": "50ff2c24c625f07a125de4dd4e4de8201f5ff71a",
+      "fileSize": 177671
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS580N18-persp-3.webp",
+      "filename": "MS580N18-persp-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS580N18-persp-3.webp",
+      "lastUpdate": "2026-09-09T10:58:31.146",
+      "sha1": "fd73a1a17b4af37ad0591cf3f107281bde60c028",
+      "fileSize": 104748
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS580N18-top.jpg",
+      "filename": "MS580N18-top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS580N18-top.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.418",
+      "sha1": "998b1590edc3b4c69b39d4f49cd7c2985f959d88",
+      "fileSize": 270448
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS580N18-top.webp",
+      "filename": "MS580N18-top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS580N18-top.webp",
+      "lastUpdate": "2026-09-09T10:58:31.249",
+      "sha1": "21769c81abf0f4dcb781fed720dcaf2b9936d4bb",
+      "fileSize": 162294
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18_bottom.jpg",
+      "filename": "MS581N18_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.472",
+      "sha1": "e8143b889efe81b45386e29fa604d35e3c613299",
+      "fileSize": 231539
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18_bottom.webp",
+      "filename": "MS581N18_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:31.399",
+      "sha1": "d27d436ddee67677c238074e62936758f0915777",
+      "fileSize": 182080
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18_top_persp.jpg",
+      "filename": "MS581N18_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.612",
+      "sha1": "3ec3cae9c2cad46b2e59b69c911cf20c37bde21b",
+      "fileSize": 152087
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18_top_persp.webp",
+      "filename": "MS581N18_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:31.659",
+      "sha1": "9e526b8fd66b06d8059148ce7006f0c02795901a",
+      "fileSize": 106382
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18_top.jpg",
+      "filename": "MS581N18_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.547",
+      "sha1": "6ab762833e9f16628c759cc317b0ce26d87672a8",
+      "fileSize": 251448
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18_top.webp",
+      "filename": "MS581N18_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18_top.webp",
+      "lastUpdate": "2026-09-09T10:58:31.549",
+      "sha1": "22407371883b4f794cbd2fd85c01077801355bf7",
+      "fileSize": 180102
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18G_bottom.jpg",
+      "filename": "MS581N18G_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.664",
+      "sha1": "b77fada8f9085c0e873f10a27a35f2d023f2d871",
+      "fileSize": 176818
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18G_bottom.webp",
+      "filename": "MS581N18G_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:31.800",
+      "sha1": "313e288d39485bf00ddcecf300067c92f7e83047",
+      "fileSize": 131680
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18G_top_persp.jpg",
+      "filename": "MS581N18G_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.767",
+      "sha1": "891495b9d7cb089a4823893936ea6fc3c0e2fafe",
+      "fileSize": 124677
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18G_top_persp.webp",
+      "filename": "MS581N18G_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:32.053",
+      "sha1": "a30476a274ee2ec43f1bd92faa608a39e193bc49",
+      "fileSize": 90842
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18G_top.jpg",
+      "filename": "MS581N18G_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.711",
+      "sha1": "a545e1df5d126f94306e13a74d54037f91be9581",
+      "fileSize": 194466
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS581N18G_top.webp",
+      "filename": "MS581N18G_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS581N18G_top.webp",
+      "lastUpdate": "2026-09-09T10:58:31.935",
+      "sha1": "0ed2eddb8b224473be305b5a38ddc2fd02eab08f",
+      "fileSize": 137624
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS590N18_RevC_bottom.jpg",
+      "filename": "MS590N18_RevC_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.844",
+      "sha1": "cf69dd0e19c05b602915ef91be6e3c435461a9e5",
+      "fileSize": 332258
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS590N18_RevC_bottom.webp",
+      "filename": "MS590N18_RevC_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:32.266",
+      "sha1": "ada6b56b1692c34926b08bcc61155c02489cc6b8",
+      "fileSize": 254198
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS590N18_RevC_top_persp.jpg",
+      "filename": "MS590N18_RevC_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.988",
+      "sha1": "1319bb20ac9d694a23be42cbe848be98ff61dcc6",
+      "fileSize": 240721
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS590N18_RevC_top_persp.webp",
+      "filename": "MS590N18_RevC_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:32.594",
+      "sha1": "5969f6b546e5a3a4a4fb21232e4cdc21defcc915",
+      "fileSize": 171112
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS590N18_RevC_top.jpg",
+      "filename": "MS590N18_RevC_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:56.921",
+      "sha1": "0ee34e7e88b0b57bb08b4dc21df27e664c818714",
+      "fileSize": 375930
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS590N18_RevC_top.webp",
+      "filename": "MS590N18_RevC_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS590N18_RevC_top.webp",
+      "lastUpdate": "2026-09-09T10:58:32.461",
+      "sha1": "860456d73156e88779463d4c202753051e808e55",
+      "fileSize": 274412
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS591N18_bottom.jpg",
+      "filename": "MS591N18_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.064",
+      "sha1": "fa0783f5c8909f9e337469a35341745efee561f3",
+      "fileSize": 253913
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS591N18_bottom.webp",
+      "filename": "MS591N18_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:32.770",
+      "sha1": "ff3c8c6687531e9805aedda88a42f465e370db75",
+      "fileSize": 166056
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS591N18_top_persp.jpg",
+      "filename": "MS591N18_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.212",
+      "sha1": "e24306dbda5f70f2dfb9f754c4e986e358b72d0a",
+      "fileSize": 190165
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS591N18_top_persp.webp",
+      "filename": "MS591N18_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:33.080",
+      "sha1": "686b23076da439511a263b7fd94d61888ae7d8a2",
+      "fileSize": 128510
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS591N18_top.jpg",
+      "filename": "MS591N18_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.148",
+      "sha1": "563f9614a96fd0db419978b573af421bb4d0c4fe",
+      "fileSize": 324876
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS591N18_top.webp",
+      "filename": "MS591N18_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS591N18_top.webp",
+      "lastUpdate": "2026-09-09T10:58:32.955",
+      "sha1": "d9220a5f316766244a6e6b077119ea6d61e313f2",
+      "fileSize": 224778
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevA_bottom.jpg",
+      "filename": "MS950_RevA_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevA_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.271",
+      "sha1": "aa7e87cb584e118cd84c3c1bc6a3808d85eea0b3",
+      "fileSize": 246211
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevA_bottom.webp",
+      "filename": "MS950_RevA_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevA_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:33.225",
+      "sha1": "2a3e1e1efc6587aa7464f74c40ba68a95b9dc400",
+      "fileSize": 168662
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevA_persp_bottom.jpg",
+      "filename": "MS950_RevA_persp_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevA_persp_bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.341",
+      "sha1": "cfb2ea4b283a8f51da6d1b9479b095673a7eb7d7",
+      "fileSize": 221194
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevA_persp_bottom.webp",
+      "filename": "MS950_RevA_persp_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevA_persp_bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:33.353",
+      "sha1": "7ee9b31f51c0cdb1b189e8167620df86fe5caf7b",
+      "fileSize": 160274
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevB_top_persp.jpg",
+      "filename": "MS950_RevB_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevB_top_persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.490",
+      "sha1": "f724fc36d1bfef548f1c4c8f12864275d586f78d",
+      "fileSize": 234545
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevB_top_persp.webp",
+      "filename": "MS950_RevB_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevB_top_persp.webp",
+      "lastUpdate": "2026-09-09T10:58:33.637",
+      "sha1": "27ba13c7fdad0ff0b7edecfa16d970a96e744662",
+      "fileSize": 160230
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevB_top.jpg",
+      "filename": "MS950_RevB_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevB_top.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.401",
+      "sha1": "e02ecd2cc4738e60ea66fbd71adcd5d4dc95a870",
+      "fileSize": 270314
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS950_RevB_top.webp",
+      "filename": "MS950_RevB_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS950_RevB_top.webp",
+      "lastUpdate": "2026-09-09T10:58:33.490",
+      "sha1": "cdc60119db5dd945a600b8bcc74d8288c629f434",
+      "fileSize": 185048
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990-Bodenplatte-bottom-persp.jpg",
+      "filename": "MS990-Bodenplatte-bottom-persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990-Bodenplatte-bottom-persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.557",
+      "sha1": "a21d50f7100b9e94b643c56052c345ce95b9c6dd",
+      "fileSize": 317045
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990-Bodenplatte-bottom-persp.webp",
+      "filename": "MS990-Bodenplatte-bottom-persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990-Bodenplatte-bottom-persp.webp",
+      "lastUpdate": "2026-09-09T10:58:33.782",
+      "sha1": "ba4e4f4bc5dbd73664e7df6afc3f7164399cfe9c",
+      "fileSize": 202890
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990K-persp.jpg",
+      "filename": "MS990K-persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990K-persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.616",
+      "sha1": "6b9a9ded5d5fef3259fba5e6e2a7d3391b53f5b1",
+      "fileSize": 276614
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990K-persp.webp",
+      "filename": "MS990K-persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990K-persp.webp",
+      "lastUpdate": "2026-09-09T10:58:33.931",
+      "sha1": "0be94ae6e80a21c2bce6cf582c902087b1c3afe9",
+      "fileSize": 160786
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990K-top.jpg",
+      "filename": "MS990K-top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990K-top.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.679",
+      "sha1": "ffbc12002e0a037547cb4ed7cf070513e0292622",
+      "fileSize": 425440
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990K-top.webp",
+      "filename": "MS990K-top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990K-top.webp",
+      "lastUpdate": "2026-09-09T10:58:34.091",
+      "sha1": "2973534174a2891dc787469877766c92213df311",
+      "fileSize": 243636
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990L-bottom.jpg",
+      "filename": "MS990L-bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-bottom.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.734",
+      "sha1": "53d7d500678408e9236bb7063c69f450d87a18a2",
+      "fileSize": 410435
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990L-bottom.webp",
+      "filename": "MS990L-bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-bottom.webp",
+      "lastUpdate": "2026-09-09T10:58:34.273",
+      "sha1": "0446724642953d34809409fa455b66cdfe751648",
+      "fileSize": 243934
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990L-persp.jpg",
+      "filename": "MS990L-persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-persp.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.795",
+      "sha1": "486fcc1e8208ee0259c87847e5205830223c8ae3",
+      "fileSize": 287096
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990L-persp.webp",
+      "filename": "MS990L-persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-persp.webp",
+      "lastUpdate": "2026-09-09T10:58:34.416",
+      "sha1": "b61ee172b18d6262963b9315b60431d60b9ba0dd",
+      "fileSize": 179852
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990L-top.jpg",
+      "filename": "MS990L-top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-top.jpg",
+      "lastUpdate": "2026-09-09T10:57:57.861",
+      "sha1": "7dc78bc75fdd0363db7d5dddbabce73a19780d6d",
+      "fileSize": 407769
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MS990L-top.webp",
+      "filename": "MS990L-top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MS990L-top.webp",
+      "lastUpdate": "2026-09-09T10:58:34.613",
+      "sha1": "25bb02ea0a2dcd70728b5b2096fb215ce5191a3e",
+      "fileSize": 241772
     },
     {
       "manufacturerId": 160,
@@ -12460,66 +13940,6 @@
       "lastUpdate": "0001-01-01T00:00:00.000",
       "sha1": "3ac570a9962ec96d2de9c6a3706b23f2aab41ea4",
       "fileSize": 53436
-    },
-    {
-      "manufacturerId": 145,
-      "manufacturerExtendedId": 0,
-      "name": "ZIMO-MS490_bottom_bedrahtet_HD.jpg",
-      "filename": "ZIMO-MS490_bottom_bedrahtet_HD.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS490_bottom_bedrahtet_HD.jpg",
-      "lastUpdate": "2022-01-23T18:26:58.000",
-      "sha1": "1b04b9dc28d8144f72a09dfde56bad02fb9acc33",
-      "fileSize": 63426
-    },
-    {
-      "manufacturerId": 145,
-      "manufacturerExtendedId": 0,
-      "name": "ZIMO-MS490_top_bedrahtet_HD.jpg",
-      "filename": "ZIMO-MS490_top_bedrahtet_HD.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS490_top_bedrahtet_HD.jpg",
-      "lastUpdate": "2022-01-23T18:26:58.000",
-      "sha1": "29f673b78af80a598c6999049ecfa75fb43bfd03",
-      "fileSize": 70087
-    },
-    {
-      "manufacturerId": 145,
-      "manufacturerExtendedId": 0,
-      "name": "ZIMO-MS490N_bottom_HD.jpg",
-      "filename": "ZIMO-MS490N_bottom_HD.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS490N_bottom_HD.jpg",
-      "lastUpdate": "2022-01-23T18:26:56.000",
-      "sha1": "27fab8017e642ddf1c5ccda58a6df5ab1b2f8a25",
-      "fileSize": 48889
-    },
-    {
-      "manufacturerId": 145,
-      "manufacturerExtendedId": 0,
-      "name": "ZIMO-MS490N_top_HD.jpg",
-      "filename": "ZIMO-MS490N_top_HD.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS490N_top_HD.jpg",
-      "lastUpdate": "2022-01-23T18:26:57.000",
-      "sha1": "9c7297f5c4a89c71b22819ab47a88d5bd2984501",
-      "fileSize": 49957
-    },
-    {
-      "manufacturerId": 145,
-      "manufacturerExtendedId": 0,
-      "name": "ZIMO-MS580_bottom_HD.jpg",
-      "filename": "ZIMO-MS580_bottom_HD.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS580_bottom_HD.jpg",
-      "lastUpdate": "2020-04-29T00:02:42.000",
-      "sha1": "d2bdeaf0815cff9d528f1766f19c6ef37ceec89a",
-      "fileSize": 86780
-    },
-    {
-      "manufacturerId": 145,
-      "manufacturerExtendedId": 0,
-      "name": "ZIMO-MS580_top_HD.jpg",
-      "filename": "ZIMO-MS580_top_HD.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/ZIMO-MS580_top_HD.jpg",
-      "lastUpdate": "2020-04-29T00:02:42.000",
-      "sha1": "cc5cb205c0fb6ad67339d1de8717b587ae945cb1",
-      "fileSize": 109172
     },
     {
       "manufacturerId": 109,
