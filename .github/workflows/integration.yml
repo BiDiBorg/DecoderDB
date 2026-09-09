@@ -18,12 +18,12 @@ concurrency:
 jobs:
   build_with_image:
     runs-on: ubuntu-latest
-    container: mcr.microsoft.com/dotnet/sdk:8.0
+    container: mcr.microsoft.com/dotnet/sdk:10.0
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: save output to cache
         id: cache-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: Output
           key: ${{ runner.os }}-output-${{ hashFiles('./src/**/*.cs') }}
@@ -34,11 +34,15 @@ jobs:
   generate_repository_json:
     needs: build_with_image
     runs-on: ubuntu-latest
-    container: mcr.microsoft.com/dotnet/sdk:8.0
+    container: mcr.microsoft.com/dotnet/sdk:10.0
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
+        with:
+          ref: ${{ github.head_ref }}
+          # Value already defaults to true, but `persist-credentials` is required to push new commits to the repository.
+          persist-credentials: true
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
@@ -47,7 +51,7 @@ jobs:
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: restore output from cache
         id: restore-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: Output
           key: ${{ runner.os }}-output-${{ hashFiles('./src/**/*.cs') }}
@@ -55,7 +59,7 @@ jobs:
 
       - name: generate
         if: steps.restore-output.outputs.cache-hit == 'true'
-        run: dotnet ./Output/Release/RepoGenerator/net8.0/org.bidib.DecoderDB.RepoGenerator.dll --repoPath ./repo/  --outputPath ./repo/ --baseUri ${{ vars.FICHTELBAHN_REPOURL }}
+        run: dotnet ./Output/Release/RepoGenerator/net10.0/org.bidib.DecoderDB.RepoGenerator.dll --repoPath ./repo/  --outputPath ./repo/ --baseUri ${{ vars.FICHTELBAHN_REPOURL }}
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
@@ -63,7 +67,7 @@ jobs:
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: save json to cache
         id: cache-json
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: |
             repo/repository.json
@@ -76,7 +80,7 @@ jobs:
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: "Upload Artifact"
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7.0.1
         with:
           name: repo-file
           path: |
@@ -89,7 +93,7 @@ jobs:
           git config --global --add safe.directory /__w/DecoderDB/DecoderDB
       - name: commit generated
         if: steps.restore-output.outputs.cache-hit == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v7.2.0
         id: auto-commit-action
         with:
           commit_message: Update generated files [skip ci]
@@ -107,13 +111,13 @@ jobs:
   deploy_json_to_ftp:
     needs: generate_repository_json
     runs-on: ubuntu-latest
-    container: mcr.microsoft.com/dotnet/sdk:8.0
+    container: mcr.microsoft.com/dotnet/sdk:10.0
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: restore output from cache
         id: restore-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: |
             repo/repository.json
@@ -147,10 +151,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: restore output from cache
         id: restore-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           enableCrossOsArchive: true
           path: |
