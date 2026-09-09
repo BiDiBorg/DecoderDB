@@ -18,7 +18,7 @@ concurrency:
 jobs:
   build_with_image:
     runs-on: ubuntu-latest
-    container: mcr.microsoft.com/dotnet/sdk:8.0
+    container: mcr.microsoft.com/dotnet/sdk:10.0
     steps:
       - uses: actions/checkout@v7.0.1
       - name: save output to cache
@@ -34,7 +34,7 @@ jobs:
   generate_repository_json:
     needs: build_with_image
     runs-on: ubuntu-latest
-    container: mcr.microsoft.com/dotnet/sdk:8.0
+    container: mcr.microsoft.com/dotnet/sdk:10.0
     permissions:
       contents: write
     steps:
@@ -111,7 +111,7 @@ jobs:
   deploy_json_to_ftp:
     needs: generate_repository_json
     runs-on: ubuntu-latest
-    container: mcr.microsoft.com/dotnet/sdk:8.0
+    container: mcr.microsoft.com/dotnet/sdk:10.0
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     steps:
       - uses: actions/checkout@v7.0.1
