@@ -20,10 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     container: mcr.microsoft.com/dotnet/sdk:8.0
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: save output to cache
         id: cache-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: Output
           key: ${{ runner.os }}-output-${{ hashFiles('./src/**/*.cs') }}
@@ -38,7 +38,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
@@ -47,7 +47,7 @@ jobs:
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: restore output from cache
         id: restore-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: Output
           key: ${{ runner.os }}-output-${{ hashFiles('./src/**/*.cs') }}
@@ -63,7 +63,7 @@ jobs:
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: save json to cache
         id: cache-json
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: |
             repo/repository.json
@@ -76,7 +76,7 @@ jobs:
           stat -c%s ./repo/decoder/decoderDetails.json
           stat -c%s ./repo/firmware/firmwareDetails.json
       - name: "Upload Artifact"
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7.0.1
         with:
           name: repo-file
           path: |
@@ -110,10 +110,10 @@ jobs:
     container: mcr.microsoft.com/dotnet/sdk:8.0
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: restore output from cache
         id: restore-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           path: |
             repo/repository.json
@@ -147,10 +147,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
       - name: restore output from cache
         id: restore-output
-        uses: actions/cache@v4
+        uses: actions/cache@v6.1.0
         with:
           enableCrossOsArchive: true
           path: |
