@@ -26,20 +26,50 @@
     "options": "",
     "images": [
       {
-        "name": "ZIMO-MS560_bottom_HD.jpg",
-        "lastModified": "2022-01-23T18:12:10",
-        "copyright": "Zimo"
+        "name": "MS560-top-persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.228Z"
       },
       {
-        "name": "ZIMO-MS560_top_HD.jpg",
-        "lastModified": "2022-01-23T18:12:09",
-        "copyright": "Zimo"
+        "name": "MS560-bottom-persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.110Z"
+      },
+      {
+        "name": "MS560-top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.299Z"
+      },
+      {
+        "name": "MS560-bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.169Z"
+      },
+      {
+        "name": "MS560-top-persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:30.821Z"
+      },
+      {
+        "name": "MS560-bottom-persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:30.572Z"
+      },
+      {
+        "name": "MS560-top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:30.973Z"
+      },
+      {
+        "name": "MS560-bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:30.709Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS560"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:03:28.173Z"
+    "lastUpdate": "2026-09-09T11:52:11.722Z"
   }
 }

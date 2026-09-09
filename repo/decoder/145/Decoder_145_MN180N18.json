@@ -24,11 +24,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MN180N18_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.308Z"
+      },
+      {
+        "name": "MN180N18_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.390Z"
+      },
+      {
+        "name": "MN180N18_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.240Z"
+      },
+      {
+        "name": "MN180N18_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:18.476Z"
+      },
+      {
+        "name": "MN180N18_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:18.667Z"
+      },
+      {
+        "name": "MN180N18_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:18.325Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN180N18"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:55:43.606Z"
+    "lastUpdate": "2026-09-09T11:19:43.176Z"
   }
 }

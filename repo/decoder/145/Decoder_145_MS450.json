@@ -26,24 +26,100 @@
     "options": "",
     "images": [
       {
-        "name": "MS450-1.jpg",
-        "copyright": ""
+        "name": "MS450P22_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.471Z"
       },
       {
-        "name": "ZIMO-MS450P22_bottom_HD.jpg",
-        "lastModified": "2020-04-28T23:53:40",
-        "copyright": "Zimo"
+        "name": "MS450P22_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.535Z"
       },
       {
-        "name": "ZIMO-MS450P22_top_HD.jpg",
-        "lastModified": "2020-04-28T23:53:43",
-        "copyright": "Zimo"
+        "name": "MS450P22_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.416Z"
+      },
+      {
+        "name": "MS450P16_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.280Z"
+      },
+      {
+        "name": "MS450P16_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.340Z"
+      },
+      {
+        "name": "MS450_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.177Z"
+      },
+      {
+        "name": "MS450_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.228Z"
+      },
+      {
+        "name": "MS450_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.110Z"
+      },
+      {
+        "name": "MS450R-Kabel.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.589Z"
+      },
+      {
+        "name": "MS450P22_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.827Z"
+      },
+      {
+        "name": "MS450P22_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.984Z"
+      },
+      {
+        "name": "MS450P22_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.685Z"
+      },
+      {
+        "name": "MS450P16_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.341Z"
+      },
+      {
+        "name": "MS450P16_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.518Z"
+      },
+      {
+        "name": "MS450_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.052Z"
+      },
+      {
+        "name": "MS450_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:23.219Z"
+      },
+      {
+        "name": "MS450_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:22.894Z"
+      },
+      {
+        "name": "MS450R-Kabel.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.097Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS450"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:58:24.985Z"
+    "lastUpdate": "2026-09-09T11:34:35.704Z"
   }
 }

@@ -24,11 +24,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MN340CD_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.496Z"
+      },
+      {
+        "name": "MN340CD_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.564Z"
+      },
+      {
+        "name": "MN340CD_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.423Z"
+      },
+      {
+        "name": "MN340CD_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.265Z"
+      },
+      {
+        "name": "MN340CD_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.428Z"
+      },
+      {
+        "name": "MN340CD_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.122Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN340"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:58:04.212Z"
+    "lastUpdate": "2026-09-09T12:06:26.474Z"
   }
 }

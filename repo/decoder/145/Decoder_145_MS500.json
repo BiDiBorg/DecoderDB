@@ -26,33 +26,70 @@
     "options": "",
     "images": [
       {
-        "name": "MS500-1.jpg",
-        "copyright": "Zimo"
+        "name": "MS500_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.232Z"
       },
       {
-        "name": "MS500-2.jpg",
-        "copyright": "zimo"
+        "name": "MS500_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.176Z"
       },
       {
-        "name": "ZIMO-MS500_top_bedrahtet_HD.jpg",
-        "lastModified": "2022-01-23T18:00:39",
-        "copyright": "Zimo"
+        "name": "MS500_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.116Z"
       },
       {
-        "name": "ZIMO-MS500N_bottom_HD.jpg",
-        "lastModified": "2022-01-23T18:00:38",
-        "copyright": "Zimo"
+        "name": "MS500N_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.422Z"
       },
       {
-        "name": "ZIMO-MS500N_top_HD.jpg",
-        "lastModified": "2022-01-23T18:00:38",
-        "copyright": "Zimo"
+        "name": "MS500N_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.355Z"
+      },
+      {
+        "name": "MS500N_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.293Z"
+      },
+      {
+        "name": "MS500_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:28.188Z"
+      },
+      {
+        "name": "MS500_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:28.018Z"
+      },
+      {
+        "name": "MS500_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.880Z"
+      },
+      {
+        "name": "MS500N_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:28.731Z"
+      },
+      {
+        "name": "MS500N_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:28.563Z"
+      },
+      {
+        "name": "MS500N_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:28.383Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS500"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:30:23.248Z"
+    "lastUpdate": "2026-09-09T11:47:47.335Z"
   }
 }

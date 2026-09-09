@@ -26,14 +26,70 @@
     "options": "",
     "images": [
       {
-        "name": "MN300-1.png",
-        "copyright": "Copyright at Zimo, MN300P16"
+        "name": "MN300_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.725Z"
+      },
+      {
+        "name": "MN300_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.669Z"
+      },
+      {
+        "name": "MN300_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.610Z"
+      },
+      {
+        "name": "MN300P16_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.900Z"
+      },
+      {
+        "name": "MN300P16_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.972Z"
+      },
+      {
+        "name": "MN300P16_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.819Z"
+      },
+      {
+        "name": "MN300_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:19.624Z"
+      },
+      {
+        "name": "MN300_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:19.453Z"
+      },
+      {
+        "name": "MN300_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:19.280Z"
+      },
+      {
+        "name": "MN300P16_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:19.960Z"
+      },
+      {
+        "name": "MN300P16_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.143Z"
+      },
+      {
+        "name": "MN300P16_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:19.818Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN300"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:56:47.471Z"
+    "lastUpdate": "2026-09-09T11:23:30.835Z"
   }
 }

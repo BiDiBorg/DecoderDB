@@ -1,39 +1,135 @@
 {
-    "decoder": {
-        "name": "MN160",
-        "type": "loco",
-        "typeIds": "122",
-        "articleNumbers": "MN160;MN160N;MN160L",
-        "producedFrom": "2024",
-        "manufacturerId": 145,
-        "manufacturerExtendedId": 0,
-        "specifications": {
-            "connectors": {
-                "list": "Cable (7);NEM651"
-            },
-            "dimensions": {
-                "width": 7.5,
-                "height": 1.6,
-                "length": 13
-            },
-            "electrical": {
-                "peakCurrent": 1,
-                "maxMotorCurrent": 0.5,
-                "maxTotalCurrent": 0.5,
-                "maxVoltage": 24,
-                "functionOutputs": 4
-            }
-        },
-        "options": "",
-        "images": [
-        ],
-		"decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN160"
+  "decoder": {
+    "name": "MN160",
+    "type": "loco",
+    "typeIds": "122",
+    "articleNumbers": "MN160;MN160N;MN160L",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable (7);NEM651"
+      },
+      "dimensions": {
+        "width": 7.5,
+        "height": 1.6,
+        "length": 13
+      },
+      "electrical": {
+        "peakCurrent": 1,
+        "maxMotorCurrent": 0.5,
+        "maxTotalCurrent": 0.5,
+        "maxVoltage": 24,
+        "functionOutputs": 4
+      }
     },
-    "version": {
-        "createdBy": "DecoderDB",
-        "creatorLink": "https://www.decoderdb.de",
-        "author": "Stephan Bauer",
-        "lastUpdate": "2026-02-14T12:20:23",
-        "created": "2025-03-19T00:00:00.000"
-    }
+    "options": "",
+    "images": [
+      {
+        "name": "MN160_top_persp_kor.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.395Z"
+      },
+      {
+        "name": "MN160_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.335Z"
+      },
+      {
+        "name": "MN160_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.282Z"
+      },
+      {
+        "name": "MN160L_bottom_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.556Z"
+      },
+      {
+        "name": "MN160L_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.605Z"
+      },
+      {
+        "name": "MN160L_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.479Z"
+      },
+      {
+        "name": "MN160N_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.833Z"
+      },
+      {
+        "name": "MN160N_bottom_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.728Z"
+      },
+      {
+        "name": "MN160N_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.778Z"
+      },
+      {
+        "name": "MN160N_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.655Z"
+      },
+      {
+        "name": "MN160_top_persp_kor.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:16.165Z"
+      },
+      {
+        "name": "MN160_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:15.967Z"
+      },
+      {
+        "name": "MN160_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:15.833Z"
+      },
+      {
+        "name": "MN160L_bottom_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:16.489Z"
+      },
+      {
+        "name": "MN160L_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:16.681Z"
+      },
+      {
+        "name": "MN160L_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:16.343Z"
+      },
+      {
+        "name": "MN160N_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.273Z"
+      },
+      {
+        "name": "MN160N_bottom_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.000Z"
+      },
+      {
+        "name": "MN160N_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.146Z"
+      },
+      {
+        "name": "MN160N_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:16.809Z"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN160"
+  },
+  "version": {
+    "created": "2025-03-19T00:00:00.000",
+    "lastUpdate": "2026-09-09T11:15:27.812Z"
+  }
 }

@@ -26,18 +26,130 @@
     "options": "",
     "images": [
       {
-        "name": "MS491-1.jpg",
-        "copyright": "Zimo"
+        "name": "MS491_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.696Z"
       },
       {
-        "name": "MS491-2.jpg",
-        "copyright": "Zimo"
+        "name": "MS491_bottom_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.584Z"
+      },
+      {
+        "name": "MS491_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.634Z"
+      },
+      {
+        "name": "MS491_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.531Z"
+      },
+      {
+        "name": "MS491L_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.789Z"
+      },
+      {
+        "name": "MS491L_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.743Z"
+      },
+      {
+        "name": "MS491N_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.931Z"
+      },
+      {
+        "name": "MS491N_bottom_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.879Z"
+      },
+      {
+        "name": "MS491N_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.980Z"
+      },
+      {
+        "name": "MS491N_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.827Z"
+      },
+      {
+        "name": "MS491R_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.074Z"
+      },
+      {
+        "name": "MS491R_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.026Z"
+      },
+      {
+        "name": "MS491_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:26.917Z"
+      },
+      {
+        "name": "MS491_bottom_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:26.622Z"
+      },
+      {
+        "name": "MS491_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:26.758Z"
+      },
+      {
+        "name": "MS491_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:26.469Z"
+      },
+      {
+        "name": "MS491L_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.156Z"
+      },
+      {
+        "name": "MS491L_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.043Z"
+      },
+      {
+        "name": "MS491N_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.418Z"
+      },
+      {
+        "name": "MS491N_bottom_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.326Z"
+      },
+      {
+        "name": "MS491N_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.511Z"
+      },
+      {
+        "name": "MS491N_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.242Z"
+      },
+      {
+        "name": "MS491R_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.754Z"
+      },
+      {
+        "name": "MS491R_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:27.624Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS491"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:22:03.095Z"
+    "lastUpdate": "2026-09-09T11:45:41.903Z"
   }
 }

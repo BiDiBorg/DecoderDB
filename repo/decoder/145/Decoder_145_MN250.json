@@ -24,12 +24,42 @@
       }
     },
     "options": "",
-    "images": [],
-    "producedFrom": "2025",
+    "images": [
+      {
+        "name": "MN250_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.494Z"
+      },
+      {
+        "name": "MN250_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.549Z"
+      },
+      {
+        "name": "MN250_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.431Z"
+      },
+      {
+        "name": "MN250_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:18.946Z"
+      },
+      {
+        "name": "MN250_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:19.112Z"
+      },
+      {
+        "name": "MN250_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:18.789Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN250"
   },
   "version": {
     "created": "2025-03-19T00:00:00.000Z",
-    "lastUpdate": "2026-07-14T11:46:48.828Z"
+    "lastUpdate": "2026-09-09T11:20:44.365Z"
   }
 }

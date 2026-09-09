@@ -24,12 +24,72 @@
       }
     },
     "options": "",
-    "images": [],
-	"producedFrom": "2025",
+    "images": [
+      {
+        "name": "MS581N18_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.612Z"
+      },
+      {
+        "name": "MS581N18_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.547Z"
+      },
+      {
+        "name": "MS581N18_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.472Z"
+      },
+      {
+        "name": "MS581N18G_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.767Z"
+      },
+      {
+        "name": "MS581N18G_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.711Z"
+      },
+      {
+        "name": "MS581N18G_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:56.664Z"
+      },
+      {
+        "name": "MS581N18_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:31.659Z"
+      },
+      {
+        "name": "MS581N18_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:31.549Z"
+      },
+      {
+        "name": "MS581N18_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:31.399Z"
+      },
+      {
+        "name": "MS581N18G_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:32.053Z"
+      },
+      {
+        "name": "MS581N18G_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:31.935Z"
+      },
+      {
+        "name": "MS581N18G_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:31.800Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS581N18"
   },
   "version": {
-"lastUpdate": "2026-02-14T12:20:23",
-    "created": "2025-03-19T00:00:00.000"
+    "created": "2025-03-19T00:00:00.000",
+    "lastUpdate": "2026-09-09T11:55:29.659Z"
   }
 }

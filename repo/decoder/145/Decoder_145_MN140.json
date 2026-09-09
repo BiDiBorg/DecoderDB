@@ -26,14 +26,60 @@
     "options": "",
     "images": [
       {
-        "name": "MN140-1.png",
-        "copyright": "Zimo"
+        "name": "MN140E24_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:49.784Z"
+      },
+      {
+        "name": "MN140E24_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:49.858Z"
+      },
+      {
+        "name": "MN140E24_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:49.713Z"
+      },
+      {
+        "name": "MN140P12_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:49.937Z"
+      },
+      {
+        "name": "MN140P12_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.008Z"
+      },
+      {
+        "name": "MN140E24_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:14.504Z"
+      },
+      {
+        "name": "MN140E24_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:14.685Z"
+      },
+      {
+        "name": "MN140E24_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:14.372Z"
+      },
+      {
+        "name": "MN140P12_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:14.834Z"
+      },
+      {
+        "name": "MN140P12_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:15.022Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN140"
   },
   "version": {
     "created": "2026-01-18T07:35:39.870Z",
-    "lastUpdate": "2026-07-14T08:07:20.890Z"
+    "lastUpdate": "2026-09-09T11:03:49.135Z"
   }
 }

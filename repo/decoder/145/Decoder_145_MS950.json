@@ -26,19 +26,50 @@
     "options": "",
     "images": [
       {
-        "name": "MS950-1.jpg",
-        "copyright": "Zimo"
+        "name": "MS950_RevB_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.490Z"
       },
       {
-        "name": "ZIMO-MS950_top_HD.jpg",
-        "lastModified": "2022-01-23T19:58:02",
-        "copyright": "Zimo"
+        "name": "MS950_RevA_persp_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.341Z"
+      },
+      {
+        "name": "MS950_RevB_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.401Z"
+      },
+      {
+        "name": "MS950_RevA_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.271Z"
+      },
+      {
+        "name": "MS950_RevB_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.637Z"
+      },
+      {
+        "name": "MS950_RevA_persp_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.353Z"
+      },
+      {
+        "name": "MS950_RevB_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.490Z"
+      },
+      {
+        "name": "MS950_RevA_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.225Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS950"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:07:33.437Z"
+    "lastUpdate": "2026-09-09T11:59:00.265Z"
   }
 }

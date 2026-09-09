@@ -26,20 +26,70 @@
     "options": "",
     "images": [
       {
-        "name": "ZIMO-MS990K_top_HD.jpg",
-        "lastModified": "2022-01-23T19:59:54",
-        "copyright": "Zimo"
+        "name": "MS990L-persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.795Z"
       },
       {
-        "name": "ZIMO-MS990L_top_HD.jpg",
-        "lastModified": "2022-01-23T19:59:55",
-        "copyright": "Zimo"
+        "name": "MS990-Bodenplatte-bottom-persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.557Z"
+      },
+      {
+        "name": "MS990L-top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.861Z"
+      },
+      {
+        "name": "MS990L-bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.734Z"
+      },
+      {
+        "name": "MS990K-persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.616Z"
+      },
+      {
+        "name": "MS990K-top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.679Z"
+      },
+      {
+        "name": "MS990L-persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:34.416Z"
+      },
+      {
+        "name": "MS990-Bodenplatte-bottom-persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.782Z"
+      },
+      {
+        "name": "MS990L-top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:34.613Z"
+      },
+      {
+        "name": "MS990L-bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:34.273Z"
+      },
+      {
+        "name": "MS990K-persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.931Z"
+      },
+      {
+        "name": "MS990K-top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:34.091Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS990"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:09:16.791Z"
+    "lastUpdate": "2026-09-09T12:00:55.555Z"
   }
 }

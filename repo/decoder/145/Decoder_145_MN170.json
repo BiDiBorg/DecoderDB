@@ -24,12 +24,72 @@
       }
     },
     "options": "",
-    "producedFrom": "2023",
-    "images": [],
+    "images": [
+      {
+        "name": "MN170_top_persp_kor.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.989Z"
+      },
+      {
+        "name": "MN170_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.946Z"
+      },
+      {
+        "name": "MN170_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.887Z"
+      },
+      {
+        "name": "MN170N-top-persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.108Z"
+      },
+      {
+        "name": "MN170N-top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.161Z"
+      },
+      {
+        "name": "MN170N-bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:51.047Z"
+      },
+      {
+        "name": "MN170_top_persp_kor.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.679Z"
+      },
+      {
+        "name": "MN170_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.564Z"
+      },
+      {
+        "name": "MN170_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.418Z"
+      },
+      {
+        "name": "MN170N-top-persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.962Z"
+      },
+      {
+        "name": "MN170N-top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:18.137Z"
+      },
+      {
+        "name": "MN170N-bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:17.840Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN170"
   },
   "version": {
     "created": "2023-09-05T00:00:00.000",
-    "lastUpdate": "2026-07-14T11:51:32.828Z"
+    "lastUpdate": "2026-09-09T11:18:18.942Z"
   }
 }

@@ -26,30 +26,70 @@
     "options": "",
     "images": [
       {
-        "name": "ZIMO-MS480_bottom_bedrahtet_HD.jpg",
-        "lastModified": "2022-01-23T18:42:41",
-        "copyright": "Zimo"
+        "name": "MS480P16_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.935Z"
       },
       {
-        "name": "ZIMO-MS480_top_bedrahtet_HD.jpg",
-        "lastModified": "2022-01-23T18:42:41",
-        "copyright": "Zimo"
+        "name": "MS480P16_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.874Z"
       },
       {
-        "name": "ZIMO-MS480P16_bottom_HD.jpg",
-        "lastModified": "2022-01-23T18:42:41",
-        "copyright": "Zimo"
+        "name": "MS480P16_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.800Z"
       },
       {
-        "name": "ZIMO-MS480P16_top_HD.jpg",
-        "lastModified": "2022-01-23T18:42:40",
-        "copyright": "Zimo"
+        "name": "MS480_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.721Z"
+      },
+      {
+        "name": "MS480_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.676Z"
+      },
+      {
+        "name": "MS480_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.624Z"
+      },
+      {
+        "name": "MS480P16_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.918Z"
+      },
+      {
+        "name": "MS480P16_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.769Z"
+      },
+      {
+        "name": "MS480P16_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.607Z"
+      },
+      {
+        "name": "MS480_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.445Z"
+      },
+      {
+        "name": "MS480_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.332Z"
+      },
+      {
+        "name": "MS480_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:24.195Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS480"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:00:25.607Z"
+    "lastUpdate": "2026-09-09T11:36:46.368Z"
   }
 }

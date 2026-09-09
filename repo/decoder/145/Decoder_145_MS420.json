@@ -24,11 +24,72 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MS420P24_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.815Z"
+      },
+      {
+        "name": "MS420P24_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.862Z"
+      },
+      {
+        "name": "MS420P24_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.755Z"
+      },
+      {
+        "name": "MS420_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.668Z"
+      },
+      {
+        "name": "MS420_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.702Z"
+      },
+      {
+        "name": "MS420_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.600Z"
+      },
+      {
+        "name": "MS420P24_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:22.111Z"
+      },
+      {
+        "name": "MS420P24_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:22.259Z"
+      },
+      {
+        "name": "MS420P24_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.978Z"
+      },
+      {
+        "name": "MS420_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.729Z"
+      },
+      {
+        "name": "MS420_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.840Z"
+      },
+      {
+        "name": "MS420_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:21.577Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS420"
   },
   "version": {
     "created": "2026-09-06T12:46:55.481Z",
-    "lastUpdate": "2026-09-06T12:46:55.488Z"
+    "lastUpdate": "2026-09-09T11:28:33.485Z"
   }
 }

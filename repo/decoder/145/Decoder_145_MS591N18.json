@@ -1,36 +1,65 @@
 {
   "decoder": {
-    "specifications": {
-      "dimensions": {
-        "length": 15.0,
-        "width": 9.3,
-        "height": 3.1
-      },
-      "electrical": {
-        "maxTotalCurrent": 0.7,
-        "maxMotorCurrent": 0.7,
-        "peakCurrent": 0.0,
-        "maxVoltage": 24.0,
-        "functionOutputs": 0.0
-      },
-      "connectors": {
-        "list": "Next18"
-      }
-    },
     "name": "MS591N18",
     "type": "loco-sound",
-    "manufacturerId": 145,
-    "manufacturerExtendedId": 0,
     "typeIds": "15",
     "articleNumbers": "MS591N18",
-    "producedFrom": "2024",
-    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS590N18"
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Next18"
+      },
+      "dimensions": {
+        "width": 9.3,
+        "height": 3.1,
+        "length": 15
+      },
+      "electrical": {
+        "peakCurrent": 0,
+        "maxMotorCurrent": 0.7,
+        "maxTotalCurrent": 0.7,
+        "maxVoltage": 24,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "MS591N18_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.212Z"
+      },
+      {
+        "name": "MS591N18_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.148Z"
+      },
+      {
+        "name": "MS591N18_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.064Z"
+      },
+      {
+        "name": "MS591N18_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:33.080Z"
+      },
+      {
+        "name": "MS591N18_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:32.955Z"
+      },
+      {
+        "name": "MS591N18_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:32.770Z"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS591N18"
   },
   "version": {
-    "createdBy": "DecoderDB",
-    "creatorLink": "https://www.decoderdb.de",
-    "author": "Stephan Bauer",
-    "lastUpdate": "2026-02-14T12:20:23",
-    "created": "2025-03-19T00:00:00.000"
+    "created": "2025-03-19T00:00:00.000",
+    "lastUpdate": "2026-09-09T11:57:15.727Z"
   }
 }

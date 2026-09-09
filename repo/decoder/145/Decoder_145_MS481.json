@@ -1,36 +1,95 @@
 {
   "decoder": {
-    "specifications": {
-      "dimensions": {
-        "length": 19.0,
-        "width": 11.0,
-        "height": 3.1
-      },
-      "electrical": {
-        "maxTotalCurrent": 0.8,
-        "maxMotorCurrent": 0.8,
-        "peakCurrent": 0.0,
-        "maxVoltage": 24.0,
-        "functionOutputs": 0.0
-      },
-      "connectors": {
-        "list": "Cable;NEM651+Cable;NEM652+Cable;Plux16"
-      }
-    },
     "name": "MS481",
     "type": "loco-sound",
-    "manufacturerId": 145,
-    "manufacturerExtendedId": 0,
     "typeIds": "16",
     "articleNumbers": "MS481;MS481R;MS481F;MS481P16",
-    "producedFrom": "2025",
+    "manufacturerId": 145,
+    "manufacturerExtendedId": 0,
+    "specifications": {
+      "connectors": {
+        "list": "Cable;NEM651+Cable;NEM652+Cable;Plux16"
+      },
+      "dimensions": {
+        "width": 11,
+        "height": 3.1,
+        "length": 19
+      },
+      "electrical": {
+        "peakCurrent": 0,
+        "maxMotorCurrent": 0.8,
+        "maxTotalCurrent": 0.8,
+        "maxVoltage": 24,
+        "functionOutputs": 0
+      }
+    },
+    "options": "",
+    "images": [
+      {
+        "name": "MS481P16_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.314Z"
+      },
+      {
+        "name": "MS481P16_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.242Z"
+      },
+      {
+        "name": "MS481P16_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.174Z"
+      },
+      {
+        "name": "MS481_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.092Z"
+      },
+      {
+        "name": "MS481_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:54.027Z"
+      },
+      {
+        "name": "MS481_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:53.978Z"
+      },
+      {
+        "name": "MS481P16_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:25.879Z"
+      },
+      {
+        "name": "MS481P16_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:25.718Z"
+      },
+      {
+        "name": "MS481P16_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:25.547Z"
+      },
+      {
+        "name": "MS481_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:25.364Z"
+      },
+      {
+        "name": "MS481_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:25.214Z"
+      },
+      {
+        "name": "MS481_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:25.087Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS481"
   },
   "version": {
-    "createdBy": "DecoderDB",
-    "creatorLink": "https://www.decoderdb.de",
-    "author": "Stephan Bauer",
-    "lastUpdate": "2026-02-14T12:20:23",
-    "created": "2025-03-19T00:00:00.000"
+    "created": "2025-03-19T00:00:00.000",
+    "lastUpdate": "2026-09-09T11:38:35.366Z"
   }
 }

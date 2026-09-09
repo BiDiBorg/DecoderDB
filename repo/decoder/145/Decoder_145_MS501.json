@@ -26,18 +26,70 @@
     "options": "",
     "images": [
       {
-        "name": "MS501r-1.jpg",
-        "copyright": "Zimo"
+        "name": "MS501_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.569Z"
       },
       {
-        "name": "MS501r-2.jpg",
-        "copyright": "Zimo"
+        "name": "MS501_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.512Z"
+      },
+      {
+        "name": "MS501_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.468Z"
+      },
+      {
+        "name": "MS501N_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.732Z"
+      },
+      {
+        "name": "MS501N_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.683Z"
+      },
+      {
+        "name": "MS501N_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:55.630Z"
+      },
+      {
+        "name": "MS501_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:29.178Z"
+      },
+      {
+        "name": "MS501_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:29.047Z"
+      },
+      {
+        "name": "MS501_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:28.896Z"
+      },
+      {
+        "name": "MS501N_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:29.707Z"
+      },
+      {
+        "name": "MS501N_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:29.559Z"
+      },
+      {
+        "name": "MS501N_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:29.377Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MS501"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T21:30:34.509Z"
+    "lastUpdate": "2026-09-09T11:49:21.947Z"
   }
 }

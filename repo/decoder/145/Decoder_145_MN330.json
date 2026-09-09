@@ -26,14 +26,70 @@
     "options": "",
     "images": [
       {
-        "name": "MN330-1.png",
-        "copyright": "Copyright at Zimo, MN330P22"
+        "name": "MN330P22_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.362Z"
+      },
+      {
+        "name": "MN330P22_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.290Z"
+      },
+      {
+        "name": "MN330P22_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.217Z"
+      },
+      {
+        "name": "MN330_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.155Z"
+      },
+      {
+        "name": "MN330_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.079Z"
+      },
+      {
+        "name": "MN330_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:52.022Z"
+      },
+      {
+        "name": "MN330P22_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.970Z"
+      },
+      {
+        "name": "MN330P22_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.832Z"
+      },
+      {
+        "name": "MN330P22_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.672Z"
+      },
+      {
+        "name": "MN330_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.558Z"
+      },
+      {
+        "name": "MN330_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.409Z"
+      },
+      {
+        "name": "MN330_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:20.274Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN330"
   },
   "version": {
     "created": "2024-12-25T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:57:01.616Z"
+    "lastUpdate": "2026-09-09T11:25:34.877Z"
   }
 }

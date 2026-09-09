@@ -3,11 +3,18 @@
     "name": "MN150",
     "type": "loco",
     "typeIds": "121",
+    "articleNumbers": "MN150;MN150N",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
-      "connectors": { "list": "Cable (7);NEM651" },
-      "dimensions": { "width": 5.9, "height": 2.1, "length": 8.2 },
+      "connectors": {
+        "list": "Cable (7);NEM651"
+      },
+      "dimensions": {
+        "width": 5.9,
+        "height": 2.1,
+        "length": 8.2
+      },
       "electrical": {
         "peakCurrent": 1,
         "maxMotorCurrent": 0.2,
@@ -17,16 +24,62 @@
       }
     },
     "options": "",
-    "images": [],
-	"articleNumbers": "MN150;MN150N",
-    "producedFrom": "2025",
-	"decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN150"
+    "images": [
+      {
+        "name": "MN150_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.155Z"
+      },
+      {
+        "name": "MN150_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.080Z"
+      },
+      {
+        "name": "MN150N_top_persp.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.992Z"
+      },
+      {
+        "name": "MN150N_Top_Vorabversion.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:50.220Z"
+      },
+      {
+        "name": "MN150N_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:57:57.927Z"
+      },
+      {
+        "name": "MN150_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:15.431Z"
+      },
+      {
+        "name": "MN150_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:15.218Z"
+      },
+      {
+        "name": "MN150N_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:34.940Z"
+      },
+      {
+        "name": "MN150N_Top_Vorabversion.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:15.645Z"
+      },
+      {
+        "name": "MN150N_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-09T10:58:34.830Z"
+      }
+    ],
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MN150"
   },
   "version": {
-    "createdBy": "DecoderDB",
-    "creatorLink": "https://www.decoderdb.de",
-    "author": "Stephan Bauer",
-    "lastUpdate": "2026-02-14T12:20:23",
-    "created": "2025-03-19T00:00:00.000"
+    "created": "2025-03-19T00:00:00.000",
+    "lastUpdate": "2026-09-09T11:08:25.380Z"
   }
 }
