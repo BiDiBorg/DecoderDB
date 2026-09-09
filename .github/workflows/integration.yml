@@ -39,6 +39,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v7.0.1
+        with:
+          ref: ${{ github.head_ref }}
+          # Value already defaults to true, but `persist-credentials` is required to push new commits to the repository.
+          persist-credentials: true
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
@@ -89,7 +93,7 @@ jobs:
           git config --global --add safe.directory /__w/DecoderDB/DecoderDB
       - name: commit generated
         if: steps.restore-output.outputs.cache-hit == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v7.2.0
         id: auto-commit-action
         with:
           commit_message: Update generated files [skip ci]
