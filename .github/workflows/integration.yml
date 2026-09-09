@@ -59,7 +59,7 @@ jobs:
 
       - name: generate
         if: steps.restore-output.outputs.cache-hit == 'true'
-        run: dotnet ./Output/Release/RepoGenerator/net8.0/org.bidib.DecoderDB.RepoGenerator.dll --repoPath ./repo/  --outputPath ./repo/ --baseUri ${{ vars.FICHTELBAHN_REPOURL }}
+        run: dotnet ./Output/Release/RepoGenerator/net10.0/org.bidib.DecoderDB.RepoGenerator.dll --repoPath ./repo/  --outputPath ./repo/ --baseUri ${{ vars.FICHTELBAHN_REPOURL }}
       - name: "show file sizes"
         run: |
           stat -c%s ./repo/repository.json
