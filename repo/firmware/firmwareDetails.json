@@ -413,7 +413,7 @@
     "filename": "Firmware_117_88_sound.json",
     "link": "https://decoderdb.bidib.org/firmware/117/Firmware_117_88_sound.json",
     "lastUpdate": "2025-02-21T16:09:22.000",
-    "sha1": "85cc9ed56dbf30d6c92303a215466a7b1b328a4a",
+    "sha1": "17d23c2d1cf95c2237238e6571410d2238d64faf",
     "fileSize": 65573
   },
   {
@@ -459,7 +459,7 @@
     "filename": "Firmware_117_88.json",
     "link": "https://decoderdb.bidib.org/firmware/117/Firmware_117_88.json",
     "lastUpdate": "2025-02-21T16:09:22.000",
-    "sha1": "5a2ce5326754b250f30db34a678cb2966319d1af",
+    "sha1": "68bd846c277ee7e4aa2f91962fd15c79c34800fa",
     "fileSize": 54356
   },
   {
@@ -1691,7 +1691,7 @@
     "filename": "Firmware_151_0.0.5973_LokPilotV3.0OEM.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.5973_LokPilotV3.0OEM.json",
     "lastUpdate": "2020-08-21T17:06:29.000",
-    "sha1": "c462aec8baa81553ffc231288db8cb92457d9014",
+    "sha1": "ec0b018aef484ed6c4c34d02c778b11832eeeed1",
     "fileSize": 18452
   },
   {
@@ -1708,7 +1708,7 @@
     "filename": "Firmware_151_0.0.6093_LokSoundV3.5.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.6093_LokSoundV3.5.json",
     "lastUpdate": "2020-11-22T19:30:17.000",
-    "sha1": "4303281141f5640dc0186044a24685cef32a7077",
+    "sha1": "a61eb9277f67c2b3a2c52dd742095e0651688756",
     "fileSize": 154320
   },
   {
@@ -1725,7 +1725,7 @@
     "filename": "Firmware_151_0.0.6607_LokPilotV3.0.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.6607_LokPilotV3.0.json",
     "lastUpdate": "2020-08-21T17:06:15.000",
-    "sha1": "d3a633792551fe87d2aaebf009dd5004f407c13d",
+    "sha1": "23de1cf18b1e82398bcd47c96fe059500f2edd24",
     "fileSize": 87528
   },
   {
@@ -1742,7 +1742,7 @@
     "filename": "Firmware_151_0.0.6607_LokPilotV3.0DCC.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_0.0.6607_LokPilotV3.0DCC.json",
     "lastUpdate": "2020-08-21T17:06:22.000",
-    "sha1": "de3114fc1a262a84ae6f32e0cf12999b12f13c3c",
+    "sha1": "15896dcf57ab7c4030a34e7294e1bc023f7a2795",
     "fileSize": 87220
   },
   {
@@ -1759,7 +1759,7 @@
     "filename": "Firmware_151_1.0_led.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_1.0_led.json",
     "lastUpdate": "2020-09-13T14:44:01.000",
-    "sha1": "b8cd2b1f3f02bbf05d48d0427ab0ed5f214f3f91",
+    "sha1": "99cb942d3faea7d9e9ea9bd2127f80b5eca23992",
     "fileSize": 181893
   },
   {
@@ -1847,7 +1847,7 @@
     "filename": "Firmware_151_4.14_DCC.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_DCC.json",
     "lastUpdate": "2022-02-23T22:23:52.000",
-    "sha1": "b876985f15055e80a3fae997f89f1567b7a475d2",
+    "sha1": "ccc5b51235c48d71c54dd9951d9902b7ea7f9dc8",
     "fileSize": 43048
   },
   {
@@ -1870,7 +1870,7 @@
     "filename": "Firmware_151_4.14_M4.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_M4.json",
     "lastUpdate": "2022-02-23T22:23:51.000",
-    "sha1": "a842fbccb6a5046353249b7cfb9bdaa4561d7b34",
+    "sha1": "af3f4862471afeca627a7ed7cf5419d5a944f014",
     "fileSize": 43669
   },
   {
@@ -1890,7 +1890,7 @@
     "filename": "Firmware_151_4.14_Sound.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_Sound.json",
     "lastUpdate": "2022-02-23T22:25:22.000",
-    "sha1": "94617ecd95528dd926c63d32445d8e2beb203e0a",
+    "sha1": "4f592a915de9c2b1c97a4cca06bffe50fcd17943",
     "fileSize": 707147
   },
   {
@@ -1913,7 +1913,7 @@
     "filename": "Firmware_151_4.14_SoundM4.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14_SoundM4.json",
     "lastUpdate": "2022-02-23T22:23:37.000",
-    "sha1": "47475b50f5b006e7ed7f644cda40bdee809da2e3",
+    "sha1": "3f8dd1aaa201bd1508856b9d6de3f93c68e506c2",
     "fileSize": 707428
   },
   {
@@ -1932,7 +1932,7 @@
     "filename": "Firmware_151_4.14.json",
     "link": "https://decoderdb.bidib.org/firmware/151/Firmware_151_4.14.json",
     "lastUpdate": "2022-02-23T22:23:52.000",
-    "sha1": "66c80bf08c77094c4eb03b1bef912f3209971d94",
+    "sha1": "4845e66338c694ada83d6cea6aed99a5f6fe2af0",
     "fileSize": 43011
   },
   {
