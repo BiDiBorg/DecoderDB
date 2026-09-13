@@ -1218,7 +1218,10 @@
     "manufacturerExtendedId": 0,
     "version": "5.21",
     "versionExtension": "MN",
-    "created": "2026-01-23",
+    "filename": "Firmware_145_5.21_MN.json",
+    "lastUpdate": "2026-09-13T22:50:10.490Z",
+    "created": "2026-01-23T21:00:00.000",
+    "fileSize": 198343,
     "decoder": [
       {
         "name": "MN140"
@@ -1247,12 +1250,7 @@
       {
         "name": "MN340"
       }
-    ],
-    "filename": "Firmware_145_5.21_MN.json",
-    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MN.json",
-    "lastUpdate": "2026-08-10T19:47:13.269",
-    "sha1": "099986805efbd19b884976f80f01d8ab410ba607",
-    "fileSize": 201299
+    ]
   },
   {
     "manufacturerId": 145,
@@ -1260,9 +1258,9 @@
     "version": "5.21",
     "versionExtension": "MS",
     "filename": "Firmware_145_5.21_MS.json",
-    "lastUpdate": "2026-09-13T22:14:43.070Z",
+    "lastUpdate": "2026-09-13T22:49:58.455Z",
     "created": "2026-01-23T21:00:00.000",
-    "fileSize": 1011635,
+    "fileSize": 230094,
     "decoder": [
       {
         "name": "MS420"
@@ -1322,7 +1320,10 @@
     "manufacturerExtendedId": 0,
     "version": "5.29",
     "versionExtension": "MN",
-    "created": "2026-01-23",
+    "filename": "Firmware_145_5.29_MN.json",
+    "lastUpdate": "2026-09-13T22:50:27.924Z",
+    "created": "2026-01-23T21:00:00.000",
+    "fileSize": 282734,
     "decoder": [
       {
         "name": "MN140"
@@ -1351,12 +1352,7 @@
       {
         "name": "MN340"
       }
-    ],
-    "filename": "Firmware_145_5.29_MN.json",
-    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MN.json",
-    "lastUpdate": "2026-08-10T19:46:56.681",
-    "sha1": "b77df0d2e13e855b4f15cd57ace4898d9bdfb577",
-    "fileSize": 285687
+    ]
   },
   {
     "manufacturerId": 145,
@@ -1364,9 +1360,9 @@
     "version": "5.29",
     "versionExtension": "MS",
     "filename": "Firmware_145_5.29_MS.json",
-    "lastUpdate": "2026-09-13T21:04:00.462Z",
+    "lastUpdate": "2026-09-13T22:50:43.561Z",
     "created": "2026-01-23T21:00:00.000",
-    "fileSize": 350077,
+    "fileSize": 351133,
     "decoder": [
       {
         "name": "MS420"
