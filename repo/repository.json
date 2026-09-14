@@ -371,28 +371,6 @@
     {
       "manufacturerId": 123,
       "manufacturerExtendedId": 0,
-      "name": "LGB onBoard Decoder 1.5A",
-      "created": "2026-02-10",
-      "filename": "Decoder_123_LGB onBoard Decoder 1.5A.json",
-      "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGB onBoard Decoder 1.5A.json",
-      "lastUpdate": "2026-02-11T01:05:14.194",
-      "sha1": "4fd98b4e2942375bf9109eacc21716da1d3ae752",
-      "fileSize": 673
-    },
-    {
-      "manufacturerId": 123,
-      "manufacturerExtendedId": 0,
-      "name": "LGB onBoard Decoder 3A",
-      "created": "2026-02-10",
-      "filename": "Decoder_123_LGB onBoard Decoder 3A.json",
-      "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGB onBoard Decoder 3A.json",
-      "lastUpdate": "2026-02-11T01:05:24.133",
-      "sha1": "49c9d9d1f730ddfa5bd87ea06ee4d43dfd961674",
-      "fileSize": 759
-    },
-    {
-      "manufacturerId": 123,
-      "manufacturerExtendedId": 0,
       "name": "LGB MZS Decoder I",
       "created": "2026-02-10",
       "filename": "Decoder_123_LGB_MZS_Decoder_I.json",
@@ -422,6 +400,39 @@
       "lastUpdate": "2026-03-14T14:03:16.623",
       "sha1": "a4a5d692eeb96d166c333b434dd7c327ccfe8e8d",
       "fileSize": 945
+    },
+    {
+      "manufacturerId": 123,
+      "manufacturerExtendedId": 0,
+      "name": "LGB onBoard 1.5A",
+      "created": "2026-02-10",
+      "filename": "Decoder_123_LGBonBoard1.5A.json",
+      "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGBonBoard1.5A.json",
+      "lastUpdate": "2026-09-14T00:02:28.117",
+      "sha1": "caa17abdf58e405bb548f06c3402db2d899eb3a8",
+      "fileSize": 1018
+    },
+    {
+      "manufacturerId": 123,
+      "manufacturerExtendedId": 0,
+      "name": "LGB onBoard 3A",
+      "created": "2026-02-10",
+      "filename": "Decoder_123_LGBonBoard3A.json",
+      "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGBonBoard3A.json",
+      "lastUpdate": "2026-09-14T00:02:38.973",
+      "sha1": "4819088bee8d31a43fd96fe599040857fce2753f",
+      "fileSize": 1102
+    },
+    {
+      "manufacturerId": 123,
+      "manufacturerExtendedId": 0,
+      "name": "LGB onBoard Reinigungslok",
+      "created": "2026-09-13",
+      "filename": "Decoder_123_LGBonBoardReinigungslok.json",
+      "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGBonBoardReinigungslok.json",
+      "lastUpdate": "2026-09-14T00:08:30.208",
+      "sha1": "9ed19d805bd7605891f0a42751de02d3e6163867",
+      "fileSize": 820
     },
     {
       "manufacturerId": 123,
@@ -1775,6 +1786,39 @@
       "lastUpdate": "2017-03-07T23:07:10.000",
       "sha1": "9614b0516872c4261f802b799a10ac2f62ea78fe",
       "fileSize": 1071
+    },
+    {
+      "manufacturerId": 159,
+      "manufacturerExtendedId": 0,
+      "name": "LGB onBoard Decoder",
+      "created": "2026-09-13",
+      "filename": "Decoder_159_LGBonBoardDecoder.json",
+      "link": "https://decoderdb.bidib.org/decoder/159/Decoder_159_LGBonBoardDecoder.json",
+      "lastUpdate": "2026-09-14T00:01:01.052",
+      "sha1": "9468af1967ed76e3ac71ec3f43705a3dfb554d54",
+      "fileSize": 807
+    },
+    {
+      "manufacturerId": 159,
+      "manufacturerExtendedId": 0,
+      "name": "LGB onBoard Decoder Reinigungslok",
+      "created": "2026-09-13",
+      "filename": "Decoder_159_LGBonBoardDecoderReinigungslok.json",
+      "link": "https://decoderdb.bidib.org/decoder/159/Decoder_159_LGBonBoardDecoderReinigungslok.json",
+      "lastUpdate": "2026-09-14T00:00:14.184",
+      "sha1": "40a72564e065c0d625a9e08f3d9f556d3ee32ede",
+      "fileSize": 837
+    },
+    {
+      "manufacturerId": 159,
+      "manufacturerExtendedId": 0,
+      "name": "LGB onBoard Reinigungslok",
+      "created": "2026-09-13",
+      "filename": "Decoder_159_LGBonBoardReinigungslok.json",
+      "link": "https://decoderdb.bidib.org/decoder/159/Decoder_159_LGBonBoardReinigungslok.json",
+      "lastUpdate": "2026-09-14T00:00:25.560",
+      "sha1": "5a07367ff6a312908d6ea9779de998c5e20d4e3f",
+      "fileSize": 819
     },
     {
       "manufacturerId": 160,
@@ -3861,6 +3905,23 @@
     {
       "manufacturerId": 123,
       "manufacturerExtendedId": 0,
+      "version": "2.5",
+      "versionExtension": "LGB_onBoard_Decoder_Reinigungslok",
+      "created": "2026-09-14",
+      "decoder": [
+        {
+          "name": "LGB onBoard Reinigungslok"
+        }
+      ],
+      "filename": "Firmware_123_2.5_LGB_onBoard_Decoder_Reinigungslok.json",
+      "link": "https://decoderdb.bidib.org/firmware/123/Firmware_123_2.5_LGB_onBoard_Decoder_Reinigungslok.json",
+      "lastUpdate": "2026-09-14T00:20:20.273",
+      "sha1": "4645b6d9362d8e01186e43a42b5da905b92812ca",
+      "fileSize": 83971
+    },
+    {
+      "manufacturerId": 123,
+      "manufacturerExtendedId": 0,
       "version": "3.0",
       "versionExtension": "LGB_MZS_Decoder_I",
       "created": "2026-03-14",
@@ -3912,8 +3973,8 @@
       "filename": "Firmware_123_3.0_LGB_onBoard_Decoders.json",
       "link": "https://decoderdb.bidib.org/firmware/123/Firmware_123_3.0_LGB_onBoard_Decoders.json",
       "lastUpdate": "2026-03-14T13:13:52.374",
-      "sha1": "a53c627d432822c018dc80c9613f436ec817cdde",
-      "fileSize": 79051
+      "sha1": "e69de213d508fabcb34b0e7a2e741848001fa39c",
+      "fileSize": 21484
     },
     {
       "manufacturerId": 123,
