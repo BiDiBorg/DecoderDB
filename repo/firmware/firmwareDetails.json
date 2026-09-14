@@ -1233,10 +1233,7 @@
     "manufacturerExtendedId": 0,
     "version": "5.21",
     "versionExtension": "MN",
-    "filename": "Firmware_145_5.21_MN.json",
-    "lastUpdate": "2026-09-13T22:50:10.490Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 198343,
+    "created": "2026-01-23",
     "decoder": [
       {
         "name": "MN140"
@@ -1265,17 +1262,19 @@
       {
         "name": "MN340"
       }
-    ]
+    ],
+    "filename": "Firmware_145_5.21_MN.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MN.json",
+    "lastUpdate": "2026-09-13T22:50:10.483",
+    "sha1": "d3f96ca56e2911743eb53aee562979ef0573bf03",
+    "fileSize": 198345
   },
   {
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "version": "5.21",
     "versionExtension": "MS",
-    "filename": "Firmware_145_5.21_MS.json",
-    "lastUpdate": "2026-09-13T22:49:58.455Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 230094,
+    "created": "2026-01-23",
     "decoder": [
       {
         "name": "MS420"
@@ -1328,17 +1327,19 @@
       {
         "name": "MS990"
       }
-    ]
+    ],
+    "filename": "Firmware_145_5.21_MS.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.21_MS.json",
+    "lastUpdate": "2026-09-13T22:49:58.448",
+    "sha1": "d1075f4f9bfc42295b2f4f44eff3d96af3f8b359",
+    "fileSize": 230093
   },
   {
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "version": "5.29",
     "versionExtension": "MN",
-    "filename": "Firmware_145_5.29_MN.json",
-    "lastUpdate": "2026-09-13T22:50:27.924Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 282734,
+    "created": "2026-01-23",
     "decoder": [
       {
         "name": "MN140"
@@ -1367,17 +1368,19 @@
       {
         "name": "MN340"
       }
-    ]
+    ],
+    "filename": "Firmware_145_5.29_MN.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MN.json",
+    "lastUpdate": "2026-09-13T22:50:27.915",
+    "sha1": "3f3b338e6798352ef92539160d64a73ba8993b05",
+    "fileSize": 282733
   },
   {
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "version": "5.29",
     "versionExtension": "MS",
-    "filename": "Firmware_145_5.29_MS.json",
-    "lastUpdate": "2026-09-13T22:50:43.561Z",
-    "created": "2026-01-23T21:00:00.000",
-    "fileSize": 351133,
+    "created": "2026-01-23",
     "decoder": [
       {
         "name": "MS420"
@@ -1430,7 +1433,12 @@
       {
         "name": "MS990"
       }
-    ]
+    ],
+    "filename": "Firmware_145_5.29_MS.json",
+    "link": "https://decoderdb.bidib.org/firmware/145/Firmware_145_5.29_MS.json",
+    "lastUpdate": "2026-09-13T22:50:43.552",
+    "sha1": "d778ed01ddd3f4a321add2c46576dd398c4c1132",
+    "fileSize": 351132
   },
   {
     "manufacturerId": 145,
