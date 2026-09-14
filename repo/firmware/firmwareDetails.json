@@ -537,6 +537,21 @@
     "fileSize": 10358
   },
   {
+    "manufacturerId": 123,
+    "manufacturerExtendedId": 0,
+    "version": "2.5",
+    "versionExtension": "LGB_onBoard_Decoder_Reinigungslok",
+    "filename": "Firmware_123_2.5_LGB_onBoard_Decoder_Reinigungslok.json",
+    "lastUpdate": "2026-09-14T00:20:20.276Z",
+    "created": "2026-02-10T22:23:34.00",
+    "fileSize": 22806,
+    "decoder": [
+      {
+        "name": "LGB onBoard Reinigungslok"
+      }
+    ]
+  },
+  {
     "manufacturerId": 13,
     "manufacturerExtendedId": 256,
     "version": "1.0.1",
