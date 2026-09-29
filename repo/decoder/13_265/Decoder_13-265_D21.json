@@ -1,25 +1,25 @@
 {
   "decoder": {
-    "name": "D16",
+    "name": "D21",
     "type": "loco",
-    "typeIds": "D160",
+    "typeIds": "D210",
     "articleNumbers": "",
     "manufacturerId": 13,
     "manufacturerExtendedId": 265,
     "specifications": {
       "connectors": {
-        "list": "NEM651"
+        "list": "Next18"
       },
       "dimensions": {
-        "width": 11,
-        "height": 0,
-        "length": 17
+        "width": 9,
+        "height": 0.8,
+        "length": 15
       },
       "electrical": {
         "peakCurrent": 0,
         "maxMotorCurrent": 0,
         "maxTotalCurrent": 0,
-        "maxVoltage": 20,
+        "maxVoltage": 28,
         "functionOutputs": 3
       }
     },
@@ -27,25 +27,25 @@
     "description": [
       {
         "language": "all",
-        "innerText": "Universeller Lokdecoder mit 6-Pin-Schnittstelle (NEM 651)"
+        "innerText": "Universeller Lokdecoder mit Next18-Schnittstelle (NEM 662)"
       }
     ],
     "images": [
       {
-        "name": "RTB_D16_btm.png",
+        "name": "RTB_D21_btm.webp",
         "copyright": "RTB",
-        "lastModified": "2026-07-20T11:20:44.703Z"
+        "lastModified": "2026-09-29T11:53:06.969Z"
       },
       {
-        "name": "RTB_D16_top.png",
+        "name": "RTB_D21_top.webp",
         "copyright": "RTB",
-        "lastModified": "2026-07-20T11:20:07.299Z"
+        "lastModified": "2026-09-29T11:52:50.315Z"
       }
     ],
-    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/13/D16"
+    "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/13/D21"
   },
   "version": {
-    "created": "2026-07-20T11:42:15.708Z",
-    "lastUpdate": "2026-09-29T11:56:21.217Z"
+    "created": "2026-09-29T11:49:42.329Z",
+    "lastUpdate": "2026-09-29T11:57:05.565Z"
   }
 }

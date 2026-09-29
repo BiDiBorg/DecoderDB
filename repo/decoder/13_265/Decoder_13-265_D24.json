@@ -24,22 +24,28 @@
       }
     },
     "options": "",
-    "images": [
+    "description": [
       {
-        "name": "RTB_D24_top.jpg",
-        "copyright": "RTB",
-        "lastModified": "2026-07-20T11:50:03.822Z"
-      },
+        "language": "all",
+        "innerText": "Universeller Lokdecoder mit 6-Pin-Schnittstelle (NEM 651)"
+      }
+    ],
+    "images": [
       {
         "name": "RTB_D24_btm.jpg",
         "copyright": "RTB",
         "lastModified": "2026-07-20T11:49:54.957Z"
+      },
+      {
+        "name": "RTB_D24_top.jpg",
+        "copyright": "RTB",
+        "lastModified": "2026-07-20T11:50:03.822Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/13/D24"
   },
   "version": {
-    "created": "2026-07-20T11:42:15.708Z",
-    "lastUpdate": "2026-07-30T15:15:58.382Z"
+    "created": "2026-09-29T11:49:42.329Z",
+    "lastUpdate": "2026-09-29T11:58:24.633Z"
   }
 }
