@@ -33,6 +33,26 @@
     "fileSize": 24546
   },
   {
+    "manufacturerId": 13,
+    "manufacturerExtendedId": 265,
+    "version": "1.0",
+    "filename": "Firmware_13-265_1.0.json",
+    "lastUpdate": "2026-09-29T11:50:12.072Z",
+    "created": "2026-09-29",
+    "fileSize": 108746,
+    "decoder": [
+      {
+        "name": "D16"
+      },
+      {
+        "name": "D21"
+      },
+      {
+        "name": "D24"
+      }
+    ]
+  },
+  {
     "manufacturerId": 109,
     "manufacturerExtendedId": 0,
     "version": "1",
