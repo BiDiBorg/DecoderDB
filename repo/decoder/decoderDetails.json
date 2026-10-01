@@ -42,8 +42,8 @@
     "filename": "Decoder_109_5240-5241.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_5240-5241.json",
     "lastUpdate": "2020-03-22T11:06:06.000",
-    "sha1": "f3fc5cc24257039c33b3d8561b03bc817328c53f",
-    "fileSize": 928
+    "sha1": "105ff1ce934d85a5f4bcb083b122ba48db513144",
+    "fileSize": 1451
   },
   {
     "manufacturerId": 109,
@@ -60,8 +60,8 @@
     "filename": "Decoder_109_5244-5245.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_5244-5245.json",
     "lastUpdate": "2019-01-09T20:33:04.000",
-    "sha1": "d78172404f38c090fdd82eb744e1cd8810e4a973",
-    "fileSize": 1012
+    "sha1": "3e6d5c201682ec08026baed3a8e5133509032db1",
+    "fileSize": 1623
   },
   {
     "manufacturerId": 109,
@@ -75,8 +75,8 @@
     "filename": "Decoder_109_NiederbordwagenmitBetonmischer.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_NiederbordwagenmitBetonmischer.json",
     "lastUpdate": "2025-03-15T01:08:43.000",
-    "sha1": "2c96d34f2bde1f1cdde72f770b4d76cde495f827",
-    "fileSize": 1018
+    "sha1": "0146bb9079825b94b1ce9b80b30b3f87adc2e600",
+    "fileSize": 1580
   },
   {
     "manufacturerId": 109,
@@ -90,8 +90,8 @@
     "filename": "Decoder_109_P-TUnimat09-4x4-4SE³.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_P-TUnimat09-4x4-4SE³.json",
     "lastUpdate": "2025-03-15T01:09:01.000",
-    "sha1": "cefcb3860476276f950453de06bff5efd2190b92",
-    "fileSize": 780
+    "sha1": "02a6974d443b6b0dacb7bab2672430d2e83b8e6b",
+    "fileSize": 1122
   },
   {
     "manufacturerId": 109,
@@ -104,8 +104,8 @@
     "filename": "Decoder_109_Plasser-Theurer09-3X.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_Plasser-Theurer09-3X.json",
     "lastUpdate": "2025-03-15T01:09:26.000",
-    "sha1": "a16354d3721e6b99f081ebc415455b22cc97d62f",
-    "fileSize": 845
+    "sha1": "35357098c7fbad9507395a42f4acc29473995126",
+    "fileSize": 1241
   },
   {
     "manufacturerId": 109,
@@ -119,8 +119,8 @@
     "filename": "Decoder_109_Robel261x.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_Robel261x.json",
     "lastUpdate": "2025-03-15T01:11:08.000",
-    "sha1": "80093da0fbe6553f5c888b972c03c255ca415ee1",
-    "fileSize": 776
+    "sha1": "6b042a22913d9e850a215d6e19c47a4facfc7ab8",
+    "fileSize": 1168
   },
   {
     "manufacturerId": 109,
@@ -134,8 +134,8 @@
     "filename": "Decoder_109_Robel262x.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_Robel262x.json",
     "lastUpdate": "2025-03-15T01:11:25.000",
-    "sha1": "60257a265dce34708d69d6678a2fa07ba486f133",
-    "fileSize": 787
+    "sha1": "d85ed2da52679d306f7754ab2a56953252a7fecd",
+    "fileSize": 1179
   },
   {
     "manufacturerId": 109,
@@ -149,8 +149,8 @@
     "filename": "Decoder_109_Tillig7314x.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_Tillig7314x.json",
     "lastUpdate": "2026-05-03T19:11:55.000",
-    "sha1": "504e870737ee487d53efc6bd28d1f6cfdb047c4c",
-    "fileSize": 936
+    "sha1": "6226c6eb6b60ae9bf68365e7e2e3c6be62a4d370",
+    "fileSize": 1060
   },
   {
     "manufacturerId": 109,
@@ -163,8 +163,8 @@
     "filename": "Decoder_109_Zweiwege-UNIMOG.json",
     "link": "https://decoderdb.bidib.org/decoder/109/Decoder_109_Zweiwege-UNIMOG.json",
     "lastUpdate": "2025-03-15T01:12:10.000",
-    "sha1": "eaf1a4859c515d855b850e9354e9af43fe49ecbe",
-    "fileSize": 885
+    "sha1": "69256b6b51c637df05b9602272263c1e560c00b3",
+    "fileSize": 993
   },
   {
     "manufacturerId": 115,
@@ -181,8 +181,8 @@
     "filename": "Decoder_115_DCC2SUSI.json",
     "link": "https://decoderdb.bidib.org/decoder/115/Decoder_115_DCC2SUSI.json",
     "lastUpdate": "2025-04-16T22:45:34.000",
-    "sha1": "b2870e4642ec7c01b87b9a83120992ceb0a4c88d",
-    "fileSize": 926
+    "sha1": "b62c95bcffef86082dc09fb591a2987d28df05fa",
+    "fileSize": 1022
   },
   {
     "manufacturerId": 115,
@@ -199,8 +199,8 @@
     "filename": "Decoder_115_DSEF3.json",
     "link": "https://decoderdb.bidib.org/decoder/115/Decoder_115_DSEF3.json",
     "lastUpdate": "2020-11-02T14:51:41.000",
-    "sha1": "4c7edb869b0148933f07c2dda44ae3a45deee1ed",
-    "fileSize": 920
+    "sha1": "a1e9d5e114ab3043f063e8ca43311754f3802e1d",
+    "fileSize": 1014
   },
   {
     "manufacturerId": 115,
@@ -217,8 +217,8 @@
     "filename": "Decoder_115_MicroX3.json",
     "link": "https://decoderdb.bidib.org/decoder/115/Decoder_115_MicroX3.json",
     "lastUpdate": "2020-11-12T01:13:19.000",
-    "sha1": "042bdfbb3c3c80e7c8feb34d205bda6945430de1",
-    "fileSize": 979
+    "sha1": "9421dc4460aa5e0a06e6a4dc95e09f61da84f2a8",
+    "fileSize": 1561
   },
   {
     "manufacturerId": 117,
@@ -285,8 +285,8 @@
     "filename": "Decoder_117_DCX52.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_DCX52.json",
     "lastUpdate": "2017-04-25T23:40:27.000",
-    "sha1": "2aa4dc2ebfcf7a9e48b753f4cfd4adb9a206cb0f",
-    "fileSize": 948
+    "sha1": "660e3fc4392d4294aa2a2bb0eef9925b65ae06d6",
+    "fileSize": 1561
   },
   {
     "manufacturerId": 117,
@@ -336,8 +336,8 @@
     "filename": "Decoder_117_DCX74.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_DCX74.json",
     "lastUpdate": "2017-04-25T17:46:51.000",
-    "sha1": "5f469ace1fe3e95dec115632bed71361fed28ee9",
-    "fileSize": 946
+    "sha1": "ba43207fde3f83b907f948a46d2a4921d64b7b99",
+    "fileSize": 1555
   },
   {
     "manufacturerId": 117,
@@ -387,8 +387,8 @@
     "filename": "Decoder_117_DCX76.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_DCX76.json",
     "lastUpdate": "2017-04-25T23:19:52.000",
-    "sha1": "ecabe26925c4b23b9512b5b88b9ce56df8e6bb09",
-    "fileSize": 967
+    "sha1": "187d822fa436eee5f362efbc64883fd66b7e6439",
+    "fileSize": 1580
   },
   {
     "manufacturerId": 117,
@@ -404,8 +404,8 @@
     "filename": "Decoder_117_DCX76z.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_DCX76z.json",
     "lastUpdate": "2017-04-25T23:44:24.000",
-    "sha1": "6c95d80fd31ee3368b129f27e987942b474f26d7",
-    "fileSize": 1751
+    "sha1": "b7f108ed4021fb4590493197118c980268911910",
+    "fileSize": 3148
   },
   {
     "manufacturerId": 117,
@@ -421,8 +421,8 @@
     "filename": "Decoder_117_DCX77L.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_DCX77L.json",
     "lastUpdate": "2017-04-25T18:08:07.000",
-    "sha1": "8312c973c57ac035fcf7a444705920b80c2fe3e1",
-    "fileSize": 955
+    "sha1": "9ed4a3a523c3c6d4d320f465b78b978bf3a5164b",
+    "fileSize": 1572
   },
   {
     "manufacturerId": 117,
@@ -438,8 +438,8 @@
     "filename": "Decoder_117_DCX77z.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_DCX77z.json",
     "lastUpdate": "2017-04-25T18:13:59.000",
-    "sha1": "13bfe0c139e836a68927ef275a9c22153412943a",
-    "fileSize": 940
+    "sha1": "a113b8f726f4878eaa339ed55e46a3b3712f5bda",
+    "fileSize": 1551
   },
   {
     "manufacturerId": 117,
@@ -506,8 +506,8 @@
     "filename": "Decoder_117_SL76.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_SL76.json",
     "lastUpdate": "2017-04-25T17:57:54.000",
-    "sha1": "5b8823de38191fb97f0d3e1f7333a23908f6e56c",
-    "fileSize": 918
+    "sha1": "6910d6d4cbaddb106443f9bc5eff406df7e71f04",
+    "fileSize": 1525
   },
   {
     "manufacturerId": 117,
@@ -523,8 +523,8 @@
     "filename": "Decoder_117_SL76Next18S.json",
     "link": "https://decoderdb.bidib.org/decoder/117/Decoder_117_SL76Next18S.json",
     "lastUpdate": "2017-04-25T17:54:57.000",
-    "sha1": "03976a7215bb64ca69e9a8cd0a57d12f6496a3ec",
-    "fileSize": 979
+    "sha1": "11976822ffe28826491d8e7bb010a1f5d39e60f2",
+    "fileSize": 1602
   },
   {
     "manufacturerId": 123,
@@ -541,8 +541,8 @@
     "filename": "Decoder_123_LGB_MZS_Decoder_I.json",
     "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGB_MZS_Decoder_I.json",
     "lastUpdate": "2026-03-14T14:02:03.283",
-    "sha1": "a61e1e601335172e93e4b172808292fa0efdff36",
-    "fileSize": 954
+    "sha1": "cc765b278e1a38b399f7cd2597d1a56ef3423f80",
+    "fileSize": 1043
   },
   {
     "manufacturerId": 123,
@@ -559,8 +559,8 @@
     "filename": "Decoder_123_LGB_MZS_Decoder_II.json",
     "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGB_MZS_Decoder_II.json",
     "lastUpdate": "2026-03-14T14:01:51.531",
-    "sha1": "35d9d723a89f14806b9bf447affac0a3af6ce476",
-    "fileSize": 956
+    "sha1": "a76a5bad1a97d6791176be3e6c24888c1e31ecec",
+    "fileSize": 1045
   },
   {
     "manufacturerId": 123,
@@ -577,8 +577,8 @@
     "filename": "Decoder_123_LGB_MZS_Kleinlok.json",
     "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGB_MZS_Kleinlok.json",
     "lastUpdate": "2026-03-14T14:03:16.623",
-    "sha1": "a4a5d692eeb96d166c333b434dd7c327ccfe8e8d",
-    "fileSize": 945
+    "sha1": "355b490f9c0b236c39d0e3d68fecc26dc5285c3d",
+    "fileSize": 1033
   },
   {
     "manufacturerId": 123,
@@ -595,8 +595,8 @@
     "filename": "Decoder_123_LGBonBoard1.5A.json",
     "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGBonBoard1.5A.json",
     "lastUpdate": "2026-09-14T00:02:28.117",
-    "sha1": "caa17abdf58e405bb548f06c3402db2d899eb3a8",
-    "fileSize": 1018
+    "sha1": "396f8a15b002244d6c9a7fbdf86b46f952b9847e",
+    "fileSize": 1123
   },
   {
     "manufacturerId": 123,
@@ -613,8 +613,8 @@
     "filename": "Decoder_123_LGBonBoard3A.json",
     "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_LGBonBoard3A.json",
     "lastUpdate": "2026-09-14T00:02:38.973",
-    "sha1": "4819088bee8d31a43fd96fe599040857fce2753f",
-    "fileSize": 1102
+    "sha1": "a112ec819af23638131826c9211f46d9711f39eb",
+    "fileSize": 1205
   },
   {
     "manufacturerId": 123,
@@ -649,8 +649,8 @@
     "filename": "Decoder_123_Rundkesselverdampfer.json",
     "link": "https://decoderdb.bidib.org/decoder/123/Decoder_123_Rundkesselverdampfer.json",
     "lastUpdate": "2026-01-30T23:28:39.792",
-    "sha1": "3474a3eb4a4c3efe8afa7b87e6912c1550011e15",
-    "fileSize": 553
+    "sha1": "d7953ebf99c9ffd420d064a66a7e8eb1974813a0",
+    "fileSize": 909
   },
   {
     "manufacturerId": 13,
@@ -667,8 +667,8 @@
     "filename": "Decoder_13-257_CarDecoderV3.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_CarDecoderV3.json",
     "lastUpdate": "2025-11-15T15:22:35.000",
-    "sha1": "f1d884c49f1dcbf5549aeee2898e9a2d77e75b53",
-    "fileSize": 1469
+    "sha1": "4f2bd0a4fafa691b206f7a9a741799cf81e22b6f",
+    "fileSize": 1758
   },
   {
     "manufacturerId": 13,
@@ -685,8 +685,8 @@
     "filename": "Decoder_13-257_CarDecoderV5.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_CarDecoderV5.json",
     "lastUpdate": "2018-05-02T22:43:48.000",
-    "sha1": "94f41f40db70359617603f5fb7387a367d7a5cd7",
-    "fileSize": 1675
+    "sha1": "eefca278dd87b1be747f7981a52841dd86c47df2",
+    "fileSize": 1671
   },
   {
     "manufacturerId": 13,
@@ -699,8 +699,8 @@
     "filename": "Decoder_13-257_IRM.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_IRM.json",
     "lastUpdate": "2017-07-08T15:10:44.000",
-    "sha1": "53aed9de95e7b9cff95d84693285731a5439d76e",
-    "fileSize": 1022
+    "sha1": "930ea640d1fbc9f4a67d3e48f7bb4b905ed274d5",
+    "fileSize": 1169
   },
   {
     "manufacturerId": 13,
@@ -717,8 +717,8 @@
     "filename": "Decoder_13-257_T85.json",
     "link": "https://decoderdb.bidib.org/decoder/13_257/Decoder_13-257_T85.json",
     "lastUpdate": "2020-03-21T10:06:08.000",
-    "sha1": "c7bbd0909dff812090e11160e07afd72c54e2c1f",
-    "fileSize": 1590
+    "sha1": "d7ec0a8dfe658e403ac2354252853af32a03f7f2",
+    "fileSize": 1521
   },
   {
     "manufacturerId": 13,
@@ -748,8 +748,8 @@
     "filename": "Decoder_13-264_DCCtrainV4.json",
     "link": "https://decoderdb.bidib.org/decoder/13_264/Decoder_13-264_DCCtrainV4.json",
     "lastUpdate": "2021-01-08T22:14:54.000",
-    "sha1": "3119421c83cc696a5c7a9e1612cf9ef3c1c0a8e2",
-    "fileSize": 1249
+    "sha1": "6f323142782d2a02f584c992f0547525f62a2f88",
+    "fileSize": 1193
   },
   {
     "manufacturerId": 13,
@@ -766,8 +766,8 @@
     "filename": "Decoder_13-265_D16.json",
     "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D16.json",
     "lastUpdate": "2026-07-30T15:15:31.323",
-    "sha1": "12816de8340a320e054dc3c12c93bce58cd9c0a7",
-    "fileSize": 1008
+    "sha1": "92926a9113a812ff1288d4639a10701b23e59d09",
+    "fileSize": 1273
   },
   {
     "manufacturerId": 13,
@@ -784,8 +784,8 @@
     "filename": "Decoder_13-265_D24.json",
     "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D24.json",
     "lastUpdate": "2026-07-30T15:15:58.382",
-    "sha1": "4b6554f9f3a53ffcb659fae5bbdf96707815347b",
-    "fileSize": 1010
+    "sha1": "92b5d3d3d182d5253ccc22c5a705ea39177d655f",
+    "fileSize": 1275
   },
   {
     "manufacturerId": 131,
@@ -801,8 +801,8 @@
     "filename": "Decoder_131_66838.json",
     "link": "https://decoderdb.bidib.org/decoder/131/Decoder_131_66838.json",
     "lastUpdate": "2025-04-01T17:52:37.000",
-    "sha1": "8d631ed3cb79c7fa1295e2376ff33d275b7e513d",
-    "fileSize": 1063
+    "sha1": "7f93bf9696f173df48ed97e46c606d054439c3a8",
+    "fileSize": 1252
   },
   {
     "manufacturerId": 131,
@@ -1772,8 +1772,8 @@
     "filename": "Decoder_151_LED.json",
     "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LED.json",
     "lastUpdate": "2018-11-08T18:27:35.000",
-    "sha1": "71a21041778c4a5893612302b7cdda84e9860d4b",
-    "fileSize": 929
+    "sha1": "4fba0c47b680a38c2ffa57cb448cfada8de705da",
+    "fileSize": 1022
   },
   {
     "manufacturerId": 151,
@@ -2129,8 +2129,8 @@
     "filename": "Decoder_151_LokPilotV3.0.json",
     "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokPilotV3.0.json",
     "lastUpdate": "2020-08-21T17:06:57.000",
-    "sha1": "5a42f1459de6cfea256b2f624339cf7ccec5789b",
-    "fileSize": 1246
+    "sha1": "7d546b59f8b85f6f320e7886bef2292fa5b4c381",
+    "fileSize": 2052
   },
   {
     "manufacturerId": 151,
@@ -2291,8 +2291,8 @@
     "filename": "Decoder_151_LokSound5.json",
     "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokSound5.json",
     "lastUpdate": "2026-01-27T21:44:07.230",
-    "sha1": "182dc7637a54557191460f44f64b7e096b57f3d6",
-    "fileSize": 576
+    "sha1": "ef067af19bea5c65fdfd7aed1469870f69e8bc42",
+    "fileSize": 911
   },
   {
     "manufacturerId": 151,
@@ -2399,8 +2399,8 @@
     "filename": "Decoder_151_LokSound5nanoDCC.json",
     "link": "https://decoderdb.bidib.org/decoder/151/Decoder_151_LokSound5nanoDCC.json",
     "lastUpdate": "2022-02-24T00:23:25.000",
-    "sha1": "0e33896a2464bb8f95dbbd87a40930fab35e3790",
-    "fileSize": 1051
+    "sha1": "bc3ea75a1c8f8b90460e1c43648e33a6ab917dd5",
+    "fileSize": 1686
   },
   {
     "manufacturerId": 151,
@@ -2728,8 +2728,8 @@
     "filename": "Decoder_157_N45.json",
     "link": "https://decoderdb.bidib.org/decoder/157/Decoder_157_N45.json",
     "lastUpdate": "2025-03-19T00:29:41.000",
-    "sha1": "e061d8171022351f65935520670376c4853cc96e",
-    "fileSize": 929
+    "sha1": "6bda4530960c111101cc596cc97a746fb7f61f17",
+    "fileSize": 1448
   },
   {
     "manufacturerId": 157,
@@ -2745,8 +2745,8 @@
     "filename": "Decoder_157_T125.json",
     "link": "https://decoderdb.bidib.org/decoder/157/Decoder_157_T125.json",
     "lastUpdate": "2020-03-21T23:17:39.000",
-    "sha1": "3e85caa78838dd70f659fdbfdd16dd1773fcfd07",
-    "fileSize": 815
+    "sha1": "d53564bf7073700140d0b55de84a46b275c83694",
+    "fileSize": 1256
   },
   {
     "manufacturerId": 157,
@@ -2762,8 +2762,8 @@
     "filename": "Decoder_157_T125V2.json",
     "link": "https://decoderdb.bidib.org/decoder/157/Decoder_157_T125V2.json",
     "lastUpdate": "2020-03-21T23:05:12.000",
-    "sha1": "b76e2f568feb1a1e268708335f2ccda27aef6687",
-    "fileSize": 849
+    "sha1": "2a907aa65b07573ad77a8570c00395d4f14f1c22",
+    "fileSize": 1282
   },
   {
     "manufacturerId": 157,
@@ -2779,8 +2779,8 @@
     "filename": "Decoder_157_T145.json",
     "link": "https://decoderdb.bidib.org/decoder/157/Decoder_157_T145.json",
     "lastUpdate": "2017-01-02T20:01:01.000",
-    "sha1": "d431835d31ec0b497560434c15443ee79926afa3",
-    "fileSize": 755
+    "sha1": "d453cd42bb4eedfcce056f71f9c40ba6084f0342",
+    "fileSize": 1132
   },
   {
     "manufacturerId": 157,
@@ -2796,8 +2796,8 @@
     "filename": "Decoder_157_T65.json",
     "link": "https://decoderdb.bidib.org/decoder/157/Decoder_157_T65.json",
     "lastUpdate": "2017-03-07T23:07:10.000",
-    "sha1": "9614b0516872c4261f802b799a10ac2f62ea78fe",
-    "fileSize": 1071
+    "sha1": "1805ce96725a2a22681ef608bf7245821857d60e",
+    "fileSize": 1721
   },
   {
     "manufacturerId": 160,
@@ -3186,8 +3186,8 @@
     "filename": "Decoder_172_RB2212.json",
     "link": "https://decoderdb.bidib.org/decoder/172/Decoder_172_RB2212.json",
     "lastUpdate": "2025-10-27T22:17:38.000",
-    "sha1": "157c35cb7df37e967ba7423401b4d74d1c4d9adf",
-    "fileSize": 1281
+    "sha1": "3a4403eb90ac14a14a07d9ff495f0c7a5066ac19",
+    "fileSize": 1602
   },
   {
     "manufacturerId": 172,
@@ -3204,8 +3204,8 @@
     "filename": "Decoder_172_RB2300.json",
     "link": "https://decoderdb.bidib.org/decoder/172/Decoder_172_RB2300.json",
     "lastUpdate": "2025-10-27T22:16:16.000",
-    "sha1": "bebed2dda6cda0dea38290c8253e984d09757dbe",
-    "fileSize": 1287
+    "sha1": "47672c41125254e37fce8265a849860d1f731ab3",
+    "fileSize": 1608
   },
   {
     "manufacturerId": 172,
@@ -3222,8 +3222,8 @@
     "filename": "Decoder_172_RB2310.json",
     "link": "https://decoderdb.bidib.org/decoder/172/Decoder_172_RB2310.json",
     "lastUpdate": "2025-10-27T22:16:33.000",
-    "sha1": "917a1ff7b52996ed12aa0fc6345b53e5d3c2ab60",
-    "fileSize": 1276
+    "sha1": "90495e9c8b11080cbb9e2a12f8f9e3b2e5bfe40c",
+    "fileSize": 1595
   },
   {
     "manufacturerId": 20,
@@ -3240,8 +3240,8 @@
     "filename": "Decoder_20_LD-1L.json",
     "link": "https://decoderdb.bidib.org/decoder/20/Decoder_20_LD-1L.json",
     "lastUpdate": "2019-12-26T20:28:16.000",
-    "sha1": "83953c903e3755a2f81c82a9ee3e546b7b36453c",
-    "fileSize": 806
+    "sha1": "f7818459f41e571ae3734e349d47df95edb9f091",
+    "fileSize": 1194
   },
   {
     "manufacturerId": 20,
@@ -3258,8 +3258,8 @@
     "filename": "Decoder_20_LD-1M.json",
     "link": "https://decoderdb.bidib.org/decoder/20/Decoder_20_LD-1M.json",
     "lastUpdate": "2019-12-26T20:29:12.000",
-    "sha1": "6f0387e2ca5f4bf36a6b876e37b3b11cfbb3e391",
-    "fileSize": 805
+    "sha1": "c03b6922e4b1680179e456e34ff685bea06280b1",
+    "fileSize": 1193
   },
   {
     "manufacturerId": 20,
@@ -3276,8 +3276,8 @@
     "filename": "Decoder_20_LD-1MTC.json",
     "link": "https://decoderdb.bidib.org/decoder/20/Decoder_20_LD-1MTC.json",
     "lastUpdate": "2019-12-26T20:29:23.000",
-    "sha1": "95d9ac1f20322896e9174ff999d6da690687511d",
-    "fileSize": 929
+    "sha1": "9340b6dda9df5f2ef52f51bb5a49b09ed5454f6b",
+    "fileSize": 1526
   },
   {
     "manufacturerId": 20,
@@ -3294,8 +3294,8 @@
     "filename": "Decoder_20_LD-1PL22.json",
     "link": "https://decoderdb.bidib.org/decoder/20/Decoder_20_LD-1PL22.json",
     "lastUpdate": "2019-12-26T20:28:51.000",
-    "sha1": "13beed850d2e03bb777a10416750abf36f89f943",
-    "fileSize": 889
+    "sha1": "76ea44db687dd47af3847adc5cb2b675a0e90c6b",
+    "fileSize": 1314
   },
   {
     "manufacturerId": 20,
@@ -3312,8 +3312,8 @@
     "filename": "Decoder_20_LD-1S.json",
     "link": "https://decoderdb.bidib.org/decoder/20/Decoder_20_LD-1S.json",
     "lastUpdate": "2019-12-26T20:29:01.000",
-    "sha1": "e61dc8683d2d8a1c6c3e57b94ec0a8b520002593",
-    "fileSize": 841
+    "sha1": "cf474bdd10b50a06e790e9ad7d53823ef64f9489",
+    "fileSize": 1229
   },
   {
     "manufacturerId": 42,
@@ -3326,8 +3326,8 @@
     "filename": "Decoder_42_DIGISERVODR4024.json",
     "link": "https://decoderdb.bidib.org/decoder/42/Decoder_42_DIGISERVODR4024.json",
     "lastUpdate": "2017-06-29T23:07:49.000",
-    "sha1": "9d83636996d5aad8475656a0eff4d869ca582725",
-    "fileSize": 743
+    "sha1": "31e2904cda387b4d2505316d913d3efce314bf27",
+    "fileSize": 1119
   },
   {
     "manufacturerId": 42,
@@ -3340,8 +3340,8 @@
     "filename": "Decoder_42_DIGISWITCHDR4018.json",
     "link": "https://decoderdb.bidib.org/decoder/42/Decoder_42_DIGISWITCHDR4018.json",
     "lastUpdate": "2017-06-29T23:08:01.000",
-    "sha1": "3ae8c4999fdeb1b6dae74b1f220ae6f12a354215",
-    "fileSize": 749
+    "sha1": "28d0becc417a0b7ab72341e9478282b9378b6e93",
+    "fileSize": 1127
   },
   {
     "manufacturerId": 42,
@@ -3354,8 +3354,8 @@
     "filename": "Decoder_42_DR80010GOLD.json",
     "link": "https://decoderdb.bidib.org/decoder/42/Decoder_42_DR80010GOLD.json",
     "lastUpdate": "2017-06-29T23:08:08.000",
-    "sha1": "68efa6dabc7fd863af55f2c5fd047c96833cb227",
-    "fileSize": 841
+    "sha1": "41d27a65dd71af4b1a026372daa711bc28876cb0",
+    "fileSize": 1315
   },
   {
     "manufacturerId": 42,
@@ -3371,8 +3371,8 @@
     "filename": "Decoder_42_DR80015NANOV2.0.json",
     "link": "https://decoderdb.bidib.org/decoder/42/Decoder_42_DR80015NANOV2.0.json",
     "lastUpdate": "2017-06-29T23:08:17.000",
-    "sha1": "5ca410b256db4a797c881af463f2908b3992cadd",
-    "fileSize": 940
+    "sha1": "3a03bf81b9e21d0f98f59c1d40a509c48b5b7132",
+    "fileSize": 1468
   },
   {
     "manufacturerId": 57,
@@ -3441,8 +3441,8 @@
     "filename": "Decoder_62_FD-RExtended.2.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_FD-RExtended.2.json",
     "lastUpdate": "2019-05-13T14:53:49.000",
-    "sha1": "055fdd3813b961a133b7c10fd8204b93329e2ec7",
-    "fileSize": 1161
+    "sha1": "0f406cd8f490d7b22b9186391d288671777069a2",
+    "fileSize": 1458
   },
   {
     "manufacturerId": 62,
@@ -3459,8 +3459,8 @@
     "filename": "Decoder_62_LD-G-31plus.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-31plus.json",
     "lastUpdate": "2019-05-23T10:15:54.000",
-    "sha1": "f1e49ac586d62db9708c24e871e5bcf681ab44e8",
-    "fileSize": 821
+    "sha1": "352861d747736438a4a68b5b90560b8f082e45d3",
+    "fileSize": 1251
   },
   {
     "manufacturerId": 62,
@@ -3476,8 +3476,8 @@
     "filename": "Decoder_62_LD-G-33plus.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-33plus.json",
     "lastUpdate": "2019-05-11T20:32:26.000",
-    "sha1": "c38afea719983c0cb9efe365f38de872e041e779",
-    "fileSize": 1008
+    "sha1": "2110c6b714b707b324096a42fcb1eeea3c3a1699",
+    "fileSize": 1617
   },
   {
     "manufacturerId": 62,
@@ -3494,8 +3494,8 @@
     "filename": "Decoder_62_LD-G-34plus.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-34plus.json",
     "lastUpdate": "2019-05-23T10:15:28.000",
-    "sha1": "23b128ddc2f1fc653e5a7cb2fcbd3f0d6ab8999b",
-    "fileSize": 1001
+    "sha1": "2a642ad580b75eed68a5d6ce63ade53f788c9dce",
+    "fileSize": 1616
   },
   {
     "manufacturerId": 62,
@@ -3511,8 +3511,8 @@
     "filename": "Decoder_62_LD-G-36plus.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-36plus.json",
     "lastUpdate": "2019-05-11T20:34:47.000",
-    "sha1": "9a9fb623aa75cfcee7a4829f62824bc4d931d821",
-    "fileSize": 1037
+    "sha1": "4461d6c678135a4b72bfd97bf961e0a5a18fb413",
+    "fileSize": 1182
   },
   {
     "manufacturerId": 62,
@@ -3529,8 +3529,8 @@
     "filename": "Decoder_62_LD-G-42.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-42.json",
     "lastUpdate": "2025-08-26T22:43:20.000",
-    "sha1": "09ee89fb8136339d454a86fb25a41e7508f751a0",
-    "fileSize": 1137
+    "sha1": "687ef837174e299d9f45b7c981df728bd0f0fec0",
+    "fileSize": 1320
   },
   {
     "manufacturerId": 62,
@@ -3546,8 +3546,8 @@
     "filename": "Decoder_62_LD-G-43.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-43.json",
     "lastUpdate": "2025-08-26T22:38:22.000",
-    "sha1": "0362c31918ff9ddc620ff749ba982875f1e5f454",
-    "fileSize": 1181
+    "sha1": "29a13ec84da7acc4295d2c059f8ea33895ec3be4",
+    "fileSize": 1452
   },
   {
     "manufacturerId": 62,
@@ -3563,8 +3563,8 @@
     "filename": "Decoder_62_LD-G-44.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-G-44.json",
     "lastUpdate": "2025-08-26T23:57:18.000",
-    "sha1": "f1fbf284529c0265a1014468ac405d5cb4aacc15",
-    "fileSize": 1167
+    "sha1": "d4a9dd7560cd8f9ee83e3946881b5483ff649799",
+    "fileSize": 1438
   },
   {
     "manufacturerId": 62,
@@ -3580,8 +3580,8 @@
     "filename": "Decoder_62_LD-W-42.json",
     "link": "https://decoderdb.bidib.org/decoder/62/Decoder_62_LD-W-42.json",
     "lastUpdate": "2025-08-26T22:11:58.000",
-    "sha1": "8120c647daeb121aa19b83661f0d861a581c7a21",
-    "fileSize": 842
+    "sha1": "a9b2fad361372666cf183a690f15a0dccae86927",
+    "fileSize": 1286
   },
   {
     "manufacturerId": 64,
@@ -3701,8 +3701,8 @@
     "filename": "Decoder_78_LokommanderIIMicroNext18.json",
     "link": "https://decoderdb.bidib.org/decoder/78/Decoder_78_LokommanderIIMicroNext18.json",
     "lastUpdate": "2024-05-10T16:40:41.000",
-    "sha1": "fb1e6eca1ee0edb2a1e779089a8f1dac75e21071",
-    "fileSize": 1170
+    "sha1": "c9a58185793f09aa430689fe03f0015d7846454f",
+    "fileSize": 1833
   },
   {
     "manufacturerId": 78,
@@ -3773,8 +3773,8 @@
     "filename": "Decoder_78_LokommanderIIMiniP22.json",
     "link": "https://decoderdb.bidib.org/decoder/78/Decoder_78_LokommanderIIMiniP22.json",
     "lastUpdate": "2023-09-13T18:20:17.000",
-    "sha1": "41ca3275b27ddf6eff4dd27736a9ee2eb9adc9c6",
-    "fileSize": 1125
+    "sha1": "81e1d61b68f847eb08a32f26ff3a1f4ac77c82cc",
+    "fileSize": 1692
   },
   {
     "manufacturerId": 78,
@@ -3845,8 +3845,8 @@
     "filename": "Decoder_85_73105.json",
     "link": "https://decoderdb.bidib.org/decoder/85/Decoder_85_73105.json",
     "lastUpdate": "2020-04-18T22:46:18.000",
-    "sha1": "3dd10197dd04aa472e6d98ffef749843e062da30",
-    "fileSize": 813
+    "sha1": "1ad5f208dacdde77e8a2be82c82b60cdacf0f57f",
+    "fileSize": 1246
   },
   {
     "manufacturerId": 85,
@@ -3947,8 +3947,8 @@
     "filename": "Decoder_85_76150.json",
     "link": "https://decoderdb.bidib.org/decoder/85/Decoder_85_76150.json",
     "lastUpdate": "2025-04-23T00:09:56.000",
-    "sha1": "56d5260601b8d40b28cfe00222e4504c1f550e7c",
-    "fileSize": 967
+    "sha1": "574500b86c0a5b6352effe3ff72b7b6b9fb4709e",
+    "fileSize": 1095
   },
   {
     "manufacturerId": 85,
@@ -3964,8 +3964,8 @@
     "filename": "Decoder_85_76320.json",
     "link": "https://decoderdb.bidib.org/decoder/85/Decoder_85_76320.json",
     "lastUpdate": "2025-04-19T12:31:22.000",
-    "sha1": "1293dd7e8449a75b912ecd9395094e4b8dbf7b2d",
-    "fileSize": 745
+    "sha1": "3ee1b1bfb4f62252bef2bca522229e45747bec26",
+    "fileSize": 1160
   },
   {
     "manufacturerId": 85,
@@ -4017,8 +4017,8 @@
     "filename": "Decoder_85_76790.json",
     "link": "https://decoderdb.bidib.org/decoder/85/Decoder_85_76790.json",
     "lastUpdate": "2025-04-22T20:43:44.000",
-    "sha1": "b2a62a31911dad43ece8dbce9996ee3ff709ef5a",
-    "fileSize": 812
+    "sha1": "ca7ae8bbc752d364726f2ab241c00ef007f84a9a",
+    "fileSize": 1272
   },
   {
     "manufacturerId": 85,
@@ -4034,8 +4034,8 @@
     "filename": "Decoder_85_Busch12390.json",
     "link": "https://decoderdb.bidib.org/decoder/85/Decoder_85_Busch12390.json",
     "lastUpdate": "2025-04-22T23:34:24.000",
-    "sha1": "b45f408050880106257128eb18bda3ae50126eed",
-    "fileSize": 815
+    "sha1": "7bc20e4957c37af6c546ba89a4d7cef0d0584317",
+    "fileSize": 1245
   },
   {
     "manufacturerId": 85,
@@ -4069,8 +4069,8 @@
     "filename": "Decoder_97_DH05A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH05A.json",
     "lastUpdate": "2021-03-02T12:52:20.000",
-    "sha1": "4e78a5dbadfb48941459731a282a22c0e42052e4",
-    "fileSize": 2300
+    "sha1": "b855a0757fe591ea3a0dd49cae683e4165a8c90d",
+    "fileSize": 2984
   },
   {
     "manufacturerId": 97,
@@ -4087,8 +4087,8 @@
     "filename": "Decoder_97_DH05B.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH05B.json",
     "lastUpdate": "2021-03-02T12:52:35.000",
-    "sha1": "b89971d647925f1f62436b18e892213f854e351e",
-    "fileSize": 2445
+    "sha1": "84f86f3752bfc85af829397d1aa47588a52cbd45",
+    "fileSize": 2624
   },
   {
     "manufacturerId": 97,
@@ -4105,8 +4105,8 @@
     "filename": "Decoder_97_DH05C.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH05C.json",
     "lastUpdate": "2025-09-27T13:02:10.000",
-    "sha1": "c13e9582450f720b7d8a7235b7a9233368fe858f",
-    "fileSize": 2485
+    "sha1": "c3f3cd66d20b4743be4cab27c2be8f06bfb28d87",
+    "fileSize": 2803
   },
   {
     "manufacturerId": 97,
@@ -4123,8 +4123,8 @@
     "filename": "Decoder_97_DH06A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH06A.json",
     "lastUpdate": "2021-05-08T22:51:52.000",
-    "sha1": "ad270fe2e157505e77b639cc3122fdbb964cc7ee",
-    "fileSize": 2910
+    "sha1": "059263bf9db29278a3b44158f51ed3e7206c95fe",
+    "fileSize": 3231
   },
   {
     "manufacturerId": 97,
@@ -4141,8 +4141,8 @@
     "filename": "Decoder_97_DH10A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH10A.json",
     "lastUpdate": "2021-03-02T12:52:46.000",
-    "sha1": "fc7105230490c67146f47891fa5e5f8322b1605f",
-    "fileSize": 2667
+    "sha1": "de727dae00f7c24ae7efe40e114df6e244603d48",
+    "fileSize": 2985
   },
   {
     "manufacturerId": 97,
@@ -4159,8 +4159,8 @@
     "filename": "Decoder_97_DH10B.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH10B.json",
     "lastUpdate": "2021-03-02T12:52:56.000",
-    "sha1": "a6f82e2689f8e3a26ee2790951d7c4f481bb39c5",
-    "fileSize": 2667
+    "sha1": "9ce735d2e370feb9f2cb755666b8702352a16f4c",
+    "fileSize": 2985
   },
   {
     "manufacturerId": 97,
@@ -4177,8 +4177,8 @@
     "filename": "Decoder_97_DH10C.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH10C.json",
     "lastUpdate": "2025-09-27T12:42:45.000",
-    "sha1": "6e85900372282f4aed2cc4058f0b405c27b22266",
-    "fileSize": 2921
+    "sha1": "bbd7c0a0056b32a6638cbb25a9f35b49dbe1a60c",
+    "fileSize": 3239
   },
   {
     "manufacturerId": 97,
@@ -4195,8 +4195,8 @@
     "filename": "Decoder_97_DH12A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH12A.json",
     "lastUpdate": "2021-05-22T11:35:43.000",
-    "sha1": "a75fa927c67640c96882d3c87a003733d8b49805",
-    "fileSize": 2643
+    "sha1": "50545c657db3e2c28bec04b13268a5c0f5ad6e17",
+    "fileSize": 2957
   },
   {
     "manufacturerId": 97,
@@ -4213,8 +4213,8 @@
     "filename": "Decoder_97_DH14A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH14A.json",
     "lastUpdate": "2017-03-04T11:13:56.000",
-    "sha1": "c83486850744667d71c800222f954f5ef4dcb49f",
-    "fileSize": 1040
+    "sha1": "b9e4938ad9f5efe2b6ec97394b37ae01f9042397",
+    "fileSize": 1217
   },
   {
     "manufacturerId": 97,
@@ -4231,8 +4231,8 @@
     "filename": "Decoder_97_DH14B.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH14B.json",
     "lastUpdate": "2020-02-01T09:38:48.000",
-    "sha1": "88ba3c171db9e8c2e407feb5747c25aa9d9923f7",
-    "fileSize": 2697
+    "sha1": "9891e2f691360477ac58336a3cbea4def311d373",
+    "fileSize": 2876
   },
   {
     "manufacturerId": 97,
@@ -4249,8 +4249,8 @@
     "filename": "Decoder_97_DH16A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH16A.json",
     "lastUpdate": "2025-09-27T12:46:47.000",
-    "sha1": "94d42c94a2f54438417ae31323b0f95b626170c7",
-    "fileSize": 2907
+    "sha1": "3e83601475c6b660d671186183177a8fe7b65ba3",
+    "fileSize": 3221
   },
   {
     "manufacturerId": 97,
@@ -4267,8 +4267,8 @@
     "filename": "Decoder_97_DH18A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH18A.json",
     "lastUpdate": "2025-09-27T12:49:27.000",
-    "sha1": "7c88ba507fabdcc5633820e2586ac741057aeaac",
-    "fileSize": 2856
+    "sha1": "9cce637268148ac8021f64c054c8fbab361beabc",
+    "fileSize": 3170
   },
   {
     "manufacturerId": 97,
@@ -4285,8 +4285,8 @@
     "filename": "Decoder_97_DH21A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH21A.json",
     "lastUpdate": "2025-10-24T20:32:04.000",
-    "sha1": "c9541a33c70cd4162d35ba908078929523f217ef",
-    "fileSize": 3931
+    "sha1": "624ad548650b9e7c4af7998badede61febf104f4",
+    "fileSize": 4249
   },
   {
     "manufacturerId": 97,
@@ -4321,8 +4321,8 @@
     "filename": "Decoder_97_DH22A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH22A.json",
     "lastUpdate": "2025-10-24T20:15:42.000",
-    "sha1": "bab1c83e02dc929a51b0fd867793a55f3dfc8f3d",
-    "fileSize": 3900
+    "sha1": "d08d3929fe89b648ffd18c01fb8b37358519e986",
+    "fileSize": 4214
   },
   {
     "manufacturerId": 97,
@@ -4357,8 +4357,8 @@
     "filename": "Decoder_97_DH24A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DH24A.json",
     "lastUpdate": "2025-11-16T11:58:54.000",
-    "sha1": "b8656b0cd5a35c54e5c3637a8f025c2023d0eacf",
-    "fileSize": 3974
+    "sha1": "50adadc86968f50eb9d014ec870672a85a430b58",
+    "fileSize": 4151
   },
   {
     "manufacturerId": 97,
@@ -4374,8 +4374,8 @@
     "filename": "Decoder_97_DHL160.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DHL160.json",
     "lastUpdate": "2025-03-28T23:55:33.000",
-    "sha1": "95ea4aec68062a8d5aef9aa34bbb5402af947ee9",
-    "fileSize": 1048
+    "sha1": "8e2a238854a365644ee9f299407eb8a25204bb53",
+    "fileSize": 1237
   },
   {
     "manufacturerId": 97,
@@ -4392,8 +4392,8 @@
     "filename": "Decoder_97_DHP160.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DHP160.json",
     "lastUpdate": "2021-03-02T12:51:38.000",
-    "sha1": "db9ca73aec8a489317097fa61bcdcbd3a7b3e495",
-    "fileSize": 2377
+    "sha1": "555abbd3d201dcb64f69e9e9953bd2536cb3ca51",
+    "fileSize": 2555
   },
   {
     "manufacturerId": 97,
@@ -4410,8 +4410,8 @@
     "filename": "Decoder_97_DHP250.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DHP250.json",
     "lastUpdate": "2021-03-02T12:51:38.000",
-    "sha1": "aa8b05f9aa12b5b19a526800fb9ce90c9a85ebe5",
-    "fileSize": 2381
+    "sha1": "588efb9729840c3d5fe78c151dfc8d27357c45f0",
+    "fileSize": 2559
   },
   {
     "manufacturerId": 97,
@@ -4428,8 +4428,8 @@
     "filename": "Decoder_97_DHP260.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DHP260.json",
     "lastUpdate": "2021-03-02T12:51:38.000",
-    "sha1": "86beada9d831ed66c0e14280b474ff4e36487c30",
-    "fileSize": 2354
+    "sha1": "e108bae798a4d7bf0c66e65d04a6dd6690320a30",
+    "fileSize": 2532
   },
   {
     "manufacturerId": 97,
@@ -4446,8 +4446,8 @@
     "filename": "Decoder_97_DHSP10A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DHSP10A.json",
     "lastUpdate": "2025-11-16T11:55:26.000",
-    "sha1": "fd87ea7fffc381c7f8a459872963ffc054c0a57a",
-    "fileSize": 4309
+    "sha1": "c07f0f665ca5e1da733f81cc2b3afbae8289f1c5",
+    "fileSize": 4488
   },
   {
     "manufacturerId": 97,
@@ -4464,8 +4464,8 @@
     "filename": "Decoder_97_DHZ400.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_DHZ400.json",
     "lastUpdate": "2020-05-23T12:58:37.000",
-    "sha1": "96261ccd2831c00d96eb94e63132b43ebf120644",
-    "fileSize": 1520
+    "sha1": "4f6af7baf4ec19b29a0756dd7881e18e1766510e",
+    "fileSize": 1698
   },
   {
     "manufacturerId": 97,
@@ -4482,8 +4482,8 @@
     "filename": "Decoder_97_FH05A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_FH05A.json",
     "lastUpdate": "2021-03-02T12:55:49.000",
-    "sha1": "7ed81156109bf1160055edf1f46d1d7d783c5e0c",
-    "fileSize": 2222
+    "sha1": "4dbb448a26885e48873cc077721cc475845b1249",
+    "fileSize": 2401
   },
   {
     "manufacturerId": 97,
@@ -4500,8 +4500,8 @@
     "filename": "Decoder_97_FH05B.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_FH05B.json",
     "lastUpdate": "2025-09-27T12:53:15.000",
-    "sha1": "620b0b7c0d6d0346266dce8258ccaf418e649511",
-    "fileSize": 2699
+    "sha1": "7c623a4323bf2e19b8d92af761cf01bb16506f66",
+    "fileSize": 3020
   },
   {
     "manufacturerId": 97,
@@ -4536,8 +4536,8 @@
     "filename": "Decoder_97_FH18A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_FH18A.json",
     "lastUpdate": "2025-10-24T20:18:29.000",
-    "sha1": "84278bf8fa5cfcec4fa56a51a4feef71691a98f1",
-    "fileSize": 3507
+    "sha1": "7cf6ac9db951947373491f727009eb60dce416a8",
+    "fileSize": 3829
   },
   {
     "manufacturerId": 97,
@@ -4554,8 +4554,8 @@
     "filename": "Decoder_97_FH22A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_FH22A.json",
     "lastUpdate": "2020-02-01T09:51:55.000",
-    "sha1": "de549ccd3434ecd8f52080c5d49de07c934d3549",
-    "fileSize": 2358
+    "sha1": "345c7459b77c40e30292fedaab13f1d420db4ba7",
+    "fileSize": 3039
   },
   {
     "manufacturerId": 97,
@@ -4572,8 +4572,8 @@
     "filename": "Decoder_97_PD05A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_PD05A.json",
     "lastUpdate": "2025-09-27T12:58:28.000",
-    "sha1": "506a1b91dddb703baf65a3684a4ac01bf585c8c5",
-    "fileSize": 3268
+    "sha1": "aa8ea2a49ca410aca64fee06cb7c4ae2da8add83",
+    "fileSize": 3450
   },
   {
     "manufacturerId": 97,
@@ -4590,8 +4590,8 @@
     "filename": "Decoder_97_PD06A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_PD06A.json",
     "lastUpdate": "2025-09-27T12:56:21.000",
-    "sha1": "9d4b59f8c4e9aae9dd9be45d55f6ee21911e5c66",
-    "fileSize": 3191
+    "sha1": "33c4bf30c3029c622fad98755b89de7b84294c15",
+    "fileSize": 3370
   },
   {
     "manufacturerId": 97,
@@ -4608,8 +4608,8 @@
     "filename": "Decoder_97_PD12A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_PD12A.json",
     "lastUpdate": "2020-02-03T06:33:11.000",
-    "sha1": "a0349fe1fa3a5caeec42e944ce4d85efb2d54a15",
-    "fileSize": 2906
+    "sha1": "3c9a9a2b38c29b564dc5d08c0ecb2749a7e4c3ac",
+    "fileSize": 3102
   },
   {
     "manufacturerId": 97,
@@ -4644,8 +4644,8 @@
     "filename": "Decoder_97_PD21A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_PD21A.json",
     "lastUpdate": "2025-10-24T20:19:43.000",
-    "sha1": "01fa64cd8843b96edffb26b278b450b3ee9b970b",
-    "fileSize": 3910
+    "sha1": "e27baf0ba5f792f2a5916b77946e49134b928f71",
+    "fileSize": 4096
   },
   {
     "manufacturerId": 97,
@@ -4662,8 +4662,8 @@
     "filename": "Decoder_97_SD05A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SD05A.json",
     "lastUpdate": "2020-02-01T09:59:31.000",
-    "sha1": "b19331ba2319634d2f892e6a9ffd9a254ec87ff4",
-    "fileSize": 4008
+    "sha1": "dff57c54d6386f2ba71182b55dd0cc98ebdd3e22",
+    "fileSize": 4187
   },
   {
     "manufacturerId": 97,
@@ -4680,8 +4680,8 @@
     "filename": "Decoder_97_SD10A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SD10A.json",
     "lastUpdate": "2020-02-01T10:01:12.000",
-    "sha1": "a544b0c468cf1eba9bae354678c4c5e7606cdd21",
-    "fileSize": 4414
+    "sha1": "157927043d157139a2257c7f6ca7c280afadc4a9",
+    "fileSize": 4739
   },
   {
     "manufacturerId": 97,
@@ -4698,8 +4698,8 @@
     "filename": "Decoder_97_SD16A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SD16A.json",
     "lastUpdate": "2020-02-01T10:02:23.000",
-    "sha1": "67af8fe5302b23ab89710a3081509ff0daf7604f",
-    "fileSize": 4416
+    "sha1": "caa4d06f588c0767f748240d342be63218aed31d",
+    "fileSize": 4734
   },
   {
     "manufacturerId": 97,
@@ -4716,8 +4716,8 @@
     "filename": "Decoder_97_SD18A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SD18A.json",
     "lastUpdate": "2020-02-01T10:03:30.000",
-    "sha1": "d0d4fb5fac36b920dcad36f96bad84fa889df823",
-    "fileSize": 4830
+    "sha1": "4c22a619303d04ebb5cd2da32350b1c444628ef5",
+    "fileSize": 5434
   },
   {
     "manufacturerId": 97,
@@ -4734,8 +4734,8 @@
     "filename": "Decoder_97_SD21A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SD21A.json",
     "lastUpdate": "2020-02-01T10:05:11.000",
-    "sha1": "0014d71c1d82b790ea5a0a0c989a9da86916394c",
-    "fileSize": 4878
+    "sha1": "294f4416ea4a377d49316316735d19a72ab65b4c",
+    "fileSize": 5490
   },
   {
     "manufacturerId": 97,
@@ -4752,8 +4752,8 @@
     "filename": "Decoder_97_SD22A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SD22A.json",
     "lastUpdate": "2020-02-01T10:06:26.000",
-    "sha1": "5ac39354e22d155f7d6f9f6667d4e98a464f18f5",
-    "fileSize": 4424
+    "sha1": "71878104aa1a0cac4f1aa2449a8cac75c6f0f4ff",
+    "fileSize": 4742
   },
   {
     "manufacturerId": 97,
@@ -4788,8 +4788,8 @@
     "filename": "Decoder_97_SH10A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SH10A.json",
     "lastUpdate": "2021-05-22T11:34:44.000",
-    "sha1": "80a2daca4fe70fc11434ab8d2f701117db210ff0",
-    "fileSize": 2897
+    "sha1": "18a45adf8b654ae1711a15d392b07e0960db9573",
+    "fileSize": 3212
   },
   {
     "manufacturerId": 97,
@@ -4806,8 +4806,8 @@
     "filename": "Decoder_97_SP05A.json",
     "link": "https://decoderdb.bidib.org/decoder/97/Decoder_97_SP05A.json",
     "lastUpdate": "2020-02-01T10:08:16.000",
-    "sha1": "f1680e649e03ee594127da3098e2544278c56cc4",
-    "fileSize": 2154
+    "sha1": "cfacc0698732fbd4ce10470009ed69e6206bda92",
+    "fileSize": 2607
   },
   {
     "manufacturerId": 99,
