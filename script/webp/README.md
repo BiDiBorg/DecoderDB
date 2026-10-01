@@ -4,6 +4,13 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
+```sh
+for f in *.png *.PNG
+  test -f "$f"; or continue
+  magick "$f" -quality 95 (string replace -r -i '\.png$' '.webp' "$f")
+end
+```
+
 Where necessary (and possible), isolate images for better Dark Mode support.
 
 .webp settings
@@ -11,11 +18,7 @@ Where necessary (and possible), isolate images for better Dark Mode support.
 - 95% quality
 
 TODO:
-- /78
-- /85
-- /97
 - /99
-- /109
 - /115
 - /117
 - /123
