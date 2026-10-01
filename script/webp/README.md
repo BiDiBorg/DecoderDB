@@ -4,6 +4,12 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
+Where necessary (and possible), isolate images for better Dark Mode support.
+
+.webp settings
+- 1000 max length
+- 95% quality
+
 TODO:
 - /13_257
 - /13_264
