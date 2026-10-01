@@ -1,7 +1,11 @@
 {
   "decoder": {
     "specifications": {
-      "dimensions": { "length": 14.0, "width": 9.0, "height": 1.8 },
+      "dimensions": {
+        "length": 14.0,
+        "width": 9.0,
+        "height": 1.8
+      },
       "electrical": {
         "maxTotalCurrent": 1.0,
         "maxMotorCurrent": 1.0,
@@ -9,12 +13,19 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "MTC14" }
+      "connectors": {
+        "list": "MTC14"
+      }
     },
     "images": [
       {
         "name": "DH14A.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DH14A.jpg",
+        "lastModified": "2017-03-04T00:41:47",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH14A.webp",
         "lastModified": "2017-03-04T00:41:47",
         "copyright": "Doehler & Haass"
       }
