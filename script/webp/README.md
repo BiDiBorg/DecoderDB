@@ -11,12 +11,6 @@ Where necessary (and possible), isolate images for better Dark Mode support.
 - 95% quality
 
 TODO:
-- /13_257
-- /13_264
-- /13_265
-- /20
-- /42
-- /62
 - /78
 - /85
 - /97
