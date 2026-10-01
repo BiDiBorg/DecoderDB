@@ -19,7 +19,6 @@ Where necessary (and possible), isolate images for better Dark Mode support.
 
 TODO:
 - /99
-- /131
 - /145
 - /151
 - /157
