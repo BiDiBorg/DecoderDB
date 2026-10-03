@@ -11,6 +11,13 @@ for f in *.png *.PNG
 end
 ```
 
+```sh
+for f in *.png *.PNG
+    test -f "$f"; or continue
+    magick "$f" -background white -alpha remove -alpha off -quality 95 (string replace -r -i '\.png$' '.jpg' "$f")
+end
+```
+
 Where necessary (and possible), isolate images for better Dark Mode support.
 
 .webp settings
@@ -19,4 +26,3 @@ Where necessary (and possible), isolate images for better Dark Mode support.
 
 TODO:
 - /99
-- /145
