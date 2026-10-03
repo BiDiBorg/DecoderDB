@@ -870,9 +870,9 @@
       "created": "2016-08-22",
       "filename": "Decoder_145_MX600.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX600.json",
-      "lastUpdate": "2026-03-09T20:13:27.189",
-      "sha1": "e074e99fedd0ee4e92608ba1c086b16b5066f190",
-      "fileSize": 894
+      "lastUpdate": "2026-10-03T12:26:02.204",
+      "sha1": "b7187e0cd4fb6da793417ec8f7a08befebf5aa37",
+      "fileSize": 2161
     },
     {
       "manufacturerId": 145,
@@ -903,9 +903,9 @@
       "created": "2016-05-09",
       "filename": "Decoder_145_MX618.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX618.json",
-      "lastUpdate": "2026-03-09T20:14:44.650",
-      "sha1": "dbdf9ee40e38d73d57c821b09bb19d0a80824067",
-      "fileSize": 834
+      "lastUpdate": "2026-10-03T12:38:55.745",
+      "sha1": "8a2ced6cef07fa76c4364987a3fef8fecc9ce067",
+      "fileSize": 1570
     },
     {
       "manufacturerId": 145,
@@ -925,9 +925,9 @@
       "created": "2016-05-09",
       "filename": "Decoder_145_MX621.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX621.json",
-      "lastUpdate": "2026-03-09T20:15:17.633",
-      "sha1": "b01647cbd87e644b4e2c26eebbbd525dc209a55f",
-      "fileSize": 857
+      "lastUpdate": "2026-10-03T12:44:38.183",
+      "sha1": "23d817ebc7682cd2d0af0e59240a1f52a59c8dfd",
+      "fileSize": 1293
     },
     {
       "manufacturerId": 145,
@@ -936,9 +936,9 @@
       "created": "2017-01-02",
       "filename": "Decoder_145_MX622.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX622.json",
-      "lastUpdate": "2026-03-09T20:12:34.486",
-      "sha1": "f520d26d25c54833809b91ba8f28c6f03138d263",
-      "fileSize": 860
+      "lastUpdate": "2026-10-03T12:46:54.700",
+      "sha1": "f0118c5c67f0a2a4c74852dd5b412fd741ee8ca7",
+      "fileSize": 1301
     },
     {
       "manufacturerId": 145,
@@ -14395,42 +14395,242 @@
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MX600-1.jpg",
-      "filename": "MX600-1.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600-1.jpg",
-      "lastUpdate": "2020-04-11T17:46:32.000",
-      "sha1": "f399c6c026bb17eac4e4d8dc8b03af1b468751da",
-      "fileSize": 92939
+      "name": "MX600_revb_bottom.jpg",
+      "filename": "MX600_revb_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600_revb_bottom.jpg",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "1e34eb299c964d58ae7b219ee23fa7c78bf399e4",
+      "fileSize": 121892
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MX618N18-4.jpg",
-      "filename": "MX618N18-4.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618N18-4.jpg",
-      "lastUpdate": "2017-03-28T12:47:52.000",
-      "sha1": "452af51295aa7580b3eaa7e142bb3c3bd788a5f5",
-      "fileSize": 113233
+      "name": "MX600_revb_bottom.webp",
+      "filename": "MX600_revb_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600_revb_bottom.webp",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "f6cf3878f5ff5ed83f60c56ed64064e874806fcd",
+      "fileSize": 84984
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MX621.jpg",
-      "filename": "MX621.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MX621.jpg",
-      "lastUpdate": "2020-04-11T17:49:45.000",
-      "sha1": "d27788f5b7e5222ff45bb6ca13cdcef7b2486b1d",
-      "fileSize": 127920
+      "name": "MX600_revb_top_persp.jpg",
+      "filename": "MX600_revb_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600_revb_top_persp.jpg",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "103c2e6351c5f01decc00feb93d01f0fabc19686",
+      "fileSize": 158901
     },
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
-      "name": "MX622N.jpg",
-      "filename": "MX622N.jpg",
-      "link": "https://decoderdb.bidib.org/decoder/145/images/MX622N.jpg",
-      "lastUpdate": "2020-04-11T17:51:38.000",
-      "sha1": "948eb8ceebe8bfff274b23e5f4a0c8cbd5de59b5",
-      "fileSize": 102797
+      "name": "MX600_revb_top_persp.webp",
+      "filename": "MX600_revb_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600_revb_top_persp.webp",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "1e8fddc2ab0bdb1b69d43ce4bd774acfed05574d",
+      "fileSize": 111688
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX600_revb_top.jpg",
+      "filename": "MX600_revb_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600_revb_top.jpg",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "558d5435c81e1f6e19cf0e4999d724c94dbd276d",
+      "fileSize": 173871
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX600_revb_top.webp",
+      "filename": "MX600_revb_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600_revb_top.webp",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "8dba5a0aa82c3c818c23a44531abca84c9410fe8",
+      "fileSize": 118106
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX600P12_revb_bottom.jpg",
+      "filename": "MX600P12_revb_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600P12_revb_bottom.jpg",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "9c09a8052c21a9aa3474e4184a32f4cc5edaf3a0",
+      "fileSize": 136502
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX600P12_revb_bottom.webp",
+      "filename": "MX600P12_revb_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600P12_revb_bottom.webp",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "6bf5a835794e1fb8374157e1e9ef001922623b0d",
+      "fileSize": 88122
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX600P12_revb_top.jpg",
+      "filename": "MX600P12_revb_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600P12_revb_top.jpg",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "ac516982d14088b6aeaa56ebaf21fbc6ab7d8f43",
+      "fileSize": 224575
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX600P12_revb_top.webp",
+      "filename": "MX600P12_revb_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX600P12_revb_top.webp",
+      "lastUpdate": "2026-10-02T18:16:33.341",
+      "sha1": "58701e75aa6e518d84c3f0d96097d4592955409a",
+      "fileSize": 153938
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX618N18revB_bottom.jpg",
+      "filename": "MX618N18revB_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618N18revB_bottom.jpg",
+      "lastUpdate": "2026-10-03T12:38:09.791",
+      "sha1": "42b8d623dbada1ea50864e9e176a1e8528068ee9",
+      "fileSize": 336685
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX618N18revB_bottom.webp",
+      "filename": "MX618N18revB_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618N18revB_bottom.webp",
+      "lastUpdate": "2026-10-03T12:38:09.791",
+      "sha1": "5f05d17d5ec8892018bcc6d1a5a6c24c80a26034",
+      "fileSize": 184328
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX618N18revB_top.jpg",
+      "filename": "MX618N18revB_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618N18revB_top.jpg",
+      "lastUpdate": "2026-10-03T12:38:09.791",
+      "sha1": "3c90b18b9c7e90e6e6da237f9dd6c7d9d8499f04",
+      "fileSize": 333365
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX618N18revB_top.webp",
+      "filename": "MX618N18revB_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618N18revB_top.webp",
+      "lastUpdate": "2026-10-03T12:38:09.791",
+      "sha1": "eb2306101b9b1da0220a32d44721a5d5701d60e8",
+      "fileSize": 185462
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX618revB_top_persp.jpg",
+      "filename": "MX618revB_top_persp.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618revB_top_persp.jpg",
+      "lastUpdate": "2026-10-03T12:38:09.791",
+      "sha1": "4a58070121c719949c970485dddbe471173a91bc",
+      "fileSize": 692498
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX618revB_top_persp.webp",
+      "filename": "MX618revB_top_persp.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX618revB_top_persp.webp",
+      "lastUpdate": "2026-10-03T12:38:09.791",
+      "sha1": "4067cabcf0ee10534ecc350f11212833d86d0534",
+      "fileSize": 412544
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX621- Aufsicht.jpg",
+      "filename": "MX621- Aufsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX621- Aufsicht.jpg",
+      "lastUpdate": "2026-10-03T12:43:34.024",
+      "sha1": "ad614ed2e38636c4b58d03aa7ac079d04c123d28",
+      "fileSize": 463725
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX621- Aufsicht.webp",
+      "filename": "MX621- Aufsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX621- Aufsicht.webp",
+      "lastUpdate": "2026-10-03T12:43:01.263",
+      "sha1": "80ef84364cfd9801f237c3aac822ca1b3463ca7b",
+      "fileSize": 193452
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX621N-1.jpg",
+      "filename": "MX621N-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX621N-1.jpg",
+      "lastUpdate": "2026-10-03T12:43:34.057",
+      "sha1": "e4b85ce7e2918367344d757df77367789ef73611",
+      "fileSize": 145265
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX621N-1.webp",
+      "filename": "MX621N-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX621N-1.webp",
+      "lastUpdate": "2026-10-03T12:43:04.689",
+      "sha1": "8dd69b46e89f4fba2a56e9884c52a3ba3af6198b",
+      "fileSize": 163788
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX622N revB-1.jpg",
+      "filename": "MX622N revB-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX622N revB-1.jpg",
+      "lastUpdate": "2026-10-03T12:45:33.161",
+      "sha1": "ab50440e27a3103069c0f176805b2b085f3b4c0e",
+      "fileSize": 170522
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX622N revB-1.webp",
+      "filename": "MX622N revB-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX622N revB-1.webp",
+      "lastUpdate": "2026-10-03T12:45:58.271",
+      "sha1": "9b1b3fbee1d4f2227d1c0bf425d7a3c79d16d920",
+      "fileSize": 156422
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX622N revB-2.jpg",
+      "filename": "MX622N revB-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX622N revB-2.jpg",
+      "lastUpdate": "2026-10-03T12:45:33.215",
+      "sha1": "8a3a0fcc7e37910bd0eeca19231189865c2ee220",
+      "fileSize": 166633
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX622N revB-2.webp",
+      "filename": "MX622N revB-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX622N revB-2.webp",
+      "lastUpdate": "2026-10-03T12:46:00.989",
+      "sha1": "80744c5e5b5a2042cb618c259799c9fe25694032",
+      "fileSize": 152040
     },
     {
       "manufacturerId": 157,
