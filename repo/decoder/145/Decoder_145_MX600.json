@@ -25,15 +25,60 @@
     "options": "",
     "images": [
       {
-        "name": "MX600-1.jpg",
+        "name": "MX600_revb_top_persp.jpg",
         "copyright": "ZIMO",
-        "lastModified": "2020-04-11T17:46:32"
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600_revb_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600_revb_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600P12_revb_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600P12_revb_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600_revb_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600_revb_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600_revb_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600P12_revb_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
+      },
+      {
+        "name": "MX600P12_revb_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-02T18:16:33.341Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX600"
   },
   "version": {
     "created": "2016-08-22T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:13:27.189Z"
+    "lastUpdate": "2026-10-03T12:26:02.204Z"
   }
 }

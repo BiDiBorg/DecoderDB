@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 21.2, "width": 15.5, "height": 2.9 },
+      "dimensions": {
+        "length": 21.2,
+        "width": 15.5,
+        "height": 2.9
+      },
       "electrical": {
         "maxTotalCurrent": 1.0,
         "maxMotorCurrent": 1.0,
@@ -15,12 +19,19 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "MTC21RCN-121" }
+      "connectors": {
+        "list": "MTC21RCN-121"
+      }
     },
     "images": [
       {
         "name": "PD21A-4_V_2020.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/PD21A-4_V_2020.jpg",
+        "lastModified": "2020-05-02T12:32:22",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "PD21A-4_V_2020.webp",
         "lastModified": "2020-05-02T12:32:22",
         "copyright": "Doehler & Haass"
       }

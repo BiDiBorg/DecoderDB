@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 13.2, "width": 6.8, "height": 1.4 },
+      "dimensions": {
+        "length": 13.2,
+        "width": 6.8,
+        "height": 1.4
+      },
       "electrical": {
         "maxTotalCurrent": 0.5,
         "maxMotorCurrent": 0.5,
@@ -15,12 +19,19 @@
         "maxVoltage": 18.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad;Cable;NEM651" }
+      "connectors": {
+        "list": "Pad;Cable;NEM651"
+      }
     },
     "images": [
       {
         "name": "DH05A-0.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DH05A-0.jpg",
+        "lastModified": "2019-03-15T22:32:53",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH05A-0.webp",
         "lastModified": "2019-03-15T22:32:53",
         "copyright": "Doehler & Haass"
       }

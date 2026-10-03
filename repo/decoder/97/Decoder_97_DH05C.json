@@ -11,7 +11,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 12.9, "width": 6.7, "height": 1.4 },
+      "dimensions": {
+        "length": 12.9,
+        "width": 6.7,
+        "height": 1.4
+      },
       "electrical": {
         "maxTotalCurrent": 0.5,
         "maxMotorCurrent": 0.5,
@@ -19,7 +23,9 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad;Cable;classicSUSI-Pads" }
+      "connectors": {
+        "list": "Pad;Cable;classicSUSI-Pads"
+      }
     },
     "images": [
       {
@@ -31,6 +37,16 @@
       {
         "name": "DH05C_unten.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DH05C_unten.jpg",
+        "lastModified": "2017-03-01T22:37:55",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH05C-0.webp",
+        "lastModified": "2017-03-01T22:37:54",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH05C_unten.webp",
         "lastModified": "2017-03-01T22:37:55",
         "copyright": "Doehler & Haass"
       }
