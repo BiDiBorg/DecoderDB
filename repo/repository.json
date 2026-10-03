@@ -3049,8 +3049,8 @@
       "filename": "Decoder_99_BR64.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_BR64.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "f88638fdffb67a725b19b41fb2a79c6d65487879",
-      "fileSize": 695
+      "sha1": "12486e326e0968a4f848c166114aa8edc22769af",
+      "fileSize": 1035
     },
     {
       "manufacturerId": 99,
@@ -3060,8 +3060,8 @@
       "filename": "Decoder_99_BR89.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_BR89.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "9a39bb1d12666780e9f1827daa14bb67a13e8acc",
-      "fileSize": 699
+      "sha1": "f9428969617cc62af90e585fc9e65349187c690a",
+      "fileSize": 1039
     },
     {
       "manufacturerId": 99,
@@ -3082,8 +3082,8 @@
       "filename": "Decoder_99_GOLD+.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_GOLD+.json",
       "lastUpdate": "2017-06-13T22:25:33.000",
-      "sha1": "b5f97bacb93694edbf65cd2855f263c8736469c9",
-      "fileSize": 981
+      "sha1": "6b3e5083fb31d9ac0fb125a824cad07dd9e84d06",
+      "fileSize": 1602
     },
     {
       "manufacturerId": 99,
@@ -3115,8 +3115,8 @@
       "filename": "Decoder_99_Koef2.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_Koef2.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "f9a36a58660bec64896bc4de355ed97114ecba18",
-      "fileSize": 712
+      "sha1": "622dcc47a641083d88477926b6c01b46885fb2ba",
+      "fileSize": 1052
     },
     {
       "manufacturerId": 99,
@@ -3126,8 +3126,8 @@
       "filename": "Decoder_99_LS100.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_LS100.json",
       "lastUpdate": "2019-08-04T20:26:55.000",
-      "sha1": "e9e9d688dda8992dbfeb8c28caf31b2e8d61c477",
-      "fileSize": 892
+      "sha1": "d088f8673067e6c50ed43f18afd580921a738fbf",
+      "fileSize": 991
     },
     {
       "manufacturerId": 99,
@@ -3137,8 +3137,8 @@
       "filename": "Decoder_99_ModellplusBR66.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_ModellplusBR66.json",
       "lastUpdate": "2020-04-22T14:10:52.000",
-      "sha1": "78565b3338deb745d93db24e732c72faacd40057",
-      "fileSize": 752
+      "sha1": "978deddfe3aed5d9962314a968457838ae37b66c",
+      "fileSize": 1133
     },
     {
       "manufacturerId": 99,
@@ -3148,8 +3148,8 @@
       "filename": "Decoder_99_ModellplusKoef.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_ModellplusKoef.json",
       "lastUpdate": "2020-04-10T16:46:07.000",
-      "sha1": "3e0f24b2a4f8610b325f4beed2199e1bde5bdf82",
-      "fileSize": 772
+      "sha1": "1cfbf54b49ef3ade34cbedba2a4f7979ce93befb",
+      "fileSize": 1161
     },
     {
       "manufacturerId": 99,
@@ -3159,8 +3159,8 @@
       "filename": "Decoder_99_ModellplusV20.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_ModellplusV20.json",
       "lastUpdate": "2020-04-05T19:38:19.000",
-      "sha1": "f2cba831a721cc577d16106162879fe8b5f93e37",
-      "fileSize": 760
+      "sha1": "6c2c845863accdab3d67bcfd4c24ecd0a60d448f",
+      "fileSize": 1148
     },
     {
       "manufacturerId": 99,
@@ -3170,8 +3170,8 @@
       "filename": "Decoder_99_ModellplusV36.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_ModellplusV36.json",
       "lastUpdate": "2020-04-10T19:37:29.000",
-      "sha1": "9ee2cb04cbc0da7af72839e1675999e0cf1034d6",
-      "fileSize": 732
+      "sha1": "a404a89f3bf2481fce4fef9cd2445e9869061775",
+      "fileSize": 1163
     },
     {
       "manufacturerId": 99,
@@ -3181,8 +3181,8 @@
       "filename": "Decoder_99_SILVER.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_SILVER.json",
       "lastUpdate": "2020-04-05T15:01:34.000",
-      "sha1": "14da851a339d7f5ba51d9af82d84ec634dd84a61",
-      "fileSize": 959
+      "sha1": "ed972deb1a5352d742db20edc102ecf4db439127",
+      "fileSize": 1503
     },
     {
       "manufacturerId": 99,
@@ -3225,8 +3225,8 @@
       "filename": "Decoder_99_SILVER+PluX22.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_SILVER+PluX22.json",
       "lastUpdate": "2020-03-28T00:14:10.000",
-      "sha1": "8280ede562d8ee5238a21c8d38878733cd0930b0",
-      "fileSize": 984
+      "sha1": "a3edea3cdea0fa542ac26bc8c190c0cef26b7873",
+      "fileSize": 1473
     },
     {
       "manufacturerId": 99,
@@ -3236,8 +3236,8 @@
       "filename": "Decoder_99_SILVER21.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_SILVER21.json",
       "lastUpdate": "2020-04-05T15:01:41.000",
-      "sha1": "aa306555eb673a1c8f9e6cc0552705779d430fa4",
-      "fileSize": 966
+      "sha1": "f4e0526bf3dadc64a764e8e11ddfbe70ed83a944",
+      "fileSize": 1514
     },
     {
       "manufacturerId": 99,
@@ -3258,8 +3258,8 @@
       "filename": "Decoder_99_SILVERdirect.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_SILVERdirect.json",
       "lastUpdate": "2020-04-05T15:01:48.000",
-      "sha1": "f2a3e01191f4fcdda28171d79c1d1d9fa94f044e",
-      "fileSize": 992
+      "sha1": "80467978bf4e0f83e819e34523e41f4b1024bf35",
+      "fileSize": 1548
     },
     {
       "manufacturerId": 99,
@@ -3346,8 +3346,8 @@
       "filename": "Decoder_99_V100.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_V100.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "8e11df8816f3492196498b691d15538b555e48b5",
-      "fileSize": 694
+      "sha1": "25ea6b25f566ca2c8f75ea46545ac2afa13ee094",
+      "fileSize": 1031
     },
     {
       "manufacturerId": 99,
@@ -3357,8 +3357,8 @@
       "filename": "Decoder_99_V20.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_V20.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "92d118b68bead44ad850c88f2887748c915eb3a6",
-      "fileSize": 696
+      "sha1": "d5736e594910c279963a4970679e60ed3e703dd3",
+      "fileSize": 1036
     },
     {
       "manufacturerId": 99,
@@ -3368,8 +3368,8 @@
       "filename": "Decoder_99_V36.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_V36.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "2163a4a14dd9314169248bd88d4cbe86b414dfcb",
-      "fileSize": 695
+      "sha1": "4f8781a25cac954813521cba1cd7359bd4e61dba",
+      "fileSize": 1032
     },
     {
       "manufacturerId": 99,
@@ -3379,8 +3379,8 @@
       "filename": "Decoder_99_V60.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_V60.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "1909fff0277f56d65aba95a9f4683e0e9b635414",
-      "fileSize": 695
+      "sha1": "f1de92a6e11e00e03b5ee0f6d14b03a473af7053",
+      "fileSize": 1035
     },
     {
       "manufacturerId": 99,
@@ -3390,8 +3390,8 @@
       "filename": "Decoder_99_V60Serie2.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_V60Serie2.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "92e0bef73570a450a1008a9a4ec28b7e21dc30d1",
-      "fileSize": 710
+      "sha1": "e1a35a829689309f8d15c49f57b4c6a438cacabe",
+      "fileSize": 1050
     },
     {
       "manufacturerId": 99,
@@ -3401,8 +3401,8 @@
       "filename": "Decoder_99_VT98.json",
       "link": "https://decoderdb.bidib.org/decoder/99/Decoder_99_VT98.json",
       "lastUpdate": "2020-10-28T11:38:17.000",
-      "sha1": "0034229855a96ffb1db4a53285d825b49bd5749e",
-      "fileSize": 693
+      "sha1": "911d8c065097abd7318cb3e90a74a270765897c4",
+      "fileSize": 1030
     }
   ],
   "firmware": [
@@ -9095,12 +9095,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "10433-01_gold__01.webp",
+      "filename": "10433-01_gold__01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/10433-01_gold__01.webp",
+      "lastUpdate": "2017-06-13T22:21:38.000",
+      "sha1": "2e1780a6d9bcc77d1571fba3e618f829c8f7104f",
+      "fileSize": 35058
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "10433-01_gold__02.jpg",
       "filename": "10433-01_gold__02.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/10433-01_gold__02.jpg",
       "lastUpdate": "2017-06-13T22:21:39.000",
       "sha1": "5a4c63c9daf536246e5fba6bf5893e89229e6628",
       "fileSize": 25440
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "10433-01_gold__02.webp",
+      "filename": "10433-01_gold__02.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/10433-01_gold__02.webp",
+      "lastUpdate": "2017-06-13T22:21:39.000",
+      "sha1": "762ecb21dacd279715eddae53ef63c635c863f42",
+      "fileSize": 37092
     },
     {
       "manufacturerId": 109,
@@ -9175,12 +9195,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "40100.webp",
+      "filename": "40100.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40100.webp",
+      "lastUpdate": "2020-08-29T20:28:34.000",
+      "sha1": "0e0458fd2a5ca5427bc7977c6939089572f9c0ae",
+      "fileSize": 119806
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "40120-01.jpg",
       "filename": "40120-01.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/40120-01.jpg",
       "lastUpdate": "2020-10-28T10:47:49.000",
       "sha1": "a8ec27cca3a3b5445af4fcfc049fe1dd3830ff5c",
       "fileSize": 82333
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "40120-01.webp",
+      "filename": "40120-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40120-01.webp",
+      "lastUpdate": "2020-10-28T10:47:49.000",
+      "sha1": "de02d47271f3989991bdccdcdbf4279907838f8f",
+      "fileSize": 146042
     },
     {
       "manufacturerId": 99,
@@ -9195,12 +9235,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "40133.webp",
+      "filename": "40133.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40133.webp",
+      "lastUpdate": "2020-10-27T13:50:34.000",
+      "sha1": "a9099885c9615fac968b1b6525750ee7021349f5",
+      "fileSize": 127552
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "40140-04.jpg",
       "filename": "40140-04.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/40140-04.jpg",
       "lastUpdate": "2020-10-27T15:35:27.000",
       "sha1": "2b09bcab2164b8e0499919d9ed214771b3b4967f",
       "fileSize": 98912
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "40140-04.webp",
+      "filename": "40140-04.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40140-04.webp",
+      "lastUpdate": "2020-10-27T15:35:27.000",
+      "sha1": "a11e61df24d5b9d1290b22ca6327f727d7c2b9a2",
+      "fileSize": 204504
     },
     {
       "manufacturerId": 99,
@@ -9215,12 +9275,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "40141-01.webp",
+      "filename": "40141-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40141-01.webp",
+      "lastUpdate": "2020-10-27T15:35:27.000",
+      "sha1": "67e7cf25f0647a15981d2861212f58d6e7f3db1c",
+      "fileSize": 179488
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "40151-01.jpg",
       "filename": "40151-01.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/40151-01.jpg",
       "lastUpdate": "2020-10-27T14:34:25.000",
       "sha1": "39dda8dde725e81f06f8d84f1399129cae13d034",
       "fileSize": 76515
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "40151-01.webp",
+      "filename": "40151-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40151-01.webp",
+      "lastUpdate": "2020-10-27T14:34:25.000",
+      "sha1": "b63b1f512e2d66e4f011b4af0ef4a5dba6ce86fc",
+      "fileSize": 123148
     },
     {
       "manufacturerId": 99,
@@ -9235,6 +9315,16 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "40190.webp",
+      "filename": "40190.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40190.webp",
+      "lastUpdate": "2020-10-27T21:03:16.000",
+      "sha1": "65def73a1ad35633f60aed81d98d507ef2642505",
+      "fileSize": 124026
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "40230-01.jpg",
       "filename": "40230-01.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/40230-01.jpg",
@@ -9245,12 +9335,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "40230-01.webp",
+      "filename": "40230-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40230-01.webp",
+      "lastUpdate": "2020-10-28T10:29:07.000",
+      "sha1": "7a842546ccdc31ff2f6717f8befec155fd38c01c",
+      "fileSize": 186004
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "40289-01.jpg",
       "filename": "40289-01.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/40289-01.jpg",
       "lastUpdate": "2020-10-27T22:01:52.000",
       "sha1": "b53d47ce4d342a66ddeed7359174430c6d46ae47",
       "fileSize": 96529
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "40289-01.webp",
+      "filename": "40289-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/40289-01.webp",
+      "lastUpdate": "2020-10-27T22:01:52.000",
+      "sha1": "7deec6076b974b8da7848cd5c225c849c2bc6938",
+      "fileSize": 180912
     },
     {
       "manufacturerId": 151,
@@ -9461,6 +9571,16 @@
       "lastUpdate": "2020-04-10T16:39:13.000",
       "sha1": "397ce7bfb1762bc0aab85841215b1b3c6984bae5",
       "fileSize": 102317
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "BR66_30200.webp",
+      "filename": "BR66_30200.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/BR66_30200.webp",
+      "lastUpdate": "2020-04-10T16:39:13.000",
+      "sha1": "b732112d93c8cce9e1a245dc7afe4b78dec4077b",
+      "fileSize": 149228
     },
     {
       "manufacturerId": 85,
@@ -11285,12 +11405,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "Lenz_Koef_30151-01.webp",
+      "filename": "Lenz_Koef_30151-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/Lenz_Koef_30151-01.webp",
+      "lastUpdate": "2020-04-06T00:34:27.000",
+      "sha1": "c097c9c6f44e028c3a6f7f2c56fb274b54b7217e",
+      "fileSize": 122730
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "Lenz_V20_30120-01.jpg",
       "filename": "Lenz_V20_30120-01.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/Lenz_V20_30120-01.jpg",
       "lastUpdate": "2020-04-05T16:06:50.000",
       "sha1": "c2c647bb1beb6378e6153eb9ad9b37db4a42ca92",
       "fileSize": 91267
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "Lenz_V20_30120-01.webp",
+      "filename": "Lenz_V20_30120-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/Lenz_V20_30120-01.webp",
+      "lastUpdate": "2020-04-05T16:06:50.000",
+      "sha1": "efa71c135dc774f2dd7b6fc86bb13fb8892df91f",
+      "fileSize": 140844
     },
     {
       "manufacturerId": 123,
@@ -11541,6 +11681,16 @@
       "lastUpdate": "2019-08-04T20:26:55.000",
       "sha1": "142ceb9bf46488e628c73652d8f3f1af073f6bea",
       "fileSize": 119441
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "LS100_11100.webp",
+      "filename": "LS100_11100.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/LS100_11100.webp",
+      "lastUpdate": "2019-08-04T20:26:55.000",
+      "sha1": "eef1d9b80a12efa2f892545d290302987c2bc3c3",
+      "fileSize": 84938
     },
     {
       "manufacturerId": 115,
@@ -15405,12 +15555,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "SILVER_10331_bottom.webp",
+      "filename": "SILVER_10331_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SILVER_10331_bottom.webp",
+      "lastUpdate": "2020-03-26T17:38:24.000",
+      "sha1": "457d91e572a67f13c2cd0ff860c3d9728bbeb32e",
+      "fileSize": 31240
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "SILVER_10331_top.jpg",
       "filename": "SILVER_10331_top.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/SILVER_10331_top.jpg",
       "lastUpdate": "2020-03-26T17:38:24.000",
       "sha1": "bc44b03c48fc64b86fab482ff0a31698264f42ae",
       "fileSize": 24531
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "SILVER_10331_top.webp",
+      "filename": "SILVER_10331_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SILVER_10331_top.webp",
+      "lastUpdate": "2020-03-26T17:38:24.000",
+      "sha1": "29e5ecb80b55b8ca9c5632233fb684cc1b6cbf4a",
+      "fileSize": 44352
     },
     {
       "manufacturerId": 99,
@@ -15425,12 +15595,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "SILVER21_10321_bottom.webp",
+      "filename": "SILVER21_10321_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SILVER21_10321_bottom.webp",
+      "lastUpdate": "2020-03-26T17:48:57.000",
+      "sha1": "533613eaeeef87bfdccb8e8f63b5c8179e161ce8",
+      "fileSize": 26892
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "SILVER21_10321_top.jpg",
       "filename": "SILVER21_10321_top.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/SILVER21_10321_top.jpg",
       "lastUpdate": "2020-03-26T17:48:57.000",
       "sha1": "08294943c212a543871f432c13f6debb74e5974c",
       "fileSize": 18467
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "SILVER21_10321_top.webp",
+      "filename": "SILVER21_10321_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SILVER21_10321_top.webp",
+      "lastUpdate": "2020-03-26T17:48:57.000",
+      "sha1": "ad1d3ee3eac55f69b3ac0cb09e25699b563c5c2c",
+      "fileSize": 26534
     },
     {
       "manufacturerId": 99,
@@ -15445,6 +15635,16 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "SILVERdirect_10330_bottom.webp",
+      "filename": "SILVERdirect_10330_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SILVERdirect_10330_bottom.webp",
+      "lastUpdate": "2020-03-26T17:45:52.000",
+      "sha1": "9f2a0a2b32a84b4ca48d85c924ebcda70de7378b",
+      "fileSize": 13978
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "SILVERdirect_10330_top.jpg",
       "filename": "SILVERdirect_10330_top.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/SILVERdirect_10330_top.jpg",
@@ -15455,12 +15655,32 @@
     {
       "manufacturerId": 99,
       "manufacturerExtendedId": 0,
+      "name": "SILVERdirect_10330_top.webp",
+      "filename": "SILVERdirect_10330_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SILVERdirect_10330_top.webp",
+      "lastUpdate": "2020-03-26T17:45:52.000",
+      "sha1": "c898e0a8339b85bc6919699d130b3ea1d127079a",
+      "fileSize": 26084
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
       "name": "SilverPlus_PluX22_10322-01.jpg",
       "filename": "SilverPlus_PluX22_10322-01.jpg",
       "link": "https://decoderdb.bidib.org/decoder/99/images/SilverPlus_PluX22_10322-01.jpg",
       "lastUpdate": "2020-03-22T16:47:07.000",
       "sha1": "7feb1450b4a1401b8b3e245868c64b3aab199942",
       "fileSize": 21689
+    },
+    {
+      "manufacturerId": 99,
+      "manufacturerExtendedId": 0,
+      "name": "SilverPlus_PluX22_10322-01.webp",
+      "filename": "SilverPlus_PluX22_10322-01.webp",
+      "link": "https://decoderdb.bidib.org/decoder/99/images/SilverPlus_PluX22_10322-01.webp",
+      "lastUpdate": "2020-03-22T16:47:07.000",
+      "sha1": "a1fac8f13ce8fbb479332fe5ff0dddd33040d173",
+      "fileSize": 37066
     },
     {
       "manufacturerId": 117,
