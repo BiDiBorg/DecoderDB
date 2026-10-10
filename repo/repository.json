@@ -881,9 +881,9 @@
       "created": "2017-05-02",
       "filename": "Decoder_145_MX616.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX616.json",
-      "lastUpdate": "2026-03-09T20:14:00.356",
-      "sha1": "b899b11f0a86f4443b5a4b30f2db3ba74bb5c76d",
-      "fileSize": 760
+      "lastUpdate": "2026-10-10T15:06:41.816",
+      "sha1": "135bd1b8dcb63f70f7ec108bbb016ec672c36717",
+      "fileSize": 1824
     },
     {
       "manufacturerId": 145,
@@ -892,9 +892,9 @@
       "created": "2017-05-02",
       "filename": "Decoder_145_MX617.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX617.json",
-      "lastUpdate": "2026-03-09T20:14:23.026",
-      "sha1": "903377d35d24bd4ef2a0f207daa7c2aa5c8b19ea",
-      "fileSize": 785
+      "lastUpdate": "2026-10-10T15:16:54.328",
+      "sha1": "b76c19796cd85702e1a2af87e7573f96db68351a",
+      "fileSize": 1821
     },
     {
       "manufacturerId": 145,
@@ -914,9 +914,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX620.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX620.json",
-      "lastUpdate": "2026-03-09T20:15:04.284",
-      "sha1": "cfbc85383e4323738288c22549ded60b960d6b7b",
-      "fileSize": 696
+      "lastUpdate": "2026-10-10T15:27:56.673",
+      "sha1": "fcef1611b16c065ebe161a807c68944a7fb75e8a",
+      "fileSize": 1744
     },
     {
       "manufacturerId": 145,
@@ -947,9 +947,9 @@
       "created": "2017-01-02",
       "filename": "Decoder_145_MX623.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX623.json",
-      "lastUpdate": "2026-03-09T20:15:32.332",
-      "sha1": "3d03a4ebfabe1a367796d2089287bef8e1577203",
-      "fileSize": 731
+      "lastUpdate": "2026-10-10T15:34:21.912",
+      "sha1": "6276011d022c9d49e9ab615307c70c002881f6a5",
+      "fileSize": 1809
     },
     {
       "manufacturerId": 145,
@@ -958,9 +958,9 @@
       "created": "2016-05-09",
       "filename": "Decoder_145_MX630.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX630.json",
-      "lastUpdate": "2026-03-09T20:17:46.834",
-      "sha1": "8284ad6d252dab7203b02bc91115753dcfafea97",
-      "fileSize": 734
+      "lastUpdate": "2026-10-10T15:39:44.814",
+      "sha1": "33592ae303b0b75b3b02f7c173a7a975bd70c9fb",
+      "fileSize": 1553
     },
     {
       "manufacturerId": 145,
@@ -969,9 +969,9 @@
       "created": "2017-01-02",
       "filename": "Decoder_145_MX631.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX631.json",
-      "lastUpdate": "2026-03-09T20:18:35.148",
-      "sha1": "c6931cfd5e3fd8f5749b1f1ac6e8e601941b7f9e",
-      "fileSize": 697
+      "lastUpdate": "2026-10-10T15:43:42.690",
+      "sha1": "52a4d7fc160111aca543dae7d9016a1626aa4420",
+      "fileSize": 1283
     },
     {
       "manufacturerId": 145,
@@ -980,9 +980,9 @@
       "created": "2017-01-02",
       "filename": "Decoder_145_MX632.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX632.json",
-      "lastUpdate": "2026-03-09T20:25:15.735",
-      "sha1": "13764c01f4e416ad9d9bfe9686c7b3f327d82ab1",
-      "fileSize": 728
+      "lastUpdate": "2026-10-10T15:51:41.643",
+      "sha1": "c299f7980abd99c77317d22cede6d6cec0501de0",
+      "fileSize": 1569
     },
     {
       "manufacturerId": 145,
@@ -991,9 +991,9 @@
       "created": "2017-01-02",
       "filename": "Decoder_145_MX633.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX633.json",
-      "lastUpdate": "2026-03-09T20:25:30.700",
-      "sha1": "a82c855dd2a8b8ecfdca2d433696bb06361704fe",
-      "fileSize": 721
+      "lastUpdate": "2026-10-10T15:55:57.141",
+      "sha1": "f0c9799d0f4df03a79c6990cdf56133c117fad82",
+      "fileSize": 1540
     },
     {
       "manufacturerId": 145,
@@ -1002,9 +1002,9 @@
       "created": "2017-01-02",
       "filename": "Decoder_145_MX634.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX634.json",
-      "lastUpdate": "2026-03-09T20:26:09.639",
-      "sha1": "45d3bca92b4ebd81641f08851fd57c99788e3cd9",
-      "fileSize": 745
+      "lastUpdate": "2026-10-10T16:10:44.731",
+      "sha1": "81b952f0a49be92c76e7439659489ccac346ba6a",
+      "fileSize": 1564
     },
     {
       "manufacturerId": 145,
@@ -1013,9 +1013,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX640.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX640.json",
-      "lastUpdate": "2026-03-09T20:27:08.249",
-      "sha1": "36abcbc0afdbd1a8ccb80b00605ef058cf7f7a2f",
-      "fileSize": 697
+      "lastUpdate": "2026-10-10T16:14:22.106",
+      "sha1": "5352d8c5dbea517c6dcae32f1a3f8190d413082b",
+      "fileSize": 1287
     },
     {
       "manufacturerId": 145,
@@ -1024,9 +1024,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX642.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX642.json",
-      "lastUpdate": "2026-03-09T20:33:50.918",
-      "sha1": "083e1b04f9217e99ab4153a4a31be68b68388c19",
-      "fileSize": 694
+      "lastUpdate": "2026-10-10T16:16:14.344",
+      "sha1": "10747b18127aaacb11037ad9f330c5be264aae22",
+      "fileSize": 1009
     },
     {
       "manufacturerId": 145,
@@ -1035,9 +1035,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX643.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX643.json",
-      "lastUpdate": "2026-03-09T20:33:14.831",
-      "sha1": "ba225a9a80917a6cb70eecb312458555a482c247",
-      "fileSize": 694
+      "lastUpdate": "2026-10-10T16:19:13.656",
+      "sha1": "2f579174a462cf482225611da1b6b8561e7fbec2",
+      "fileSize": 1848
     },
     {
       "manufacturerId": 145,
@@ -1046,9 +1046,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX644.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX644.json",
-      "lastUpdate": "2026-03-09T20:33:03.603",
-      "sha1": "53239ba9365d67fc3a52df2120a084e2393741d9",
-      "fileSize": 702
+      "lastUpdate": "2026-10-10T16:22:09.438",
+      "sha1": "40b42aa58087420e21c05a48b0f18b58c5f5f8c3",
+      "fileSize": 1517
     },
     {
       "manufacturerId": 145,
@@ -1057,9 +1057,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX645.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX645.json",
-      "lastUpdate": "2026-03-09T20:32:50.242",
-      "sha1": "9112d3934096eda7fae1d20332a3a6e818dfca0e",
-      "fileSize": 735
+      "lastUpdate": "2026-10-10T16:25:15.271",
+      "sha1": "28b2b5d9f086713e4cb47a2b8606ecdbcdd59f30",
+      "fileSize": 2068
     },
     {
       "manufacturerId": 145,
@@ -1068,9 +1068,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX646.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX646.json",
-      "lastUpdate": "2026-03-09T20:32:33.175",
-      "sha1": "b8b8509a71bd2a04af7403adde9ff9ff6abb0b34",
-      "fileSize": 693
+      "lastUpdate": "2026-10-10T16:29:12.395",
+      "sha1": "8b1cec9474a171837af742351e29cd1e5d041a7d",
+      "fileSize": 1807
     },
     {
       "manufacturerId": 145,
@@ -1079,9 +1079,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX647.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX647.json",
-      "lastUpdate": "2026-03-09T20:32:20.343",
-      "sha1": "3ef4cd60d5688cb56a4afb81446de2ed2587e699",
-      "fileSize": 693
+      "lastUpdate": "2026-10-10T16:31:16.579",
+      "sha1": "3b099bf234dfa8810f782818a1a9cd31c45e56c8",
+      "fileSize": 1008
     },
     {
       "manufacturerId": 145,
@@ -1090,9 +1090,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX648.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX648.json",
-      "lastUpdate": "2026-03-09T20:32:05.915",
-      "sha1": "16696d4e34a4ca76e24a6fd655a1b19b97e3d6c5",
-      "fileSize": 732
+      "lastUpdate": "2026-10-10T16:33:17.743",
+      "sha1": "d79c5a3e6f73607672c5f6559848b1bb47e7d204",
+      "fileSize": 1581
     },
     {
       "manufacturerId": 145,
@@ -1101,9 +1101,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX649.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX649.json",
-      "lastUpdate": "2026-03-09T20:31:48.527",
-      "sha1": "7666ac4318d2fc0e9aea9e6811bbaf0f370610b3",
-      "fileSize": 727
+      "lastUpdate": "2026-10-10T16:35:39.449",
+      "sha1": "3003c13c4d78f259ea401e8a709d4f220e07e249",
+      "fileSize": 1789
     },
     {
       "manufacturerId": 145,
@@ -1112,9 +1112,9 @@
       "created": "2017-01-21",
       "filename": "Decoder_145_MX658.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX658.json",
-      "lastUpdate": "2026-03-09T20:31:25.070",
-      "sha1": "76d8178dc734164400496b7eabaacbb59316f047",
-      "fileSize": 698
+      "lastUpdate": "2026-10-10T16:43:27.192",
+      "sha1": "59c256cab6cff005181de3d8c501424a06c8ae33",
+      "fileSize": 1541
     },
     {
       "manufacturerId": 145,
@@ -1123,9 +1123,9 @@
       "created": "2019-12-30",
       "filename": "Decoder_145_MX660.json",
       "link": "https://decoderdb.bidib.org/decoder/145/Decoder_145_MX660.json",
-      "lastUpdate": "2026-03-09T20:31:13.612",
-      "sha1": "c3a558bd7cc8bf70e62c36098481606c20717bfb",
-      "fileSize": 693
+      "lastUpdate": "2026-10-10T16:45:27.598",
+      "sha1": "3a9456aeb056588d30b18eecaae1dde7a2fb20b5",
+      "fileSize": 1237
     },
     {
       "manufacturerId": 151,
@@ -14645,6 +14645,166 @@
     {
       "manufacturerId": 145,
       "manufacturerExtendedId": 0,
+      "name": "MX616_bottom.jpg",
+      "filename": "MX616_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616_bottom.jpg",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "24e5b07da9cc219eabf941e350a874218d59a4cb",
+      "fileSize": 229025
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616_bottom.webp",
+      "filename": "MX616_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616_bottom.webp",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "281075d362c2771783d338fe65efff5b8a1d60be",
+      "fileSize": 153668
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616_top.jpg",
+      "filename": "MX616_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616_top.jpg",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "04388f1c81ce2d479d28e60e07ee6c40f5cabe08",
+      "fileSize": 191146
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616_top.webp",
+      "filename": "MX616_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616_top.webp",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "57133b2e13aaf0179b1595bc6b2311edac9f2c65",
+      "fileSize": 133310
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616N_bottom.jpg",
+      "filename": "MX616N_bottom.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616N_bottom.jpg",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "06ba4304607331f17db08d254ca6f403a5f5054a",
+      "fileSize": 201878
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616N_bottom.webp",
+      "filename": "MX616N_bottom.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616N_bottom.webp",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "c946bc7bfce808f3daef42d1160c1cd64e264a94",
+      "fileSize": 134200
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616N_top.jpg",
+      "filename": "MX616N_top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616N_top.jpg",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "08a547daadc2990584ba757a0abc075d43ea287e",
+      "fileSize": 180345
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX616N_top.webp",
+      "filename": "MX616N_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX616N_top.webp",
+      "lastUpdate": "2026-10-10T15:05:39.043",
+      "sha1": "989244d25691732adf7cb8849cb49b7939fbc38e",
+      "fileSize": 121164
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617N-0.jpg",
+      "filename": "MX617N-0.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617N-0.jpg",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "a07896434be9bd1bdfb59ede25215f23f036c4e0",
+      "fileSize": 171854
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617N-0.webp",
+      "filename": "MX617N-0.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617N-0.webp",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "5fee291ff4b30c121e1c4fc49b1977fe03932d8c",
+      "fileSize": 203694
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617N-1.jpg",
+      "filename": "MX617N-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617N-1.jpg",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "64960a007c5d262e5c0c6de9a215d40873879cae",
+      "fileSize": 156289
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617N-1.webp",
+      "filename": "MX617N-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617N-1.webp",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "dff7b396cd6c5d6822ca6cb4c3d0d75eb255cacd",
+      "fileSize": 164102
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617N-2.jpg",
+      "filename": "MX617N-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617N-2.jpg",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "d7f86e941738ab2d6048fcdd817b7648da474104",
+      "fileSize": 160201
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617N-2.webp",
+      "filename": "MX617N-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617N-2.webp",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "59f62f834b0bc98fc3c4e93d3bf8b4ce3e7d7ea6",
+      "fileSize": 165532
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617R.jpg",
+      "filename": "MX617R.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617R.jpg",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "b0133c91f477a938107ef4357601c45dd3162faa",
+      "fileSize": 72405
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX617R.webp",
+      "filename": "MX617R.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX617R.webp",
+      "lastUpdate": "2026-10-10T15:16:17.764",
+      "sha1": "2f9c1b326fbd4f2d6270411f7adff2ff9cf6a2f1",
+      "fileSize": 68466
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
       "name": "MX618N18revB_bottom.jpg",
       "filename": "MX618N18revB_bottom.jpg",
       "link": "https://decoderdb.bidib.org/decoder/145/images/MX618N18revB_bottom.jpg",
@@ -14701,6 +14861,86 @@
       "lastUpdate": "2026-10-03T12:38:09.791",
       "sha1": "4067cabcf0ee10534ecc350f11212833d86d0534",
       "fileSize": 412544
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620.jpg",
+      "filename": "mx620.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620.jpg",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "9ef0d251a281cb71e4d165feee592735d04572cb",
+      "fileSize": 461254
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620.webp",
+      "filename": "mx620.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620.webp",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "efa416f966c3ed658c362be90766abd8a8984bc4",
+      "fileSize": 87778
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620f.jpg",
+      "filename": "mx620f.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620f.jpg",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "f20b749549e358ac63d2185eb11a05f10c905781",
+      "fileSize": 488330
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620f.webp",
+      "filename": "mx620f.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620f.webp",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "c41ffe72182ce9a289e9531fdc5b009d1fafa23f",
+      "fileSize": 98470
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620n.jpg",
+      "filename": "mx620n.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620n.jpg",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "d448a5e254c55d0c6060bd25fa49881819c51e36",
+      "fileSize": 182322
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620n.webp",
+      "filename": "mx620n.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620n.webp",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "e0e64ebabc9539f55f02b9a6fbcca1f54682eadc",
+      "fileSize": 40642
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620r.jpg",
+      "filename": "mx620r.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620r.jpg",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "bd917918aea8857727cd3b9618b03e8d00296176",
+      "fileSize": 580784
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "mx620r.webp",
+      "filename": "mx620r.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/mx620r.webp",
+      "lastUpdate": "2026-10-10T15:27:05.048",
+      "sha1": "642460a9bc75871bd4d08a1c0ec3c93e3e23058d",
+      "fileSize": 91218
     },
     {
       "manufacturerId": 145,
@@ -14781,6 +15021,1006 @@
       "lastUpdate": "2026-10-03T12:46:00.989",
       "sha1": "80744c5e5b5a2042cb618c259799c9fe25694032",
       "fileSize": 152040
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623P12-1.jpg",
+      "filename": "MX623P12-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623P12-1.jpg",
+      "lastUpdate": "2026-10-10T15:33:01.732",
+      "sha1": "6bae79536175ab3118adcb1016b163830b41b18e",
+      "fileSize": 238843
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623P12-1.webp",
+      "filename": "MX623P12-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623P12-1.webp",
+      "lastUpdate": "2026-10-10T15:33:01.732",
+      "sha1": "f0b1902d373dcfee92ededb93678439b8ede6ad2",
+      "fileSize": 132546
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623P12-2.jpg",
+      "filename": "MX623P12-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623P12-2.jpg",
+      "lastUpdate": "2026-10-10T15:33:01.759",
+      "sha1": "4e74ae3deb6816f9e7b414d521228d20a4db64a7",
+      "fileSize": 272228
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623P12-2.webp",
+      "filename": "MX623P12-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623P12-2.webp",
+      "lastUpdate": "2026-10-10T15:33:01.759",
+      "sha1": "84013d63ed020770f8417785ab6969f87b7f99d0",
+      "fileSize": 147290
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623P12-3-0.jpg",
+      "filename": "MX623P12-3-0.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623P12-3-0.jpg",
+      "lastUpdate": "2026-10-10T15:33:01.792",
+      "sha1": "f65c032ef5cc0f983fc3fa76060dfc97849e29f8",
+      "fileSize": 224352
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623P12-3-0.webp",
+      "filename": "MX623P12-3-0.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623P12-3-0.webp",
+      "lastUpdate": "2026-10-10T15:33:01.792",
+      "sha1": "6026b1ef40661cdc4fe605ce5dadd1b3acda31f3",
+      "fileSize": 131266
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623r.jpg",
+      "filename": "MX623r.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623r.jpg",
+      "lastUpdate": "2026-09-07T11:43:08.000",
+      "sha1": "e438a7218e406c444a6d6de5418876bb12705626",
+      "fileSize": 75602
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX623r.webp",
+      "filename": "MX623r.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX623r.webp",
+      "lastUpdate": "2026-09-07T11:43:08.000",
+      "sha1": "0eed74fe85229c8aa425d1431f11905490c8433c",
+      "fileSize": 111954
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX630P16-1.jpg",
+      "filename": "MX630P16-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX630P16-1.jpg",
+      "lastUpdate": "2026-10-10T15:38:57.185",
+      "sha1": "ac208b60870425fce9a5b76a507d0aed2f030d46",
+      "fileSize": 344606
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX630P16-1.webp",
+      "filename": "MX630P16-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX630P16-1.webp",
+      "lastUpdate": "2026-10-10T15:38:57.185",
+      "sha1": "dc514d6de0594d7562e9b2b5362229c3f500f3e6",
+      "fileSize": 198722
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX630P16-2.jpg",
+      "filename": "MX630P16-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX630P16-2.jpg",
+      "lastUpdate": "2026-10-10T15:38:57.217",
+      "sha1": "5e2e4371bb2012a3c7340b2159b4482d41bc5964",
+      "fileSize": 336666
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX630P16-2.webp",
+      "filename": "MX630P16-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX630P16-2.webp",
+      "lastUpdate": "2026-10-10T15:38:57.217",
+      "sha1": "cb161a1020622ac702774db0700fe9af9f558f60",
+      "fileSize": 188464
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX630P16-3.jpg",
+      "filename": "MX630P16-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX630P16-3.jpg",
+      "lastUpdate": "2026-10-10T15:38:57.253",
+      "sha1": "cb43e63866ecb7f1fb2e2b9e1ee838b1fde274ff",
+      "fileSize": 276496
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX630P16-3.webp",
+      "filename": "MX630P16-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX630P16-3.webp",
+      "lastUpdate": "2026-10-10T15:38:57.253",
+      "sha1": "f3fe590be77901247e702353ca47494a85e35efa",
+      "fileSize": 164798
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX631-Aufsicht.jpg",
+      "filename": "MX631-Aufsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX631-Aufsicht.jpg",
+      "lastUpdate": "2026-10-10T15:43:15.044",
+      "sha1": "cf3c9923e3b2a657cd8d797948408ca0c1ee0986",
+      "fileSize": 180742
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX631-Aufsicht.webp",
+      "filename": "MX631-Aufsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX631-Aufsicht.webp",
+      "lastUpdate": "2026-10-10T15:43:15.044",
+      "sha1": "76dad511ed6f37471c0914d89bcc4acd493a368a",
+      "fileSize": 186282
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX631D-Schrägansicht.jpg",
+      "filename": "MX631D-Schrägansicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX631D-Schrägansicht.jpg",
+      "lastUpdate": "2026-10-10T15:43:15.079",
+      "sha1": "ebc58e274695933fc2d5825f84870db562749b11",
+      "fileSize": 231195
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX631D-Schrägansicht.webp",
+      "filename": "MX631D-Schrägansicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX631D-Schrägansicht.webp",
+      "lastUpdate": "2026-10-10T15:43:15.079",
+      "sha1": "92586b6b8207b821113dfe6a68e0d4a19718539c",
+      "fileSize": 185808
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX632-Aufsicht.jpg",
+      "filename": "MX632-Aufsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX632-Aufsicht.jpg",
+      "lastUpdate": "2026-10-10T15:50:30.221",
+      "sha1": "f53deee687b463542a5ca4e0c882ffdbd385454f",
+      "fileSize": 200913
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX632-Aufsicht.webp",
+      "filename": "MX632-Aufsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX632-Aufsicht.webp",
+      "lastUpdate": "2026-10-10T15:50:30.221",
+      "sha1": "8712770e8efcc2f319a8b0508fc238b824d7a2a5",
+      "fileSize": 179678
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX632D Schrägsicht.jpg",
+      "filename": "MX632D Schrägsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX632D Schrägsicht.jpg",
+      "lastUpdate": "2026-10-10T15:50:30.246",
+      "sha1": "7c359668a003cf2c296266f8fca12bdf7432089c",
+      "fileSize": 121961
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX632D Schrägsicht.webp",
+      "filename": "MX632D Schrägsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX632D Schrägsicht.webp",
+      "lastUpdate": "2026-10-10T15:50:30.246",
+      "sha1": "8d0ff22b26cdab8591668179601a2ec81f95f8d6",
+      "fileSize": 93900
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX632D-1.jpg",
+      "filename": "MX632D-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX632D-1.jpg",
+      "lastUpdate": "2026-10-10T15:50:53.229",
+      "sha1": "f8e4d638c23fee1ac1e1754a0212c84552de05f7",
+      "fileSize": 355373
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX632D-1.webp",
+      "filename": "MX632D-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX632D-1.webp",
+      "lastUpdate": "2026-10-10T15:50:53.229",
+      "sha1": "c835b9582a9eaddf2620cdd4b1a1e30e10d553a5",
+      "fileSize": 194236
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX633P22-1.jpg",
+      "filename": "MX633P22-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX633P22-1.jpg",
+      "lastUpdate": "2026-10-10T15:55:16.237",
+      "sha1": "6eed7831969e6673d95e1c46792b835abdf1383c",
+      "fileSize": 289479
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX633P22-1.webp",
+      "filename": "MX633P22-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX633P22-1.webp",
+      "lastUpdate": "2026-10-10T15:55:16.237",
+      "sha1": "0e48b4492ed1d180d0b728ec1dd41ac6a5114dd3",
+      "fileSize": 249696
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX633P22-2.jpg",
+      "filename": "MX633P22-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX633P22-2.jpg",
+      "lastUpdate": "2026-10-10T15:55:16.268",
+      "sha1": "0df2977118c2a228dbb9d7657f8ef2908f16e6ff",
+      "fileSize": 266452
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX633P22-2.webp",
+      "filename": "MX633P22-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX633P22-2.webp",
+      "lastUpdate": "2026-10-10T15:55:16.268",
+      "sha1": "31dac1f3cfd36b23637dc7555ee3b1478bd7c515",
+      "fileSize": 228518
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX633P22-3.jpg",
+      "filename": "MX633P22-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX633P22-3.jpg",
+      "lastUpdate": "2026-10-10T15:55:16.303",
+      "sha1": "2a509e0b903799cec17df16a8cc85e02b05d4047",
+      "fileSize": 243998
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX633P22-3.webp",
+      "filename": "MX633P22-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX633P22-3.webp",
+      "lastUpdate": "2026-10-10T15:55:16.303",
+      "sha1": "baa96cdcece9501919ee88047d3e7f6edadd1858",
+      "fileSize": 245580
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX634D_C-1.jpg",
+      "filename": "MX634D_C-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX634D_C-1.jpg",
+      "lastUpdate": "2026-10-10T16:09:48.072",
+      "sha1": "149f53882f1a5c0a4004b0153dbe2a738a6bfe42",
+      "fileSize": 409280
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX634D_C-1.webp",
+      "filename": "MX634D_C-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX634D_C-1.webp",
+      "lastUpdate": "2026-10-10T16:09:48.072",
+      "sha1": "742402b1d37f214f01b719085d248eccc166fae4",
+      "fileSize": 232318
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX634D_C-2.jpg",
+      "filename": "MX634D_C-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX634D_C-2.jpg",
+      "lastUpdate": "2026-10-10T16:09:48.114",
+      "sha1": "85fb888fe8531889896b827fcf9f0ae77cdf8ddf",
+      "fileSize": 424515
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX634D_C-2.webp",
+      "filename": "MX634D_C-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX634D_C-2.webp",
+      "lastUpdate": "2026-10-10T16:09:48.114",
+      "sha1": "f0ae23f96c7529558825d2870d8d7388facd3cc8",
+      "fileSize": 239600
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX634D_C-3.jpg",
+      "filename": "MX634D_C-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX634D_C-3.jpg",
+      "lastUpdate": "2026-10-10T16:09:48.154",
+      "sha1": "69065efe2fd61b95ee44625c55a651c086060f36",
+      "fileSize": 342491
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX634D_C-3.webp",
+      "filename": "MX634D_C-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX634D_C-3.webp",
+      "lastUpdate": "2026-10-10T16:09:48.154",
+      "sha1": "d73d23b6e0710eb7c2539170419cfd56bc2010b1",
+      "fileSize": 202802
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX640_beschnitten.jpg",
+      "filename": "MX640_beschnitten.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX640_beschnitten.jpg",
+      "lastUpdate": "2026-10-10T16:13:42.866",
+      "sha1": "43839b21347f041b9cf7fdae1c4b486b9229578e",
+      "fileSize": 133593
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX640_beschnitten.webp",
+      "filename": "MX640_beschnitten.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX640_beschnitten.webp",
+      "lastUpdate": "2026-10-10T16:13:42.866",
+      "sha1": "0e0fc8c96a0a3a0cf83bd06bd94ed4192ebfff46",
+      "fileSize": 185322
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX640-Schrägansicht.jpg",
+      "filename": "MX640-Schrägansicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX640-Schrägansicht.jpg",
+      "lastUpdate": "2026-10-10T16:13:42.833",
+      "sha1": "366d03599fc1ce22af36f8367bddec10a2c9f753",
+      "fileSize": 178790
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX640-Schrägansicht.webp",
+      "filename": "MX640-Schrägansicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX640-Schrägansicht.webp",
+      "lastUpdate": "2026-10-10T16:13:42.833",
+      "sha1": "85eb811a6bb78ac172baa2602ec57504fafb314c",
+      "fileSize": 185042
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX642D-Schrägansicht.jpg",
+      "filename": "MX642D-Schrägansicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX642D-Schrägansicht.jpg",
+      "lastUpdate": "2026-10-10T16:15:37.297",
+      "sha1": "f7f7bd72ba549d56754c8b61ac05848c05cfc864",
+      "fileSize": 200205
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX642D-Schrägansicht.webp",
+      "filename": "MX642D-Schrägansicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX642D-Schrägansicht.webp",
+      "lastUpdate": "2026-10-10T16:15:30.834",
+      "sha1": "95898df0cc4708453fddc963db2a4c8492ee8363",
+      "fileSize": 199738
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P16-Aufsicht.jpg",
+      "filename": "MX643P16-Aufsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P16-Aufsicht.jpg",
+      "lastUpdate": "2026-10-10T16:18:14.901",
+      "sha1": "1514d28af72cefbcb252ef0bc9f88f12d07548e1",
+      "fileSize": 182844
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P16-Aufsicht.webp",
+      "filename": "MX643P16-Aufsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P16-Aufsicht.webp",
+      "lastUpdate": "2026-10-10T16:18:14.901",
+      "sha1": "acbaa798d71d9e1298aeb5e55fecab110f015fde",
+      "fileSize": 188616
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P16-Schrägsicht.jpg",
+      "filename": "MX643P16-Schrägsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P16-Schrägsicht.jpg",
+      "lastUpdate": "2026-10-10T16:18:14.929",
+      "sha1": "1a7f4be6bc65e2e0e551a807a80f690160c79bf1",
+      "fileSize": 157600
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P16-Schrägsicht.webp",
+      "filename": "MX643P16-Schrägsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P16-Schrägsicht.webp",
+      "lastUpdate": "2026-10-10T16:18:14.929",
+      "sha1": "2bb899ede34ccc1022f4d5d823919d9004cd2eef",
+      "fileSize": 187656
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P22-Aufsicht.jpg",
+      "filename": "MX643P22-Aufsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P22-Aufsicht.jpg",
+      "lastUpdate": "2026-10-10T16:18:14.959",
+      "sha1": "4a6d2e931a884afe55a0631d730ab5b8a983647e",
+      "fileSize": 204559
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P22-Aufsicht.webp",
+      "filename": "MX643P22-Aufsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P22-Aufsicht.webp",
+      "lastUpdate": "2026-10-10T16:18:14.959",
+      "sha1": "d8b77bcca0cea29d2f6d34a19c0f77fed0ebd14d",
+      "fileSize": 205354
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P22-Schrägsicht.jpg",
+      "filename": "MX643P22-Schrägsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P22-Schrägsicht.jpg",
+      "lastUpdate": "2026-10-10T16:18:14.987",
+      "sha1": "82a61e21340a33414e7d5e660a1d7ebe1c688e3b",
+      "fileSize": 154760
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX643P22-Schrägsicht.webp",
+      "filename": "MX643P22-Schrägsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX643P22-Schrägsicht.webp",
+      "lastUpdate": "2026-10-10T16:18:14.987",
+      "sha1": "971b838489a15c58dcd770f95d11b3d43ac3be61",
+      "fileSize": 185480
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX644D_C-1.jpg",
+      "filename": "MX644D_C-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX644D_C-1.jpg",
+      "lastUpdate": "2026-10-10T16:20:53.254",
+      "sha1": "dd721e4d39fe3ca47a93aa8dd9f94e0fd62f52a3",
+      "fileSize": 329936
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX644D_C-1.webp",
+      "filename": "MX644D_C-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX644D_C-1.webp",
+      "lastUpdate": "2026-10-10T16:20:53.254",
+      "sha1": "a337a0638e19868048285281eaee47c73b2f1777",
+      "fileSize": 176752
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX644D_C-3.jpg",
+      "filename": "MX644D_C-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX644D_C-3.jpg",
+      "lastUpdate": "2026-10-10T16:20:53.286",
+      "sha1": "ecb447a64eddf734aa08f99be90713c024839929",
+      "fileSize": 274221
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX644D_C-3.webp",
+      "filename": "MX644D_C-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX644D_C-3.webp",
+      "lastUpdate": "2026-10-10T16:20:53.286",
+      "sha1": "56fd5d88361ef1568e07f5d8c85f5fdf901eac09",
+      "fileSize": 149664
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX644D-2.jpg",
+      "filename": "MX644D-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX644D-2.jpg",
+      "lastUpdate": "2026-10-10T16:20:53.222",
+      "sha1": "29c4c5c800d6970fa35156f7487af96d049dc4be",
+      "fileSize": 306364
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX644D-2.webp",
+      "filename": "MX644D-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX644D-2.webp",
+      "lastUpdate": "2026-10-10T16:20:53.222",
+      "sha1": "75d93a0a7d40adbfe2345d1ecc424b26ca08ffbf",
+      "fileSize": 160446
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P16.jpg",
+      "filename": "MX645P16.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P16.jpg",
+      "lastUpdate": "2026-10-10T16:24:08.442",
+      "sha1": "f130fa08e56de91c7b3ab33ab2b85c59c262c8f4",
+      "fileSize": 212352
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P16.webp",
+      "filename": "MX645P16.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P16.webp",
+      "lastUpdate": "2026-10-10T16:24:08.442",
+      "sha1": "3fdcd13ea4307af3fefbcaa1e1ef18b52e70a98f",
+      "fileSize": 120214
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P22-1.jpg",
+      "filename": "MX645P22-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P22-1.jpg",
+      "lastUpdate": "2026-10-10T16:24:08.474",
+      "sha1": "9a43439da02b540389d57ae9490a4f89d0429aec",
+      "fileSize": 329159
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P22-1.webp",
+      "filename": "MX645P22-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P22-1.webp",
+      "lastUpdate": "2026-10-10T16:24:08.474",
+      "sha1": "996bccaaba73c1462f8a8e2a7c73f0e391d69db4",
+      "fileSize": 171776
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P22-2.jpg",
+      "filename": "MX645P22-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P22-2.jpg",
+      "lastUpdate": "2026-10-10T16:24:08.505",
+      "sha1": "296caafa23ce7198fde2b34fa48e702f41951f24",
+      "fileSize": 328102
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P22-2.webp",
+      "filename": "MX645P22-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P22-2.webp",
+      "lastUpdate": "2026-10-10T16:24:08.505",
+      "sha1": "706207e4cd53608db7fc2ca042a334bc73910f03",
+      "fileSize": 167904
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P22-3.jpg",
+      "filename": "MX645P22-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P22-3.jpg",
+      "lastUpdate": "2026-10-10T16:24:08.538",
+      "sha1": "010cdc91d1c0b435a1ca18b73e6c5e8637edcd83",
+      "fileSize": 282477
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645P22-3.webp",
+      "filename": "MX645P22-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645P22-3.webp",
+      "lastUpdate": "2026-10-10T16:24:08.538",
+      "sha1": "399ecbbd83577c92fad920fc2bb7e8f4b2c7ddc7",
+      "fileSize": 152688
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645R.jpg",
+      "filename": "MX645R.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645R.jpg",
+      "lastUpdate": "2026-10-10T16:24:08.558",
+      "sha1": "790f92b4c4a23376b8f222ace2db94a96310325d",
+      "fileSize": 146929
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX645R.webp",
+      "filename": "MX645R.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX645R.webp",
+      "lastUpdate": "2026-10-10T16:24:08.558",
+      "sha1": "1c9cbdf811cee33e0e82805766c1a681b9aad5b2",
+      "fileSize": 82230
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646_Bot.jpg",
+      "filename": "MX646_Bot.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646_Bot.jpg",
+      "lastUpdate": "2026-10-10T16:28:20.487",
+      "sha1": "47c4d223f8744cbd6d3883bc5c1f2a28e2c0f852",
+      "fileSize": 108786
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646_Bot.webp",
+      "filename": "MX646_Bot.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646_Bot.webp",
+      "lastUpdate": "2026-10-10T16:28:20.487",
+      "sha1": "6e9aafe2fcfc263c133e72ddbc7df236bf06cd5d",
+      "fileSize": 121502
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646_Top.jpg",
+      "filename": "MX646_Top.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646_Top.jpg",
+      "lastUpdate": "2026-10-10T16:28:20.511",
+      "sha1": "e8edd4f95a20e9a76ed8bdc8dc13a07d993de705",
+      "fileSize": 98727
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646_Top.webp",
+      "filename": "MX646_Top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646_Top.webp",
+      "lastUpdate": "2026-10-10T16:28:20.511",
+      "sha1": "20edf9e197e5192061ff03e59e1750b9cb7de607",
+      "fileSize": 109618
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646N-Aufsicht-schraeg.jpg",
+      "filename": "MX646N-Aufsicht-schraeg.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646N-Aufsicht-schraeg.jpg",
+      "lastUpdate": "2026-10-10T16:28:20.539",
+      "sha1": "5f0e1b3746dcee828a7c56e76f2bab091dffd9ae",
+      "fileSize": 104686
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646N-Aufsicht-schraeg.webp",
+      "filename": "MX646N-Aufsicht-schraeg.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646N-Aufsicht-schraeg.webp",
+      "lastUpdate": "2026-10-10T16:28:20.539",
+      "sha1": "7c400a330b20d2b9d92fc3595404428602697878",
+      "fileSize": 116996
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646N-Aufsicht.jpg",
+      "filename": "MX646N-Aufsicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646N-Aufsicht.jpg",
+      "lastUpdate": "2026-10-10T16:28:20.557",
+      "sha1": "bea149357f20c883b0db3a2382fb8d1eba320b7b",
+      "fileSize": 101066
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646N-Aufsicht.webp",
+      "filename": "MX646N-Aufsicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646N-Aufsicht.webp",
+      "lastUpdate": "2026-10-10T16:28:20.557",
+      "sha1": "9134d158e8f7f8f237eccaadcb26741c896db3fb",
+      "fileSize": 103064
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646W-Schrägansicht.jpg",
+      "filename": "MX646W-Schrägansicht.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646W-Schrägansicht.jpg",
+      "lastUpdate": "2026-10-10T16:30:09.817",
+      "sha1": "49cab5a401901a8cb2da7f79c9a238d429044015",
+      "fileSize": 152098
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX646W-Schrägansicht.webp",
+      "filename": "MX646W-Schrägansicht.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX646W-Schrägansicht.webp",
+      "lastUpdate": "2026-10-10T16:30:05.876",
+      "sha1": "ca78000fe9012d36cd0d67d9f7ca521b45a7986c",
+      "fileSize": 162406
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX648P16-1-revD.jpg",
+      "filename": "MX648P16-1-revD.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX648P16-1-revD.jpg",
+      "lastUpdate": "2026-10-10T16:32:41.950",
+      "sha1": "8a19bd038e0bbdaab8a2c3e9b9a0e9a832193b5f",
+      "fileSize": 340120
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX648P16-1-revD.webp",
+      "filename": "MX648P16-1-revD.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX648P16-1-revD.webp",
+      "lastUpdate": "2026-10-10T16:32:41.950",
+      "sha1": "3db06343dbf0855ed1e9b48ee84f7bf90e35b271",
+      "fileSize": 195052
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX648P16-2-revD.jpg",
+      "filename": "MX648P16-2-revD.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX648P16-2-revD.jpg",
+      "lastUpdate": "2026-10-10T16:32:41.982",
+      "sha1": "510d000e3228a57b23cd6b0f49037ec922bd04dd",
+      "fileSize": 329569
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX648P16-2-revD.webp",
+      "filename": "MX648P16-2-revD.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX648P16-2-revD.webp",
+      "lastUpdate": "2026-10-10T16:32:41.982",
+      "sha1": "b821a1da89b37c530b98181390d44d03c654c92b",
+      "fileSize": 179896
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX648P16-3-revD.jpg",
+      "filename": "MX648P16-3-revD.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX648P16-3-revD.jpg",
+      "lastUpdate": "2026-10-10T16:32:42.019",
+      "sha1": "4571f66f4546f3401728c4fe8ff2e594c41ee589",
+      "fileSize": 286241
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX648P16-3-revD.webp",
+      "filename": "MX648P16-3-revD.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX648P16-3-revD.webp",
+      "lastUpdate": "2026-10-10T16:32:42.019",
+      "sha1": "85d23ff5dfaa7d407355a3565bf2a89a86809db4",
+      "fileSize": 158386
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649-1.jpg",
+      "filename": "MX649-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649-1.jpg",
+      "lastUpdate": "2026-10-10T16:34:41.269",
+      "sha1": "b5788e24038af86dd9738caf14718b09bb7edd33",
+      "fileSize": 131127
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649-1.webp",
+      "filename": "MX649-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649-1.webp",
+      "lastUpdate": "2026-10-10T16:34:41.269",
+      "sha1": "9efe70a0dd12c0aeda6e9003daa423760f0e2680",
+      "fileSize": 80192
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649-2.jpg",
+      "filename": "MX649-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649-2.jpg",
+      "lastUpdate": "2026-10-10T16:34:41.287",
+      "sha1": "4b264ff9b4518ad7521756b1307141df8266f46f",
+      "fileSize": 144755
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649-2.webp",
+      "filename": "MX649-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649-2.webp",
+      "lastUpdate": "2026-10-10T16:34:41.287",
+      "sha1": "a9412c401b558df977fc31ad9b0df53d6e8f10cb",
+      "fileSize": 86602
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649N-1.jpg",
+      "filename": "MX649N-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649N-1.jpg",
+      "lastUpdate": "2026-10-10T16:34:41.306",
+      "sha1": "4d4ad340c65ecbe4dab7c657c5b5c05385c11d39",
+      "fileSize": 136589
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649N-1.webp",
+      "filename": "MX649N-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649N-1.webp",
+      "lastUpdate": "2026-10-10T16:34:41.306",
+      "sha1": "b29197e325778dd93fbcea77fd90c7d2d967f98a",
+      "fileSize": 73332
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649N-2.jpg",
+      "filename": "MX649N-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649N-2.jpg",
+      "lastUpdate": "2026-10-10T16:34:41.326",
+      "sha1": "5f21414ab0f2cddad293d8d3732f1e8abcede1c6",
+      "fileSize": 145799
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX649N-2.webp",
+      "filename": "MX649N-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX649N-2.webp",
+      "lastUpdate": "2026-10-10T16:34:41.326",
+      "sha1": "be565b49edc5fe4e38af4e144a2bbce82a3ac002",
+      "fileSize": 77476
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX658 Rev.B-1.jpg",
+      "filename": "MX658 Rev.B-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX658 Rev.B-1.jpg",
+      "lastUpdate": "2026-10-10T16:39:11.519",
+      "sha1": "6293986ef52b86d868177d3f389c9332f912573c",
+      "fileSize": 175632
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX658 Rev.B-1.webp",
+      "filename": "MX658 Rev.B-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX658 Rev.B-1.webp",
+      "lastUpdate": "2026-10-10T16:39:11.519",
+      "sha1": "bb5c85e9451cfb95daeed3ce3256a4f85feda9bf",
+      "fileSize": 141670
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX658 Rev.B-2.jpg",
+      "filename": "MX658 Rev.B-2.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX658 Rev.B-2.jpg",
+      "lastUpdate": "2026-10-10T16:39:11.543",
+      "sha1": "6067ba3699f5ea1c681d48d768ac473a565b1c0d",
+      "fileSize": 152135
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX658 Rev.B-2.webp",
+      "filename": "MX658 Rev.B-2.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX658 Rev.B-2.webp",
+      "lastUpdate": "2026-10-10T16:39:11.543",
+      "sha1": "88414c091d1c241a9fe61fd2d3e204b3a3f588e5",
+      "fileSize": 121826
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX658N18 Rev.B-4.jpg",
+      "filename": "MX658N18 Rev.B-4.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX658N18 Rev.B-4.jpg",
+      "lastUpdate": "2026-10-10T16:39:11.493",
+      "sha1": "74d5e01065aea0193a8292d9796edfbb134dedc0",
+      "fileSize": 86898
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX658N18 Rev.B-4.webp",
+      "filename": "MX658N18 Rev.B-4.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX658N18 Rev.B-4.webp",
+      "lastUpdate": "2026-10-10T16:39:11.493",
+      "sha1": "e160c7749456fc95f3462fe6d59804f10c6595bf",
+      "fileSize": 94100
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX660-1.jpg",
+      "filename": "MX660-1.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX660-1.jpg",
+      "lastUpdate": "2026-10-10T16:44:35.827",
+      "sha1": "522e2b4fc18c1bcb74612dfd905bda797c72473e",
+      "fileSize": 164553
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX660-1.webp",
+      "filename": "MX660-1.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX660-1.webp",
+      "lastUpdate": "2026-10-10T16:44:35.827",
+      "sha1": "0512b2c707695101223d684165c778319e4192cb",
+      "fileSize": 84696
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX660-3.jpg",
+      "filename": "MX660-3.jpg",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX660-3.jpg",
+      "lastUpdate": "2026-10-10T16:44:35.853",
+      "sha1": "3827d1b640e723e85597718aa2e9d1c9e24a92c8",
+      "fileSize": 187034
+    },
+    {
+      "manufacturerId": 145,
+      "manufacturerExtendedId": 0,
+      "name": "MX660-3.webp",
+      "filename": "MX660-3.webp",
+      "link": "https://decoderdb.bidib.org/decoder/145/images/MX660-3.webp",
+      "lastUpdate": "2026-10-10T16:44:35.853",
+      "sha1": "8f8f596fe4270d0883d9a1cea72991beee3cd3a7",
+      "fileSize": 103728
     },
     {
       "manufacturerId": 157,
