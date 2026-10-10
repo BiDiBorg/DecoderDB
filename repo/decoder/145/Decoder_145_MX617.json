@@ -23,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX617N-0.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617N-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617N-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617R.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617N-0.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617N-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617N-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      },
+      {
+        "name": "MX617R.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:16:17.764Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX617"
   },
   "version": {
     "created": "2017-05-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:14:23.026Z"
+    "lastUpdate": "2026-10-10T15:16:54.328Z"
   }
 }

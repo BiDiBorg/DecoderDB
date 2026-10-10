@@ -3,6 +3,7 @@
     "name": "MX620",
     "type": "loco",
     "typeIds": "201",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "mx620.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620f.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620n.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620r.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620f.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620n.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      },
+      {
+        "name": "mx620r.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:27:05.048Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX620"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:15:04.284Z"
+    "lastUpdate": "2026-10-10T15:27:56.673Z"
   }
 }

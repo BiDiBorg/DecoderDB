@@ -3,6 +3,7 @@
     "name": "MX647",
     "type": "loco",
     "typeIds": "216",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,22 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX646W-Schrägansicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:30:09.817Z"
+      },
+      {
+        "name": "MX646W-Schrägansicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:30:05.876Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX647"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:32:20.343Z"
+    "lastUpdate": "2026-10-10T16:31:16.579Z"
   }
 }

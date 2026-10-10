@@ -72,6 +72,11 @@ options:
 
 ## Useful Snippets
 ```sh
+# Resize to larger edge 1000
+magick mogrify -resize '1000x1000>' *.png
+```
+
+```sh
 # png -> webp
 for f in *.png *.PNG
   test -f "$f"; or continue
@@ -84,5 +89,13 @@ end
 for f in *.png *.PNG
     test -f "$f"; or continue
     magick "$f" -background white -alpha remove -alpha off -quality 95 (string replace -r -i '\.png$' '.jpg' "$f")
+end
+```
+
+```sh
+# webp -> jpg
+for f in *.webp
+    test -f "$f"; or continue
+    magick "$f" -background white -alpha remove -alpha off (string replace -r '\.webp$' '.jpg' -- "$f")
 end
 ```

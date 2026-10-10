@@ -3,6 +3,7 @@
     "name": "MX660",
     "type": "loco",
     "typeIds": "160",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,32 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX660-3.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:44:35.853Z"
+      },
+      {
+        "name": "MX660-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:44:35.827Z"
+      },
+      {
+        "name": "MX660-3.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:44:35.853Z"
+      },
+      {
+        "name": "MX660-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:44:35.827Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX660"
   },
   "version": {
     "created": "2019-12-30T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:31:13.612Z"
+    "lastUpdate": "2026-10-10T16:45:27.598Z"
   }
 }

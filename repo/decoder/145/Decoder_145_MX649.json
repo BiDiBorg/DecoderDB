@@ -3,6 +3,7 @@
     "name": "MX649",
     "type": "loco",
     "typeIds": "253",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX649-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.269Z"
+      },
+      {
+        "name": "MX649-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.287Z"
+      },
+      {
+        "name": "MX649N-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.306Z"
+      },
+      {
+        "name": "MX649N-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.326Z"
+      },
+      {
+        "name": "MX649-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.269Z"
+      },
+      {
+        "name": "MX649-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.287Z"
+      },
+      {
+        "name": "MX649N-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.306Z"
+      },
+      {
+        "name": "MX649N-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:34:41.326Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX649"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:31:48.527Z"
+    "lastUpdate": "2026-10-10T16:35:39.449Z"
   }
 }

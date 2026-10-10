@@ -3,6 +3,7 @@
     "name": "MX648",
     "type": "loco",
     "typeIds": "225;249",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX648P16-3-revD.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:32:42.019Z"
+      },
+      {
+        "name": "MX648P16-1-revD.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:32:41.950Z"
+      },
+      {
+        "name": "MX648P16-2-revD.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:32:41.982Z"
+      },
+      {
+        "name": "MX648P16-3-revD.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:32:42.019Z"
+      },
+      {
+        "name": "MX648P16-1-revD.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:32:41.950Z"
+      },
+      {
+        "name": "MX648P16-2-revD.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:32:41.982Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX648"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:32:05.915Z"
+    "lastUpdate": "2026-10-10T16:33:17.743Z"
   }
 }
