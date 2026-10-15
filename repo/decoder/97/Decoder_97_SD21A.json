@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 30.2, "width": 15.8, "height": 5.2 },
+      "dimensions": {
+        "length": 30.2,
+        "width": 15.8,
+        "height": 5.2
+      },
       "electrical": {
         "maxTotalCurrent": 2.0,
         "maxMotorCurrent": 2.0,
@@ -15,7 +19,9 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "MTC21RCN-121" }
+      "connectors": {
+        "list": "MTC21RCN-121"
+      }
     },
     "images": [
       {
@@ -39,6 +45,26 @@
       {
         "name": "SD21A-4_R_2013.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/SD21A/SD21A-4_R_2013.jpg",
+        "lastModified": "2017-03-04T15:51:38",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SD21A-4_V_2014.webp",
+        "lastModified": "2017-03-04T15:51:38",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SD21A-4_R_2014.webp",
+        "lastModified": "2017-03-04T15:51:37",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SD21A-4_V_2013.webp",
+        "lastModified": "2017-03-04T15:51:38",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SD21A-4_R_2013.webp",
         "lastModified": "2017-03-04T15:51:38",
         "copyright": "Doehler & Haass"
       }

@@ -33,6 +33,16 @@
         "name": "cardecoder_v3_oben.jpg",
         "lastModified": "2025-11-15T15:22:35",
         "copyright": "OpenCarSystem"
+      },
+      {
+        "name": "cardecoder_v3_unten.webp",
+        "lastModified": "2025-11-15T15:22:35",
+        "copyright": "OpenCarSystem"
+      },
+      {
+        "name": "cardecoder_v3_oben.webp",
+        "lastModified": "2025-11-15T15:22:35",
+        "copyright": "OpenCarSystem"
       }
     ],
     "name": "Car Decoder V3",

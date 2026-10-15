@@ -3,6 +3,7 @@
     "name": "MX632",
     "type": "loco",
     "typeIds": "212;220",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX632D Schrägsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:50:30.246Z"
+      },
+      {
+        "name": "MX632-Aufsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:50:30.221Z"
+      },
+      {
+        "name": "MX632D-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:50:53.229Z"
+      },
+      {
+        "name": "MX632D Schrägsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:50:30.246Z"
+      },
+      {
+        "name": "MX632-Aufsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:50:30.221Z"
+      },
+      {
+        "name": "MX632D-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:50:53.229Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX632"
   },
   "version": {
     "created": "2017-01-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:25:15.735Z"
+    "lastUpdate": "2026-10-10T15:51:41.643Z"
   }
 }

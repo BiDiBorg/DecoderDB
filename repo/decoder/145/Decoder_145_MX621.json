@@ -3,6 +3,7 @@
     "name": "MX621",
     "type": "loco",
     "typeIds": "223",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -24,15 +25,30 @@
     "options": "",
     "images": [
       {
-        "name": "MX621.jpg",
+        "name": "MX621- Aufsicht.jpg",
         "copyright": "ZIMO",
-        "lastModified": "2020-04-11T17:49:45"
+        "lastModified": "2026-10-03T12:43:34.024Z"
+      },
+      {
+        "name": "MX621N-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:43:34.057Z"
+      },
+      {
+        "name": "MX621- Aufsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:43:01.263Z"
+      },
+      {
+        "name": "MX621N-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:43:04.689Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX621"
   },
   "version": {
     "created": "2016-05-09T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:15:17.633Z"
+    "lastUpdate": "2026-10-03T12:44:38.183Z"
   }
 }

@@ -3,6 +3,7 @@
     "name": "MX633",
     "type": "loco",
     "typeIds": "133;237",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX633P22-3.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:55:16.303Z"
+      },
+      {
+        "name": "MX633P22-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:55:16.237Z"
+      },
+      {
+        "name": "MX633P22-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:55:16.268Z"
+      },
+      {
+        "name": "MX633P22-3.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:55:16.303Z"
+      },
+      {
+        "name": "MX633P22-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:55:16.237Z"
+      },
+      {
+        "name": "MX633P22-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:55:16.268Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX633"
   },
   "version": {
     "created": "2017-01-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:25:30.700Z"
+    "lastUpdate": "2026-10-10T15:55:57.141Z"
   }
 }

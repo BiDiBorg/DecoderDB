@@ -1,7 +1,11 @@
 {
   "decoder": {
     "specifications": {
-      "dimensions": { "length": 21.8, "width": 17.2, "height": 4.0 },
+      "dimensions": {
+        "length": 21.8,
+        "width": 17.2,
+        "height": 4.0
+      },
       "electrical": {
         "maxTotalCurrent": 1.5,
         "maxMotorCurrent": 1.0,
@@ -9,12 +13,19 @@
         "maxVoltage": 24.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad;Cable;NEM652+Cable" }
+      "connectors": {
+        "list": "Pad;Cable;NEM652+Cable"
+      }
     },
     "images": [
       {
         "name": "LD-G-42_oK_Vorderseite.jpg",
         "source": "https://www.decoderdb.de/fileadmin/media/Hersteller/Tams/LD-x-4x/LD-G-42_oK_Vorderseite.jpg",
+        "lastModified": "2025-08-26T22:42:33",
+        "copyright": "Tams"
+      },
+      {
+        "name": "LD-G-42_oK_Vorderseite.webp",
         "lastModified": "2025-08-26T22:42:33",
         "copyright": "Tams"
       }

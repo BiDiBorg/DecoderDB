@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 15.9, "width": 10.9, "height": 2.3 },
+      "dimensions": {
+        "length": 15.9,
+        "width": 10.9,
+        "height": 2.3
+      },
       "electrical": {
         "maxTotalCurrent": 1.5,
         "maxMotorCurrent": 1.5,
@@ -15,7 +19,9 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad;Cable;NEM652+Cable;Plux16" }
+      "connectors": {
+        "list": "Pad;Cable;NEM652+Cable;Plux16"
+      }
     },
     "images": [
       {
@@ -27,6 +33,16 @@
       {
         "name": "DH16A_R.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DH16A_R.jpg",
+        "lastModified": "2017-03-01T22:41:42",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH16A-4.webp",
+        "lastModified": "2017-03-01T22:41:43",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH16A_R.webp",
         "lastModified": "2017-03-01T22:41:42",
         "copyright": "Doehler & Haass"
       }

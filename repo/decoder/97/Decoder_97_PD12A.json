@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 24.2, "width": 11.0, "height": 2.4 },
+      "dimensions": {
+        "length": 24.2,
+        "width": 11.0,
+        "height": 2.4
+      },
       "electrical": {
         "maxTotalCurrent": 1.0,
         "maxMotorCurrent": 1.0,
@@ -15,13 +19,22 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "functionConnectors": { "list": "F0f;F0r;Aux1;Aux2" },
-      "connectors": { "list": "Pad;Cable;NEM652+Cable;Plux12" }
+      "functionConnectors": {
+        "list": "F0f;F0r;Aux1;Aux2"
+      },
+      "connectors": {
+        "list": "Pad;Cable;NEM652+Cable;Plux12"
+      }
     },
     "images": [
       {
         "name": "PD12A_oben.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/PD12A_oben.jpg",
+        "lastModified": "2019-02-28T09:12:28",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "PD12A_oben.webp",
         "lastModified": "2019-02-28T09:12:28",
         "copyright": "Doehler & Haass"
       }

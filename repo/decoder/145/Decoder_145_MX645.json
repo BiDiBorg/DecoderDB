@@ -3,6 +3,7 @@
     "name": "MX645",
     "type": "loco",
     "typeIds": "221",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,62 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX645P22-3.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.538Z"
+      },
+      {
+        "name": "MX645P22-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.474Z"
+      },
+      {
+        "name": "MX645P22-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.505Z"
+      },
+      {
+        "name": "MX645P16.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.442Z"
+      },
+      {
+        "name": "MX645R.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.558Z"
+      },
+      {
+        "name": "MX645P22-3.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.538Z"
+      },
+      {
+        "name": "MX645P22-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.474Z"
+      },
+      {
+        "name": "MX645P22-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.505Z"
+      },
+      {
+        "name": "MX645P16.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.442Z"
+      },
+      {
+        "name": "MX645R.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:24:08.558Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX645"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:32:50.242Z"
+    "lastUpdate": "2026-10-10T16:25:15.271Z"
   }
 }
