@@ -765,9 +765,27 @@
     "functionOutputs": 3.0,
     "filename": "Decoder_13-265_D16.json",
     "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D16.json",
-    "lastUpdate": "2026-07-30T15:15:31.323",
-    "sha1": "92926a9113a812ff1288d4639a10701b23e59d09",
-    "fileSize": 1273
+    "lastUpdate": "2026-09-29T11:56:21.217",
+    "sha1": "f6831368b62ab5afaf93dbe6fbfefda67f1788fa",
+    "fileSize": 1160
+  },
+  {
+    "manufacturerId": 13,
+    "manufacturerExtendedId": 265,
+    "name": "D21",
+    "type": "loco",
+    "typeIds": "D210",
+    "length": 15.0,
+    "width": 9.0,
+    "height": 0.8,
+    "maxTotalCurrent": 0.0,
+    "maxVoltage": 28.0,
+    "functionOutputs": 3.0,
+    "filename": "Decoder_13-265_D21.json",
+    "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D21.json",
+    "lastUpdate": "2026-09-29T11:57:05.565",
+    "sha1": "912aa0a6b329b4cfd1688797d09e4be1d6c53b50",
+    "fileSize": 1164
   },
   {
     "manufacturerId": 13,
@@ -783,9 +801,9 @@
     "functionOutputs": 3.0,
     "filename": "Decoder_13-265_D24.json",
     "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D24.json",
-    "lastUpdate": "2026-07-30T15:15:58.382",
-    "sha1": "92b5d3d3d182d5253ccc22c5a705ea39177d655f",
-    "fileSize": 1275
+    "lastUpdate": "2026-09-29T11:58:24.633",
+    "sha1": "803113708ed3fb7094fd5cfa1ac62efa7ffea599",
+    "fileSize": 1427
   },
   {
     "manufacturerId": 131,

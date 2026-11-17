@@ -518,20 +518,31 @@
       "created": "2026-07-20",
       "filename": "Decoder_13-265_D16.json",
       "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D16.json",
-      "lastUpdate": "2026-07-30T15:15:31.323",
-      "sha1": "92926a9113a812ff1288d4639a10701b23e59d09",
-      "fileSize": 1273
+      "lastUpdate": "2026-09-29T11:56:21.217",
+      "sha1": "f6831368b62ab5afaf93dbe6fbfefda67f1788fa",
+      "fileSize": 1160
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "D21",
+      "created": "2026-09-29",
+      "filename": "Decoder_13-265_D21.json",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D21.json",
+      "lastUpdate": "2026-09-29T11:57:05.565",
+      "sha1": "912aa0a6b329b4cfd1688797d09e4be1d6c53b50",
+      "fileSize": 1164
     },
     {
       "manufacturerId": 13,
       "manufacturerExtendedId": 265,
       "name": "D24",
-      "created": "2026-07-20",
+      "created": "2026-09-29",
       "filename": "Decoder_13-265_D24.json",
       "link": "https://decoderdb.bidib.org/decoder/13_265/Decoder_13-265_D24.json",
-      "lastUpdate": "2026-07-30T15:15:58.382",
-      "sha1": "92b5d3d3d182d5253ccc22c5a705ea39177d655f",
-      "fileSize": 1275
+      "lastUpdate": "2026-09-29T11:58:24.633",
+      "sha1": "803113708ed3fb7094fd5cfa1ac62efa7ffea599",
+      "fileSize": 1427
     },
     {
       "manufacturerId": 131,
@@ -4236,6 +4247,28 @@
       "lastUpdate": "2021-01-04T17:47:20.000",
       "sha1": "96b1662b38e509a50346e4b8e946fc732d73fd26",
       "fileSize": 29323
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "version": "1.0",
+      "created": "2026-09-29",
+      "decoder": [
+        {
+          "name": "D16"
+        },
+        {
+          "name": "D21"
+        },
+        {
+          "name": "D24"
+        }
+      ],
+      "filename": "Firmware_13-265_1.0.json",
+      "link": "https://decoderdb.bidib.org/firmware/13_265/Firmware_13-265_1.0.json",
+      "lastUpdate": "2026-09-29T11:50:11.988",
+      "sha1": "13be30302c98b815327ed2646638955e490a7aae",
+      "fileSize": 375553
     },
     {
       "manufacturerId": 131,
@@ -16335,16 +16368,6 @@
     {
       "manufacturerId": 13,
       "manufacturerExtendedId": 265,
-      "name": "RTB_D16_btm.webp",
-      "filename": "RTB_D16_btm.webp",
-      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D16_btm.webp",
-      "lastUpdate": "2026-07-20T11:20:44.703",
-      "sha1": "9e3dd235b560cec8b779f1fc06c9d27c70d3d6ce",
-      "fileSize": 19046
-    },
-    {
-      "manufacturerId": 13,
-      "manufacturerExtendedId": 265,
       "name": "RTB_D16_top.png",
       "filename": "RTB_D16_top.png",
       "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D16_top.png",
@@ -16355,12 +16378,22 @@
     {
       "manufacturerId": 13,
       "manufacturerExtendedId": 265,
-      "name": "RTB_D16_top.webp",
-      "filename": "RTB_D16_top.webp",
-      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D16_top.webp",
-      "lastUpdate": "2026-07-20T11:20:07.299",
-      "sha1": "54e5770481b5ef70f97f1fd847d1ab5d60aae013",
-      "fileSize": 26560
+      "name": "RTB_D21_btm.webp",
+      "filename": "RTB_D21_btm.webp",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D21_btm.webp",
+      "lastUpdate": "2026-09-29T11:53:06.969",
+      "sha1": "2e40faaebaf2492282e07841a4e1afe4d04e8c5e",
+      "fileSize": 9734
+    },
+    {
+      "manufacturerId": 13,
+      "manufacturerExtendedId": 265,
+      "name": "RTB_D21_top.webp",
+      "filename": "RTB_D21_top.webp",
+      "link": "https://decoderdb.bidib.org/decoder/13_265/images/RTB_D21_top.webp",
+      "lastUpdate": "2026-09-29T11:52:50.315",
+      "sha1": "af11c8b0ea942936f77dce221972b526bee03e2c",
+      "fileSize": 12270
     },
     {
       "manufacturerId": 13,
