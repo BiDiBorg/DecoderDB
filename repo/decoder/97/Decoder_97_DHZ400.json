@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 18.5, "width": 7.5, "height": 2.1 },
+      "dimensions": {
+        "length": 18.5,
+        "width": 7.5,
+        "height": 2.1
+      },
       "electrical": {
         "maxTotalCurrent": 0.0,
         "maxMotorCurrent": 0.0,
@@ -15,12 +19,19 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad" }
+      "connectors": {
+        "list": "Pad"
+      }
     },
     "images": [
       {
         "name": "DHZ400.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DHZ400.jpg",
+        "lastModified": "2019-02-26T07:36:31",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DHZ400.webp",
         "lastModified": "2019-02-26T07:36:31",
         "copyright": "Doehler & Haass"
       }

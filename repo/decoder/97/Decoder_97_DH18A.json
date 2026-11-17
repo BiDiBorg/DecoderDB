@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 9.7, "width": 8.9, "height": 2.8 },
+      "dimensions": {
+        "length": 9.7,
+        "width": 8.9,
+        "height": 2.8
+      },
       "electrical": {
         "maxTotalCurrent": 1.5,
         "maxMotorCurrent": 1.5,
@@ -15,7 +19,9 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Next18" }
+      "connectors": {
+        "list": "Next18"
+      }
     },
     "images": [
       {
@@ -27,6 +33,16 @@
       {
         "name": "DH18A_R.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DH18A_R.jpg",
+        "lastModified": "2017-03-01T22:43:03",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH18A_V.webp",
+        "lastModified": "2017-03-01T22:43:02",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH18A_R.webp",
         "lastModified": "2017-03-01T22:43:03",
         "copyright": "Doehler & Haass"
       }

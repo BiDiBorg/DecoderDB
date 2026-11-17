@@ -3,6 +3,7 @@
     "name": "MX658",
     "type": "loco",
     "typeIds": "246",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX658 Rev.B-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:39:11.519Z"
+      },
+      {
+        "name": "MX658 Rev.B-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:39:11.543Z"
+      },
+      {
+        "name": "MX658N18 Rev.B-4.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:39:11.493Z"
+      },
+      {
+        "name": "MX658 Rev.B-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:39:11.519Z"
+      },
+      {
+        "name": "MX658 Rev.B-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:39:11.543Z"
+      },
+      {
+        "name": "MX658N18 Rev.B-4.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:39:11.493Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX658"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:31:25.070Z"
+    "lastUpdate": "2026-10-10T16:43:27.192Z"
   }
 }

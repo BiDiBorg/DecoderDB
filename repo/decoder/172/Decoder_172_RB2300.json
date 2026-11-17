@@ -1,7 +1,11 @@
 {
   "decoder": {
     "specifications": {
-      "dimensions": { "length": 30.0, "width": 16.0, "height": 5.3 },
+      "dimensions": {
+        "length": 30.0,
+        "width": 16.0,
+        "height": 5.3
+      },
       "electrical": {
         "maxTotalCurrent": 1.0,
         "maxMotorCurrent": 1.0,
@@ -9,7 +13,9 @@
         "maxVoltage": 22.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "NEM652+Cable;Plux22" }
+      "connectors": {
+        "list": "NEM652+Cable;Plux22"
+      }
     },
     "images": [
       {
@@ -21,6 +27,16 @@
       {
         "name": "RB2300_Plux22_top.jpg",
         "source": "https://decoderdb.bidib.org/decoder/172/images/RB2300_Plux22_top.jpg",
+        "lastModified": "2025-08-23T18:37:11",
+        "copyright": "Railbox"
+      },
+      {
+        "name": "RB2300_Plux22_bottom.webp",
+        "lastModified": "2025-08-23T18:37:10",
+        "copyright": "Railbox"
+      },
+      {
+        "name": "RB2300_Plux22_top.webp",
         "lastModified": "2025-08-23T18:37:11",
         "copyright": "Railbox"
       }

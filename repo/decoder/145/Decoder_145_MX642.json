@@ -3,6 +3,7 @@
     "name": "MX642",
     "type": "loco",
     "typeIds": "214",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,22 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX642D-Schrägansicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:15:37.297Z"
+      },
+      {
+        "name": "MX642D-Schrägansicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:15:30.834Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX642"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:33:50.918Z"
+    "lastUpdate": "2026-10-10T16:16:14.344Z"
   }
 }

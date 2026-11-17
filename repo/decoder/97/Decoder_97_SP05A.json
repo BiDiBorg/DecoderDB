@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 26.5, "width": 8.5, "height": 10.5 },
+      "dimensions": {
+        "length": 26.5,
+        "width": 8.5,
+        "height": 10.5
+      },
       "electrical": {
         "maxTotalCurrent": 0.0,
         "maxMotorCurrent": 0.0,
@@ -15,7 +19,9 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad;Cable;SUSI-Cable" }
+      "connectors": {
+        "list": "Pad;Cable;SUSI-Cable"
+      }
     },
     "images": [
       {
@@ -33,6 +39,21 @@
       {
         "name": "SP05A-3.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/SP05A-3.jpg",
+        "lastModified": "2018-03-03T18:39:39",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SP05A-0_1.webp",
+        "lastModified": "2018-03-03T18:22:47",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SP05A-0_2.webp",
+        "lastModified": "2018-03-03T18:22:46",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "SP05A-3.webp",
         "lastModified": "2018-03-03T18:39:39",
         "copyright": "Doehler & Haass"
       }

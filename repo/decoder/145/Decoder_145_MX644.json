@@ -3,6 +3,7 @@
     "name": "MX644",
     "type": "loco",
     "typeIds": "222",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX644D_C-3.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:20:53.286Z"
+      },
+      {
+        "name": "MX644D_C-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:20:53.254Z"
+      },
+      {
+        "name": "MX644D-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:20:53.222Z"
+      },
+      {
+        "name": "MX644D_C-3.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:20:53.286Z"
+      },
+      {
+        "name": "MX644D_C-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:20:53.254Z"
+      },
+      {
+        "name": "MX644D-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:20:53.222Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX644"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:33:03.603Z"
+    "lastUpdate": "2026-10-10T16:22:09.438Z"
   }
 }

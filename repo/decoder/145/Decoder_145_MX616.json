@@ -23,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX616_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616N_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616N_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616N_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      },
+      {
+        "name": "MX616N_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:05:39.043Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX616"
   },
   "version": {
     "created": "2017-05-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:14:00.356Z"
+    "lastUpdate": "2026-10-10T15:06:41.816Z"
   }
 }

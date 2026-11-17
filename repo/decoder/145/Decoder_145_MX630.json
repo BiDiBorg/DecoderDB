@@ -3,6 +3,7 @@
     "name": "MX630",
     "type": "loco",
     "typeIds": "130;211;218",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX630P16-3.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:38:57.253Z"
+      },
+      {
+        "name": "MX630P16-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:38:57.185Z"
+      },
+      {
+        "name": "MX630P16-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:38:57.217Z"
+      },
+      {
+        "name": "MX630P16-3.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:38:57.253Z"
+      },
+      {
+        "name": "MX630P16-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:38:57.185Z"
+      },
+      {
+        "name": "MX630P16-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:38:57.217Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX630"
   },
   "version": {
     "created": "2016-05-09T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:17:46.834Z"
+    "lastUpdate": "2026-10-10T15:39:44.814Z"
   }
 }

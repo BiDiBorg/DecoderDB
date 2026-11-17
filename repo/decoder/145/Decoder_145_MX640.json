@@ -3,6 +3,7 @@
     "name": "MX640",
     "type": "loco",
     "typeIds": "210",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,32 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX640-Schrägansicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:13:42.833Z"
+      },
+      {
+        "name": "MX640_beschnitten.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:13:42.866Z"
+      },
+      {
+        "name": "MX640-Schrägansicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:13:42.833Z"
+      },
+      {
+        "name": "MX640_beschnitten.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:13:42.866Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX640"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:27:08.249Z"
+    "lastUpdate": "2026-10-10T16:14:22.106Z"
   }
 }

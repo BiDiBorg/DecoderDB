@@ -7,7 +7,11 @@
       }
     ],
     "specifications": {
-      "dimensions": { "length": 12.7, "width": 8.9, "height": 1.4 },
+      "dimensions": {
+        "length": 12.7,
+        "width": 8.9,
+        "height": 1.4
+      },
       "electrical": {
         "maxTotalCurrent": 1.5,
         "maxMotorCurrent": 1.5,
@@ -15,7 +19,9 @@
         "maxVoltage": 30.0,
         "functionOutputs": 0.0
       },
-      "connectors": { "list": "Pad;Cable;NEM651;NEM651+Cable" }
+      "connectors": {
+        "list": "Pad;Cable;NEM651;NEM651+Cable"
+      }
     },
     "images": [
       {
@@ -27,6 +33,16 @@
       {
         "name": "DH10C_unten.jpg",
         "source": "https://decoderdb.bidib.org/decoder/97/images/DH10C_unten.jpg",
+        "lastModified": "2017-03-01T22:35:16",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH10C-0.webp",
+        "lastModified": "2017-03-01T22:35:17",
+        "copyright": "Doehler & Haass"
+      },
+      {
+        "name": "DH10C_unten.webp",
         "lastModified": "2017-03-01T22:35:16",
         "copyright": "Doehler & Haass"
       }

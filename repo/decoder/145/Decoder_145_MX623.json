@@ -3,6 +3,7 @@
     "name": "MX623",
     "type": "loco",
     "typeIds": "234",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX623P12-3-0.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:33:01.792Z"
+      },
+      {
+        "name": "MX623P12-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:33:01.732Z"
+      },
+      {
+        "name": "MX623P12-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:33:01.759Z"
+      },
+      {
+        "name": "MX623r.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-07T11:43:08.000Z"
+      },
+      {
+        "name": "MX623P12-3-0.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:33:01.792Z"
+      },
+      {
+        "name": "MX623P12-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:33:01.732Z"
+      },
+      {
+        "name": "MX623P12-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T15:33:01.759Z"
+      },
+      {
+        "name": "MX623r.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-09-07T11:43:08.000Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX623"
   },
   "version": {
     "created": "2017-01-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:15:32.332Z"
+    "lastUpdate": "2026-10-10T15:34:21.912Z"
   }
 }

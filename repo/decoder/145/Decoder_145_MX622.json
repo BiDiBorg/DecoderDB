@@ -3,6 +3,7 @@
     "name": "MX622",
     "type": "loco",
     "typeIds": "192;233",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -24,15 +25,30 @@
     "options": "",
     "images": [
       {
-        "name": "MX622N.jpg",
+        "name": "MX622N revB-1.jpg",
         "copyright": "ZIMO",
-        "lastModified": "2020-04-11T17:51:38"
+        "lastModified": "2026-10-03T12:45:33.161Z"
+      },
+      {
+        "name": "MX622N revB-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:45:33.215Z"
+      },
+      {
+        "name": "MX622N revB-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:45:58.271Z"
+      },
+      {
+        "name": "MX622N revB-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:46:00.989Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX622"
   },
   "version": {
     "created": "2017-01-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:12:34.486Z"
+    "lastUpdate": "2026-10-03T12:46:54.700Z"
   }
 }

@@ -1,0 +1,103 @@
+# Check that a GET request returns the correct Access-Control-Allow-Origin header for every file in the repo
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Access-Control-Allow-Origin
+
+name: Check CORS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check_cors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - env:
+          FOLDER: repo
+          PREFIX: https://decoderdb.bidib.org/
+          ORIGIN: https://github.com/
+        run: |
+          python3 <<'PY'
+          import os
+          import sys
+          from pathlib import Path
+          from urllib.parse import quote, urljoin
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          folder = Path(os.environ["FOLDER"])
+          prefix = os.environ["PREFIX"].rstrip("/") + "/"
+          origin = os.environ["ORIGIN"]
+
+          if not folder.is_dir():
+              print(f"ERROR: Folder does not exist: {folder}")
+              sys.exit(1)
+
+          files = sorted(p for p in folder.rglob("*") if p.is_file())
+
+          if not files:
+              print(f"ERROR: No files found in {folder}")
+              sys.exit(1)
+
+          failures = 0
+
+          print(f"Folder: {folder}")
+          print(f"URL prefix: {prefix}")
+          print(f"Expected origin: {origin}")
+          print(f"Files found: {len(files)}\n")
+
+          for path in files:
+              relative = path.relative_to(folder).as_posix()
+              encoded_path = quote(relative, safe="/")
+              url = urljoin(prefix, encoded_path)
+
+              try:
+                  request = Request(
+                      url,
+                      headers={
+                          "Origin": origin,
+                          "User-Agent": "GitHub-Actions-CORS-Checker",
+                      },
+                      method="GET",
+                  )
+
+                  try:
+                      response = urlopen(request, timeout=20)
+                  except HTTPError as e:
+                      response = e
+
+                  with response:
+                      status = response.status
+                      allow_origin = response.headers.get(
+                          "Access-Control-Allow-Origin", ""
+                      ).strip()
+
+                  status_ok = 200 <= status < 300
+                  cors_ok = allow_origin == "*" or allow_origin == origin
+
+                  if status_ok and cors_ok:
+                      print(f"PASS [{status}] {url}")
+                  else:
+                      failures += 1
+                      reasons = []
+
+                      if not status_ok:
+                          reasons.append(f"HTTP status {status}")
+                      if not cors_ok:
+                          reasons.append(
+                              "CORS denied "
+                              f"(Access-Control-Allow-Origin: "
+                              f"{allow_origin or '<missing>'})"
+                          )
+
+                      print(f"FAIL {url}: {'; '.join(reasons)}")
+
+              except (URLError, TimeoutError, OSError, ValueError) as e:
+                  failures += 1
+                  print(f"FAIL {url}: {e}")
+
+          print(f"\nResults: {len(files) - failures} passed, "
+                f"{failures} failed out of {len(files)} files")
+
+          if failures:
+              sys.exit(1)
+          PY

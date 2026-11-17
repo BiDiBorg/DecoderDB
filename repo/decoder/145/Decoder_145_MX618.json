@@ -3,6 +3,7 @@
     "name": "MX618",
     "type": "loco",
     "typeIds": "181;243",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -24,15 +25,40 @@
     "options": "",
     "images": [
       {
-        "name": "MX618N18-4.jpg",
+        "name": "MX618revB_top_persp.jpg",
         "copyright": "ZIMO",
-        "lastModified": "2017-03-28T12:47:52"
+        "lastModified": "2026-10-03T12:38:09.791Z"
+      },
+      {
+        "name": "MX618N18revB_top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:38:09.791Z"
+      },
+      {
+        "name": "MX618N18revB_bottom.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:38:09.791Z"
+      },
+      {
+        "name": "MX618revB_top_persp.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:38:09.791Z"
+      },
+      {
+        "name": "MX618N18revB_top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:38:09.791Z"
+      },
+      {
+        "name": "MX618N18revB_bottom.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-03T12:38:09.791Z"
       }
     ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX618"
   },
   "version": {
     "created": "2016-05-09T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:14:44.650Z"
+    "lastUpdate": "2026-10-03T12:38:55.745Z"
   }
 }

@@ -3,6 +3,7 @@
     "name": "MX634",
     "type": "loco",
     "typeIds": "134;240",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,42 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX634D_C-3.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:09:48.154Z"
+      },
+      {
+        "name": "MX634D_C-1.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:09:48.072Z"
+      },
+      {
+        "name": "MX634D_C-2.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:09:48.114Z"
+      },
+      {
+        "name": "MX634D_C-3.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:09:48.154Z"
+      },
+      {
+        "name": "MX634D_C-1.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:09:48.072Z"
+      },
+      {
+        "name": "MX634D_C-2.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:09:48.114Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX634"
   },
   "version": {
     "created": "2017-01-02T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:26:09.639Z"
+    "lastUpdate": "2026-10-10T16:10:44.731Z"
   }
 }

@@ -3,6 +3,7 @@
     "name": "MX646",
     "type": "loco",
     "typeIds": "217",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX646N-Aufsicht-schraeg.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.539Z"
+      },
+      {
+        "name": "MX646N-Aufsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.557Z"
+      },
+      {
+        "name": "MX646_Top.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.511Z"
+      },
+      {
+        "name": "MX646_Bot.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.487Z"
+      },
+      {
+        "name": "MX646N-Aufsicht-schraeg.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.539Z"
+      },
+      {
+        "name": "MX646N-Aufsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.557Z"
+      },
+      {
+        "name": "MX646_Top.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.511Z"
+      },
+      {
+        "name": "MX646_Bot.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:28:20.487Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX646"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:32:33.175Z"
+    "lastUpdate": "2026-10-10T16:29:12.395Z"
   }
 }

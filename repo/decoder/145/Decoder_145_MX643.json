@@ -3,6 +3,7 @@
     "name": "MX643",
     "type": "loco",
     "typeIds": "215",
+    "articleNumbers": "",
     "manufacturerId": 145,
     "manufacturerExtendedId": 0,
     "specifications": {
@@ -22,11 +23,52 @@
       }
     },
     "options": "",
-    "images": [],
+    "images": [
+      {
+        "name": "MX643P22-Schrägsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.987Z"
+      },
+      {
+        "name": "MX643P22-Aufsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.959Z"
+      },
+      {
+        "name": "MX643P16-Schrägsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.929Z"
+      },
+      {
+        "name": "MX643P16-Aufsicht.jpg",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.901Z"
+      },
+      {
+        "name": "MX643P22-Schrägsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.987Z"
+      },
+      {
+        "name": "MX643P22-Aufsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.959Z"
+      },
+      {
+        "name": "MX643P16-Schrägsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.929Z"
+      },
+      {
+        "name": "MX643P16-Aufsicht.webp",
+        "copyright": "ZIMO",
+        "lastModified": "2026-10-10T16:18:14.901Z"
+      }
+    ],
     "decoderDBLink": "https://decoderdb.bidib.org/#/decoders/view/145/MX643"
   },
   "version": {
     "created": "2017-01-21T00:00:00.000",
-    "lastUpdate": "2026-03-09T20:33:14.831Z"
+    "lastUpdate": "2026-10-10T16:19:13.656Z"
   }
 }
