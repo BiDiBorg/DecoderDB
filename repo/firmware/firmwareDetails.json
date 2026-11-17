@@ -33,26 +33,6 @@
     "fileSize": 24546
   },
   {
-    "manufacturerId": 13,
-    "manufacturerExtendedId": 265,
-    "version": "1.0",
-    "filename": "Firmware_13-265_1.0.json",
-    "lastUpdate": "2026-09-29T11:50:12.072Z",
-    "created": "2026-09-29",
-    "fileSize": 108746,
-    "decoder": [
-      {
-        "name": "D16"
-      },
-      {
-        "name": "D21"
-      },
-      {
-        "name": "D24"
-      }
-    ]
-  },
-  {
     "manufacturerId": 109,
     "manufacturerExtendedId": 0,
     "version": "1",
@@ -849,6 +829,28 @@
     "lastUpdate": "2021-01-04T17:47:20.000",
     "sha1": "96b1662b38e509a50346e4b8e946fc732d73fd26",
     "fileSize": 29323
+  },
+  {
+    "manufacturerId": 13,
+    "manufacturerExtendedId": 265,
+    "version": "1.0",
+    "created": "2026-09-29",
+    "decoder": [
+      {
+        "name": "D16"
+      },
+      {
+        "name": "D21"
+      },
+      {
+        "name": "D24"
+      }
+    ],
+    "filename": "Firmware_13-265_1.0.json",
+    "link": "https://decoderdb.bidib.org/firmware/13_265/Firmware_13-265_1.0.json",
+    "lastUpdate": "2026-09-29T11:50:11.988",
+    "sha1": "13be30302c98b815327ed2646638955e490a7aae",
+    "fileSize": 375553
   },
   {
     "manufacturerId": 131,
